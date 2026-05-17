@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Celestia/Interiors/PageEvent/CL_TrashMobs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1020.436,22307.67,-487.038,-1.556627",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "TeleportBossRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-132.4738,-1261.124,1.950085,3.109486",
+        "m_destinationZone": "Celestia/Interiors/PageEvent/CL_BossRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2195-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10177-A",
+    "@last-modified": "2023-11-24T07:16:28.1236123Z"
+  }
+}

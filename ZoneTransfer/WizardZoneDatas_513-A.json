@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Underwater",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5.325233,2038.949,0.00164881,0.03697451",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "Trigger (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "57.97665,-639.5636,-297.5965,3.079361",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Warren01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:775-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/513-A",
+    "@last-modified": "2023-10-24T09:45:20.9934534Z"
+  }
+}

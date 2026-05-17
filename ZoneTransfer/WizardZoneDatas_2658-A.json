@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Catacombs_B",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location to Catacombs_A",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1869.976,-893.2188,-247.054,-1.569359",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Catacombs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:675-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2658-A",
+    "@last-modified": "2023-10-22T08:33:36.5802569Z"
+  }
+}

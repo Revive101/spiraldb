@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet_Swamp/HG_Gauntlet_Swamp_Int03",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_Swamp",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9107.883,25312.15,1285.922,0.6564397",
+        "m_destinationZone": "Housing_Gauntlet_Swamp/HG_Gauntlet_Swamp_Int02"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_SecretBossInt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "27.7487,718.7694,63.85159,-0.002938939",
+        "m_destinationZone": "Housing_Gauntlet_Swamp/HG_Gauntlet_Swamp_Int04"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1771-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7905-A",
+    "@last-modified": "2023-11-15T04:11:23.6528475Z"
+  }
+}

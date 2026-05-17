@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z10_ThroneRoom_A",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Gobblerton_DoorA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1195.697,5909.021,834.5108,-0.1986",
+        "m_destinationZone": "Karamelle/KM_Z10_Gobblerton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1519-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5869-A",
+    "@last-modified": "2023-11-03T08:46:26.0758833Z"
+  }
+}

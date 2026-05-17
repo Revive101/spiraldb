@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/Interiors/GH_Aust_Cave09",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Back to Aust",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2716.801,6325.866,412.6805,-0.3705591",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_Austrilund"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1689-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7234-A",
+    "@last-modified": "2023-11-14T10:58:19.2588323Z"
+  }
+}

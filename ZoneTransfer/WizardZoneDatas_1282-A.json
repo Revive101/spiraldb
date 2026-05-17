@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Krokotopia/Interiors/KT_Library",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Library Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3501.21,5935.588,-220.1936,0.7236105",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "ToHallofDoors",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2533.355,-7.179098,0.9999296,-1.650698",
+        "m_destinationZone": "Krokotopia/Interiors/KT_HallofDoors"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:330-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1282-A",
+    "@last-modified": "2023-10-12T05:15:07.7185855Z"
+  }
+}

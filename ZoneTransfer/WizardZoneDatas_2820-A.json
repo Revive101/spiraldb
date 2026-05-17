@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_House01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoTanglewood",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6982.772,8633.114,486.3904,0.7558151",
+        "m_destinationZone": "Wysteria/PA_Z02_Tanglewood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:716-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2820-A",
+    "@last-modified": "2023-10-24T07:56:47.0675415Z"
+  }
+}

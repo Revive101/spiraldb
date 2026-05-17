@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z12_I03_Galleries",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToEntry",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-609.1555,-3317.025,0.0002211469,-1.801477",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z12_I02_Entry"
+      }
+    },
+    {
+      "TriggerName": "BackToEntry2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-609.1555,-3317.025,0.0002211469,-1.801477",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z12_I02_Entry"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2167-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9985-A",
+    "@last-modified": "2023-11-21T09:10:13.2300023Z"
+  }
+}

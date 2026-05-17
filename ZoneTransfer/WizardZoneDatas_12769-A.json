@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_VA_Gauntlet/VA_Clock_Gauntlet_040/VA_Level040_Exterior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9.530945,-1573.467,6.103516E-05,3.102773",
+        "m_destinationZone": "Housing_VA_Gauntlet/VA_Clock_Gauntlet_040/VA_Level040_Room_01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2802-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12769-A",
+    "@last-modified": "2024-01-18T11:07:47.4118362Z"
+  }
+}

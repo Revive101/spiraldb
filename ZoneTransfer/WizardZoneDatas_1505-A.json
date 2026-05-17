@@ -1,0 +1,156 @@
+{
+  "ZoneName": "MooShu/MS_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (To Teleport Hub)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6.770454,-4821.92,0.005737305,-3.07202",
+        "m_destinationZone": "MooShu/Interiors/MS_Teleport_Chamber"
+      }
+    },
+    {
+      "TriggerName": "ToMooshuHousingShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "151.5745,-587.624,-3.219924E-06,-3.141593",
+        "m_destinationZone": "MooShu/Interiors/MS_ShopHouse"
+      }
+    },
+    {
+      "TriggerName": "ToWeaponShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.99042,-535.6299,-0.0001233558,-3.141593",
+        "m_destinationZone": "MooShu/Interiors/MS_ShopWeapon"
+      }
+    },
+    {
+      "TriggerName": "ToClothingShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.99042,-535.6299,-0.0001233558,-3.141593",
+        "m_destinationZone": "MooShu/Interiors/MS_ShopClothing"
+      }
+    },
+    {
+      "TriggerName": "ToJewelryShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.99042,-535.6299,-0.0001233558,-3.141593",
+        "m_destinationZone": "MooShu/Interiors/MS_ShopJewelry"
+      }
+    },
+    {
+      "TriggerName": "ToAccessoriesShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.4434,-535.6299,-0.0001233558,-3.141593",
+        "m_destinationZone": "MooShu/Interiors/MS_ShopAccessories"
+      }
+    },
+    {
+      "TriggerName": "ToWarHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "684.0381,422.2363,1.59491,1.577481",
+        "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
+    },
+    {
+      "TriggerName": "WaterDojoTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2410.509,7.650936,29.99988,1.570796",
+        "m_destinationZone": "MooShu/Interiors/MS_WaterDojot1_Common"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to MS_GardenDojo_T1 (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2443.904,-2.25869,29.99994,1.560151",
+        "m_destinationZone": "MooShu/Interiors/MS_GardenDojo_T1"
+      }
+    },
+    {
+      "TriggerName": "Trigger for MS_GardenDojo_T2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2443.904,-2.25869,29.99994,1.560151",
+        "m_destinationZone": "MooShu/Interiors/MS_GardenDojo_T2"
+      }
+    },
+    {
+      "TriggerName": "ToDeathHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2445.056,9.151127,29.99994,1.570796",
+        "m_destinationZone": "MooShu/Interiors/MS_RockDojoT2"
+      }
+    },
+    {
+      "TriggerName": "ToPlagueHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "95.34644,-770.4155,-19.98373,2.992047",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Hub_FarmVillage"
+      }
+    },
+    {
+      "TriggerName": "Trigger-SchoolQuestsLife-Death",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2445.056,9.151127,29.99994,1.570796",
+        "m_destinationZone": "MooShu/Interiors/MS_GardenDojo_T3"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2952-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1505-A",
+    "@last-modified": "2024-02-24T23:23:14.9778743Z"
+  }
+}

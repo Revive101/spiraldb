@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z05_I07_HallOfTrophies",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToKeep",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1614.58,827.9131,1.723755,-2.283356",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z05_I10_CentralKeep"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1863-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8231-A",
+    "@last-modified": "2023-11-16T04:10:31.4808808Z"
+  }
+}

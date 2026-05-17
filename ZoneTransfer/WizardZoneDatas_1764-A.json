@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/MB_KnightsCourt",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToScotYardHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6800.614,-474.3359,-239.4884,-1.570796",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Roof"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToGRAV",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6800.614,-474.3359,-239.4884,-1.570796",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Roof"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:533-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1764-A",
+    "@last-modified": "2023-10-17T07:07:25.3008736Z"
+  }
+}

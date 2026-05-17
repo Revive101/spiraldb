@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Wallaru/WL_Z02_Outback",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23.1665,17927.08,1.999939,0",
+        "m_destinationZone": "Wallaru/WL_Z01_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_Kingsland",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1751.492,15825.65,1289.607,0.4617659",
+        "m_destinationZone": "Wallaru/WL_Z03_Kingsland"
+      }
+    },
+    {
+      "TriggerName": "Teleport_RidgeCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "851.3128,-1705.495,-1395.038,-0.5564114",
+        "m_destinationZone": "Wallaru/Interiors/WL_Z02_I05_RidgeCave"
+      }
+    },
+    {
+      "TriggerName": "Trigger_MAIN002-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23.1665,17927.08,1.999939,0",
+        "m_destinationZone": "Wallaru/WL_Z01_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger_MAIN002-Teleport_Return",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23.1665,17927.08,1.999939,0",
+        "m_destinationZone": "Wallaru/WL_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3916-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14275-A",
+    "@last-modified": "2025-01-29T06:45:49.028919Z"
+  }
+}

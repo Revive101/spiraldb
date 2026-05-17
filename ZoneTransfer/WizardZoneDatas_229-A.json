@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Duel_Arena_New",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (WC_Arena Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2456.094,1651.045,22.05529,1.559086",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Unicorn"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:56-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/229-A",
+    "@last-modified": "2023-10-06T01:51:52.732628Z"
+  }
+}

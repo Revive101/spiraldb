@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Aquila/Interiors/AQ_SkelKey_Hall_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "EVENT-SkeletonKeyLock-Gold",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-206.7386,-1846.784,109.2652,3.127886",
+        "m_destinationZone": "Aquila/Interiors/AQ_SkelKey_Hall_02"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4.252071,-2416.377,2.188232,0",
+        "m_destinationZone": "Aquila/Interiors/AQ_SkelKey_Hall_01"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9775.98,2833.073,-981.7446,3.104759",
+        "m_destinationZone": "Aquila/AQ_Z00_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2876-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13281-A",
+    "@last-modified": "2024-02-19T01:47:23.1747748Z"
+  }
+}

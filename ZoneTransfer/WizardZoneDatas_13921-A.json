@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z07_UnderDen",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5838.679,5311.419,33.00507,0",
+        "m_destinationZone": "Mirage/MR_Z07_ThievesDen"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2966-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13921-A",
+    "@last-modified": "2024-02-29T08:53:25.4083112Z"
+  }
+}

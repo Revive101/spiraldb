@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Empyrea/EM_Z00_Aeriel_HUB",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger EM-AERI-S-MAIN-014",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1528.614,-10751.54,1236.712,3.088172",
+        "m_destinationZone": "Empyrea/EM_Z01_Jungle"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-28.21277,116.1274,-169.0214,3.070503",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z00_ArkHold"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1042-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4353-A",
+    "@last-modified": "2023-10-29T09:31:26.3373274Z"
+  }
+}

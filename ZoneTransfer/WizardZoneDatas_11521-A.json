@@ -1,0 +1,101 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z00_TelegraphBox",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger To Dorm Ice",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "203.3697,-98.76129,-6.103516E-05,-2.308326",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z01__Falmeas_Dorm_Ice"
+      }
+    },
+    {
+      "TriggerName": "Trigger Gamma Tower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "33.21389,490.4592,-3.051758E-05,0",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z03_GammaTower"
+      }
+    },
+    {
+      "TriggerName": "Trigger Ice School",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1147.213,8.861801,36.34596,-1.511986",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z02_Ice_Tower"
+      }
+    },
+    {
+      "TriggerName": "Trigger Dorm Fire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "203.3697,-98.76129,-6.103516E-05,-2.308326",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z06_Falmeas_Dorm_Fire"
+      }
+    },
+    {
+      "TriggerName": "Trigger Fire School",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.857405,5.755419,0.5001276,-1.629728",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z04_Fire_School"
+      }
+    },
+    {
+      "TriggerName": "Trigger Fire Tower01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1160.997,45.44467,1.598323,-1.623971",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z05_Fire_Tower01"
+      }
+    },
+    {
+      "TriggerName": "Trigger Fire Tower02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1152.05,12.70846,3.19734,-1.53477",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z07_Fire_Tower02"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4501.406,1658.243,-497.3643,2.710304",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2554-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11521-A",
+    "@last-modified": "2023-12-23T04:09:20.0978017Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_SB/SB_Z01_KimbaalungVillage",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToKT",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10588.67,2007.504,3341.55,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:913-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3809-A",
+    "@last-modified": "2023-10-29T04:34:14.912956Z"
+  }
+}

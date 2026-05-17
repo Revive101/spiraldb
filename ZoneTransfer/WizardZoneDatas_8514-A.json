@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Catacombs_Valencia_C",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3463.338,-18924.65,-1621.136,-1.644119",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Catacombs_B"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11.47676,-2274.65,1.990643,3.111168",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Catacombs_Valencia_B"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1969-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8514-A",
+    "@last-modified": "2023-11-16T07:26:23.8076246Z"
+  }
+}

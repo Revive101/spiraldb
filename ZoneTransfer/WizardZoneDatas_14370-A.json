@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Wallaru/Interiors/WL_Z04_I06_Dreamspeak",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger_Teleport_Player_WL-DREAM-MAIN-006_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-536.5336,-3.748873,2105.37,-0.1291734",
+        "m_destinationZone": "Wallaru/Interiors/WL_Z04_I06_Dreamspeak"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Dreaming",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-339.6462,9496.476,-7.412378,0",
+        "m_destinationZone": "Wallaru/WL_Z04_TheDreaming"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3647-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14370-A",
+    "@last-modified": "2024-09-07T04:55:57.2770713Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_MaestroEvent/MS_Z01_GammaTower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2164.554,543.5722,167.3967,-1.179531",
+        "m_destinationZone": "MooShu/Interiors/MS_MaestroEvent/MS_Z00_LandingZone"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2570-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11586-A",
+    "@last-modified": "2023-12-23T04:31:48.645757Z"
+  }
+}

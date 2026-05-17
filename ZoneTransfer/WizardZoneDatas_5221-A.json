@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z07_I07_PoachersHome",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Stone_Town",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2197.031,3613.045,-67.88657,-2.343935",
+        "m_destinationZone": "Zafaria/ZF_Z07_Stone_Town"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1350-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5221-A",
+    "@last-modified": "2023-10-31T08:53:59.3510072Z"
+  }
+}

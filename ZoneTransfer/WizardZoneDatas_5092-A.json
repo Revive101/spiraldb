@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z07_TamarinHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_Heap",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14095.64,-4946.848,-2051.586,-3.139392",
+        "m_destinationZone": "Lemuria/LM_Z07_Heap"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Cellar",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.903076,1456.366,0.9999962,0",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z07_TamarinCellar"
+      }
+    },
+    {
+      "TriggerName": "Teleport_DrawingRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1129.214,44.14975,2.000154,1.514529",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z07_TamarinDrawing"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Lounge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1117.353,28.53529,6.158754E-05,-1.574532",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z07_TamarinLounge"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_GLOffice",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5.177413,1314.023,3.638474,0",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z07_LionsOffice"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1268-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5092-A",
+    "@last-modified": "2023-10-31T07:19:22.4324202Z"
+  }
+}

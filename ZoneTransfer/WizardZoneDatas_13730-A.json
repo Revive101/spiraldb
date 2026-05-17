@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z08_I01_MausoleumTop",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoLower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-16.23694,2756,200.9461,0",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z08_I02_Mausoleum_Lower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2951-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13730-A",
+    "@last-modified": "2024-02-21T22:38:11.2591025Z"
+  }
+}

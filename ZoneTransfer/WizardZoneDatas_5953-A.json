@@ -1,0 +1,101 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/GH_HFjord",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport GH_HFjord_TownHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-23.91006,73.0518,0.0009765625,-3.141593",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_HFjord_TownHall"
+      }
+    },
+    {
+      "TriggerName": "Teleport GH_HFjord_Shop01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "302.5296,-26.4657,1.944883,1.570796",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_HFjord_Shop01"
+      }
+    },
+    {
+      "TriggerName": "Teleport to GH_HFjord_Shop03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "370.9462,-26.4657,1.944883,1.570796",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_HFjord_Shop03"
+      }
+    },
+    {
+      "TriggerName": "Teleport GH_HFjord_Shop02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "302.5296,-26.4657,1.944883,1.570796",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_HFjord_Shop02"
+      }
+    },
+    {
+      "TriggerName": "TriggerToVestrilund",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3117.753,-271.2056,-71.03137,1.493206",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_Vestrilund"
+      }
+    },
+    {
+      "TriggerName": "TriggerToAustrilund",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1801.971,490.8126,26.11829,-1.574279",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_Austrilund"
+      }
+    },
+    {
+      "TriggerName": "TriggerToNordrilund",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-134.9509,-549.5818,1127.949,3.116776",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_Nordrilund"
+      }
+    },
+    {
+      "TriggerName": "TriggerToSudrilund",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6031.118,7565.118,-986.381,0",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_Sudrilund"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1697-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5953-A",
+    "@last-modified": "2023-11-14T11:04:54.646952Z"
+  }
+}

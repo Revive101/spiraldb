@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wallaru/Interiors/WL_Z01_I14_IceShop",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8271.941,4715.022,35.76849,0",
+        "m_destinationZone": "Wallaru/WL_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3624-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14274-A",
+    "@last-modified": "2024-09-07T04:31:02.3857391Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Classroom_Spirit",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7336.24,7064.734,-1749.786,-1.587541",
+        "m_destinationZone": "Wysteria/PA_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:758-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2853-A",
+    "@last-modified": "2023-10-24T09:24:58.2302357Z"
+  }
+}

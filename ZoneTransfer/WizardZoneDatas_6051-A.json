@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/AZ_Z04_SaltmeadowSwamp",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToMangrove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13422.2,2888.887,0.0001103874,2.808859",
+        "m_destinationZone": "Azteca/AZ_Z03_MangroveMarsh"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1560-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6051-A",
+    "@last-modified": "2023-11-06T06:17:38.7004981Z"
+  }
+}

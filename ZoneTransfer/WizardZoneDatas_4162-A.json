@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z05_BasseSteele",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10112.29,10639.09,253.396,-1.119495",
+        "m_destinationZone": "Novus/NV_Z05_LaVilleRose"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:997-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4162-A",
+    "@last-modified": "2023-10-29T08:51:50.1223755Z"
+  }
+}

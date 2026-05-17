@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Karamelle/KM_Z09_CandyCornFarm",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8686.01,11416.38,-893.4626,-2.193031",
+        "m_destinationZone": "Karamelle/KM_Z08_LicoriceForest"
+      }
+    },
+    {
+      "TriggerName": "Trigger To_Factory",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7.231567,-3850.545,0.007123719,3.09628",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z09_FactoryFarm"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1509-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5863-A",
+    "@last-modified": "2023-11-03T08:36:40.9925516Z"
+  }
+}

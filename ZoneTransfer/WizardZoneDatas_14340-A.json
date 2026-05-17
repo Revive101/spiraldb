@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Wallaru/WL_Z04_TheDreaming",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportSource_To_EucForest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1472.745,9971.235,1127.377,-0.3201436",
+        "m_destinationZone": "Wallaru/WL_Z07_EucalyptusForest"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_Source_Dreamspeak_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "701.5983,669.7164,2161.808,0.1330171",
+        "m_destinationZone": "Wallaru/Interiors/WL_Z04_I06_Dreamspeak"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3648-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14340-A",
+    "@last-modified": "2024-09-07T04:58:02.6511391Z"
+  }
+}

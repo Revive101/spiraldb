@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z01_SchismReadingRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Arcanum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4891.925,-1729.642,-105.1938,1.618657",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1823-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8162-A",
+    "@last-modified": "2023-11-15T23:18:57.9017642Z"
+  }
+}

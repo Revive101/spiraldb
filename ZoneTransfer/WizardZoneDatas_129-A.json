@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_LibraryBookStacks",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Library from BookStacks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "394.2094,1533.409,551.5004,0",
+        "m_destinationZone": "WizardCity/Interiors/WC_Library"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Library from BookStacks (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-414.8524,1533.409,551.5004,0",
+        "m_destinationZone": "WizardCity/Interiors/WC_Library"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:36-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/129-A",
+    "@last-modified": "2023-10-02T07:47:49.9087049Z"
+  }
+}

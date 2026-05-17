@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Firecat_H2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToStreet5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11351.37,-4950.552,-48.63533,0.7999457",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Firecat"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:254-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1123-A",
+    "@last-modified": "2023-10-11T19:37:47.6177374Z"
+  }
+}

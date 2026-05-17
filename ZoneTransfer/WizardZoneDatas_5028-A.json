@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z03_LucienHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2814.203,-5943.833,-293.3425,1.905001",
+        "m_destinationZone": "Lemuria/LM_Z03_NightForest"
+      }
+    },
+    {
+      "TriggerName": "Trigger-PetTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3906.025,-5609.131,-293.3427,1.570796",
+        "m_destinationZone": "Lemuria/LM_Z03_NightForest"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1228-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5028-A",
+    "@last-modified": "2023-10-31T06:42:52.0770371Z"
+  }
+}

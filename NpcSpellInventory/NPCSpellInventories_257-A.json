@@ -1,0 +1,147 @@
+{
+  "TemplateID": 1419122,
+  "Spells": [
+    {
+      "TemplateID": 78544,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1836348380,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 27769764,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1240768222,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 2100445853,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 244362882,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 2537945,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 508555868,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1331688942,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1550542581,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1214906702,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 455179500,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1199756839,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 548657000,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1565207687,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 203556948,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 767693780,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1051024761,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1432856294,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1662176201,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1711387679,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1851744088,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 61356122,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 972628543,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 1628050082,
+      "RequiredSpellID": 0,
+      "Level": 0
+    },
+    {
+      "TemplateID": 625314324,
+      "RequiredSpellID": 78544,
+      "Level": 0
+    },
+    {
+      "TemplateID": 625314324,
+      "RequiredSpellID": 1836348380,
+      "Level": 0
+    }
+  ],
+  "@metadata": {
+    "@collection": "NpcSpellInventory",
+    "Raven-Clr-Type": "DragonNPCTool.Models.NPCSpellInventory, DragonNPCTool",
+    "@change-vector": "A:4407-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "NPCSpellInventories/257-A",
+    "@last-modified": "2025-05-05T02:22:54.0005957Z"
+  }
+}

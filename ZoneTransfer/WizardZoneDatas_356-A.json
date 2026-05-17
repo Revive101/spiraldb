@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_SchoolFire",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (FireSchool Ravenwood Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1616.214,5983.343,5.230815E-05,0.3877136",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:93-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/356-A",
+    "@last-modified": "2023-10-10T08:35:35.220989Z"
+  }
+}

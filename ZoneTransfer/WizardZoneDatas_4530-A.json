@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Polaris/PL_Z03_IcefallPassage",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToBaba",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-739.6168,-920.8455,6.979619,-2.004913",
+        "m_destinationZone": "Polaris/Interiors/PL_Z02_BabaYagaHut_Int"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportZoot",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.976196,-289.6753,0.4998779,0",
+        "m_destinationZone": "Polaris/Interiors/Z03_ZootsCave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1110-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4530-A",
+    "@last-modified": "2023-10-30T01:17:27.4827572Z"
+  }
+}

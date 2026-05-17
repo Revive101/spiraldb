@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Lord_Bramble_Tower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "698.1547,11112.62,-14.10498,0",
+        "m_destinationZone": "Wysteria/PA_Z02_Tanglewood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2692-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12129-A",
+    "@last-modified": "2024-01-05T11:49:01.8019767Z"
+  }
+}

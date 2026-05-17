@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Housing_Gauntlet_Theater/Gauntlet_01/TheaterGauntlet_G01_Int01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_Teleport_to_TheaterGauntlet_G01_Int02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.970821,-87.14101,-3.061737,0",
+        "m_destinationZone": "Housing_Gauntlet_Theater/Gauntlet_01/TheaterGauntlet_G01_Int02"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_TheaterGauntlet_G01_Int03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.744435,-2170.842,82.50562,3.096897",
+        "m_destinationZone": "Housing_Gauntlet_Theater/Gauntlet_01/TheaterGauntlet_G01_Int03"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_TheaterGauntlet_G01_Int04",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.971919,-169.358,-3.078949,0",
+        "m_destinationZone": "Housing_Gauntlet_Theater/Gauntlet_01/TheaterGauntlet_G01_Int04"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2816-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12801-A",
+    "@last-modified": "2024-01-18T11:21:51.2957659Z"
+  }
+}

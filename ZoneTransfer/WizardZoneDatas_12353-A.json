@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Triton_Underwater/Interiors/WC_Triton_Underwater_SkelKey",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger_Teleport_2_SkeletonKey02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-977.9111,7.405027,-48.92433,-1.592569",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/Interiors/WC_Triton_Underwater_SkelKey_Boss"
+      }
+    },
+    {
+      "TriggerName": "TeleportOnCheck",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-977.9111,7.405027,-48.92433,-1.592569",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/Interiors/WC_Triton_Underwater_SkelKey_Boss"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-566.2773,2601.159,-1.981917,-1.001179",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Underwater"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2744-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12353-A",
+    "@last-modified": "2024-01-08T23:36:33.2322138Z"
+  }
+}

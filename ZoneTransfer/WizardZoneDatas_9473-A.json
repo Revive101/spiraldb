@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_Station/Interiors/MB_HydePark_T6",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Tower6toGarden",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-26148.9,10389.98,-203.4291,3.089158",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2129-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9473-A",
+    "@last-modified": "2023-11-21T05:16:08.9127801Z"
+  }
+}

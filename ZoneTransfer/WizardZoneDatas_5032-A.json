@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z03__StationThree",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_NightForest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8188.012,2990.398,-340.0162,-0.5356825",
+        "m_destinationZone": "Lemuria/LM_Z03_NightForest"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1237-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5032-A",
+    "@last-modified": "2023-10-31T06:50:27.2114645Z"
+  }
+}

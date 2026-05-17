@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z05_CaveOfNight",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToZ05_WYRD",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "911.5714,8740.758,-1039.157,-0.02025061",
+        "m_destinationZone": "Avalon/AV_Z05_TheWyrd"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1328-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5154-A",
+    "@last-modified": "2023-10-31T08:23:00.7791553Z"
+  }
+}

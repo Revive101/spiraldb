@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Novus/NV_Z01_Conatus",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_Teleport_to_TentOfTime",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "35.21926,603.8583,-11.98572,-0.03636543",
+        "m_destinationZone": "Novus/Interiors/NV_Z01_TentOfTime"
+      }
+    },
+    {
+      "TriggerName": "TR_To_DuelingTent",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.441974,-1032.569,-4.171643,3.139514",
+        "m_destinationZone": "Novus/Interiors/NV_Z01_DuelingTent"
+      }
+    },
+    {
+      "TriggerName": "TR_To_TentAntechamber",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.441974,-1058.615,-4.171643,3.139514",
+        "m_destinationZone": "Novus/Interiors/NV_Z01_TentAntechamber"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TentPart2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-102.2535,1007.378,-3.027771,-0.03484365",
+        "m_destinationZone": "Novus/Interiors/NV_Z01_ConferenceTent"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2239-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4129-A",
+    "@last-modified": "2023-11-25T07:37:35.0130548Z"
+  }
+}

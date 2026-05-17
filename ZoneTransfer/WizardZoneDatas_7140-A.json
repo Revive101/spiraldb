@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_MalistaireLair",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Telepor-ToUpperVolcano",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1461.546,10467.59,4726.965,0",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1662-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7140-A",
+    "@last-modified": "2023-11-14T09:34:23.4168504Z"
+  }
+}

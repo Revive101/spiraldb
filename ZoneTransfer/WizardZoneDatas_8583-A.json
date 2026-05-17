@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Mirage/MR_Z02_Aggrobah",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9685.705,-5036.302,76.55566,-2.779347",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "To_IndraTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26.2183,2384.652,255.5776,-0.07185149",
+        "m_destinationZone": "Mirage/Interiors/MR_Z02_IndraHouse"
+      }
+    },
+    {
+      "TriggerName": "Trigger PalaceMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4287.938,6842.663,1.431144,0.001310922",
+        "m_destinationZone": "Mirage/Interiors/MR_Z02_Palace"
+      }
+    },
+    {
+      "TriggerName": "Trigger TeleportToRoost02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "65.38021,-631.0704,6720.381,-3.139795",
+        "m_destinationZone": "Mirage/Interiors/MR_Z02_TheRoost02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1992-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8583-A",
+    "@last-modified": "2023-11-16T07:39:23.4267696Z"
+  }
+}

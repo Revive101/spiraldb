@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z10_EastTimeDunes",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5049.62,-547.0172,-15.08609,-1.671511",
+        "m_destinationZone": "Mirage/Interiors/MR_Z10_SandsofTime"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2053-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8833-A",
+    "@last-modified": "2023-11-16T08:23:20.0490467Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z01_RecoveryRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Arcanum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1558.221,-1132.063,-105.2423,3.13733",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:664-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2631-A",
+    "@last-modified": "2023-10-21T06:25:23.9293585Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Grizzleheim/GH_RedClaw",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9658.945,6352.353,922.6681,-0.7675859",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    },
+    {
+      "TriggerName": "Trigger_GH_RedClaw_T5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2188.806,16.34973,18.00977,1.570796",
+        "m_destinationZone": "Grizzleheim/Interiors/GH_RedClaw_T5"
+      }
+    },
+    {
+      "TriggerName": "WC-ICE-C11-001-Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5300.551,24701.54,1898.339,-0.8935336",
+        "m_destinationZone": "Grizzleheim/GH_RedClaw"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1669-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4102-A",
+    "@last-modified": "2023-11-14T10:32:39.1578024Z"
+  }
+}

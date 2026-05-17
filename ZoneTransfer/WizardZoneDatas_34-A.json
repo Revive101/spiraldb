@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Library",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Library Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9179.765,1950.872,213.3994,1.138414",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport - BookStacks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "274.8204,-1483.754,-3.051758E-05,-1.570796",
+        "m_destinationZone": "WizardCity/Interiors/WC_LibraryBookStacks"
+      }
+    },
+    {
+      "TriggerName": "Teleport - BookStacks (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "271.6131,-565.6699,-3.051758E-05,-1.570796",
+        "m_destinationZone": "WizardCity/Interiors/WC_LibraryBookStacks"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:13-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/34-A",
+    "@last-modified": "2023-10-02T02:10:50.29084Z"
+  }
+}

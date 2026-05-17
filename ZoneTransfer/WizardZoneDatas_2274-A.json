@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_MuseumStorage_B",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4919.094,9938.496,6.103516E-05,-0.7217677",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:529-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2274-A",
+    "@last-modified": "2023-10-17T06:54:23.3407964Z"
+  }
+}

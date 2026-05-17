@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (DS_T2 to ToK)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11892.24,153.8789,-92.2019,-2.356183",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:832-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3297-A",
+    "@last-modified": "2023-10-27T14:24:40.2496596Z"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Housing_Acropolis/Exterior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_MainIsland",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2076.795,696.394,1374.329,-1.44734",
+        "m_destinationZone": "Housing_Acropolis/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_WorldDoor",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13227.04,-6472.104,-877.8828,1.304325",
+        "m_destinationZone": "Housing_Acropolis/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_PVP",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7830.176,1740.522,2861.496,-1.470746",
+        "m_destinationZone": "Housing_Acropolis/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_Satalite",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10184.31,-11566.31,-2833.798,0.6462942",
+        "m_destinationZone": "Housing_Acropolis/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_Main3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7546.317,-8997.11,-2206.462,-2.239838",
+        "m_destinationZone": "Housing_Acropolis/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-45.76471,131.2036,-50.00037,0",
+        "m_destinationZone": "Housing_Acropolis/Interior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1491-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5793-A",
+    "@last-modified": "2023-11-03T08:10:49.2129194Z"
+  }
+}

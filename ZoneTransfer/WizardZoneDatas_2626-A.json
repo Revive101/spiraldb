@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z01_DeathSchool",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1154.782,-12787.2,0.5003434,2.433046",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:654-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2626-A",
+    "@last-modified": "2023-10-21T06:13:34.3071744Z"
+  }
+}

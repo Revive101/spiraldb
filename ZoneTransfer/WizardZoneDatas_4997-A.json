@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Lemuria/LM_Z02_UrsaiVillage",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-TeleportToWildLands",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7602.84,4072.592,321.2032,-2.620394",
+        "m_destinationZone": "Lemuria/LM_Z01_WildLands"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_JujuHut",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.8202343,-988.8239,-5.718628,-3.141593",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z02_Treehut"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportVolcanoTop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1273.223,-598.2689,-286.7323,-2.051798",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z02_VolcanoTop"
+      }
+    },
+    {
+      "TriggerName": "TR_Show_SacredWrits",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1240.771,-2893.114,-64.4339,-1.117836",
+        "m_destinationZone": "Lemuria/LM_Z02_UrsaiVillage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1218-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4997-A",
+    "@last-modified": "2023-10-31T06:35:09.7451907Z"
+  }
+}

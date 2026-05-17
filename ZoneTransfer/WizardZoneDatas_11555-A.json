@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Event_Maestro/MB_Z02_Prison",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-TeleportOut",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1964.706,-383.2548,206.443,-2.083436",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z00_TelepgraphBox"
+      }
+    },
+    {
+      "TriggerName": "To TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1964.706,-383.2548,206.443,-2.083436",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z00_TelepgraphBox"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2560-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11555-A",
+    "@last-modified": "2023-12-23T04:18:45.7401085Z"
+  }
+}

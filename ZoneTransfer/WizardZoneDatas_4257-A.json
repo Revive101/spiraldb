@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Novus/NV_Z03_PuertoNuovo_MQ",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_VA_Side",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2891.968,2867.431,6.976471,-1.506524",
+        "m_destinationZone": "Novus/NV_Z03_PuertoNuovo_VA"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_VASide_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19141.35,19613.69,-1873.714,-2.192398",
+        "m_destinationZone": "Novus/NV_Z03_PuertoNuovo_VA"
+      }
+    },
+    {
+      "TriggerName": "Trigger_2_LoggingHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-30.4973,-1235.317,1.000067,-3.13629",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_LoggingBuilding"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1024-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4257-A",
+    "@last-modified": "2023-10-29T09:12:36.7363133Z"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "ZoneName": "Wysteria/PA_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Library",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19.56012,357.4337,-8.228596E-07,3.10254",
+        "m_destinationZone": "Wysteria/Interiors/PA_Library"
+      }
+    },
+    {
+      "TriggerName": "To_TournementHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.079987,3999.081,2,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Tournament_Entry"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport-Pegasus",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11.7276,-293.5225,-1.87561,3.107819",
+        "m_destinationZone": "Wysteria/PA_Z01_Pegasus"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport-TangleWoodWay",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "125.0825,-20.26039,-13.60944,3.111062",
+        "m_destinationZone": "Wysteria/PA_Z02_Tanglewood"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Shop Wand",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-513.0043,-121.7351,30.13172,-1.575825",
+        "m_destinationZone": "Wysteria/Interiors/PA_Store04"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Shop Rings",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-176.2927,-59.7093,5.060717,1.600419",
+        "m_destinationZone": "Wysteria/Interiors/PA_Store03"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Shop Clothier",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18.48935,-11.83698,30.11609,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Store01"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportEarthDefault",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.028378,1556.254,159.1994,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Classroom_Earth"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToEarthSchool",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-54.39838,1612.794,158.9404,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Classroom_Earth_Variant"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (11)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13.04068,1538.482,156.7839,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Classroom_Ember"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (6)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.53137,1531.019,159.1995,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Classroom_Equil"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (8)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4.023912,1541.214,159.1995,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Classroom_Frost"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (9)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-22.90467,1567.846,159.1995,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Classroom_Spirit"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (5)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5.287455,1586.428,159.1994,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Classroom_Chaos"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.620491,1018.919,1.236816,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Headmistress"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (7)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.288289,1510.118,21.49261,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Dorm"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (10)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.4061732,1523.298,159.1993,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Classroom_Water"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-176.2927,-59.7093,5.060717,1.600419",
+        "m_destinationZone": "Wysteria/Interiors/PA_Store05"
+      }
+    },
+    {
+      "TriggerName": "Teleportto Deck",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-547.5436,-121.9088,30.13172,-1.575825",
+        "m_destinationZone": "Wysteria/Interiors/PA_Store02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:790-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2369-A",
+    "@last-modified": "2023-10-24T10:29:30.0353544Z"
+  }
+}

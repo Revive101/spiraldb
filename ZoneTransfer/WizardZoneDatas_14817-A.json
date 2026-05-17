@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Housing_PA_Gauntlet/PA_Gauntlet_20/PA_Gauntlet_20_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-Teleport01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-75.11711,1133.633,3.949951,0",
+        "m_destinationZone": "Housing_PA_Gauntlet/PA_Gauntlet_20/PA_Gauntlet_20_02"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-134.5715,1092.096,3.950073,0",
+        "m_destinationZone": "Housing_PA_Gauntlet/PA_Gauntlet_20/PA_Gauntlet_20_03"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-119.8821,1108.066,3.949951,0",
+        "m_destinationZone": "Housing_PA_Gauntlet/PA_Gauntlet_20/PA_Gauntlet_20_04"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport04",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-246.5512,967.6199,3.950073,0",
+        "m_destinationZone": "Housing_PA_Gauntlet/PA_Gauntlet_20/PA_Gauntlet_20_05"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:4007-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14817-A",
+    "@last-modified": "2025-02-04T07:12:30.1754484Z"
+  }
+}

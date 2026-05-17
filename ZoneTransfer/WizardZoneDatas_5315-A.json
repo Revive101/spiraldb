@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street7 Tower2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5403.254,12103.66,-377.5795,1.566206",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Sunken_City"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1368-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5315-A",
+    "@last-modified": "2023-10-31T09:13:30.4005355Z"
+  }
+}

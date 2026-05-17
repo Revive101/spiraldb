@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z04_I06_Cave_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1432.121,-496.1334,-5.336975,0",
+        "m_destinationZone": "Zafaria/ZF_Z03_Savannah"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1341-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5189-A",
+    "@last-modified": "2023-10-31T08:47:13.1919056Z"
+  }
+}

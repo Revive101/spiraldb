@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Shop_Shoes",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To MB Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2384.578,3088.219,20,-0.785387",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:429-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1890-A",
+    "@last-modified": "2023-10-14T08:20:12.4758584Z"
+  }
+}

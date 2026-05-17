@@ -1,0 +1,57 @@
+{
+  "ZoneName": "WizardCity/WC_NightSide",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Nightside Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2800.337,4725.809,10.46635,-0.5687445",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Nightside DeathSchool Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-67.02619,1.819786,0.5001225,-1.595352",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolDeath"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportToDeathTower-C02-002",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1071.475,11.63391,0.00712005,-1.586088",
+        "m_destinationZone": "WizardCity/Interiors/WC_TowerDeath"
+      }
+    },
+    {
+      "TriggerName": "TeleportToDarkmoor_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5.990396,-3036.729,-146.1108,-3.123605",
+        "m_destinationZone": "G14_DM/DM_Z01_CastleDarkmoor"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:216-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/226-A",
+    "@last-modified": "2023-10-11T10:41:27.4142791Z"
+  }
+}

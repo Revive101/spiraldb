@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/Hub_ShopHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2066.586,5027.429,200.1975,-0.4694842",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:969-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4099-A",
+    "@last-modified": "2023-10-29T08:25:38.2471392Z"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Azteca/AZ_Z03_MangroveMarsh",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Zocolo_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4259.347,2969.456,275.5,1.495443",
+        "m_destinationZone": "Azteca/AZ_Z00_Zocalo"
+      }
+    },
+    {
+      "TriggerName": "To_Saltmeadow_Swamp_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9621.025,-64.80981,389.2551,-1.971608",
+        "m_destinationZone": "Azteca/AZ_Z04_SaltmeadowSwamp"
+      }
+    },
+    {
+      "TriggerName": "To_Hatchery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-986.4457,-513.4401,3.261198,0",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z03_HallOfPlumage_Room02"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleporter to Azure Chamber",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1890.01,33.87976,0.2000732,-1.546366",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z02_AzureChamber"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleporter to Actun Caban",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "24.17676,-1773.778,4.088669,-3.141073",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z03_Actun"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to GlenofPoisonFrog",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "277.1509,-993.5967,9.37241E-05,2.996958",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z04_SwampCavern"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1793-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6050-A",
+    "@last-modified": "2023-11-15T22:43:31.9087556Z"
+  }
+}

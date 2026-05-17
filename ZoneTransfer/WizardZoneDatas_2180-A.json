@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/MS_Death/MS_Death_Zone1_BurialGround",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Death Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8778.236,16847.76,-173.2646,-1.570796",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:508-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2180-A",
+    "@last-modified": "2023-10-17T06:19:00.921252Z"
+  }
+}

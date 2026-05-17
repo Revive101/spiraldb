@@ -1,0 +1,46 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToAcademy",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1983.481,6480.141,599.9681,-1.570796",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_PhotomongersOffice",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "558.4207,6.443961,0.1999939,1.567838",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_PhotomongerOffice"
+      }
+    },
+    {
+      "TriggerName": "Trigger ToTower9FromDS_CrystalGrove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "33.87556,1141.834,0.1236137,0",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T9"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2289-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2316-A",
+    "@last-modified": "2023-11-26T05:37:42.2023021Z"
+  }
+}

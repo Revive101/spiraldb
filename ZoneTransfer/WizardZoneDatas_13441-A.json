@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_ShadowTricksterLair_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport2Arcanum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3470.583,-1099.755,-105.2422,1.568806",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2900-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13441-A",
+    "@last-modified": "2024-02-21T19:59:56.2744032Z"
+  }
+}

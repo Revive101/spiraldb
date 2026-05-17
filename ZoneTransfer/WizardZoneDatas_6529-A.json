@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Firecat_T3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street5 Tower3 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7812.571,-16042.64,-1043.603,-3.138393",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Firecat"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1599-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6529-A",
+    "@last-modified": "2023-11-13T02:33:30.0834579Z"
+  }
+}

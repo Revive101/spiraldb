@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Zafaria/ZF_Z07_Stone_Town",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Darajani_Palace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-27.15743,221.813,-5.681333,3.124718",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z07_I01_Darajani_Palace"
+      }
+    },
+    {
+      "TriggerName": "To_StoneTown_Zoo",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2871.281,-2.064116,3.453622,-1.540713",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z07_I03_Zoo"
+      }
+    },
+    {
+      "TriggerName": "To_Olyphants_Tower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "35.61267,-761.0522,4.130292,-3.05968",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z07_I02_War_Olyphants_Tower"
+      }
+    },
+    {
+      "TriggerName": "WC-MYTH-C11-001_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-51.0215,800.5313,2.392783,0",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z07_I07_PoachersHome"
+      }
+    },
+    {
+      "TriggerName": "Trigger MinionQuest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.729847,-1055.009,2.999921,3.138775",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z07_I08_MinionQuest"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1351-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5217-A",
+    "@last-modified": "2023-10-31T08:54:23.5182022Z"
+  }
+}

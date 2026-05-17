@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z02_AzureChamber",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6312.042,2694.942,0.0001220703,1.065314",
+        "m_destinationZone": "Azteca/AZ_Z02_Cenote"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1784-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7969-A",
+    "@last-modified": "2023-11-15T22:12:52.1768988Z"
+  }
+}

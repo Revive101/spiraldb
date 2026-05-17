@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Zafaria/ZF_Z00_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_WitchDoctor_Hut",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-32.72322,478.7441,13.95654,0",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z00_I01_Witch_Doctors_Hut"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Savannah",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "27226.84,3612.819,527.6394,1.415184",
+        "m_destinationZone": "Zafaria/ZF_Z03_Savannah"
+      }
+    },
+    {
+      "TriggerName": "To_ZF_Z02_MaketPlace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6867.992,589.8105,410.265,-1.52403",
+        "m_destinationZone": "Zafaria/ZF_Z02_Baobab_Market"
+      }
+    },
+    {
+      "TriggerName": "To_ZF_Z01_Crown",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-362.8506,12.75674,-69.79205,-1.629669",
+        "m_destinationZone": "Zafaria/ZF_Z01_Baobab_Crown"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Zamunda",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4462.261,-8790.264,60.64311,-2.963394",
+        "m_destinationZone": "Zafaria/ZF_Z05_Zamunda_Outskirts"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:700-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2785-A",
+    "@last-modified": "2023-10-24T07:23:55.3498617Z"
+  }
+}

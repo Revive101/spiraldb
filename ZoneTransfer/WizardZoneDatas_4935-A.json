@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z11_HunterGuild",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_VeloCity",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-159.2144,5309.438,198.307,0",
+        "m_destinationZone": "Empyrea/EM_Z11_VeloCity"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1202-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4935-A",
+    "@last-modified": "2023-10-31T06:14:37.370302Z"
+  }
+}

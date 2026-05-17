@@ -1,0 +1,27 @@
+{
+  "TemplateID": 81280,
+  "Spells": [
+    {
+      "TemplateID": 927448632,
+      "RequiredSpellID": 572455581,
+      "Level": 28
+    },
+    {
+      "TemplateID": 572455581,
+      "RequiredSpellID": 1713300256,
+      "Level": 20
+    },
+    {
+      "TemplateID": 1252550938,
+      "RequiredSpellID": 927448632,
+      "Level": 32
+    }
+  ],
+  "@metadata": {
+    "@collection": "NpcSpellInventory",
+    "Raven-Clr-Type": "DragonNPCTool.Models.NPCSpellInventory, DragonNPCTool",
+    "@change-vector": "A:4371-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "NPCSpellInventories/579-A",
+    "@last-modified": "2025-04-13T00:55:15.1015718Z"
+  }
+}

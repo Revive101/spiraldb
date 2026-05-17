@@ -1,0 +1,90 @@
+{
+  "ZoneName": "Khrysalis/KR_Z08_RadianceReborn",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-Dreamroom1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "612.9183,1282.542,0.3478214,0",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z08_I06_Dreamroom1"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Dreamroom2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.9141083,-1051.312,0.007080078,-3.141593",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z08_I07_Dreamroom2"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Dreamroom3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1309.278,233.4048,-2.75293,-1.103664",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z08_I08_Dreamroom3"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-Crab",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "531.6324,208.3917,0.163936,2.912092",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z08_I05_CrabTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-Stag",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "531.6324,208.3917,0.163936,2.912092",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z08_I04_StagTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-Serpent",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "531.6324,208.3917,0.163936,2.912092",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z08_I03_SerpentTower"
+      }
+    },
+    {
+      "TriggerName": "Trigger-PhoenixTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "531.6324,208.3917,0.163936,2.912092",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z08_I02_PheonixTower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1930-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8385-A",
+    "@last-modified": "2023-11-16T06:12:32.8354194Z"
+  }
+}

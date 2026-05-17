@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_CastleToursApt/Housing_CastleToursApt_Int",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5104.962,2115.469,229.0009,-1.15398",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:272-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1153-A",
+    "@last-modified": "2023-10-11T23:45:57.7579129Z"
+  }
+}

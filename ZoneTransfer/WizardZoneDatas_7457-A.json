@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/Interiors/KT_PalaceOfFire_T4",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Pyramid2 Tower4 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11979.56,-22767.74,7.274588,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1733-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7457-A",
+    "@last-modified": "2023-11-14T17:47:24.2837364Z"
+  }
+}

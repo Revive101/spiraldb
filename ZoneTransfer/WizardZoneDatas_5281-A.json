@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/ZF_Z09_Drum_Jungle",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToElephantGraveyard_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.3768158,-10088.66,-5.33432,3.124079",
+        "m_destinationZone": "Zafaria/ZF_Z10_Elephant_Graveyard"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1361-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5281-A",
+    "@last-modified": "2023-10-31T08:59:00.0838364Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_MaestroEvent/MS_Z05_DimwoodShack",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8112.018,-2504.942,-66.50903,2.038068",
+        "m_destinationZone": "MooShu/Interiors/MS_MaestroEvent/MS_Z03_DimwoodVale"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2629-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11590-A",
+    "@last-modified": "2023-12-31T05:26:23.048123Z"
+  }
+}

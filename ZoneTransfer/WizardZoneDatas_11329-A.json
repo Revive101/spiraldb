@@ -1,0 +1,35 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_CrystalGrove_Gauntlet_7Room",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TriggerTeleportOutRoom1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3859.01,9160.082,-500.0001,-2.356183",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0 (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.880065,-1236.452,0.1234916,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_CrystalGrove_Gauntlet_7Room_Sub/7Room_2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2421-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11329-A",
+    "@last-modified": "2023-12-08T18:41:34.7771808Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z01_LifeSchool",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1903.375,-10489.58,-1.943245,1.230102",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:658-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2628-A",
+    "@last-modified": "2023-10-21T06:16:48.1846419Z"
+  }
+}

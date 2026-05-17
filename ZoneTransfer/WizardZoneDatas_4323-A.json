@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Karamelle/KM_Z03_GumdropForest",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Karamelle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5314.502,-1668.63,14.87482,1.535694",
+        "m_destinationZone": "Karamelle/KM_Z00_HUB"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToSweetzburg",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5384.634,-657.0391,2.500244,-1.570796",
+        "m_destinationZone": "Karamelle/KM_Z04_Sweetzburg"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1033-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4323-A",
+    "@last-modified": "2023-10-29T09:23:02.3601089Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Krampus_LandingZone",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2613.07,2943.387,0.006830258,-0.9217218",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Gold-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-570.6619,658.8141,38.23608,-1.519003",
+        "m_destinationZone": "WizardCity/Interiors/WC_Krampus_Outside_Gold"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Wood-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-577.6841,624.9088,23.10944,-1.534664",
+        "m_destinationZone": "WizardCity/Interiors/WC_Krampus_Outside_Wood"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Stone-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-352.2906,616.0811,58.23944,-1.57507",
+        "m_destinationZone": "WizardCity/Interiors/WC_Krampus_Outside_Stone"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2627-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11713-A",
+    "@last-modified": "2023-12-31T05:21:27.6971846Z"
+  }
+}

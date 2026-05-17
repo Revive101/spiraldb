@@ -1,0 +1,167 @@
+{
+  "ZoneName": "Krokotopia/KT_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Hub Shop1 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11.98035,-135.3556,1.418834,-3.132895",
+        "m_destinationZone": "Krokotopia/Interiors/KT_Shop01"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Hub Shop2 Entrance) (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "297.1243,318.4597,1.27271E-05,1.579333",
+        "m_destinationZone": "Krokotopia/Interiors/KT_Shop02"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Hub Shop3 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "324.8185,316.188,-7.294517E-06,1.603206",
+        "m_destinationZone": "Krokotopia/Interiors/KT_Shop03"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Hub Shop4 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "317.9048,312.4961,-8.078938E-06,1.58498",
+        "m_destinationZone": "Krokotopia/Interiors/KT_Shop04"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Hub Library Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-16.85565,-0.4154367,15.69757,-1.570796",
+        "m_destinationZone": "Krokotopia/Interiors/KT_Library"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Krok_Hub WorldSpiral Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.064331,-2597.649,627.468,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_WorldTeleporter"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Hub to Crypt Teleporter)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8870.589,-6836.142,-261.7663,0.8046588",
+        "m_destinationZone": "Krokotopia/KT_Hub_Crypt"
+      }
+    },
+    {
+      "TriggerName": "ToSecretShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "97.85773,14.40802,1.418809,-1.398726",
+        "m_destinationZone": "Krokotopia/Interiors/KT_ShopSecret"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Krok_Hub Krok_Pyramid_Hub Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4.002968,-2029.072,-6.6874E-05,-3.117929",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_AltarOfKings"
+      }
+    },
+    {
+      "TriggerName": "Shop5 entrance",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-34.68606,-24.03411,-1.898669E-05,-1.566202",
+        "m_destinationZone": "Krokotopia/Interiors/KT_Shop05"
+      }
+    },
+    {
+      "TriggerName": "TeleportHiddenShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "877.0786,-3222.554,1620,-0.4627968",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (KT_Shop_Hidden KT_Tele_Pad Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4768.695,1558.881,-173.9588,-3.055872",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4936.481,3576.884,-173.9629,-1.276191",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10409.25,3107.338,3341.551,2.54453",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2992-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1249-A",
+    "@last-modified": "2024-03-03T19:31:15.7111338Z"
+  }
+}

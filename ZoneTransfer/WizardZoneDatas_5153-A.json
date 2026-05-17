@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z04_HrefnaCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6493.021,-6554.571,750.8674,3.054473",
+        "m_destinationZone": "Avalon/AV_Z04_TheWild"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1326-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5153-A",
+    "@last-modified": "2023-10-31T08:21:49.4663396Z"
+  }
+}

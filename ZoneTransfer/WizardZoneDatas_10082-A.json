@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_PageEvent_BossRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Mob_Room",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6.692495,830.5002,0.006915621,0",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_PageEvent_MobRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2183-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10082-A",
+    "@last-modified": "2023-11-24T06:45:12.4373128Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z03_RomeoHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to EM_Z03_OuterAthanor",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8188.493,-2522.491,-900.0114,-0.9422504",
+        "m_destinationZone": "Empyrea/EM_Z03_OuterAthanor"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1153-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4772-A",
+    "@last-modified": "2023-10-31T05:42:03.5053981Z"
+  }
+}

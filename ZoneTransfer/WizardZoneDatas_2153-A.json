@@ -1,0 +1,46 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_WaterDojot1_Common",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11762.29,12839.86,27.2883,0",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    },
+    {
+      "TriggerName": "ToPlagueHub1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "95.34644,-770.4155,-19.98373,2.992047",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Hub_FarmVillage"
+      }
+    },
+    {
+      "TriggerName": "ToPlagueHub2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "95.34644,-770.4155,-19.98373,2.992047",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Hub_FarmVillage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:495-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2153-A",
+    "@last-modified": "2023-10-17T05:51:31.0494713Z"
+  }
+}

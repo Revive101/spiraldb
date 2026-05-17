@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z00_I00_BenightedBurrow",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.789322,-7772.768,-6.103516E-05,3.05338",
+        "m_destinationZone": "Khrysalis/KR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger Room01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "541.9404,337.866,6.103516E-05,2.994972",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z00_I01_WeepingTower_01"
+      }
+    },
+    {
+      "TriggerName": "Trigger Room02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2013.155,97.29678,1.788227,1.501418",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z00_I01_WeepingTower_02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1884-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8260-A",
+    "@last-modified": "2023-11-16T04:57:18.4039694Z"
+  }
+}

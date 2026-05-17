@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Drains/Z04_OldeTownDrains",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-LeavDraings",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3978.979,-664.1863,-1367.841,2.214509",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToBoss",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.543579,-215.3281,0.1347656,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Drains/Z04_BossOffice"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToSectionC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.296631,64.44336,4.399902,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Drains/Z04_CollapsedTunnel"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2656-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/577-A",
+    "@last-modified": "2023-12-31T08:20:04.880844Z"
+  }
+}

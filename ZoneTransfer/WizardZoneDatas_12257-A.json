@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet_Highlands/HG_Gauntlet_Highlands_Int02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_ReturnTo_Ettinburgh",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "571.187,-2217.532,-376.8813,-2.526556",
+        "m_destinationZone": "Housing_Gauntlet_Highlands/HG_Gauntlet_Highlands_Int01"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_Castle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.610979,-2526.781,2.004593,-3.141593",
+        "m_destinationZone": "Housing_Gauntlet_Highlands/HG_Gauntlet_Highlands_Int03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2729-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12257-A",
+    "@last-modified": "2024-01-08T23:18:46.8081162Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_GHGauntlet/GH_WinterbaneGauntlet03/GH_WinterbaneGauntlet03_R01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Room2TeleportTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2328.243,-20.01977,15.09207,-1.504228",
+        "m_destinationZone": "Housing_GHGauntlet/GH_WinterbaneGauntlet03/GH_WinterbaneGauntlet03_R02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3980-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14721-A",
+    "@last-modified": "2025-02-04T06:34:17.3133692Z"
+  }
+}

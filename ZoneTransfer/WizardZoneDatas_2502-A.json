@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/CL_Z03_District_Of_The_Stars",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-32.62984,10003.27,-899.9998,-3.120524",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:606-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2502-A",
+    "@last-modified": "2023-10-19T09:04:12.0924846Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Tomb/KT_AhnicTomb",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (KT_Crypt_Level01 KT_Crypt_Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1548.084,4194.979,-499.9999,-1.570796",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_WellOfSpirits"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:916-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3841-A",
+    "@last-modified": "2023-10-29T04:38:33.2345857Z"
+  }
+}

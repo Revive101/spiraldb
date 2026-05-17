@@ -1,0 +1,112 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Room2-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.286301,15117.37,3000.007,-3.141593",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T1"
+      }
+    },
+    {
+      "TriggerName": "Room3-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.58493,28945.61,2000.007,-3.13438",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T1"
+      }
+    },
+    {
+      "TriggerName": "Room4-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.607544,43285.5,1000.007,3.098908",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T1"
+      }
+    },
+    {
+      "TriggerName": "TeleportRoom5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.237585,58868.95,-999.993,-3.140868",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T1"
+      }
+    },
+    {
+      "TriggerName": "Street07-Gauntlet01-Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10876.42,24084.73,-377.6144,-1.60067",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Sunken_City"
+      }
+    },
+    {
+      "TriggerName": "Street07-Gauntlet02-Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10876.42,24084.73,-377.6144,-1.60067",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Sunken_City"
+      }
+    },
+    {
+      "TriggerName": "Street07-Gauntlet03-Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10876.42,24084.73,-377.6144,-1.60067",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Sunken_City"
+      }
+    },
+    {
+      "TriggerName": "Street07-Gauntlet04-Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10876.42,24084.73,-377.6144,-1.60067",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Sunken_City"
+      }
+    },
+    {
+      "TriggerName": "Street07-Gauntlet05-Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10876.42,24084.73,-377.6144,-1.60067",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Sunken_City"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1384-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5316-A",
+    "@last-modified": "2023-10-31T09:22:20.500678Z"
+  }
+}

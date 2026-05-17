@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Celestia/Interiors/CL_Z10i2_Kingdom_Of_The_Crabs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToZone10 - front entrance",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6159.72,7672.109,558.2063,-0.6960116",
+        "m_destinationZone": "Celestia/CL_Z10_Kingdom_Of_The_Crabs"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8490.455,8357.098,-289.3418,2.371214",
+        "m_destinationZone": "Celestia/CL_Z10_Kingdom_Of_The_Crabs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:821-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3201-A",
+    "@last-modified": "2023-10-26T07:04:22.3551424Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z06_Kalypso_BelowDeck",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-TeleportAbove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "60.82307,-1358.954,-134.7998,0",
+        "m_destinationZone": "Polaris/Interiors/PL_Z06_Kalypso_AboveDeck"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportBorealis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1783.268,-1688.659,764.7859,2.866653",
+        "m_destinationZone": "Polaris/PL_Z07_BorealisPeaks"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1115-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4545-A",
+    "@last-modified": "2023-10-30T01:28:00.001849Z"
+  }
+}

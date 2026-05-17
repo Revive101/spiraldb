@@ -1,0 +1,35 @@
+{
+  "ZoneName": "MooShu/MS_War/MS_War_RuinedVillage_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3057.028,2961.608,1.100433,0",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    },
+    {
+      "TriggerName": "ToWar1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "364.6291,6.869423,1.685389,-1.570796",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:490-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2151-A",
+    "@last-modified": "2023-10-17T05:43:12.9692131Z"
+  }
+}

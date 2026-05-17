@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Shop_Amulets",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Shop_Amulets Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3559.143,-1916.454,0.01104623,-1.589996",
+        "m_destinationZone": "WizardCity/WC_Shop_Area"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:103-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/360-A",
+    "@last-modified": "2023-10-10T08:43:16.8656901Z"
+  }
+}

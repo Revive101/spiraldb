@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Celestia/CL_Z01_Survey_Camp",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport To Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4121.555,12447.84,-975.2225,-1.582714",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger for zone 02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13375.26,6595.829,130.8478,3.072034",
+        "m_destinationZone": "Celestia/CL_Z02_Crab_Realm"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:609-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2499-A",
+    "@last-modified": "2023-10-19T09:08:45.5757557Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Housing_BotanicalGardens/Interior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToTopside",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.5761557,6674.601,-0.04748535,0",
+        "m_destinationZone": "Housing_BotanicalGardens/Interior"
+      }
+    },
+    {
+      "TriggerName": "ToBasement",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-20.49789,11821.99,-1800.019,-3.114988",
+        "m_destinationZone": "Housing_BotanicalGardens/Interior"
+      }
+    },
+    {
+      "TriggerName": "ToUpper",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-730.138,9849.941,-397.5126,-2.900124",
+        "m_destinationZone": "Housing_BotanicalGardens/Interior"
+      }
+    },
+    {
+      "TriggerName": "ToLower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2356.686,11888.18,-1797.82,3.119663",
+        "m_destinationZone": "Housing_BotanicalGardens/Interior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:890-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3649-A",
+    "@last-modified": "2023-10-29T03:24:47.9297764Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z00_I05_TowerMid",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1812.49,-105.6499,243.4547,0.1176911",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_I05_TowerBot"
+      }
+    },
+    {
+      "TriggerName": "Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1623.252,-557.446,0,-1.875982",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_I05_TowerMid_B"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2843-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12994-A",
+    "@last-modified": "2024-01-18T12:05:31.6432337Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z06_Headquarters",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_SkyCity_1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6272.238,-1661.249,-106.1352,0.108706",
+        "m_destinationZone": "Lemuria/LM_Z06_SkyCity"
+      }
+    },
+    {
+      "TriggerName": "Teleport_SkyCity_2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6818.832,-9094.424,-106.1347,2.728184",
+        "m_destinationZone": "Lemuria/LM_Z06_SkyCity"
+      }
+    },
+    {
+      "TriggerName": "Teleport_SkyCity_3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19.13071,-8071.712,-106.133,-3.016915",
+        "m_destinationZone": "Lemuria/LM_Z06_SkyCity"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1252-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5059-A",
+    "@last-modified": "2023-10-31T07:09:36.2029385Z"
+  }
+}

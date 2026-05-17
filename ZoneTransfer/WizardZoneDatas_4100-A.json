@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/Hub_ThroneRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToGH_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-16.07129,6001.397,671.0164,0",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:971-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4100-A",
+    "@last-modified": "2023-10-29T08:26:18.2084114Z"
+  }
+}

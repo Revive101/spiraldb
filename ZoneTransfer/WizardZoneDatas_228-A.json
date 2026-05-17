@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_TowerDeath",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (TowerDeath Nightside Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "774.5187,-1451.51,0.5894375,1.972344",
+        "m_destinationZone": "WizardCity/WC_NightSide"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:54-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/228-A",
+    "@last-modified": "2023-10-06T01:49:11.8177354Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/Interiors/GH_Nord_Cave04",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12307.58,7532.33,-1358.124,2.849492",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_Nordrilund"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1694-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7265-A",
+    "@last-modified": "2023-11-14T11:02:51.4520484Z"
+  }
+}

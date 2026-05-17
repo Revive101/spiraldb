@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/AV_Z11_CrystalCaves",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToCatacombs",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11052.74,18011.6,-1808.714,0.8510914",
+        "m_destinationZone": "Avalon/AV_Z10_Catacombs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1296-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5123-A",
+    "@last-modified": "2023-10-31T08:01:37.7812902Z"
+  }
+}

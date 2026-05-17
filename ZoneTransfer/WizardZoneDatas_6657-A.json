@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Colossus_Balcony",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (WC_Street6_GobblerKing_Balcony WC_Street6_GobblerKing_ThroneRoom Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "44646.57,8996.55,-650.0071,1.552446",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1610-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6657-A",
+    "@last-modified": "2023-11-13T06:21:28.5289291Z"
+  }
+}

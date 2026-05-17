@@ -1,0 +1,35 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_Gauntlet_3Room01_Sub/3Room01_2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2492.462,164.0887,-484.6897,2.127728",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Hub_Necropolis"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportTo4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.880065,-1236.452,0.1234916,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_Gauntlet_3Room01_Sub/3Room01_3"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2472-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11169-A",
+    "@last-modified": "2023-12-11T15:29:03.7705225Z"
+  }
+}

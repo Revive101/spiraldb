@@ -1,0 +1,134 @@
+{
+  "ZoneName": "Aquila/Interiors/AQ_Z03_TempleOfLonging",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoTartarus",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-20192,-34957.52,-2924.734,-3.130187",
+        "m_destinationZone": "Aquila/AQ_Z03_Tartarus"
+      }
+    },
+    {
+      "TriggerName": "TopofTempleTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-24588.16,-37129.28,-214.5008,-1.137178",
+        "m_destinationZone": "Aquila/AQ_Z03_Tartarus"
+      }
+    },
+    {
+      "TriggerName": "PuzzleFailTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "40.34801,-581.5994,3.957625,3.103731",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "Teleport-Leaving4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13039.04,9769.384,72.45144,3.105978",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "Teleport-Leaving3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13030.54,-16221.25,70.69383,-3.069077",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "Teleport-Leaving2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "12982.41,-16201.47,71.99429,3.134571",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "Teleport-Leaving1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "12954.31,9793.736,65.57001,3.065447",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitRoom3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-766.999,-766.403,15.28004,-2.39608",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitRoom2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "755.7655,-733.2431,16.67256,2.280331",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitRoom1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "741.5632,760.506,1.730104,0.7969416",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitRoom4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-703.3469,725.6281,1.73456,-0.6993774",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3403-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14116-A",
+    "@last-modified": "2024-04-18T00:42:15.1079233Z"
+  }
+}

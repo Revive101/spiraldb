@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Catacombs_C",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_Drains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17402.69,-12039.83,-755.9771,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Drains/Z00_Drains_HUB"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2674-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11938-A",
+    "@last-modified": "2024-01-05T06:27:27.7246461Z"
+  }
+}

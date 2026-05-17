@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z01_OldOnesOffice",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Arcanum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1616.457,-6414.454,-1.570801,1.510881",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1837-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8168-A",
+    "@last-modified": "2023-11-15T23:26:44.0751851Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Azteca/AZ_Z06_CloudburstIsland",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport To Zultun",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1561.303,6426.789,-976.8462,0",
+        "m_destinationZone": "Azteca/AZ_Z05_ZultunDock"
+      }
+    },
+    {
+      "TriggerName": "To Tierra",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7864.354,5253.314,2895.524,1.818914",
+        "m_destinationZone": "Azteca/AZ_Z07_TierraDeBrea"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1800-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8035-A",
+    "@last-modified": "2023-11-15T22:49:30.0699658Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Wallaru/WL_Z07_EucalyptusForest",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_Wobbegong",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2864.41,9831.637,220.703,0",
+        "m_destinationZone": "Wallaru/WL_Z05_Wobbegong_JT"
+      }
+    },
+    {
+      "TriggerName": "TeleportSource_To_TheDreaming",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "344.6882,-2295.238,-0.6181945,-3.071923",
+        "m_destinationZone": "Wallaru/WL_Z04_TheDreaming"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3641-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14339-A",
+    "@last-modified": "2024-09-07T04:49:28.5282064Z"
+  }
+}

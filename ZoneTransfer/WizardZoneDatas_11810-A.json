@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Drains/Z04_CollapsedTunnel",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ExitSectionC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1047.141,-9316.848,4.399658,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Drains/Z04_OldeTownDrains"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2657-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11810-A",
+    "@last-modified": "2023-12-31T08:21:34.9409213Z"
+  }
+}

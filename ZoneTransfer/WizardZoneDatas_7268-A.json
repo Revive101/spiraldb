@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/Interiors/GH_Sud_Cave07",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "440.8296,3678.964,-495.3802,2.73756",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_Sudrilund"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1702-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7268-A",
+    "@last-modified": "2023-11-14T11:11:45.2441282Z"
+  }
+}

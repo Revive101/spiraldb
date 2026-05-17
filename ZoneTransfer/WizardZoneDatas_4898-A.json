@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Empyrea/EM_Z07_NimbusCitadel",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-ToHanger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8067.004,5.198486,1.999943,1.570796",
+        "m_destinationZone": "Empyrea/EM_Z06_NimbusHanger"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-Stronghold",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-37.85565,-3001.494,0.1956549,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z07_MilitaryStronghold"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToTechnologistAcademy",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.8466551,-1383.453,-0.0002121925,-2.391746",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z07_TechnologistAcademy"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportSecondDock",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.6744614,-10249.34,0.1951566,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z07_SecondaryDock"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToCourtyard",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2312.898,-6044.86,0.195709,1.445893",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z07_Courtyard"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1187-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4898-A",
+    "@last-modified": "2023-10-31T06:05:19.9921883Z"
+  }
+}

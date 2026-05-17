@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Event_Maestro/MB_Z05_PreTowerFight",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-Museum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "448.1155,3755.509,-350,0",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z01_Museum"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportBossRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.248672,-1903.967,-279.6762,3.047627",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z04_ClandestineTower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2565-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11557-A",
+    "@last-modified": "2023-12-23T04:24:13.0637724Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing/WizardCity/WC_Tier2_Interior_Preview",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToHouseTier2ExteriorPreview",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3332.031,-166.8292,-199.9999,2.356183",
+        "m_destinationZone": "Housing/WizardCity/WC_Tier2_Exterior_Preview"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2068-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8994-A",
+    "@last-modified": "2023-11-17T06:55:09.6228858Z"
+  }
+}

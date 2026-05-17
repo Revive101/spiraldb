@@ -1,0 +1,35 @@
+{
+  "ZoneName": "G14_DM/DM_Z02_MainHall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToCastleGrounds",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "15.63388,-438.125,33.07996,0",
+        "m_destinationZone": "G14_DM/DM_Z01_CastleDarkmoor"
+      }
+    },
+    {
+      "TriggerName": "TeleportToArmory",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4.702464,-2879.462,1.894806,3.132346",
+        "m_destinationZone": "G14_DM/DM_Z03_Armory"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2917-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5729-A",
+    "@last-modified": "2024-02-21T20:39:37.6066354Z"
+  }
+}

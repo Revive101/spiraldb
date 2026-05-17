@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Krokosphinx/Interiors/KT_ChampHall_T4",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Sphinx02 Tower03 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8981.556,-13889.99,-3.230494E-05,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_ChampHall"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1742-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3778-A",
+    "@last-modified": "2023-11-14T18:10:18.2434703Z"
+  }
+}

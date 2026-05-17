@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Park_Petshop",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 8",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3114.119,-170.2334,1.640167,-0.4572082",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_PET_Park"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:31-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/37-A",
+    "@last-modified": "2023-10-02T02:20:31.7146315Z"
+  }
+}

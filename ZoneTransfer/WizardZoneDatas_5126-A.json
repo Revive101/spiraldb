@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Avalon/AV_Z07_OuterYard",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToLakeTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7976.369,-3854.665,707.2144,-1.696847",
+        "m_destinationZone": "Avalon/AV_Z08_LakeShore"
+      }
+    },
+    {
+      "TriggerName": "Library-Teleport-Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.99655,472.3506,10.51329,-3.114382",
+        "m_destinationZone": "Avalon/Interiors/AV_Z07_Library"
+      }
+    },
+    {
+      "TriggerName": "BackToCaerLyon",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1103.748,23552.8,1110.401,0",
+        "m_destinationZone": "Avalon/AV_Z03_CaerLyon"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1312-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5126-A",
+    "@last-modified": "2023-10-31T08:12:08.8348244Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_TowerFire",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (TowerFire Ravenwood Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1645.644,4901.161,0.003151992,-1.84206",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:225-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/931-A",
+    "@last-modified": "2023-10-11T10:53:32.7731377Z"
+  }
+}

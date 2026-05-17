@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_Station/MB_Airport_Instance01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3180.552,11076.09,-113.5536,-1.543265",
+        "m_destinationZone": "Marleybone/MB_Station/MB_Station_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2234-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10369-A",
+    "@last-modified": "2023-11-24T10:19:11.4168153Z"
+  }
+}

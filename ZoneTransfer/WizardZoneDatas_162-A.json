@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Headmistress_House",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport Outside",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-488.7184,-2421.488,154.275,-1.745827",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.427617,490.4592,-3.051758E-05,0",
+        "m_destinationZone": "WizardCity/Interiors/WC_Headmaster_Tower"
+      }
+    },
+    {
+      "TriggerName": "Trigger TeleportEffecttoUW",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-949.2543,9129.556,-312.0847,1.332799",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Unicorn"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2209-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/162-A",
+    "@last-modified": "2023-11-24T08:55:21.7673635Z"
+  }
+}

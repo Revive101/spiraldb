@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/PageEvent/AZ_BossRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToTrash",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "25.31733,-3199.374,6.052741,-3.117654",
+        "m_destinationZone": "Azteca/Interiors/PageEvent/AZ_TrashMobs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2204-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10242-A",
+    "@last-modified": "2023-11-24T07:44:20.7157699Z"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Krokotopia/KT_Krokosphinx/KT_Arena",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport Gate Bird",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26.41476,-2772.926,0,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Arena_T5"
+      }
+    },
+    {
+      "TriggerName": "Teleport Gate Moon",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3.182007,-2826.31,0.0004882813,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Arena_T8"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Snake",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9.588928,-2924.66,42.09033,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Arena_T7"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Sun",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-17.0943,-2680.036,0,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Arena_T6"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Sphinx Level3 to Sphinx Hub)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6692.931,36.38723,0.00318433,1.570796",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_EntranceHall"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Fire-C03-002-teleporter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-21.95984,2794.515,0,0",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Arena_T2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2104-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3745-A",
+    "@last-modified": "2023-11-17T11:26:54.3253588Z"
+  }
+}

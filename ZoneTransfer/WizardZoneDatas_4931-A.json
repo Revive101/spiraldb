@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Empyrea/EM_Z08_SWAeroplains",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_PortAero",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1660.005,13.19531,-236.3646,1.539753",
+        "m_destinationZone": "Empyrea/EM_Z10_PortAero"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_NWPlains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-15407.75,-16303.66,230.6457,-3.137255",
+        "m_destinationZone": "Empyrea/EM_Z09_NWAeroplains"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1195-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4931-A",
+    "@last-modified": "2023-10-31T06:09:19.3106758Z"
+  }
+}

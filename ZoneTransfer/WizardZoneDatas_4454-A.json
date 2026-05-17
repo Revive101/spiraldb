@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Avalon/AV_Z03_CaerLyon",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to High Road",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-873.7007,13396.95,13.1525,0",
+        "m_destinationZone": "Avalon/AV_Z02_HighRoad"
+      }
+    },
+    {
+      "TriggerName": "Teleport Wild Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8264.02,-8521.595,203.2671,1.906646",
+        "m_destinationZone": "Avalon/AV_Z04_TheWild"
+      }
+    },
+    {
+      "TriggerName": "Trigger To OuterYard",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6.565369,-9195.1,-20.4075,3.118319",
+        "m_destinationZone": "Avalon/AV_Z07_OuterYard"
+      }
+    },
+    {
+      "TriggerName": "AV-Archive Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-746.6403,41.54906,54.06018,-1.512804",
+        "m_destinationZone": "Avalon/Interiors/AV_Z03_Archive"
+      }
+    },
+    {
+      "TriggerName": "Logres Teleport Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "774.668,35.05463,3.755157,1.606062",
+        "m_destinationZone": "Avalon/Interiors/AV_Z03_EstateLogres"
+      }
+    },
+    {
+      "TriggerName": "AmberEstate Teleport Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "958.3559,48.61609,-0.0001220703,1.72768",
+        "m_destinationZone": "Avalon/Interiors/AV_Z03_EstateAmber"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1318-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4454-A",
+    "@last-modified": "2023-10-31T08:17:06.3390809Z"
+  }
+}

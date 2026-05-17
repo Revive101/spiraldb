@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Colossus_H1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Exit Secret Trainer",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9155.085,-8550.385,-649.9672,0.7854096",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:175-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/673-A",
+    "@last-modified": "2023-10-11T01:20:33.6626308Z"
+  }
+}

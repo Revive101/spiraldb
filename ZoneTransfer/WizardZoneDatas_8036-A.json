@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Azteca/AZ_Z07_TierraDeBrea",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Cloudburst",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8411.506,-918.5452,46.94279,-2.192861",
+        "m_destinationZone": "Azteca/AZ_Z06_CloudburstIsland"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to ChamberofRedSorrow",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "226.0905,-461.649,24.39258,-0.4554842",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z07_ChamberRedSorrow"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleporter to Grotto",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-46.25446,-375.4349,100.0001,0",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z07_Grotto_of_Wirachoca"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Pitch Black Lake",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-609.8817,325.0032,-78.94992,1.911836",
+        "m_destinationZone": "Azteca/AZ_Z08_PitchBlackLake"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1807-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8036-A",
+    "@last-modified": "2023-11-15T22:55:18.5959706Z"
+  }
+}

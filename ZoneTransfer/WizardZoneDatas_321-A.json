@@ -1,0 +1,68 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Cyclops",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Dark Cave (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19.22152,-635.9926,0.0003662086,-3.117005",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_DarkCave"
+      }
+    },
+    {
+      "TriggerName": "Teleport (Street3 Street2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5056.444,2800.955,-599.9985,-0.7945269",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-44.03809,-661.2754,245.0253,-3.109973",
+        "m_destinationZone": "Aquila/AQ_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Tele Trigger to Tower 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "33.10013,-996.145,0.006915471,-3.129041",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Cyclops_T1"
+      }
+    },
+    {
+      "TriggerName": "Tele Trigger to Tower 2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1637.011,-5056.248,-3166.15,3.093543",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Cyclops_T2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:251-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/321-A",
+    "@last-modified": "2023-10-11T19:35:36.2835977Z"
+  }
+}

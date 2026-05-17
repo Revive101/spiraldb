@@ -1,0 +1,68 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_MaestroEvent/MS_Z00_LandingZone",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger GammaTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "33.21389,490.4592,-3.051758E-05,0",
+        "m_destinationZone": "MooShu/Interiors/MS_MaestroEvent/MS_Z01_GammaTower"
+      }
+    },
+    {
+      "TriggerName": "Trigger Spirit School",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-22.90467,1567.846,159.1995,0",
+        "m_destinationZone": "MooShu/Interiors/MS_MaestroEvent/MS_Z02_SpiritSchool"
+      }
+    },
+    {
+      "TriggerName": "Trigger Dimmwood Vale",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1614.144,-630.5226,-197.8018,-2.141558",
+        "m_destinationZone": "MooShu/Interiors/MS_MaestroEvent/MS_Z03_DimwoodVale"
+      }
+    },
+    {
+      "TriggerName": "Trigger DeathTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "29.90151,-1044.773,0.007028251,3.08594",
+        "m_destinationZone": "MooShu/Interiors/MS_MaestroEvent/MS_Z06_DeathTower01"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11876.59,-3784.164,210.4028,-0.910905",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2585-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11585-A",
+    "@last-modified": "2023-12-23T04:47:38.7213547Z"
+  }
+}

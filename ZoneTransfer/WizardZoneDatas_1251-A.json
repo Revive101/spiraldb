@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/Interiors/KT_Shop02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Shop2 Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5261.518,2354.255,-174.6533,-1.475624",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:284-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1251-A",
+    "@last-modified": "2023-10-12T04:13:12.7846487Z"
+  }
+}

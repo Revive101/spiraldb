@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_PA_Gauntlet/PA_Gauntlet_40/PA_Gauntlet_40_02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Hall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.176203,2285.167,3.950012,0",
+        "m_destinationZone": "Housing_PA_Gauntlet/PA_Gauntlet_40/PA_Gauntlet_40_01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:4011-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14850-A",
+    "@last-modified": "2025-02-04T07:13:19.9916642Z"
+  }
+}

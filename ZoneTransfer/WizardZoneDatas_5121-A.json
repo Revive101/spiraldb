@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Avalon/AV_Z10_Catacombs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToDeep",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "205.9805,565.5431,613.1493,0",
+        "m_destinationZone": "Avalon/AV_Z09_DeepWater"
+      }
+    },
+    {
+      "TriggerName": "KingsTombTeleportTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-549.6011,-1182.059,6.169189,-1.623223",
+        "m_destinationZone": "Avalon/Interiors/AV_Z10_TombOfArtorius_Ruined"
+      }
+    },
+    {
+      "TriggerName": "TeleportTriggerToCrystalCaves",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "225.5781,461.2715,1.999847,-2.697404",
+        "m_destinationZone": "Avalon/AV_Z11_CrystalCaves"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1295-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5121-A",
+    "@last-modified": "2023-10-31T08:01:20.9535463Z"
+  }
+}

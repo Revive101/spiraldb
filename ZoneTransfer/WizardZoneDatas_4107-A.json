@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/GH_RavenFortress_T12",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToRavenCave12",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12035.25,15005.45,-721.5762,-1.105522",
+        "m_destinationZone": "Grizzleheim/GH_Wolf"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:985-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4107-A",
+    "@last-modified": "2023-10-29T08:39:10.9093857Z"
+  }
+}

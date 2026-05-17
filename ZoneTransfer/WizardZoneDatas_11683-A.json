@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_MaestroEvent/AV_Z02_DrakesCottage",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport To TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "540.3636,2173.484,167.3967,0.2516006",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AV_Z00_LandingZone"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2602-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11683-A",
+    "@last-modified": "2023-12-23T05:34:31.0544649Z"
+  }
+}

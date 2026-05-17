@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_AeroVillage/Housing_AeroVillage_Ext",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-CaveTop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6244.749,-4322.409,1823.903,-1.649942",
+        "m_destinationZone": "Housing_AeroVillage/Housing_AeroVillage_Ext"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-CaveBottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5838.421,-4625.458,743.7505,-2.533667",
+        "m_destinationZone": "Housing_AeroVillage/Housing_AeroVillage_Ext"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1627-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6881-A",
+    "@last-modified": "2023-11-14T08:01:20.9490528Z"
+  }
+}

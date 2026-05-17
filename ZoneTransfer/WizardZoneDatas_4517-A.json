@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z00_TikiTavern",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_Walruskberg",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4139.497,-6100.83,-460.682,1.605905",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1081-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4517-A",
+    "@last-modified": "2023-10-30T00:02:20.7683065Z"
+  }
+}

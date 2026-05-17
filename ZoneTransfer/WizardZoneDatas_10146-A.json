@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_PageEvent_BossRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Mob_Room",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1307.108,1663.388,-0.0001220703,-0.9232595",
+        "m_destinationZone": "MooShu/Interiors/MS_PageEvent_MobRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2192-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10146-A",
+    "@last-modified": "2023-11-24T07:07:49.9834371Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "ZoneName": "MooShu/MS_Plague/MS_Plague_Zone3_CliffsidePalace",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-243.1047,15196.32,702.1706,0",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Hub_FarmVillage"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.956055,-1473.532,-6.103516E-05,-3.095471",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague3_T5"
+      }
+    },
+    {
+      "TriggerName": "TeleportToHaru",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2637.876,-1.109286,30,1.604246",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague3_Dojo1"
+      }
+    },
+    {
+      "TriggerName": "ToTower1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.213798,-1473.613,-6.103867E-05,-3.095471",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague3_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.585879,-1473.595,-6.103792E-05,-3.095471",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague3_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.956055,-1473.532,-6.103516E-05,-3.095471",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague3_T3"
+      }
+    },
+    {
+      "TriggerName": "ToTower4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.956055,-1473.532,-6.103516E-05,-3.095471",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague3_T4"
+      }
+    },
+    {
+      "TriggerName": "Trigger (4)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "37.05693,-1994.34,-6.103516E-05,-3.122406",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague2_PalaceInterior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1478-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5665-A",
+    "@last-modified": "2023-11-02T05:37:42.0317387Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Drains/Z00_ClubHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-TeleportToBackyard",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.861562,2721.783,1.800004,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Drains/Z00_ClubBackyard"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1386-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5345-A",
+    "@last-modified": "2023-10-31T09:31:58.549332Z"
+  }
+}

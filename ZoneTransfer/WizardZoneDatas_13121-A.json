@@ -1,0 +1,46 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/Interiors/DS_SkelKey_Library_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "EVENT-SkeletonKeyLock-Gold",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.09100938,-1036.199,-0.0001037918,-3.135798",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_SkelKey_Library_02"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.09100938,-1036.199,-0.0001037918,-3.135798",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_SkelKey_Library_02"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2841.758,-495.7307,0.0002441406,1.547582",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Library_Interior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2860-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13121-A",
+    "@last-modified": "2024-02-19T01:03:14.3536986Z"
+  }
+}

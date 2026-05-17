@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Triton_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street4 Tower2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5218.703,-7751.079,30.00003,1.603323",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:139-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/449-A",
+    "@last-modified": "2023-10-10T09:10:59.2522321Z"
+  }
+}

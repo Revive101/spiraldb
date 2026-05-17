@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Dorm",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6135.472,9827.589,-1749.783,1.570796",
+        "m_destinationZone": "Wysteria/PA_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:734-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2849-A",
+    "@last-modified": "2023-10-24T08:34:19.156391Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z00_LeonsHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_NostradonimusHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4067.896,-5063.047,-442.6721,1.682403",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1106-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4529-A",
+    "@last-modified": "2023-10-30T00:27:53.315881Z"
+  }
+}

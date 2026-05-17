@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Classroom_Ember",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3043.671,3932.911,-499.8301,-3.141593",
+        "m_destinationZone": "Wysteria/PA_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:749-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2850-A",
+    "@last-modified": "2023-10-24T09:16:28.2365189Z"
+  }
+}

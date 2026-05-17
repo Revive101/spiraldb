@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z09_FactoryFarm",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location Glockenspiel",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-64.69702,-55.77893,3.001984,0",
+        "m_destinationZone": "Karamelle/KM_Z09_CandyCornFarm"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1510-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5864-A",
+    "@last-modified": "2023-11-03T08:37:29.1197778Z"
+  }
+}

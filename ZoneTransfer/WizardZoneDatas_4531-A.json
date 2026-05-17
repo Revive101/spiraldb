@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/Z03_ZootsCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2963.976,-14527.51,1446.767,1.570796",
+        "m_destinationZone": "Polaris/PL_Z03_IcefallPassage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1111-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4531-A",
+    "@last-modified": "2023-10-30T01:17:51.2379916Z"
+  }
+}

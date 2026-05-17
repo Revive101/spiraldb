@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Aquila/Interiors/AQ_SkelKey_Hall_02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Exit_Room_2_to1_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.146605,-3829.515,-0.0002005061,3.13721",
+        "m_destinationZone": "Aquila/Interiors/AQ_SkelKey_Hall_01"
+      }
+    },
+    {
+      "TriggerName": "Exit_OnDeath_Version",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9775.98,2833.073,-981.7446,3.104759",
+        "m_destinationZone": "Aquila/AQ_Z00_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2875-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13282-A",
+    "@last-modified": "2024-02-19T01:46:56.0720997Z"
+  }
+}

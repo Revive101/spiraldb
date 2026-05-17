@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z03_FlowerCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-17925.96,11394.08,-1675.79,0",
+        "m_destinationZone": "Novus/NV_Z03_PuertoNuovo_MQ"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2252-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10465-A",
+    "@last-modified": "2023-11-25T07:50:34.2940754Z"
+  }
+}

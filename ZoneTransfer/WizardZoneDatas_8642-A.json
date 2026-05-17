@@ -1,0 +1,90 @@
+{
+  "ZoneName": "Mirage/MR_Z05_Istanboa",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9840.098,876.1113,69.95911,0.07316544",
+        "m_destinationZone": "Mirage/MR_Z04_RubalWastes"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToBottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3968.464,-1538.938,-3524.737,2.136107",
+        "m_destinationZone": "Mirage/MR_Z05_Istanboa"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToTop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-392.9651,-8824.808,4737.461,-1.052917",
+        "m_destinationZone": "Mirage/MR_Z05_Istanboa"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToSnakeSafehouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.554129,-2575.022,50.00194,3.12491",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_SnakeSafehouse"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToRuins",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "58.23888,-1501.577,0.08801831,-3.141593",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_CatstanRuins"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_RahqiGym",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "25.51465,-2571.49,50.00318,3.098112",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_RahqiGym"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportIntoPrison",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2115.97,210.5723,1.626713,1.570796",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_TetrusPrison"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2014-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8642-A",
+    "@last-modified": "2023-11-16T07:52:48.2914277Z"
+  }
+}

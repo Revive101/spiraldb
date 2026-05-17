@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z00_TezcatlipocaCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Azteca",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3615.626,5254.566,550.8192,1.570796",
+        "m_destinationZone": "Azteca/AZ_Z00_Zocalo"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1777-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7938-A",
+    "@last-modified": "2023-11-15T22:03:10.4059355Z"
+  }
+}

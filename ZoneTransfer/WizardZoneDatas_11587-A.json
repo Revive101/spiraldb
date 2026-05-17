@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_MaestroEvent/MS_Z02_SpiritSchool",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "562.9154,2151.195,167.3967,0.2516006",
+        "m_destinationZone": "MooShu/Interiors/MS_MaestroEvent/MS_Z00_LandingZone"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2572-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11587-A",
+    "@last-modified": "2023-12-23T04:33:29.3787201Z"
+  }
+}

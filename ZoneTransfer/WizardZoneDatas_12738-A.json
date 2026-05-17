@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int04",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_LastStation",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6309.142,2576.778,339.7716,1.342152",
+        "m_destinationZone": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int07"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2798-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12738-A",
+    "@last-modified": "2024-01-18T11:01:18.8383429Z"
+  }
+}

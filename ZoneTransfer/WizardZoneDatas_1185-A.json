@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_DarkCave_MalistairesHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1185.341,6793.608,30.00005,-1.575433",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_DarkCave"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleporter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-831.7678,-21.08527,0.2000488,-2.61445",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_DarkCave_MalistairesSanctum"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2660-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1185-A",
+    "@last-modified": "2024-01-03T07:57:02.322646Z"
+  }
+}

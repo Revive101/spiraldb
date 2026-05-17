@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z16_I05_BrokenBough_A",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_AstralLanding",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5358.611,12554.78,4958.867,-1.434724",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1205-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4962-A",
+    "@last-modified": "2023-10-31T06:21:15.5979021Z"
+  }
+}

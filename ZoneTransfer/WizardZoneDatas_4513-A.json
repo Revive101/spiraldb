@@ -1,0 +1,123 @@
+{
+  "ZoneName": "Polaris/PL_Z00_Walruskberg",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location To Harbor",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1177.72,5384.127,332.4342,-0.01844671",
+        "m_destinationZone": "Polaris/PL_Z01_Harbor"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_TikiTavern",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13.64073,-1749.385,86.06252,3.130687",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_TikiTavern"
+      }
+    },
+    {
+      "TriggerName": "TeleportTo_Shop01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-112.4204,120.9929,0.4313354,2.325186",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_Shop01"
+      }
+    },
+    {
+      "TriggerName": "Trigger teleporterPalace02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9.673302,-4429.823,2.15343E-05,3.112724",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_Palace_04B"
+      }
+    },
+    {
+      "TriggerName": "Teleport location To Midnight Inn",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "173.5851,-1343.839,86.06258,-3.130946",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_MidnightInn"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport East Gate",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-31.54102,635.3682,3.37439,-0.3860371",
+        "m_destinationZone": "Polaris/PL_Z02_ForlornTaig"
+      }
+    },
+    {
+      "TriggerName": "To_ClovisHeadquartersTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.8890533,120.8594,5.767784,0",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_ClovisHeadquarters"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to OperaHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "16.56363,-151.3438,2.840088,0",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_OperaHouse_02"
+      }
+    },
+    {
+      "TriggerName": "Trigger DressingRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "316.1901,-123.3926,-2.309692,-3.12849",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_Operahouse_Dressingroom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location_LeonsHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.8890533,120.8594,5.767784,0",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_LeonsHouse"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1105-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4513-A",
+    "@last-modified": "2023-10-30T00:27:02.7451677Z"
+  }
+}

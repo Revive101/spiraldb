@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z00_TikiStockroom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_TikiTavern",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-863.1016,849.1302,82.45769,0",
+        "m_destinationZone": "Polaris/Interiors/PL_Z00_TikiTavern"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2848-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13025-A",
+    "@last-modified": "2024-01-18T12:08:28.7715487Z"
+  }
+}

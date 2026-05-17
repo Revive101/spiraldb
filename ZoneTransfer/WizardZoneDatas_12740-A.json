@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int05",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_SpringfieldStation",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6310.779,2421.826,339.7717,1.847078",
+        "m_destinationZone": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int07"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2800-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12740-A",
+    "@last-modified": "2024-01-18T11:04:49.123288Z"
+  }
+}

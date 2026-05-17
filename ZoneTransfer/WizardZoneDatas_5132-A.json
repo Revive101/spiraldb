@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z02_LonelyTower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_High_Road_Spell",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11032.52,6868.252,205.6776,-2.934597",
+        "m_destinationZone": "Avalon/AV_Z02_HighRoad"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1323-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5132-A",
+    "@last-modified": "2023-10-31T08:20:09.4865023Z"
+  }
+}

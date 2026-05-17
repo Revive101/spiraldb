@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/Interiors/KT_PalaceOfFire_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location(Pyramid2 Tower2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19679.65,-8974.55,0.0001520749,-1.570796",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1729-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7393-A",
+    "@last-modified": "2023-11-14T17:45:41.0329699Z"
+  }
+}

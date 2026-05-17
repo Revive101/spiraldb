@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z04_NostradonimusHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_NostradonimusHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-639.6647,-9266.744,-1322.451,1.787252",
+        "m_destinationZone": "Polaris/PL_Z04_UrvilleStation"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1096-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4524-A",
+    "@last-modified": "2023-10-30T00:17:33.7104656Z"
+  }
+}

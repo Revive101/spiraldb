@@ -1,0 +1,97 @@
+{
+  "TemplateID": 38172,
+  "Spells": [
+    {
+      "TemplateID": 1496157882,
+      "RequiredSpellID": 0,
+      "Level": 1
+    },
+    {
+      "TemplateID": 219826034,
+      "RequiredSpellID": 1496157882,
+      "Level": 5
+    },
+    {
+      "TemplateID": 1382626752,
+      "RequiredSpellID": 219826034,
+      "Level": 8
+    },
+    {
+      "TemplateID": 1070933106,
+      "RequiredSpellID": 1382626752,
+      "Level": 10
+    },
+    {
+      "TemplateID": 432324968,
+      "RequiredSpellID": 1070933106,
+      "Level": 16
+    },
+    {
+      "TemplateID": 1253849275,
+      "RequiredSpellID": 1382626752,
+      "Level": 20
+    },
+    {
+      "TemplateID": 829983860,
+      "RequiredSpellID": 432324968,
+      "Level": 22
+    },
+    {
+      "TemplateID": 126627734,
+      "RequiredSpellID": 829983860,
+      "Level": 26
+    },
+    {
+      "TemplateID": 1615064713,
+      "RequiredSpellID": 126627734,
+      "Level": 30
+    },
+    {
+      "TemplateID": 44462310,
+      "RequiredSpellID": 1615064713,
+      "Level": 33
+    },
+    {
+      "TemplateID": 485049522,
+      "RequiredSpellID": 44462310,
+      "Level": 42
+    },
+    {
+      "TemplateID": 717247395,
+      "RequiredSpellID": 485049522,
+      "Level": 42
+    },
+    {
+      "TemplateID": 1456863201,
+      "RequiredSpellID": 44462310,
+      "Level": 45
+    },
+    {
+      "TemplateID": 589475048,
+      "RequiredSpellID": 485049522,
+      "Level": 50
+    },
+    {
+      "TemplateID": 1221439341,
+      "RequiredSpellID": 1524625512,
+      "Level": 40
+    },
+    {
+      "TemplateID": 2085904677,
+      "RequiredSpellID": 1221439341,
+      "Level": 42
+    },
+    {
+      "TemplateID": 1616117797,
+      "RequiredSpellID": 2085904677,
+      "Level": 45
+    }
+  ],
+  "@metadata": {
+    "@collection": "NpcSpellInventory",
+    "Raven-Clr-Type": "DragonNPCTool.Models.NPCSpellInventory, DragonNPCTool",
+    "@change-vector": "A:4373-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "NPCSpellInventories/161-A",
+    "@last-modified": "2025-04-13T01:09:25.9817683Z"
+  }
+}

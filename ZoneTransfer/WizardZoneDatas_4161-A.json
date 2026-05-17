@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/NV_Z05_LaVilleRose",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source-ToBasstille",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "284.7092,284.6836,1.795323,1.650791",
+        "m_destinationZone": "Novus/Interiors/NV_Z05_BasseSteele"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:996-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4161-A",
+    "@last-modified": "2023-10-29T08:51:20.7034404Z"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "Name": "WC-UNICORN-MAIN-007",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 10,
+  "MaxGold": 10,
+  "ExperienceAmount": 110,
+  "TrainingPoints": 0,
+  "GrantsPotionSlot": false,
+  "Items": [
+    {
+      "ItemId": "4808",
+      "ItemName": "Twice Stitched Boots",
+      "Notes": "Balance Item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Balance",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "4807",
+      "ItemName": "Martyr's Wraps",
+      "Notes": "Death Item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Death",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "4802",
+      "ItemName": "Soot Stained Boots",
+      "Notes": "Fire Item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Fire",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "4803",
+      "ItemName": "Explorer Boots",
+      "Notes": "Ice Item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Ice",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "4806",
+      "ItemName": "Fairy Shoes",
+      "Notes": "Life Item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Life",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "4805",
+      "ItemName": "Adventurer's Boots",
+      "Notes": "Myth Item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Myth",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "4804",
+      "ItemName": "Canvas Wraps",
+      "Notes": "Storm item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Storm",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    }
+  ],
+  "CreatedAt": "2025-10-21T17:49:13.5296616Z",
+  "ModifiedAt": "2025-12-05T01:07:13.8203045Z",
+  "CreatedBy": "jay",
+  "ModifiedBy": "jay",
+  "@metadata": {
+    "@collection": "DropTables",
+    "Raven-Clr-Type": "Imview.Core.Database.Models.DropTable, Imview.Core",
+    "@change-vector": "A:5492-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "droptables/wc-unicorn-main-007",
+    "@last-modified": "2025-12-05T01:07:13.9036079Z"
+  }
+}

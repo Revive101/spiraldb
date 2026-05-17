@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_RootSystem",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Altar Chamber",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5299.782,7.998802,-27.12597,1.599",
+        "m_destinationZone": "WizardCity/Interiors/WC_AltarChamber"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_to_Ravenwood_Teleporter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2517.517,81.32873,247.7481,1.680836",
+        "m_destinationZone": "WizardCity/WC_Ravenwood_Teleporter"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:681-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2690-A",
+    "@last-modified": "2023-10-22T08:36:46.5707838Z"
+  }
+}

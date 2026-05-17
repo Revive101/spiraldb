@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/CL_Z12_Test_of_the_Spheres/SunRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToSanctumoftheSun",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-331.7164,-2561.398,-6.557898E-05,-3.012186",
+        "m_destinationZone": "Celestia/Interiors/CL_Z12i2_Test_Of_The_Spheres"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2302-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10850-A",
+    "@last-modified": "2023-11-27T09:41:45.7061035Z"
+  }
+}

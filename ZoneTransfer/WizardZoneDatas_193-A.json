@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Fire_Cave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Golem Tower Fire Cave Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1534.839,3968.86,29.6203,1.389072",
+        "m_destinationZone": "WizardCity/WC_Golem_Tower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:44-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/193-A",
+    "@last-modified": "2023-10-06T01:33:10.2645871Z"
+  }
+}

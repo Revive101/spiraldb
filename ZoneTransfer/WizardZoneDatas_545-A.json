@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_AuctionHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToOldeTown",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1330.42,2153.27,-270.0001,-1.271427",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:155-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/545-A",
+    "@last-modified": "2023-10-10T19:11:32.4449857Z"
+  }
+}

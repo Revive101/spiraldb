@@ -1,0 +1,57 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z04_I01_Staircase",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToArmory",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.154874,2822.983,7.284546E-05,0",
+        "m_destinationZone": "G14_DM/DM_Z03_Armory"
+      }
+    },
+    {
+      "TriggerName": "Trigger-EVENT-SkeletonKeyLock-Gold",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.398785,-2020.863,401.6991,3.127736",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z04_I02_SkeletonKey3"
+      }
+    },
+    {
+      "TriggerName": "Trigger-SkeletonTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.398785,-2020.863,401.6991,3.127736",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z04_I02_SkeletonKey3"
+      }
+    },
+    {
+      "TriggerName": "ToObservatory",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-109.243,159.9762,-11.34277,0",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z07_I01_Observatory"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2928-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13633-A",
+    "@last-modified": "2024-02-21T22:04:58.5150625Z"
+  }
+}

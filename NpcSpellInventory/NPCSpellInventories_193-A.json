@@ -1,0 +1,97 @@
+{
+  "TemplateID": 38208,
+  "Spells": [
+    {
+      "TemplateID": 103007158,
+      "RequiredSpellID": 0,
+      "Level": 1
+    },
+    {
+      "TemplateID": 1243857701,
+      "RequiredSpellID": 103007158,
+      "Level": 5
+    },
+    {
+      "TemplateID": 1696448056,
+      "RequiredSpellID": 1243857701,
+      "Level": 8
+    },
+    {
+      "TemplateID": 1599065470,
+      "RequiredSpellID": 1696448056,
+      "Level": 10
+    },
+    {
+      "TemplateID": 400321766,
+      "RequiredSpellID": 1599065470,
+      "Level": 16
+    },
+    {
+      "TemplateID": 1598400839,
+      "RequiredSpellID": 1696448056,
+      "Level": 20
+    },
+    {
+      "TemplateID": 729953007,
+      "RequiredSpellID": 400321766,
+      "Level": 22
+    },
+    {
+      "TemplateID": 2031697996,
+      "RequiredSpellID": 400321766,
+      "Level": 22
+    },
+    {
+      "TemplateID": 373504299,
+      "RequiredSpellID": 729953007,
+      "Level": 26
+    },
+    {
+      "TemplateID": 1765559002,
+      "RequiredSpellID": 373504299,
+      "Level": 33
+    },
+    {
+      "TemplateID": 719065368,
+      "RequiredSpellID": 1765559002,
+      "Level": 42
+    },
+    {
+      "TemplateID": 2032500702,
+      "RequiredSpellID": 719065368,
+      "Level": 45
+    },
+    {
+      "TemplateID": 921541606,
+      "RequiredSpellID": 719065368,
+      "Level": 50
+    },
+    {
+      "TemplateID": 1248890746,
+      "RequiredSpellID": 1765559002,
+      "Level": 42
+    },
+    {
+      "TemplateID": 2065185354,
+      "RequiredSpellID": 1735246765,
+      "Level": 45
+    },
+    {
+      "TemplateID": 2033788231,
+      "RequiredSpellID": 603748810,
+      "Level": 15
+    },
+    {
+      "TemplateID": 1481949733,
+      "RequiredSpellID": 2033788231,
+      "Level": 32
+    }
+  ],
+  "@metadata": {
+    "@collection": "NpcSpellInventory",
+    "Raven-Clr-Type": "DragonNPCTool.Models.NPCSpellInventory, DragonNPCTool",
+    "@change-vector": "A:4361-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "NPCSpellInventories/193-A",
+    "@last-modified": "2025-04-11T21:55:24.0171136Z"
+  }
+}

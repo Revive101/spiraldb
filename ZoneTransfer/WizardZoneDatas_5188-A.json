@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z04_I09_Kiathi_Nighthunter_Cave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17846.69,-8403.691,7.742554,3.01724",
+        "m_destinationZone": "Zafaria/ZF_Z03_Savannah"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1339-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5188-A",
+    "@last-modified": "2023-10-31T08:35:36.9748903Z"
+  }
+}

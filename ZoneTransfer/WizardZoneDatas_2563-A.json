@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/MS_Plague/Interiors/MS_Plague2_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToPlague2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "39627.27,-12504.95,0,1.570796",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone2_RiverVillage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:635-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2563-A",
+    "@last-modified": "2023-10-19T11:42:36.1128191Z"
+  }
+}

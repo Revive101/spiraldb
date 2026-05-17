@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Shop_Athames",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To MB Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-791.0785,3918.043,20,-0.785387",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:432-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1921-A",
+    "@last-modified": "2023-10-14T08:21:24.9357376Z"
+  }
+}

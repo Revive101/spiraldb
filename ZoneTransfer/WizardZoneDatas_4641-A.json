@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z02_AethyriumOffice",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_Zanadu",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12359.42,4952.059,1602.337,0.4293334",
+        "m_destinationZone": "Empyrea/EM_Z02_Zanadu"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Aethyrium",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-92.04079,-300.0061,1.119263,-3.141593",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_Aethyrium"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1128-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4641-A",
+    "@last-modified": "2023-10-30T01:47:42.6350976Z"
+  }
+}

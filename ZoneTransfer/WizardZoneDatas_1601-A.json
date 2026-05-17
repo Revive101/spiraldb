@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Marleybone/MB_Station/MB_Station_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9365.773,-7216.98,-0.0002441406,2.37552",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    },
+    {
+      "TriggerName": "EnterPilotsPub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0,-720,3.051758E-05,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/PilotsPub"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Hyde Park",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.23438,-3799.008,0.008755877,2.030577",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Chelsea Court",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-15283.25,3722.49,0.00976558,-2.835561",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:585-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1601-A",
+    "@last-modified": "2023-10-19T05:12:47.7670676Z"
+  }
+}

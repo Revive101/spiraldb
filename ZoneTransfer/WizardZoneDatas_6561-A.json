@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Colossus_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street6 Tower1 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "35347,14174.3,29.99274,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1601-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6561-A",
+    "@last-modified": "2023-11-13T02:34:33.6662037Z"
+  }
+}

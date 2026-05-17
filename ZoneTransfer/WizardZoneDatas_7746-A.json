@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Tomb/Interiors/AhnicTomb_T2_2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-35.09461,-2839.932,10.73328,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Tomb/Interiors/KT_AhnicTomb_T2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1756-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7746-A",
+    "@last-modified": "2023-11-14T18:23:50.1094742Z"
+  }
+}

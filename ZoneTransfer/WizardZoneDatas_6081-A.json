@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z03_Actun",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4929.179,6250.222,22.84167,0.2160047",
+        "m_destinationZone": "Azteca/AZ_Z03_MangroveMarsh"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1566-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6081-A",
+    "@last-modified": "2023-11-06T06:22:27.1390205Z"
+  }
+}

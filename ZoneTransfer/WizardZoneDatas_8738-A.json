@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z10_SandsofTime",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Chronoverge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2518.695,21.42477,88.99069,1.555186",
+        "m_destinationZone": "Mirage/MR_Z10_Chronoverge"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2047-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8738-A",
+    "@last-modified": "2023-11-16T08:17:17.274762Z"
+  }
+}

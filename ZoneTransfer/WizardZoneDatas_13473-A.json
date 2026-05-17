@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z03_ArkCrashCinematic",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger_Teleport_Post_Cinematic",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2080.297,7578.001,-19.90323,2.452055",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z00_ArkHold"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2904-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13473-A",
+    "@last-modified": "2024-02-21T20:14:31.9568544Z"
+  }
+}

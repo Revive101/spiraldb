@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z07_MooCafe",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_Heap",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13532.99,-218.3412,-2051.696,1.566528",
+        "m_destinationZone": "Lemuria/LM_Z07_Heap"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1263-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5093-A",
+    "@last-modified": "2023-10-31T07:16:41.5942989Z"
+  }
+}

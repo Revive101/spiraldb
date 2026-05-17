@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Event_Maestro/MB_Z00_TelepgraphBox",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-TeleportMuseum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "29.95313,-270.1406,0.01416016,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z01_Museum"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportPrision",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-91.53613,-14.24951,0.2448883,0",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z02_Prison"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportHideout",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.6041565,-547.1146,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z03_MeowiartysLair"
+      }
+    },
+    {
+      "TriggerName": "Teleport-Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5852.936,2404.382,-6.961823E-05,0.8256664",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2567-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11553-A",
+    "@last-modified": "2023-12-23T04:28:29.9451088Z"
+  }
+}

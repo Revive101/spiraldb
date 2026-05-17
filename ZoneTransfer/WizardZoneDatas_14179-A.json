@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/TreasureTower/WC_TT01_Death_L03",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5855.824,-7475.971,439.0148,1.584838",
+        "m_destinationZone": "WizardCity/WC_Duel_Arena"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10.93949,-1015.692,1.616709,-3.114972",
+        "m_destinationZone": "WizardCity/TreasureTower/WC_TT01_Death_L04"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3469-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14179-A",
+    "@last-modified": "2024-05-31T20:29:32.2099096Z"
+  }
+}

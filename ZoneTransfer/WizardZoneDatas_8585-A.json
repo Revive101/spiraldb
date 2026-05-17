@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z02_Palace",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6086.812,3203.154,-1463.541,0.0006358145",
+        "m_destinationZone": "Mirage/MR_Z02_Aggrobah"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1991-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8585-A",
+    "@last-modified": "2023-11-16T07:38:58.7035984Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/CL_Z09_Science_Center",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location To Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4022.869,12454.45,-946.5974,1.574917",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3186-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2503-A",
+    "@last-modified": "2024-03-11T15:21:58.8786907Z"
+  }
+}

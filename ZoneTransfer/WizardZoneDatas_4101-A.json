@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Grizzleheim/GH_Hero",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToGrizzleHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9572.877,3716.686,542.7347,1.570796",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    },
+    {
+      "TriggerName": "Trigger ToHeroT8",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-210.0103,-1160.95,1.950083,-2.783501",
+        "m_destinationZone": "Grizzleheim/Interiors/GH_Hero_T8"
+      }
+    },
+    {
+      "TriggerName": "TeleportToHeroT1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-221.434,-1663.253,8.062927,-3.141593",
+        "m_destinationZone": "Grizzleheim/Interiors/GH_Hero_T1"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1672-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4101-A",
+    "@last-modified": "2023-11-14T10:38:29.9329651Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/Interiors/PageEvent/CL_BossRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoRoom1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-129.8544,-1149.456,1.950153,-3.088359",
+        "m_destinationZone": "Celestia/Interiors/PageEvent/CL_TrashMobs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2196-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10178-A",
+    "@last-modified": "2023-11-24T07:19:38.7821631Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Krokosphinx/Interiors/KT_Arena_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Sphinx03 Tower01 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "12053.15,28758.19,-6.103516E-05,0",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Arena"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2117-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7585-A",
+    "@last-modified": "2023-11-18T20:34:52.3274505Z"
+  }
+}

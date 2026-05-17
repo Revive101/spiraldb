@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Aquila/Interiors/AQ_Z03_HallOfHades",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToTartarus",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-20091.94,-40449.1,-218.8353,-3.118091",
+        "m_destinationZone": "Aquila/AQ_Z03_Tartarus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3408-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14145-A",
+    "@last-modified": "2024-04-18T00:43:42.5137325Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Unicorn_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street1 Tower2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-16502.67,18767.72,28.93817,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Unicorn"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:241-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1028-A",
+    "@last-modified": "2023-10-11T11:23:55.6272127Z"
+  }
+}

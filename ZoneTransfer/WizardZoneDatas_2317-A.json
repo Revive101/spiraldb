@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToAcademy",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3763.2,2419.222,0.0002441406,1.570796",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:561-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2317-A",
+    "@last-modified": "2023-10-17T08:42:12.1335819Z"
+  }
+}

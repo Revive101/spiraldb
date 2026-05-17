@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z05_I05_Jungle_Clearing_04",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Zam_Outskirt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4249.357,-6270.618,21.78529,2.735728",
+        "m_destinationZone": "Zafaria/ZF_Z05_Zamunda_Outskirts"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:703-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2793-A",
+    "@last-modified": "2023-10-24T07:30:40.2078934Z"
+  }
+}

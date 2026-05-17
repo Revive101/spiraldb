@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z09_I26_PaleBeautyBot02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_MantisCity",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3237.611,1203.971,20.00049,2.45166",
+        "m_destinationZone": "Khrysalis/KR_Z09_MantisCity"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1944-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8454-A",
+    "@last-modified": "2023-11-16T06:22:48.7110098Z"
+  }
+}

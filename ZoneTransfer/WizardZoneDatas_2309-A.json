@@ -1,0 +1,145 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToLibrary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5525.225,7076.401,375.0001,1.570796",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Hub_Library"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromDS_WizardTower (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19.02319,1141.834,0.1236137,0",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T3"
+      }
+    },
+    {
+      "TriggerName": "Teleport-Green",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10578.8,-2102.271,1011.874,-1.570796",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitGreen",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11892.24,153.8789,-92.2019,-2.356183",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ToWizardTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10093.95,-8629.977,1583.458,-0.7811384",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitWizardTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8888.849,-7405.759,-1446.107,2.356183",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-EnterYellow",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19086.84,-10482.88,1029.173,-1.570796",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitYellow",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20412.87,-8145.043,-744.2709,-2.268939",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-EnterOrange",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2383.443,-8214.917,1003.96,1.570796",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitOrange",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1136.787,-10551.44,-1266.785,0.752315",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-EnterBlue",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11016.04,-16655.52,1331.895,1.570796",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ExitingBlue",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9706.285,-18905.45,753.892,0.7854096",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:862-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2309-A",
+    "@last-modified": "2023-10-28T04:34:57.4875765Z"
+  }
+}

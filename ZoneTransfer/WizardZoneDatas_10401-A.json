@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Crystal_Tower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToCrystalTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6091.973,16506.18,1286.756,-1.545188",
+        "m_destinationZone": "Wysteria/PA_Z01_Pegasus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2236-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10401-A",
+    "@last-modified": "2023-11-24T10:27:07.5214358Z"
+  }
+}

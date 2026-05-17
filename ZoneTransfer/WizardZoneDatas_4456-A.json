@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Avalon/AV_Z05_TheWyrd",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_The_Wild",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3954.813,8877.911,224.3792,0.1142993",
+        "m_destinationZone": "Avalon/AV_Z04_TheWild"
+      }
+    },
+    {
+      "TriggerName": "To_DunDara_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3334.781,-5088.563,-340.9583,-1.286374",
+        "m_destinationZone": "Avalon/AV_Z06_DunDara"
+      }
+    },
+    {
+      "TriggerName": "To_CaveOfNight_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-219.0703,-1380.669,1.892899,-2.915977",
+        "m_destinationZone": "Avalon/Interiors/AV_Z05_CaveOfNight"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Chromatic",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4.176117,-822.4521,82.36121,-3.118328",
+        "m_destinationZone": "Avalon/Interiors/AV_Z05_TowerChromatic"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1329-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4456-A",
+    "@last-modified": "2023-10-31T08:23:33.6326254Z"
+  }
+}

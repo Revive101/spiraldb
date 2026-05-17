@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Golem_Tower/WC_Golem_Tower_5",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (WC_Golem_5 WC_Golem_4)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-518.1148,1207.106,36.78398,-0.4086321",
+        "m_destinationZone": "WizardCity/WC_Golem_Tower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:188-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/709-A",
+    "@last-modified": "2023-10-11T01:30:46.3345945Z"
+  }
+}

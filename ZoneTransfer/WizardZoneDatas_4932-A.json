@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Empyrea/EM_Z09_NWAeroplains",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_SWPlains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11777.86,13828.22,-7.338135,0",
+        "m_destinationZone": "Empyrea/EM_Z08_SWAeroplains"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_HelenasCamp",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6396.226,-2201.921,116.3403,0.4830546",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z09_HelenasCamp"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_VeloCity",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3130.627,15.0496,0.8966675,1.573891",
+        "m_destinationZone": "Empyrea/EM_Z11_VeloCity"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1199-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4932-A",
+    "@last-modified": "2023-10-31T06:13:09.0132922Z"
+  }
+}

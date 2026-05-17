@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z03_I02_Redbands_Hut",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Savannah",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "25046.78,2470.802,530.9747,2.225706",
+        "m_destinationZone": "Zafaria/ZF_Z03_Savannah"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1333-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5185-A",
+    "@last-modified": "2023-10-31T08:33:08.978576Z"
+  }
+}

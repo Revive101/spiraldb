@@ -1,0 +1,288 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z03_CrazyStairs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_PuertoNuovo",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5512.763,25998.62,680.0449,-0.2647785",
+        "m_destinationZone": "Novus/NV_Z03_PuertoNuovo_VA"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-427.3582,804.2706,749.4053,-1.629531",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-757.9921,83.65747,1122.041,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1104.407,-2682.17,658.8535,2.104666",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_04",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2128.916,-2467.878,121.7994,1.712868",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_05",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "598.9421,-2088.883,-13.14881,-1.207761",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_06",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "542.696,805.4785,221.5114,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_07",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-781.4928,-757.5884,491.9763,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_08",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "302.9658,-2600.198,1646.443,2.197478",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_09",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-667.0647,-1385.053,1250.463,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_10",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "459.9688,-2324.435,924.6543,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-1_11",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1674.282,-2928.647,1235.51,1.539762",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room1-2_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-585.4922,-1833.658,256.4933,-2.47719",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room2-1_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "172.7531,3826.298,495.7043,-1.712787",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Exit_PuertoNuovo",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5512.763,25998.62,680.0449,-0.2647785",
+        "m_destinationZone": "Novus/NV_Z03_PuertoNuovo_VA"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Room3_to_Room2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1546.36,4008.883,812.9509,-2.237013",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_FinalDoor_1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1487.096,10317.53,-714.9371,-2.994904",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_FinalDoor_2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1487.096,10317.53,-714.9371,-2.994904",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_FinalDoor_3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1487.096,10317.53,-714.9371,-2.994904",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_FinalDoor_4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1487.096,10317.53,-714.9371,-2.994904",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_FinalDoor_Wrong1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6409.929,5760.583,-645.4487,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_FinalDoor_Wrong4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6409.929,5760.583,-645.4487,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_FinalDoor_Wrong3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6409.929,5760.583,-645.4487,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_FinalDoor_Wrong2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6409.929,5760.583,-645.4487,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_PenaltyRoom_Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "172.7531,3826.298,495.7043,-1.712787",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CrazyStairs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2250-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4226-A",
+    "@last-modified": "2023-11-25T07:47:40.1425341Z"
+  }
+}

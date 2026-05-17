@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Ravenwood_Graduation",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.310564,-2950,244.0306,-3.109832",
+        "m_destinationZone": "WizardCity/WC_Ravenwood_Teleporter"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3533-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/737-A",
+    "@last-modified": "2024-05-31T20:58:52.8763036Z"
+  }
+}

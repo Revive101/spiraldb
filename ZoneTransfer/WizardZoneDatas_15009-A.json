@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Winter_Wind_Tower/Interior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Start_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2415.843,-3662.274,1158.744,-0.6143339",
+        "m_destinationZone": "Housing_Winter_Wind_Tower/Exterior"
+      }
+    },
+    {
+      "TriggerName": "Arena_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18828.08,-4994.844,307.172,0.06953579",
+        "m_destinationZone": "Housing_Winter_Wind_Tower/Exterior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:4091-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/15009-A",
+    "@last-modified": "2025-02-08T01:17:48.180478Z"
+  }
+}

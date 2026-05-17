@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z07_MilitaryStronghold",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2360.986,-1726.74,0.1956787,-2.455216",
+        "m_destinationZone": "Empyrea/EM_Z07_NimbusCitadel"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1182-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4899-A",
+    "@last-modified": "2023-10-31T06:01:24.9211384Z"
+  }
+}

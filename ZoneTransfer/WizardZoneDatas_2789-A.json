@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Zafaria/ZF_Z01_Baobab_Crown",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Library",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-918.8005,-25.05345,1.628978E-05,1.488701",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z01_I02_Library_Classroom"
+      }
+    },
+    {
+      "TriggerName": "To_BriarsPatchTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "84.08826,-1624.244,85.4063,-3.141593",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z01_I03_BriarPatch"
+      }
+    },
+    {
+      "TriggerName": "To_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3880.696,5816.43,65.59,-0.7950962",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:699-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2789-A",
+    "@last-modified": "2023-10-24T07:23:12.2300853Z"
+  }
+}

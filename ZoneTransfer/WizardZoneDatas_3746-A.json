@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Krokosphinx/Interiors/KT_Arena_T5",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1787.292,32142.34,0.4999804,1.570796",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Arena"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:900-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3746-A",
+    "@last-modified": "2023-10-29T04:13:04.1266366Z"
+  }
+}

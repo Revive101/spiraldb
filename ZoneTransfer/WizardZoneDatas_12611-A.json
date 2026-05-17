@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_HS/HS_Z03_ApepsTent",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11849.45,8660.862,-1988.022,-1.411971",
+        "m_destinationZone": "G14_HS/HS_Z02_ZigazagLower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2777-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12611-A",
+    "@last-modified": "2024-01-09T00:21:01.9372523Z"
+  }
+}

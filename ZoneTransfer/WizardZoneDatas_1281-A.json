@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/Interiors/KT_ShopSecret",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToKrokMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1167.075,-3527.087,1620,2.817283",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:294-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1281-A",
+    "@last-modified": "2023-10-12T04:19:49.6443935Z"
+  }
+}

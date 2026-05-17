@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Karamelle/KM_Z08_LicoriceForest",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location To_WitchesTreehouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-428.0005,-37.43679,1.580089E-05,-1.643091",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z08_WitchsTreehouse"
+      }
+    },
+    {
+      "TriggerName": "Teleport location_To_ Gutenstadt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5434.542,-630.1341,2.499969,-1.570796",
+        "m_destinationZone": "Karamelle/KM_Z07_Gutenstadt"
+      }
+    },
+    {
+      "TriggerName": "Teleport location_To_CandyCorn",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "57.68576,-7131.872,34.11628,2.928199",
+        "m_destinationZone": "Karamelle/KM_Z09_CandyCornFarm"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Gobblerton",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1029.711,2898.783,380.6586,-0.7026536",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z08_ColaLake"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1511-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5861-A",
+    "@last-modified": "2023-11-03T08:38:28.4102712Z"
+  }
+}

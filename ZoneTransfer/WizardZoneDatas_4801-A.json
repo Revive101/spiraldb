@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Empyrea/EM_Z04_InnerAthanor",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToPraesidium",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "12.59209,-906.8148,6.058032,-2.945546",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z04_Praesidium"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToControllRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-73.65894,-1082.087,0.1958008,-3.141593",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z04_ControlRoom"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportPipeJunction",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18.8871,-933.8646,0.3000488,-3.141593",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z04_PipeJunction"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToOuter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7568.483,-8138.538,-2400,0",
+        "m_destinationZone": "Empyrea/EM_Z03_OuterAthanor"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportJuiletHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-60.64296,29.89417,5.079163,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z04_JulietHouse"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1162-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4801-A",
+    "@last-modified": "2023-10-31T05:51:59.7837614Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/WC_Golem_Tower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (WC_Golem_Tower Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5927.122,2465.641,225.5859,-1.17728",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger TeleporterToFireCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20.87635,-698.4394,-3.051765E-05,3.139723",
+        "m_destinationZone": "WizardCity/Interiors/WC_Fire_Cave"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 7",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5.331646E-06,-1050,0.007022302,-3.141593",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Golem_Tower/WC_Golem_Tower_1"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:176-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/33-A",
+    "@last-modified": "2023-10-11T01:23:42.0202699Z"
+  }
+}

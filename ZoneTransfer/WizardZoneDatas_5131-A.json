@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z02_VortigernsTower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1967.331,6661.731,180.1882,1.740598",
+        "m_destinationZone": "Avalon/AV_Z02_HighRoad"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1321-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5131-A",
+    "@last-modified": "2023-10-31T08:18:49.3648674Z"
+  }
+}

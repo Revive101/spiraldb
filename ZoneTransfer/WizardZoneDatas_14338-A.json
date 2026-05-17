@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Wallaru/WL_Z05_Wobbegong_JT",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source-ToRanch",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "369.7124,-1441.752,-547.9479,0",
+        "m_destinationZone": "Wallaru/WL_Z06_CollieRanch"
+      }
+    },
+    {
+      "TriggerName": "Teleport source - Billabong",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "45.82187,-2872.029,1.999985,-3.135384",
+        "m_destinationZone": "Wallaru/WL_Z08_BillabongResort"
+      }
+    },
+    {
+      "TriggerName": "Teleport source-ToE-Forest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6160.668,-9099.97,1037.888,-2.876921",
+        "m_destinationZone": "Wallaru/WL_Z07_EucalyptusForest"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3639-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14338-A",
+    "@last-modified": "2024-09-07T04:48:17.0956096Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ZoneName": "MooShu/MS_Death/MS_Death_Zone3_AncientTree",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Death Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "21611.26,16815.19,-446.3769,1.570796",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
+      }
+    },
+    {
+      "TriggerName": "To Tower 4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3.133667,-1504.108,0,-3.141593",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death3_T4"
+      }
+    },
+    {
+      "TriggerName": "Death3TeleportToT4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "51.4593,14.26862,-0.0002441406,-3.141593",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death3_SpiritWorld"
+      }
+    },
+    {
+      "TriggerName": "To Tower 5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0,-1500,-6.103516E-05,-3.095471",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death3_T5"
+      }
+    },
+    {
+      "TriggerName": "To Tower 2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0,-1500,-6.103516E-05,-3.095471",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death3_T2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:522-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2209-A",
+    "@last-modified": "2023-10-17T06:41:21.8501001Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.6135521,1507.493,-298.4586,0",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int01"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_SecretBoss",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10307.66,3262.133,-140.0945,0.8514522",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int02"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_LowerIsland",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4768.778,-798.2505,-429.0869,1.105164",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2822-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12866-A",
+    "@last-modified": "2024-01-18T11:29:23.8118033Z"
+  }
+}

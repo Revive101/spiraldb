@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/ZF_Z02_Baobab_Market",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8354.41,1965.563,-839.1544,1.833231",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:693-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2788-A",
+    "@last-modified": "2023-10-24T07:18:51.7241751Z"
+  }
+}

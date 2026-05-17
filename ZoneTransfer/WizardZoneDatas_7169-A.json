@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/GH_RedClaw_End",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportOut",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "243.2393,2931.994,8.075867,-0.4833811",
+        "m_destinationZone": "Grizzleheim/Interiors/GH_RedClaw_T1"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1664-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7169-A",
+    "@last-modified": "2023-11-14T10:24:23.6896032Z"
+  }
+}

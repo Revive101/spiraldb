@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z07_TechnologistAcademy",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3094.783,1190.018,0.0008544922,-0.876835",
+        "m_destinationZone": "Empyrea/EM_Z07_NimbusCitadel"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1184-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4900-A",
+    "@last-modified": "2023-10-31T06:02:17.6581124Z"
+  }
+}

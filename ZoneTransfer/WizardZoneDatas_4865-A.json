@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Empyrea/EM_Z14_ChaosJungle",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport to EM_Z14_BatBattle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-103.1117,-104.29,0.1956787,-0.1758851",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z14_BatBattleCave"
+      }
+    },
+    {
+      "TriggerName": "Trigger ToTheRift",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.7744141,-1683.262,131.0891,-3.13941",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z14_Rift"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1176-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4865-A",
+    "@last-modified": "2023-10-31T05:58:37.3137689Z"
+  }
+}

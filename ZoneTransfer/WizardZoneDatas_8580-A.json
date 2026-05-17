@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Mirage/MR_Z01_AlkaliBarrows",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14442.92,-136.3464,154.323,1.136145",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger DefiledCrypt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6.941116,-2502.256,0.4999587,3.136335",
+        "m_destinationZone": "Mirage/Interiors/MR_Z01_DefiledCrypt"
+      }
+    },
+    {
+      "TriggerName": "To_DrujCaveTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1815.015,-1431.599,528.3292,1.165627",
+        "m_destinationZone": "Mirage/Interiors/MR_Z01_DrujCave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1984-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8580-A",
+    "@last-modified": "2023-11-16T07:34:20.0623804Z"
+  }
+}

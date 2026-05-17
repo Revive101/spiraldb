@@ -1,0 +1,52 @@
+{
+  "TemplateID": 1340974,
+  "Spells": [
+    {
+      "TemplateID": 339557111,
+      "RequiredSpellID": 0,
+      "Level": 92
+    },
+    {
+      "TemplateID": 339705174,
+      "RequiredSpellID": 0,
+      "Level": 92
+    },
+    {
+      "TemplateID": 734050659,
+      "RequiredSpellID": 0,
+      "Level": 92
+    },
+    {
+      "TemplateID": 858133588,
+      "RequiredSpellID": 0,
+      "Level": 97
+    },
+    {
+      "TemplateID": 1941856369,
+      "RequiredSpellID": 0,
+      "Level": 97
+    },
+    {
+      "TemplateID": 581480515,
+      "RequiredSpellID": 0,
+      "Level": 97
+    },
+    {
+      "TemplateID": 640427393,
+      "RequiredSpellID": 0,
+      "Level": 100
+    },
+    {
+      "TemplateID": 1058439688,
+      "RequiredSpellID": 0,
+      "Level": 120
+    }
+  ],
+  "@metadata": {
+    "@collection": "NpcSpellInventory",
+    "Raven-Clr-Type": "DragonNPCTool.Models.NPCSpellInventory, DragonNPCTool",
+    "@change-vector": "A:3673-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "NPCSpellInventories/385-A",
+    "@last-modified": "2024-09-13T04:05:02.4423821Z"
+  }
+}

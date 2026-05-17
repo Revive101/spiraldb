@@ -1,0 +1,46 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_RockDojoT2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11518.76,-12498.38,-154.0006,-3.141593",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3499.674,-6928.034,-79.59474,-3.141593",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3499.674,-6928.034,-79.59474,-3.141593",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:505-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2178-A",
+    "@last-modified": "2023-10-17T06:03:26.2040324Z"
+  }
+}

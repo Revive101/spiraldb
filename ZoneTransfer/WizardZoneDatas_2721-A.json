@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z15_DreamRavenwood",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR to DreamRavenwood",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "44.60474,3.940642,3.032301,-1.541736",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z15_DreamLife"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:683-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2721-A",
+    "@last-modified": "2023-10-22T08:50:52.0724308Z"
+  }
+}

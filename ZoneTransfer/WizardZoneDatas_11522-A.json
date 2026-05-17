@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z01__Falmeas_Dorm_Ice",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2099.461,516.7199,167.3967,-1.179531",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z00_TelegraphBox"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2538-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11522-A",
+    "@last-modified": "2023-12-23T03:52:23.7051776Z"
+  }
+}

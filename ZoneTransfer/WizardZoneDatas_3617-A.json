@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet_Swamp/HG_Gauntlet_Swamp_Int02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_Teleport_to_Wreck",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7340.209,26384.52,1262.94,-1.174325",
+        "m_destinationZone": "Housing_Gauntlet_Swamp/HG_Gauntlet_Swamp_Int03"
+      }
+    },
+    {
+      "TriggerName": "Teleport_ReturnTo_Shore",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "560.6768,1500.553,834.2491,1.557765",
+        "m_destinationZone": "Housing_Gauntlet_Swamp/HG_Gauntlet_Swamp_Int01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2736-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3617-A",
+    "@last-modified": "2024-01-08T23:25:54.5232325Z"
+  }
+}

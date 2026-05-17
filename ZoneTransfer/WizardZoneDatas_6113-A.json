@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Firecat_CabalSafehouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Hermit House Street 4 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18792.05,-7795.937,30.00561,2.893121",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Firecat"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1569-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6113-A",
+    "@last-modified": "2023-11-08T13:50:48.5822155Z"
+  }
+}

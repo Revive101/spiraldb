@@ -1,0 +1,35 @@
+{
+  "ZoneName": "G14_SB/SB_Z02_PagodaRoom01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ExitPagoda",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2489.389,-5760.745,1388.643,-1.426172",
+        "m_destinationZone": "G14_SB/SB_Z01_KimbaalungVillage"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToLvl2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.707736,-1939.235,133.933,-3.141593",
+        "m_destinationZone": "G14_SB/SB_Z03_PagodaRoom02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1436-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5505-A",
+    "@last-modified": "2023-11-01T12:46:48.5688016Z"
+  }
+}

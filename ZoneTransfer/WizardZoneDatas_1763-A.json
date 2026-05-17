@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/MB_Prison",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToScotYardHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2156.81,-2337.393,-239.9993,-3.141593",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Roof"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:408-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1763-A",
+    "@last-modified": "2023-10-14T05:40:17.1788132Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Aquila/Interiors/AQ_Z01_HallOfWatchfulEye",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToMountOlympis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23.53056,13130.74,-1290.588,0",
+        "m_destinationZone": "Aquila/AQ_Z01_MountOlympus"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToForge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "36.48554,-1174.809,6.103516E-05,-3.141593",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z01_HephaestusForge"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1722-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7330-A",
+    "@last-modified": "2023-11-14T11:56:14.4453631Z"
+  }
+}

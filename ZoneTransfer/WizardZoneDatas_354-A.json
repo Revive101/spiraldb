@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_SchoolFrost",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (FrostSchool Ravenwood Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3416.191,3605.734,-9.350915E-06,1.356648",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:87-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/354-A",
+    "@last-modified": "2023-10-10T08:33:35.8992912Z"
+  }
+}

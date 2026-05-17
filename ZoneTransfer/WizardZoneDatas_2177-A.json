@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_Emperor_Palace",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To MooShu Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "18741.92,17.7369,898.5422,1.570796",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:501-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2177-A",
+    "@last-modified": "2023-10-17T05:59:42.2645648Z"
+  }
+}

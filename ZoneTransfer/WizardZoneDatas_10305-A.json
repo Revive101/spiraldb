@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_WizardCommonsApt/House_WizardCommonsApt_Int_Pre",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-TeleportBackyard",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "28.83458,2641.218,1.800061,0",
+        "m_destinationZone": "Housing_WizardCommonsApt/House_WizardCommonsApt_Ext_Pre"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2211-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10305-A",
+    "@last-modified": "2023-11-24T09:38:49.3037409Z"
+  }
+}

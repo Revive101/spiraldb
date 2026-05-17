@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/GH_Nordrilund",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location To HFjord",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1666.981,16403.32,-1111.292,0",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_HFjord"
+      }
+    },
+    {
+      "TriggerName": "Trigger GH-STORM-C09-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-170.6479,-1329.962,9.659271,-2.810724",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Nord_Cave04"
+      }
+    },
+    {
+      "TriggerName": "TriggerGH-FIRE-C09-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-170.6479,-1329.962,9.659271,-2.810724",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Nord_Cave03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1695-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7235-A",
+    "@last-modified": "2023-11-14T11:03:46.6681114Z"
+  }
+}

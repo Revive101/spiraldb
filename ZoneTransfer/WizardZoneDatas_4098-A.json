@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/Hub_ShopHat_Shoe",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToGH_hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2066.984,4746.492,200.1999,0.3010057",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:967-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4098-A",
+    "@last-modified": "2023-10-29T08:24:37.2696751Z"
+  }
+}

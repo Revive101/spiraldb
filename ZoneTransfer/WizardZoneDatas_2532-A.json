@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Karamelle/KM_Z02_CandyMountains",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToEstate",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-112.4647,-6422.837,301.6167,3.139564",
+        "m_destinationZone": "Karamelle/KM_Z01_VonTrapEstate"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToKMCity",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5950.265,-7733.463,-328.9219,-1.583778",
+        "m_destinationZone": "Karamelle/KM_Z00_HUB"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:619-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2532-A",
+    "@last-modified": "2023-10-19T09:37:09.0771488Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTwon_H1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Street 1 House 1 Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10066.19,-3272.389,-2199.613,0.6310823",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    },
+    {
+      "TriggerName": "To_RobertosHideaway",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.08473,-3987.769,-83.45123,3.036469",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_OldeTown_C01"
+      }
+    },
+    {
+      "TriggerName": "TeleportOnCheck",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.120861,-3934.325,-83.45123,3.01299",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_OldeTown_C01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2740-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/833-A",
+    "@last-modified": "2024-01-08T23:32:12.1699164Z"
+  }
+}

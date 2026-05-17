@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/Interiors/MB_KatzLab_T5",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Lab",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-28248.42,11891.13,-239.9053,-1.570796",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KatzLab"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2160-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9889-A",
+    "@last-modified": "2023-11-21T07:57:58.6849004Z"
+  }
+}

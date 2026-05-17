@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/KT_PalaceOfFire",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (Krok_Pyramid_Level02 Krok_Pyramid_Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4225.884,7061.358,973.672,1.5756",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_AltarOfKings"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1734-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1377-A",
+    "@last-modified": "2023-11-14T17:48:02.5085642Z"
+  }
+}

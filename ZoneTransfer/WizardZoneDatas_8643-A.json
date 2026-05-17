@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z05_SnakeSafehouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToOutsideSankesHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7924.209,577.9854,-3525.292,2.671555",
+        "m_destinationZone": "Mirage/MR_Z05_Istanboa"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2009-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8643-A",
+    "@last-modified": "2023-11-16T07:49:47.7180274Z"
+  }
+}

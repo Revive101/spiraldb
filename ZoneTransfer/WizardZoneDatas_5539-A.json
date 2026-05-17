@@ -1,0 +1,46 @@
+{
+  "ZoneName": "G14_SB/SB_Z07_Hallway",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-back",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "458.8782,-9608.801,-2064.497,-3.141593",
+        "m_destinationZone": "G14_SB/SB_Z06_PuzzleRoom"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportOut",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.158035,-2394.452,0.1998138,-3.141593",
+        "m_destinationZone": "G14_SB/SB_Z08_ShrineRoom"
+      }
+    },
+    {
+      "TriggerName": "Trigger-SkeletonTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1189.651,2291.26,44.80286,0.619435",
+        "m_destinationZone": "G14_SB/SB_Z10_SkeletonKey02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1450-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5539-A",
+    "@last-modified": "2023-11-01T13:15:12.348345Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z05_NodoChord",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Stomach",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4676.18,-4396.508,-81.76597,-2.884986",
+        "m_destinationZone": "Empyrea/EM_Z05_Sepidious"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1146-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4738-A",
+    "@last-modified": "2023-10-31T05:36:28.2976002Z"
+  }
+}

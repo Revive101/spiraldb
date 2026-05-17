@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_PostOffice1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-744.6346,-817.5828,20,-2.361949",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:443-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1953-A",
+    "@last-modified": "2023-10-14T08:27:54.0934409Z"
+  }
+}

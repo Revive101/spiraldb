@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z03_HallOfPlumage_Room02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Tula_Village",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7066.205,-5069.722,200.9016,3.06003",
+        "m_destinationZone": "Azteca/AZ_Z03_MangroveMarsh"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1562-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6052-A",
+    "@last-modified": "2023-11-06T06:18:51.2492341Z"
+  }
+}

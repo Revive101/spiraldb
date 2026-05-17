@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/GH_Wolf_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToWOLF",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20412.87,-8145.043,-744.2709,-2.268939",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:844-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3457-A",
+    "@last-modified": "2023-10-27T14:29:29.1101821Z"
+  }
+}

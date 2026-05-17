@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Krokotopia/KT_Tomb/Interiors/KT_AhnicTomb_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Crypt01 Tower02 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7217.314,29.13,2.228931,1.570796",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_AhnicTomb"
+      }
+    },
+    {
+      "TriggerName": "ToTheBackroom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-42.0802,2664.004,-0.0002441406,0",
+        "m_destinationZone": "Krokotopia/KT_Tomb/Interiors/AhnicTomb_T2_2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1755-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7745-A",
+    "@last-modified": "2023-11-14T18:23:39.3909088Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z02_MoonCliffs_Int01_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ExitEclipseTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5123.21,217.6997,1157.67,-1.047696",
+        "m_destinationZone": "Khrysalis/KR_Z02_MoonCliffs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1875-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8258-A",
+    "@last-modified": "2023-11-16T04:20:04.7635307Z"
+  }
+}

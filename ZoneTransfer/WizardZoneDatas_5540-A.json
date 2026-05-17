@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_SB/SB_Z08_ShrineRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.8252089,5423.557,0.2047119,0",
+        "m_destinationZone": "G14_SB/SB_Z07_Hallway"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1449-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5540-A",
+    "@last-modified": "2023-11-01T13:14:16.1387469Z"
+  }
+}

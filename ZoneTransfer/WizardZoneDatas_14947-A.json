@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_Gauntlet_Voyage/Gauntlet_03/Z03_DataBeach",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-35.90563,-2460.041,61.63403,3.073409",
+        "m_destinationZone": "Housing_Gauntlet_Voyage/Gauntlet_03/Z04_DataCavern"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:4034-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14947-A",
+    "@last-modified": "2025-02-04T07:24:14.7550889Z"
+  }
+}

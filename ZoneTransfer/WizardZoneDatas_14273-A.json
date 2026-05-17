@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Wallaru/WL_Z01_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger_WL_Z01_I14_IceShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1127.651,-18.92129,1.097179,1.531345",
+        "m_destinationZone": "Wallaru/Interiors/WL_Z01_I14_IceShop"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Outback",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7522.681,-2182.437,90.59731,-0.7124183",
+        "m_destinationZone": "Wallaru/WL_Z02_Outback"
+      }
+    },
+    {
+      "TriggerName": "Teleport to WL_Z01_JuggernautCrabTheater",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7.398315,-177.02,0,0",
+        "m_destinationZone": "Wallaru/Interiors/WL_Z01_JuggernautCrabTheater"
+      }
+    },
+    {
+      "TriggerName": "Teleport to WL_Z01_I00_PrimeMinister",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7.398315,1376.66,0,0",
+        "m_destinationZone": "Wallaru/Interiors/WL_Z01_I00_PrimeMinister"
+      }
+    },
+    {
+      "TriggerName": "Trigger_TeleportSource_BanditAlley_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "36.51564,553.4404,1.999756,3.105425",
+        "m_destinationZone": "Wallaru/Interiors/WL_Z01_I15_BanditAlley"
+      }
+    },
+    {
+      "TriggerName": "Teleport to WL_Z01_I02_Courthouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.258362,1381.413,1.24523,3.039244",
+        "m_destinationZone": "Wallaru/Interiors/WL_Z01_I02_Courthouse"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3913-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14273-A",
+    "@last-modified": "2025-01-29T06:39:16.8450873Z"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "ZoneName": "WizardCity/WC_Ravenwood",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (to Commons)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-86.57737,1414.714,-30.48014,0.02866558",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (to MythSchool)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-119.3933,4.761268,0.5001203,-1.556804",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolMyth"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (to IceSchool)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-128.9479,1.022176,0.5001198,-1.58151",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolFrost"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (to StormSchool)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-87.55535,1.81952,0.5001216,-1.548901",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolStorm"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (to FireSchool)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-135.7416,-0.9598687,0.5001194,-1.580902",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolFire"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportLifeTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1103.623,2.410233,0.0069763,-1.538797",
+        "m_destinationZone": "WizardCity/Interiors/WC_TowerLife"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Teleport to Ice Tower ICE-C02)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1153.768,2.149168,1.598597,-1.562072",
+        "m_destinationZone": "WizardCity/Interiors/WC_TowerIce"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Teleport to Storm Tower C03)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1135.28,0.9950686,0.006974843,-1.576353",
+        "m_destinationZone": "WizardCity/Interiors/WC_TowerStorm"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Teleport to Fire Tower C02)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1181.391,29.41205,15.48319,-1.589626",
+        "m_destinationZone": "WizardCity/Interiors/WC_TowerFire"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportLifeSchool",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-106.8441,2.170145,0.5001208,-1.551283",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolLife"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Myth-C02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1114.32,12.72943,0.007019043,-1.570796",
+        "m_destinationZone": "WizardCity/Interiors/WC_TowerMyth"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportTower1-Boys",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "29.88838,3.523079,-1.76543E-06,-1.586301",
+        "m_destinationZone": "WizardCity/Interiors/WC_Housing_Dorm_Interior"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportTower2-Girls",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "29.56053,4.139771,0,-1.570796",
+        "m_destinationZone": "WizardCity/Interiors/WC_Housing_Dorm_Interior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:468-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/97-A",
+    "@last-modified": "2023-10-15T21:46:39.9020732Z"
+  }
+}

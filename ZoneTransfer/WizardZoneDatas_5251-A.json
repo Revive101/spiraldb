@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z08_I08_Librarians_Hideout",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Waterfront",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4535.005,8441.691,-64.94283,-0.4940946",
+        "m_destinationZone": "Zafaria/ZF_Z08_Waterfront"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1359-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5251-A",
+    "@last-modified": "2023-10-31T08:57:38.7626639Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z07_ChamberRedSorrow",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport Out",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5308.588,-3823.98,1823.982,2.078044",
+        "m_destinationZone": "Azteca/AZ_Z07_TierraDeBrea"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1803-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8037-A",
+    "@last-modified": "2023-11-15T22:51:56.7022683Z"
+  }
+}

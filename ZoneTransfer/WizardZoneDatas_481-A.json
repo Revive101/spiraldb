@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Drains/Z00_Drains_HUB",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location - Golem Court",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3318.507,1813.633,30.09988,-1.102024",
+        "m_destinationZone": "WizardCity/WC_Golem_Tower"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_CatacombsA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13297.12,-9130.349,534.874,3.124293",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Catacombs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:671-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/481-A",
+    "@last-modified": "2023-10-22T08:28:52.201222Z"
+  }
+}

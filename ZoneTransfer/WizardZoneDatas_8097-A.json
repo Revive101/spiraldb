@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Azteca/AZ_Z09_AltoAlto",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_Cloudburst_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7041.768,2655.995,48.20667,-0.9200967",
+        "m_destinationZone": "Azteca/AZ_Z06_CloudburstIsland"
+      }
+    },
+    {
+      "TriggerName": "To_Feather_Palace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1042.691,-20.50013,0.03029815,-1.585735",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z09_FeatherPalace"
+      }
+    },
+    {
+      "TriggerName": "To_Secret_Passage",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4976.425,4399.892,1891.583,1.741155",
+        "m_destinationZone": "Azteca/AZ_Z09_AltoAlto"
+      }
+    },
+    {
+      "TriggerName": "Petal_Door_Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11655.39,10980.73,2155.639,-1.230324",
+        "m_destinationZone": "Azteca/AZ_Z10_FloatingMountains"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1815-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8097-A",
+    "@last-modified": "2023-11-15T23:09:20.8608377Z"
+  }
+}

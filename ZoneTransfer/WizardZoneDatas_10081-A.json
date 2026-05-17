@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_PageEvent_MobRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Boss_Room",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-46.51149,-953.7289,0.006918797,-3.034718",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_PageEvent_BossRoom"
+      }
+    },
+    {
+      "TriggerName": "To_Triton_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-38137.37,1801.304,30.00928,-0.7707451",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2184-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10081-A",
+    "@last-modified": "2023-11-24T06:45:54.03753Z"
+  }
+}

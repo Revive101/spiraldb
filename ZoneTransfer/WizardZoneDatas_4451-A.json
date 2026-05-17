@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z01_KnightsHall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2383.614,0.6304703,50.20001,1.642187",
+        "m_destinationZone": "Avalon/AV_Z01_AbbeyRoad"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1057-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4451-A",
+    "@last-modified": "2023-10-29T22:11:24.2052518Z"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "TemplateID": 82209,
+  "Spells": [
+    {
+      "TemplateID": 1731857280,
+      "RequiredSpellID": 0,
+      "Level": 1
+    },
+    {
+      "TemplateID": 82556199,
+      "RequiredSpellID": 1731857280,
+      "Level": 5
+    },
+    {
+      "TemplateID": 406227672,
+      "RequiredSpellID": 82556199,
+      "Level": 8
+    },
+    {
+      "TemplateID": 827805677,
+      "RequiredSpellID": 406227672,
+      "Level": 10
+    },
+    {
+      "TemplateID": 524731385,
+      "RequiredSpellID": 827805677,
+      "Level": 16
+    },
+    {
+      "TemplateID": 1912575401,
+      "RequiredSpellID": 406227672,
+      "Level": 20
+    },
+    {
+      "TemplateID": 90582150,
+      "RequiredSpellID": 524731385,
+      "Level": 22
+    },
+    {
+      "TemplateID": 732623153,
+      "RequiredSpellID": 90582150,
+      "Level": 26
+    },
+    {
+      "TemplateID": 164715309,
+      "RequiredSpellID": 90582150,
+      "Level": 24
+    },
+    {
+      "TemplateID": 728541335,
+      "RequiredSpellID": 732623153,
+      "Level": 33
+    },
+    {
+      "TemplateID": 1515496444,
+      "RequiredSpellID": 732623153,
+      "Level": 33
+    },
+    {
+      "TemplateID": 2119939559,
+      "RequiredSpellID": 1515496444,
+      "Level": 42
+    },
+    {
+      "TemplateID": 1370410273,
+      "RequiredSpellID": 334242429,
+      "Level": 45
+    },
+    {
+      "TemplateID": 41441599,
+      "RequiredSpellID": 2127936401,
+      "Level": 50
+    },
+    {
+      "TemplateID": 2133794290,
+      "RequiredSpellID": 82556199,
+      "Level": 8
+    },
+    {
+      "TemplateID": 2127936401,
+      "RequiredSpellID": 728541335,
+      "Level": 42
+    },
+    {
+      "TemplateID": 1969090447,
+      "RequiredSpellID": 728541335,
+      "Level": 38
+    }
+  ],
+  "@metadata": {
+    "@collection": "NpcSpellInventory",
+    "Raven-Clr-Type": "DragonNPCTool.Models.NPCSpellInventory, DragonNPCTool",
+    "@change-vector": "A:4326-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "NPCSpellInventories/228-A",
+    "@last-modified": "2025-04-07T05:05:48.9080886Z"
+  }
+}

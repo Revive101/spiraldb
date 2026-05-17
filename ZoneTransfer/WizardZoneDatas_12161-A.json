@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Library_Archive",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToLibrary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1491.569,1530.557,0.2,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_Library"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2694-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12161-A",
+    "@last-modified": "2024-01-05T11:53:22.3523747Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z04_I02_GovernorsMansion",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10865.58,4461.362,-270.8002,-1.559304",
+        "m_destinationZone": "Novus/NV_Z04_NewVicorgia"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1000-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4194-A",
+    "@last-modified": "2023-10-29T09:00:36.4781555Z"
+  }
+}

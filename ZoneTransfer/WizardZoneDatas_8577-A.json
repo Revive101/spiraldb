@@ -1,0 +1,101 @@
+{
+  "ZoneName": "Mirage/MR_Z00_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport Bottom Of Rock",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "343.8312,1883.129,334.4641,0.863463",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport Top Of Rock",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1523.566,3385.214,2090.783,2.431858",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_MottomanTreasureCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2042.124,-1021.583,543.648,1.672604",
+        "m_destinationZone": "Mirage/Interiors/MR_Z04_MottomanTreasureCave"
+      }
+    },
+    {
+      "TriggerName": "Teleport to CleanRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "831.2549,-659.1519,40.56004,1.896381",
+        "m_destinationZone": "Mirage/Interiors/MR_Z00_CleanRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location - Alkali Barrows",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2608.836,163.931,-377.1456,1.380671",
+        "m_destinationZone": "Mirage/MR_Z01_AlkaliBarrows"
+      }
+    },
+    {
+      "TriggerName": "Teleport location - Aggrobah",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-298.8828,121.4435,-1463.541,-1.570796",
+        "m_destinationZone": "Mirage/MR_Z02_Aggrobah"
+      }
+    },
+    {
+      "TriggerName": "Teleport location - Caterwaul",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5.793457,575.8125,4081.016,0.12332",
+        "m_destinationZone": "Mirage/MR_Z03_CaterwaulCanyon"
+      }
+    },
+    {
+      "TriggerName": "Teleport location - Rubal Wastes",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2200.971,-18331.62,-474.9224,-2.928443",
+        "m_destinationZone": "Mirage/MR_Z04_RubalWastes"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2001-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8577-A",
+    "@last-modified": "2023-11-16T07:44:35.3483386Z"
+  }
+}

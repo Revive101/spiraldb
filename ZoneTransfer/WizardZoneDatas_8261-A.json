@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z00_I01_WeepingTower_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1133.941,9.583954,0.2001839,1.491955",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z00_I00_BenightedBurrow"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2013.155,97.29678,1.788227,1.501418",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z00_I01_WeepingTower_02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1886-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8261-A",
+    "@last-modified": "2023-11-16T05:02:36.5413453Z"
+  }
+}

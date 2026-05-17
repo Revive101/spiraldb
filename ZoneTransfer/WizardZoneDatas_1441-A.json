@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Krokotopia/KT_Tomb/KT_WellOfSpirits",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (KT_Crypt_Hub KT_Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10355.45,-8239.18,-373.4126,-2.375159",
+        "m_destinationZone": "Krokotopia/KT_Hub_Crypt"
+      }
+    },
+    {
+      "TriggerName": "Teleport (KT_Crypt_Hub KT_Crypt_Level02 Entrance) (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-650.4514,2.428635,-2.984253,-1.570796",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_DjeseritTomb"
+      }
+    },
+    {
+      "TriggerName": "Teleport (KT_Crypt_Hub KT_Crypt_Level03 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "701.3008,8.025871,0.000979518,1.570796",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_Barracks"
+      }
+    },
+    {
+      "TriggerName": "Teleport (KT_Crypt_Hub KT_Crypt_Level01 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "653.9932,7.624596,-2.983887,1.663895",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_AhnicTomb"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:914-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1441-A",
+    "@last-modified": "2023-10-29T04:38:17.4361906Z"
+  }
+}

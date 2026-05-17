@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Aquila/AQ_Z03_Tartarus",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToGarden",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8097.608,12706.02,-1654.259,-0.8122584",
+        "m_destinationZone": "Aquila/AQ_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "ToCaveofNyx",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "54.25269,-3414.595,581.0975,-3.038741",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_CavOfNyx"
+      }
+    },
+    {
+      "TriggerName": "HouseofFaunTelTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26.33102,-3026.547,22.19981,3.050869",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_HouseOfFaun"
+      }
+    },
+    {
+      "TriggerName": "TempleofLongingTriggerTel",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5.310893,-1209.607,13.9314,-3.141593",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "BackToTempleOfLonging",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.999137,1412.408,98.58368,0",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_TempleOfLonging"
+      }
+    },
+    {
+      "TriggerName": "HallOfHadesTeleportTrig",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-102.1648,-281.9304,0.001647988,0",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z03_HallOfHades"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3406-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14113-A",
+    "@last-modified": "2024-04-18T00:43:18.0576282Z"
+  }
+}

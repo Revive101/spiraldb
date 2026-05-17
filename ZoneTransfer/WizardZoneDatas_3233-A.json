@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Spiral_Cinematic",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (WC_Headmaster_Tower WC_Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1540.718,185.0006,0.0001602173,-3.11942",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Headmaster Tower to Headmaster Office)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "432.3413,15.91629,5.490242E-06,1.600196",
+        "m_destinationZone": "WizardCity/Interiors/WC_Headmistress_House"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:825-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3233-A",
+    "@last-modified": "2023-10-26T07:23:56.9737666Z"
+  }
+}

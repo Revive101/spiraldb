@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_SkelKey_FathomlessTomb1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23.67889,1287.812,-434.7563,-3.098411",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_SkelKey_FathomlessTomb2"
+      }
+    },
+    {
+      "TriggerName": "EVENT-SkeletonKeyLock-Gold",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23.67889,1287.812,-434.7563,-3.098411",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_SkelKey_FathomlessTomb2"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ExitLanding",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7889.728,-10221.99,6.324524,-3.141593",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Catacombs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2670-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11905-A",
+    "@last-modified": "2024-01-05T06:20:23.8747219Z"
+  }
+}

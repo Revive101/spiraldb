@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z10_GobblertonFactory",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Gobblerton",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2824.861,-6404.079,201.9192,3.13484",
+        "m_destinationZone": "Karamelle/KM_Z10_Gobblerton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1515-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5867-A",
+    "@last-modified": "2023-11-03T08:43:06.1622615Z"
+  }
+}

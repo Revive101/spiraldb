@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z07_SkyAnchorPeak",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_BorealisPeaks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "709.8325,747.282,229.8172,-0.1967941",
+        "m_destinationZone": "Polaris/PL_Z07_BorealisPeaks"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1117-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4577-A",
+    "@last-modified": "2023-10-30T01:34:21.3991289Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z09_HelenasCamp",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_NWPlains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2741.976,16322.68,272.9577,0",
+        "m_destinationZone": "Empyrea/EM_Z09_NWAeroplains"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1198-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4933-A",
+    "@last-modified": "2023-10-31T06:12:30.5700426Z"
+  }
+}

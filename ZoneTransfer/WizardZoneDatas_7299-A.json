@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Aquila/Interiors/AQ_Z01_Apollo_Room",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ExitApolloRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6341.086,8332.134,-9.828369,1.570796",
+        "m_destinationZone": "Aquila/AQ_Z01_MountOlympus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1714-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7299-A",
+    "@last-modified": "2023-11-14T11:53:45.9127185Z"
+  }
+}

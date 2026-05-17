@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Celestia/CL_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Zone 05",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6330.817,-6399.331,-399.7,2.37097",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Zone 01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3662.832,-1525.32,-10.20972,-3.094146",
+        "m_destinationZone": "Celestia/CL_Z01_Survey_Camp"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Zone 10",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-182.2115,215.2978,-95.35144,2.360835",
+        "m_destinationZone": "Celestia/CL_Z10_Kingdom_Of_The_Crabs"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Zone 06",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "24742.89,12677.78,380.4947,0.7560251",
+        "m_destinationZone": "Celestia/CL_Z06_StormHaven"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Zone 03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10.13599,-377.7618,184.0335,3.106957",
+        "m_destinationZone": "Celestia/CL_Z03_District_Of_The_Stars"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportToZone09",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1076.004,-6007.015,-244.5229,-2.770563",
+        "m_destinationZone": "Celestia/CL_Z09_Science_Center"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:607-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2497-A",
+    "@last-modified": "2023-10-19T09:04:58.4259132Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_HauntedCave_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (BossTower to Cave2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9475.322,11235.34,-133.6072,-0.810446",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_HauntedCave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1551-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5985-A",
+    "@last-modified": "2023-11-03T14:59:12.6571772Z"
+  }
+}

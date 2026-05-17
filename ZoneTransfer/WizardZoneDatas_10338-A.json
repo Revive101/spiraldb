@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Gauntlet/MB_Gauntlet1/MB_Gauntlet1_02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Tower4toGarden",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.282349,875.4941,5.305054,0",
+        "m_destinationZone": "Marleybone/Interiors/MB_Gauntlet/MB_Gauntlet1/MB_Gauntlet1_01"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-36.50278,-999.1869,18.96463,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Gauntlet/MB_Gauntlet1/MB_Gauntlet1_03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2217-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10338-A",
+    "@last-modified": "2023-11-24T09:52:37.1199842Z"
+  }
+}

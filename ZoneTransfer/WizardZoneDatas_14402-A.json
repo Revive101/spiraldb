@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z07_I03_DoomMoonBridge",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_AnteChamber",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.29387,159.9355,-14.96541,0",
+        "m_destinationZone": "Novus/NV_Z07_DoomMoon"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3660-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14402-A",
+    "@last-modified": "2024-09-11T04:00:36.0992589Z"
+  }
+}

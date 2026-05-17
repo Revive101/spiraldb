@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/MS_Death/Interiors/MS_Death3_T4",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1024.368,34997.17,153.5219,1.570796",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:517-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2210-A",
+    "@last-modified": "2023-10-17T06:30:02.7596972Z"
+  }
+}

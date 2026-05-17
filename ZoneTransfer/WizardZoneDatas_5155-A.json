@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z05_TowerChromatic",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_The_Wyrd",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-56.021,-5129.975,-1554.894,2.902169",
+        "m_destinationZone": "Avalon/AV_Z05_TheWyrd"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1330-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5155-A",
+    "@last-modified": "2023-10-31T08:23:49.5040421Z"
+  }
+}

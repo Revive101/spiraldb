@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Avalon/AV_Z01_AbbeyRoad",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport To Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5735.322,-2969.488,-509.6,1.559424",
+        "m_destinationZone": "Avalon/AV_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "TeleportTo AV_KnightsHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1153.869,-15.75628,38.08148,-1.517909",
+        "m_destinationZone": "Avalon/Interiors/AV_Z01_KnightsHall"
+      }
+    },
+    {
+      "TriggerName": "To La Biblioteca",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-739.5971,43.6894,2.183903,-1.467889",
+        "m_destinationZone": "Avalon/Interiors/AV_Z01_Library"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1058-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4450-A",
+    "@last-modified": "2023-10-29T22:11:56.36303Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_SB/SB_Z09_SkeletonKey01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToPagoda",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "29.06958,1860.586,133.8459,0",
+        "m_destinationZone": "G14_SB/SB_Z04_PagodaRoom03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1441-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5508-A",
+    "@last-modified": "2023-11-01T12:52:33.2835638Z"
+  }
+}

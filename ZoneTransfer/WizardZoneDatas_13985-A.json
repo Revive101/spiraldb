@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Zafaria/ZF_Z11_Mirror_Lake",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3104.625,2353.077,-956.4193,0",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "TeleortTriggerToShiningMt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.314938,12271.76,285.844,0.02373978",
+        "m_destinationZone": "Zafaria/ZF_Z12_Shining_Mountain"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2999-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13985-A",
+    "@last-modified": "2024-03-07T12:33:27.4615453Z"
+  }
+}

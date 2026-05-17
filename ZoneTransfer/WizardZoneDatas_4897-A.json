@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/EM_Z06_NimbusHanger",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-ToCitadel",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.883026,-2229.969,0.1956045,-3.024449",
+        "m_destinationZone": "Empyrea/EM_Z07_NimbusCitadel"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1179-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4897-A",
+    "@last-modified": "2023-10-31T06:00:11.2579457Z"
+  }
+}

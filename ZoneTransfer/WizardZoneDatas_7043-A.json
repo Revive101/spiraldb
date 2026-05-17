@@ -1,0 +1,46 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Volcano1ToPathofScalesLower)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1340.995,-10544.6,-2413.997,1.551744",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano_Cave3"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Volcano1ToPathofScalesUpper)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-150.301,-71.1874,-22.54502,1.551691",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano_Cave3"
+      }
+    },
+    {
+      "TriggerName": "ToAcademy",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-14.55327,5848.705,100.0001,0",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_LandingZone"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1647-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7043-A",
+    "@last-modified": "2023-11-14T09:18:09.4711419Z"
+  }
+}

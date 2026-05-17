@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_SkeleKey_House_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "EVENT-SkeletonKeyLock-Gold",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.571106,-2084.467,81.02499,-3.117154",
+        "m_destinationZone": "Wysteria/Interiors/PA_SkeleKey_House_2"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.571106,-2084.467,81.02499,-3.117154",
+        "m_destinationZone": "Wysteria/Interiors/PA_SkeleKey_House_2"
+      }
+    },
+    {
+      "TriggerName": "Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7305.669,4641.111,486.3903,1.592638",
+        "m_destinationZone": "Wysteria/PA_Z02_Tanglewood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2690-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12065-A",
+    "@last-modified": "2024-01-05T11:46:50.3026544Z"
+  }
+}

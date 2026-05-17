@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Event_Maestro/ZF_Z04_PirateShipDeck",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToShipInterior",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5.543126,-3768.683,-0.00112915,-3.141593",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Event_Maestro/ZF_Z03_PirateShipInt"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1869.813,310.2841,206.443,-0.6000416",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Event_Maestro/ZF_Z00_TelegraphBox"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2596-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11650-A",
+    "@last-modified": "2023-12-23T05:12:41.2475331Z"
+  }
+}

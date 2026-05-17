@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z07_JeweledSlopes",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_IceBeach",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "709.8325,747.282,229.8172,-0.1967941",
+        "m_destinationZone": "Polaris/PL_Z07_BorealisPeaks"
+      }
+    },
+    {
+      "TriggerName": "To_JeweledSlopesP2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5165.429,573.2666,-689.8716,-1.261108",
+        "m_destinationZone": "Polaris/Interiors/PL_Z07_JeweledSlopes_P2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2832-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12929-A",
+    "@last-modified": "2024-01-18T11:48:31.4788992Z"
+  }
+}

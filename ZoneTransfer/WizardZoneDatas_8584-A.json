@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z02_IndraHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Aggrobah",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9401.126,-710.5465,-2050.941,-1.561807",
+        "m_destinationZone": "Mirage/MR_Z02_Aggrobah"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1989-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8584-A",
+    "@last-modified": "2023-11-16T07:37:53.5530042Z"
+  }
+}

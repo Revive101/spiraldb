@@ -1,0 +1,68 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Firecat",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (Street5 Street2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11761.04,-2339.221,-2200,-0.8578082",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Street5 to Cavern)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "12000.81,11443.47,0.0007324219,-3.134954",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_DarkCave"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Street 5 House 6 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "432.4652,66.74506,1.989867,0.5833707",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_H2"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Flamea's House",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "432.8752,-64.24352,1.103638,1.623264",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_H1"
+      }
+    },
+    {
+      "TriggerName": "Trigger CabelSafehouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "464.7949,33.36941,1.103638,1.601829",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_CabalSafehouse"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1567-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/323-A",
+    "@last-modified": "2023-11-08T13:50:08.2593397Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Name": "TEST",
+  "Description": "",
+  "RollChance": 0.98,
+  "Weight": 100,
+  "NoneChance": 0.02,
+  "PityCounter": 0.0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1000",
+      "ItemName": "New Item",
+      "Notes": "Balance Item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqIsSchool, Imcodec.ObjectProperty",
+            "m_magicSchoolName": "Balance",
+            "m_targetType": "RT_Caster",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "1001",
+      "ItemName": "New Item",
+      "Notes": "Fire Item",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqIsSchool, Imcodec.ObjectProperty",
+            "m_magicSchoolName": "Fire",
+            "m_targetType": "RT_Caster",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    }
+  ],
+  "CreatedAt": "2025-09-19T00:20:58.1398998Z",
+  "ModifiedAt": "2025-10-17T00:27:57.6824707Z",
+  "CreatedBy": "jay",
+  "ModifiedBy": "jay",
+  "@metadata": {
+    "@collection": "DropTables",
+    "Raven-Clr-Type": "Imview.Core.Database.Models.DropTable, Imview.Core",
+    "@change-vector": "A:5324-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "droptables/test",
+    "@last-modified": "2025-10-17T00:27:57.6550205Z"
+  }
+}

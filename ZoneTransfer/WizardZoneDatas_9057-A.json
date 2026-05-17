@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/Gauntlets/WC_Gauntlet_01/Room04",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToLevel3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.153564,940.7559,1.612305,0",
+        "m_destinationZone": "WizardCity/Gauntlets/WC_Gauntlet_01/Room03"
+      }
+    },
+    {
+      "TriggerName": "ToLevel5Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.542426,-1021.459,1.61377,-3.141593",
+        "m_destinationZone": "WizardCity/Gauntlets/WC_Gauntlet_01/Room05"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2079-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9057-A",
+    "@last-modified": "2023-11-17T07:19:58.0435628Z"
+  }
+}

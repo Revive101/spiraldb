@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Azteca/AZ_Z00_Zocalo",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger To Mangrove Marsh",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-517.4879,-66.416,-9.136727,-1.436316",
+        "m_destinationZone": "Azteca/AZ_Z03_MangroveMarsh"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-26.49227,-187.5975,275.176,3.101099",
+        "m_destinationZone": "Azteca/AZ_Z01_ThreePoints"
+      }
+    },
+    {
+      "TriggerName": "To_TezcatlipocaCaveTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.571533,-1043.103,0.1008606,3.032209",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z00_TezcatlipocaCave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1776-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6049-A",
+    "@last-modified": "2023-11-15T22:02:56.4136584Z"
+  }
+}

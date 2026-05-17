@@ -1,0 +1,90 @@
+{
+  "ZoneName": "Khrysalis/KR_Z02_MoonCliffs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Bastion",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6678.67,3856.186,402.7052,0.930057",
+        "m_destinationZone": "Khrysalis/KR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ToEclipseTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-995.5809,18.10413,-174.9998,-1.592232",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z02_MoonCliffs_Int01_01"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportBeeHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "406.4515,-70.34967,11.3895,1.570796",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z02_I04_BeeHouseA"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportDetention",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17.78634,-1868.544,8.340363,-3.141593",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z02_DetentionBlock"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToCavedInCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "73.87293,-135.4932,4.820482,-0.04318982",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z02_CavedInCave"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToLastWood",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.8059044,-265.3592,37.02874,-0.06762048",
+        "m_destinationZone": "Khrysalis/KR_Z03_LastWood"
+      }
+    },
+    {
+      "TriggerName": "Trigger-EventToTeleportToLastWood",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.8059044,-265.3592,37.02874,-0.06762048",
+        "m_destinationZone": "Khrysalis/KR_Z03_LastWood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1897-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8257-A",
+    "@last-modified": "2023-11-16T05:43:56.7966088Z"
+  }
+}

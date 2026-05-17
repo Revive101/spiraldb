@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Khrysalis/KR_Z01_SilentMarket",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "to Bastion",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7002.954,-4091.096,482.0234,-2.170934",
+        "m_destinationZone": "Khrysalis/KR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger teleport to TyrianGorge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7163.613,-7021.372,2619.124,-2.46028",
+        "m_destinationZone": "Khrysalis/KR_Z04_TyrianGorge"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1856-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8227-A",
+    "@last-modified": "2023-11-16T04:03:07.7765615Z"
+  }
+}

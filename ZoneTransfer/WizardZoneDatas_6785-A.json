@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/Interiors/KT_Chamber_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Pyramid3 Tower2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-28550.55,-18019.84,2500,-1.570796",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Chamber"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1620-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6785-A",
+    "@last-modified": "2023-11-13T23:24:39.7652858Z"
+  }
+}

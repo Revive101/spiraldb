@@ -1,0 +1,123 @@
+{
+  "ZoneName": "Grizzleheim/GH_MainHub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToHatShoeShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "231.4363,9.287853,6.733196,1.570796",
+        "m_destinationZone": "Grizzleheim/Interiors/Hub_ShopHat_Shoe"
+      }
+    },
+    {
+      "TriggerName": "ToFurnitureShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "302.5296,-26.4657,1.944883,1.570796",
+        "m_destinationZone": "Grizzleheim/Interiors/Hub_ShopHouse"
+      }
+    },
+    {
+      "TriggerName": "ThroneRoomTeleportTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5.91537,-2350.32,0.0009765625,-3.141593",
+        "m_destinationZone": "Grizzleheim/Interiors/Hub_ThroneRoom"
+      }
+    },
+    {
+      "TriggerName": "HeroCampTeleportTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5480.568,-3691.922,232.0627,-1.82051",
+        "m_destinationZone": "Grizzleheim/GH_Hero"
+      }
+    },
+    {
+      "TriggerName": "WolfFortressTeleportTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-57.58585,308.3048,-3.543043,2.793565",
+        "m_destinationZone": "Grizzleheim/GH_Wolf"
+      }
+    },
+    {
+      "TriggerName": "RedClawFortressTeleportTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-20.27296,-7328.202,-452.6613,-3.141593",
+        "m_destinationZone": "Grizzleheim/GH_RedClaw"
+      }
+    },
+    {
+      "TriggerName": "RavenFortressTeleportTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "519.819,-254.1555,-101.6494,1.425909",
+        "m_destinationZone": "Grizzleheim/GH_Raven"
+      }
+    },
+    {
+      "TriggerName": "ToAbandonedCity",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11.83647,107.5432,0,-3.141593",
+        "m_destinationZone": "Grizzleheim/GH_AbandCity/GH_EntranceHall"
+      }
+    },
+    {
+      "TriggerName": "Trigger_GoToGH2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-23.65468,342.1801,-292.6755,-2.464496",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_HFjord"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "18.62648,-1147.093,-4.166489,-3.003636",
+        "m_destinationZone": "Grizzleheim/Interiors/Hub_CraftingRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:982-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4097-A",
+    "@last-modified": "2023-10-29T08:34:36.9197207Z"
+  }
+}

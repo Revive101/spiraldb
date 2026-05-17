@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Firecat_H1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street5 NPC House1 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5237.8,-1075.142,29.99995,3.139421",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Firecat"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:256-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1124-A",
+    "@last-modified": "2023-10-11T19:38:30.4475594Z"
+  }
+}

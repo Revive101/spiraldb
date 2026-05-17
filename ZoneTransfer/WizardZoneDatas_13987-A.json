@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/ZF_Z13_Mirror_Lake_Drained",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "153.0881,46.34628,-709.6104,-1.633361",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3002-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13987-A",
+    "@last-modified": "2024-03-07T12:34:39.0474629Z"
+  }
+}

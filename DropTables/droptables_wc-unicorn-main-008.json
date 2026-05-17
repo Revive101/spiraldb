@@ -1,0 +1,32 @@
+{
+  "Name": "WC-UNICORN-MAIN-008",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 20,
+  "MaxGold": 20,
+  "ExperienceAmount": 150,
+  "TrainingPoints": 0,
+  "GrantsPotionSlot": true,
+  "Items": [
+    {
+      "ItemId": "100420",
+      "ItemName": "Sprite TC",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2025-12-04T10:22:19.0066099Z",
+  "ModifiedAt": "2026-04-02T16:48:56.4858752Z",
+  "CreatedBy": "jay",
+  "ModifiedBy": "makima",
+  "@metadata": {
+    "@collection": "DropTables",
+    "Raven-Clr-Type": "Imview.Core.Database.Models.DropTable, Imview.Core",
+    "@change-vector": "A:5572-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "droptables/wc-unicorn-main-008",
+    "@last-modified": "2026-04-02T16:49:40.8424119Z"
+  }
+}

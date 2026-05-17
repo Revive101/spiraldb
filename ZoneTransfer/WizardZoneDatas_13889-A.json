@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z02_MagicCarpetRide",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger - Teleport to Caterwaul",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8106.008,-8515.521,-4355.563,2.658168",
+        "m_destinationZone": "Mirage/MR_Z03_CaterwaulCanyon"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8106.008,-8515.521,-4355.563,2.658168",
+        "m_destinationZone": "Mirage/MR_Z03_CaterwaulCanyon"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2964-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13889-A",
+    "@last-modified": "2024-02-29T08:46:16.820854Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_WorldTeleporter",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (KT_WorldTeleporter KT_Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.22358,232.6532,-22.172,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2974-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1217-A",
+    "@last-modified": "2024-03-03T17:05:43.3706432Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z01_VonTrapLodge_02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_vonTrapEstate_FrontDoor",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4573.548,-2072.869,120.898,2.074769",
+        "m_destinationZone": "Karamelle/KM_Z01_VonTrapEstate"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_vonTrapEstate_BackDoor",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6607.831,-3225.694,120.4029,-1.105618",
+        "m_destinationZone": "Karamelle/KM_Z01_VonTrapEstate"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:616-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2531-A",
+    "@last-modified": "2023-10-19T09:34:16.9972572Z"
+  }
+}

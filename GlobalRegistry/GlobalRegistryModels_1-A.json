@@ -1,0 +1,34 @@
+{
+  "GlobalRegistryValues": {
+    "Localization": 1,
+    "Christmas": 0,
+    "Halloween": 0,
+    "WizardDay": 0,
+    "Easter": 0,
+    "StPatricks": 0,
+    "Vallentines": 0,
+    "Thanksgiving": 0,
+    "Revamp01": 0,
+    "Revamp02": 0,
+    "LoyaltyProgram": 0,
+    "KM-Teaser": 0,
+    "MaestroEvent": 0,
+    "ME_Sinbad": 0,
+    "ME_GreatClock": 0,
+    "ME_SpiralCup": 0,
+    "ClassProject_Fishing_01_Teleport": 0,
+    "Krampus": 0,
+    "PageEvent": 0,
+    "ME_AccursedPlay": 0,
+    "ME_FantasticVoyage": 0,
+    "ME_GrandTourney": 0,
+    "TestRealmShop": 0
+  },
+  "@metadata": {
+    "@collection": "GlobalRegistry",
+    "Raven-Clr-Type": "Imlight.CoreLib.WizardData.Models.World.GlobalRegistryModel, Imlight.CoreLib",
+    "@change-vector": "A:3788-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "GlobalRegistryModels/1-A",
+    "@last-modified": "2025-01-12T08:44:40.0440172Z"
+  }
+}

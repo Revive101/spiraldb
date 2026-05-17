@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_Gauntlet_Highlands/HG_Gauntlet_Highlands_Int03",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_Ettinburgh",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "571.187,-2217.532,-376.8813,-2.526556",
+        "m_destinationZone": "Housing_Gauntlet_Highlands/HG_Gauntlet_Highlands_Int01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2730-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12258-A",
+    "@last-modified": "2024-01-08T23:19:12.636941Z"
+  }
+}

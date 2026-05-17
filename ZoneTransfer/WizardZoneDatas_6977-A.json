@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/Interiors/CL_Z12i1_Test_Of_The_Spheres",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToMoonroomTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "32.44609,-3701.579,1089.907,-3.069277",
+        "m_destinationZone": "Celestia/CL_Z12_Test_of_the_Spheres/MoonRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2298-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6977-A",
+    "@last-modified": "2023-11-27T09:34:44.0901644Z"
+  }
+}

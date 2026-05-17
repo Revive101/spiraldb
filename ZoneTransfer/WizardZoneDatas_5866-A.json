@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Karamelle/KM_Z10_Gobblerton",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_GobblertonFactory",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12.44324,-4014.48,2,3.126328",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z10_GobblertonFactory"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_RosinasLab",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "15.34319,798.5521,1.074933,-9.873235E-05",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z10_RosinasLab"
+      }
+    },
+    {
+      "TriggerName": "Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5413.743,-22.28076,1.99999,1.576475",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z10_ThroneRoom_A"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1518-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5866-A",
+    "@last-modified": "2023-11-03T08:45:55.4533171Z"
+  }
+}

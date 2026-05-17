@@ -1,0 +1,90 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/DS_A2Z3_Detention",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToTower4FromDetention",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1787.032,4.113583,-95.59131,-1.570796",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Detention_T4"
+      }
+    },
+    {
+      "TriggerName": "TeleportToTower2FromDetentionTrigg",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.999459,1155.857,-1.119049,0",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Detention_T2"
+      }
+    },
+    {
+      "TriggerName": "TeleportToTower3FromDetention",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-86.64378,1141.834,0.1236137,0",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Detention_T3"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ToNecropolis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7359.467,10149.84,200.0401,-1.570796",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Hub_Necropolis"
+      }
+    },
+    {
+      "TriggerName": "TeleportToTower1Trigg",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1991.919,12.60034,-148.3575,-1.627798",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Detention_T1"
+      }
+    },
+    {
+      "TriggerName": "ToHouse1FromDetention",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "349.7062,-33.81932,0.0002441406,1.570796",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Detention_H1"
+      }
+    },
+    {
+      "TriggerName": "Trigger-WC-MYTH-C06-002-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.880065,-1236.452,0.1234916,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Detention_Gauntlet_3Room01_Sub/3Room01_3"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2280-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10017-A",
+    "@last-modified": "2023-11-26T04:17:37.5417359Z"
+  }
+}

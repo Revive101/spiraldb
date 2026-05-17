@@ -1,0 +1,68 @@
+{
+  "ZoneName": "WizardCity/AZ_Arena",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (5)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1814.836,-4613.464,675.4207,-1.500882",
+        "m_destinationZone": "WizardCity/AZ_Arena"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (4)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-422.0303,-6044.098,1965.936,-3.127447",
+        "m_destinationZone": "WizardCity/AZ_Arena"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (3)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3777.538,4523.964,3603.631,-0.5295413",
+        "m_destinationZone": "WizardCity/AZ_Arena"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3658.878,5056.621,686.5318,1.155536",
+        "m_destinationZone": "WizardCity/AZ_Arena"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5932.612,6514.123,1624.794,0",
+        "m_destinationZone": "WizardCity/AZ_Arena"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2464-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11489-A",
+    "@last-modified": "2023-12-11T11:10:36.3545793Z"
+  }
+}

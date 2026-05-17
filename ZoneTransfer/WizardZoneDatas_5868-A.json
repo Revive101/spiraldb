@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z10_RosinasLab",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Gobblerton",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5153.23,-4128.68,233.0317,-1.582956",
+        "m_destinationZone": "Karamelle/KM_Z10_Gobblerton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1517-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5868-A",
+    "@last-modified": "2023-11-03T08:43:45.9833513Z"
+  }
+}

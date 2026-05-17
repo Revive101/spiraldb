@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Lemuria/LM_Z04_Badlands",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_NightForest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5973.104,-2505.468,-541.7537,2.574005",
+        "m_destinationZone": "Lemuria/LM_Z03_NightForest"
+      }
+    },
+    {
+      "TriggerName": "To_SavageClearing",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-155.4206,1866.347,0.9982821,-0.01718356",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z04_I02_SavageClearing"
+      }
+    },
+    {
+      "TriggerName": "To_Mandoria",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-389.4707,-7792.441,-997.8308,-2.833948",
+        "m_destinationZone": "Lemuria/LM_Z05_Mandoria"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1242-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5033-A",
+    "@last-modified": "2023-10-31T07:03:16.7449299Z"
+  }
+}

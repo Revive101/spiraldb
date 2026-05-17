@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Housing_PyramidOfTheLost/Interior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_InteriorLadderToLower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-64.10445,-8095.929,757.2482,1.602678",
+        "m_destinationZone": "Housing_PyramidOfTheLost/Interior"
+      }
+    },
+    {
+      "TriggerName": "Teleport_InteriorLadderToUpper",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-838.6523,2640.51,-44.99976,3.13783",
+        "m_destinationZone": "Housing_PyramidOfTheLost/Interior"
+      }
+    },
+    {
+      "TriggerName": "Teleport_InteriorPinkRoomAtoB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5748.261,-5023.645,676.1802,-1.14343",
+        "m_destinationZone": "Housing_PyramidOfTheLost/Interior"
+      }
+    },
+    {
+      "TriggerName": "Teleport_InteriorPinkRoomBtoA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2283.065,-16465.04,-160.5511,-3.141593",
+        "m_destinationZone": "Housing_PyramidOfTheLost/Interior"
+      }
+    },
+    {
+      "TriggerName": "Teleport_InteriorBlueRoomAtoB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "30.27864,-9397.624,-626.2557,-1.570796",
+        "m_destinationZone": "Housing_PyramidOfTheLost/Interior"
+      }
+    },
+    {
+      "TriggerName": "Teleport_InteriorBlueRoomBtoA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4877.117,-9423.439,336.083,-1.570796",
+        "m_destinationZone": "Housing_PyramidOfTheLost/Interior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:883-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3585-A",
+    "@last-modified": "2023-10-28T06:27:30.3190791Z"
+  }
+}

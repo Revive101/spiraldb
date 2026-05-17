@@ -1,0 +1,68 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Volcano1ToHowlingFront)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "370.9916,-14798.52,-2.636414,1.565946",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano_Cave2"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Volcano1FromHowlingBack)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "50.28236,-16.24927,-2.670166,1.564705",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano_Cave2"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Volcano1ToDragonsBack)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "66.25325,-14791.64,-6.661854,1.570044",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano_Cave1"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Volcano1ToDragonsFront)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "240.0123,-15.50672,-2.629822,1.585006",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano_Cave1"
+      }
+    },
+    {
+      "TriggerName": "Trigger (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-142.2899,-536.8154,0.01538086,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_MalistaireLair"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1661-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7137-A",
+    "@last-modified": "2023-11-14T09:34:02.6456Z"
+  }
+}

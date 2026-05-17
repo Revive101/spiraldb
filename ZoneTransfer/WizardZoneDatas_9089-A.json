@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Firecat_Theatre",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (FireTheatre Street5 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-24084.96,-5996.099,31.02617,-1.571828",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Firecat"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2095-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9089-A",
+    "@last-modified": "2023-11-17T07:45:11.7206135Z"
+  }
+}

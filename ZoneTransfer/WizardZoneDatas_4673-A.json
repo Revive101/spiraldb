@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z02_DusksHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_Zanadu",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12954.78,-8213.55,451.9055,-1.847381",
+        "m_destinationZone": "Empyrea/EM_Z02_Zanadu"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1140-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4673-A",
+    "@last-modified": "2023-10-31T05:30:53.3684528Z"
+  }
+}

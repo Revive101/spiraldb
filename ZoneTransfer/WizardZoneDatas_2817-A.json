@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Wysteria/PA_Z01_Pegasus",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-PA_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2871.78,12701.94,750.1686,0.7595016",
+        "m_destinationZone": "Wysteria/PA_Hub"
+      }
+    },
+    {
+      "TriggerName": "TeleportTriggerPA-SIDE-C08-002",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-209.9078,21.1391,61.01404,1.56843",
+        "m_destinationZone": "Wysteria/Interiors/PA_House02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:711-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2817-A",
+    "@last-modified": "2023-10-24T07:47:01.4842749Z"
+  }
+}

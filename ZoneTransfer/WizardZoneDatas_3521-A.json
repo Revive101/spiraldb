@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Housing_Winter_Wind_Tower/Exterior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_World_Door",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2415.843,-3662.274,1158.744,-0.6143339",
+        "m_destinationZone": "Housing_Winter_Wind_Tower/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_Combat_Circle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18828.08,-4994.844,307.172,0.06953579",
+        "m_destinationZone": "Housing_Winter_Wind_Tower/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_Castle_From_PvP",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-15599.29,4905.35,183.5807,-2.781637",
+        "m_destinationZone": "Housing_Winter_Wind_Tower/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_Pavillion",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-24193.8,13156.96,213.565,1.53668",
+        "m_destinationZone": "Housing_Winter_Wind_Tower/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_Cave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18629.92,12793.22,3.272781,-1.270993",
+        "m_destinationZone": "Housing_Winter_Wind_Tower/Exterior"
+      }
+    },
+    {
+      "TriggerName": "To_Castle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11.79765,-1426.817,-6.103516E-05,-3.125362",
+        "m_destinationZone": "Housing_Winter_Wind_Tower/Interior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:4088-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3521-A",
+    "@last-modified": "2025-02-08T01:04:07.2283433Z"
+  }
+}

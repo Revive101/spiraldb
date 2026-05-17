@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z08_I08_Dreamroom3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToRaidanceReborn",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.673286,4466.488,125.6926,2.762123",
+        "m_destinationZone": "Khrysalis/KR_Z08_RadianceReborn"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1923-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8418-A",
+    "@last-modified": "2023-11-16T06:06:15.3213439Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/Interiors/GH_HFjord_TownHall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7689.047,11133.67,-372.8595,-1.513476",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_HFjord"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1540-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5954-A",
+    "@last-modified": "2023-11-03T09:58:19.5565397Z"
+  }
+}

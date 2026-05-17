@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/KT_Hall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Kroc_Pyr01_TP_KrocPyramidHUB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1139.031,2126.959,4.617006E-06,1.502135",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_AltarOfKings"
+      }
+    },
+    {
+      "TriggerName": "Trigger BAL-C03-004",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.872528,2558.375,0,0",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Hall_T2"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport for MYTH-C03-002",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-121.901,2558.375,0,0",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Hall_T3"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2098-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1345-A",
+    "@last-modified": "2023-11-17T10:07:35.6122311Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/LM_Arena",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Telepor_2_WaterTowerRoof",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3392.696,-295.3051,1261.441,-0.2205637",
+        "m_destinationZone": "WizardCity/LM_Arena"
+      }
+    },
+    {
+      "TriggerName": "Telepor to WC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3079.157,-4409.75,438.968,2.351842",
+        "m_destinationZone": "WizardCity/WC_Duel_Arena"
+      }
+    },
+    {
+      "TriggerName": "Telepor to WC (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3079.157,-4409.75,438.968,2.351842",
+        "m_destinationZone": "WizardCity/WC_Duel_Arena"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2651-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11777-A",
+    "@last-modified": "2023-12-31T07:58:36.2237112Z"
+  }
+}

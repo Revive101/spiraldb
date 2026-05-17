@@ -1,0 +1,101 @@
+{
+  "ZoneName": "Empyrea/EM_Z02_Zanadu",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_LeisureDome",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.557256,-627.0239,47.73901,-3.141593",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_LeisureDome"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Sewers",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10958.7,6139.594,-509.2095,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_Sewers"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_AethryiumOffice",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-437.7271,-1024.329,-0.7753906,-1.709504",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_AethyriumOffice"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_SewersPalaceWest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4632.149,7986.338,-501.5543,0.5306442",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_Sewers"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_SewersPalaceSide",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7226.431,18172.96,-501.825,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_Sewers"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_ThroneRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3665.539,6840.948,6.702084,0.6356551",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_ThroneRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_DusksHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.760742,2463.519,0.1828613,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_DusksHouse"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_Archives",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1100.005,5758.715,1.119385,1.570796",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_AethyriumArchives"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1141-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4385-A",
+    "@last-modified": "2023-10-31T05:33:13.5411365Z"
+  }
+}

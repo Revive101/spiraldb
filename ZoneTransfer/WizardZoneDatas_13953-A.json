@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z07_PrivateHalls",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4605.544,2334.303,-59.63948,1.521159",
+        "m_destinationZone": "Mirage/MR_Z07_ThievesDen"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2968-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13953-A",
+    "@last-modified": "2024-02-29T08:58:32.8264533Z"
+  }
+}

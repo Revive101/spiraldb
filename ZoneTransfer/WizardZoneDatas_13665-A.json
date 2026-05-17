@@ -1,0 +1,35 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z05_I02_Hallway",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToHall1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1990.314,14943.38,754.3258,0",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z05_I01_Hallway"
+      }
+    },
+    {
+      "TriggerName": "Stairs",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "610.3408,51.6392,33.16406,3.001219",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z05_I03_Staircase"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2934-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13665-A",
+    "@last-modified": "2024-02-21T22:19:09.6955102Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z07_Courtyard",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1539.687,2211.212,0.9999406,-0.4490833",
+        "m_destinationZone": "Empyrea/EM_Z07_NimbusCitadel"
+      }
+    },
+    {
+      "TriggerName": "Trigger_TeleportPlayer",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6849.477,-3938.775,-1.826639,-2.094387",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z07_RearCourtyard"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1189-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4902-A",
+    "@last-modified": "2023-10-31T06:05:50.6084266Z"
+  }
+}

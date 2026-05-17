@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wallaru/WL_Z08_BillabongResort",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12675.23,9006.296,186.6849,-1.570796",
+        "m_destinationZone": "Wallaru/WL_Z05_Wobbegong_JT"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3636-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14337-A",
+    "@last-modified": "2024-09-07T04:45:03.9087777Z"
+  }
+}

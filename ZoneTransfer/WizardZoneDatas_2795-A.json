@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z06_I04_Kings_Tomb_Anteroom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6701.124,6546.729,479.9514,0.7129201",
+        "m_destinationZone": "Zafaria/ZF_Z06_Zamunda"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:707-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2795-A",
+    "@last-modified": "2023-10-24T07:33:14.0038132Z"
+  }
+}

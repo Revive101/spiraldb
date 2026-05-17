@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z02_Tomb02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToCenote",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-715.8834,-11307.31,-59.21552,-3.141593",
+        "m_destinationZone": "Azteca/AZ_Z02_Cenote"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1788-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8001-A",
+    "@last-modified": "2023-11-15T22:28:47.1290806Z"
+  }
+}

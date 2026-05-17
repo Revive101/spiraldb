@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/TreasureTower/WC_TT01_Death_L06",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-27.96655,-1024.293,1.616708,-3.114972",
+        "m_destinationZone": "WizardCity/TreasureTower/WC_TT01_Death_L07"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3473-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14182-A",
+    "@last-modified": "2024-05-31T20:33:00.5155546Z"
+  }
+}

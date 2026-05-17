@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/GH_Hero_T8",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToHeroCampfromT8",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-28949.78,16559.28,502.0953,-0.7398891",
+        "m_destinationZone": "Grizzleheim/GH_Hero"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1671-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7171-A",
+    "@last-modified": "2023-11-14T10:37:54.4174513Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Empyrea/EM_Z03_OuterAthanor",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to EM_Z03_IceGreatHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-22.79096,4548.837,70.00824,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z03_IceGreatHall"
+      }
+    },
+    {
+      "TriggerName": "Teleport to EM_Z03_IceDwarfBunker",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-851.6145,821.156,0.005126953,-0.7960279",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z03_IceDwarfBunker"
+      }
+    },
+    {
+      "TriggerName": "Teleport to EM_Z03_RomeoHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3.846031,166.7786,0.005371094,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z03_RomeoHouse"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1152-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4769-A",
+    "@last-modified": "2023-10-31T05:41:51.058134Z"
+  }
+}

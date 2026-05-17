@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_WizardCommonsApt/House_WizardCommonsApt_Int",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "69.18799,1758.627,-277.3772,0.9640881",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:746-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2881-A",
+    "@last-modified": "2023-10-24T09:13:21.7529743Z"
+  }
+}

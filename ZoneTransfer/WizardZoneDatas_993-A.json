@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Housing_Dorm_Interior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "FemaleTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5.628328,-1531.451,-30.48013,3.14138",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    },
+    {
+      "TriggerName": "MaleTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5.628328,-1531.451,-30.48013,3.14138",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    },
+    {
+      "TriggerName": "Trigger-WC-COMMONS-MAIN-002",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "707.1978,-231.1267,-30.48057,-0.7498077",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:232-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/993-A",
+    "@last-modified": "2023-10-11T11:06:34.6634545Z"
+  }
+}

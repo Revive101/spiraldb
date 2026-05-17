@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Shop_Rings",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Shop_Ring Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2953.13,-2609.614,0.01109314,-0.2510982",
+        "m_destinationZone": "WizardCity/WC_Shop_Area"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:113-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/365-A",
+    "@last-modified": "2023-10-10T08:46:22.8809377Z"
+  }
+}

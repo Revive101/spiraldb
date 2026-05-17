@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_Gauntlet_Sinbad/SP_SinbadGauntlet_Int01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_Teleporter_to_Metallos",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4071.686,-1225.013,-4447.154,-2.491073",
+        "m_destinationZone": "Housing_Gauntlet_Sinbad/SP_SinbadGauntlet_Int02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2732-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12289-A",
+    "@last-modified": "2024-01-08T23:23:19.1898321Z"
+  }
+}

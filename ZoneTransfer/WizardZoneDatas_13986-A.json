@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Zafaria/ZF_Z12_Shining_Mountain",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToDrainedLake",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "106.0325,-857.3321,-1468.276,-3.064921",
+        "m_destinationZone": "Zafaria/ZF_Z13_Mirror_Lake_Drained"
+      }
+    },
+    {
+      "TriggerName": "TeleportTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3602.336,3871.909,-1130.787,-1.348138",
+        "m_destinationZone": "Zafaria/ZF_Z11_Mirror_Lake"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3001-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13986-A",
+    "@last-modified": "2024-03-07T12:33:59.9965562Z"
+  }
+}

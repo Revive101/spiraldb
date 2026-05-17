@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Khrysalis/KR_Z03_LastWood",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_MoonCliffs",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1638.92,7578.989,1222.508,-1.132842",
+        "m_destinationZone": "Khrysalis/KR_Z02_MoonCliffs"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Havoc_From_Lake",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6914.577,-11365.58,-231.5281,2.670186",
+        "m_destinationZone": "Khrysalis/KR_Z03_LastWood"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Lake_From_Havoc",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7186.909,-17382.6,892.678,-0.8156402",
+        "m_destinationZone": "Khrysalis/KR_Z03_LastWood"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_GlassShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.713123,453.3651,-6.634995,0",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z03_GlassShop"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Foothold",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "133.2469,376.7939,-6.662155,0",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z03_Foothold"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1914-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8292-A",
+    "@last-modified": "2023-11-16T05:59:58.2438348Z"
+  }
+}

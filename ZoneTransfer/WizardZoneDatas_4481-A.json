@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z06_Cave02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Dun_Dara",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3705.534,3982.788,-551.7228,0.6369984",
+        "m_destinationZone": "Avalon/AV_Z06_DunDara"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1072-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4481-A",
+    "@last-modified": "2023-10-29T22:34:45.9209233Z"
+  }
+}

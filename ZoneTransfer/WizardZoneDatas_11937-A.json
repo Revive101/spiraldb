@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Catacombs_DragonCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_Catacombs",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5913.688,-5120.549,16.15288,-1.589354",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Catacombs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2672-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11937-A",
+    "@last-modified": "2024-01-05T06:26:35.1908738Z"
+  }
+}

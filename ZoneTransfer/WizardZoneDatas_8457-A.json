@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Khrysalis/KR_Z11_TheHive",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToKondhaDesert",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1319.311,-13743.35,-539.3425,-1.574654",
+        "m_destinationZone": "Khrysalis/KR_Z10_KondhaDesert"
+      }
+    },
+    {
+      "TriggerName": "TeleportForHouseOfFangs",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12.70262,-2119.469,7.109726,-3.124966",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z11_I13_PalFangsMain"
+      }
+    },
+    {
+      "TriggerName": "TeleportToHOM",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "46.86552,-1581.981,7.109802,3.064107",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z11_I07_MagiHouseMain"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1955-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8457-A",
+    "@last-modified": "2023-11-16T06:31:49.1700994Z"
+  }
+}

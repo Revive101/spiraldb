@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z01_Infirmary",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1256.542,-1002.688,-105.2247,1.546196",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger_PositionPlayer",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-189.9573,-158.1975,3.76688,2.246954",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_Infirmary"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1821-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8161-A",
+    "@last-modified": "2023-11-15T23:17:23.3044394Z"
+  }
+}

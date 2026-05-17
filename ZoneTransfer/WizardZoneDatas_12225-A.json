@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Housing_AV_Gauntlet/AV_Gauntlet_80/AV_Gauntlet_80_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToSirLionelTent",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2821.606,-664.7849,2.2,3.087966",
+        "m_destinationZone": "Housing_AV_Gauntlet/AV_Gauntlet_80/AV_Gauntlet_80_02"
+      }
+    },
+    {
+      "TriggerName": "ToLadyTanselleTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-31.40444,-595.2956,-5.789037,3.141559",
+        "m_destinationZone": "Housing_AV_Gauntlet/AV_Gauntlet_80/AV_Gauntlet_80_03"
+      }
+    },
+    {
+      "TriggerName": "ToSirDunk",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5599.175,-649.1008,2.199997,-3.113775",
+        "m_destinationZone": "Housing_AV_Gauntlet/AV_Gauntlet_80/AV_Gauntlet_80_04"
+      }
+    },
+    {
+      "TriggerName": "TeleportToCrab",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8386.97,-683.4067,2.200002,-3.104147",
+        "m_destinationZone": "Housing_AV_Gauntlet/AV_Gauntlet_80/AV_Gauntlet_80_05"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2725-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12225-A",
+    "@last-modified": "2024-01-08T23:09:42.9939309Z"
+  }
+}

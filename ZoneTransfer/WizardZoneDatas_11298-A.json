@@ -1,0 +1,35 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_Arena_Gauntlet_6Room_Sub/6Room_2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportOutTrigger1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-15.60809,-1412.006,0.1234916,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Arena_Gauntlet_6Room_Sub/6Room_3"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20811.45,21998.27,179.9995,-1.570796",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z2_Arena"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2702-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11298-A",
+    "@last-modified": "2024-01-06T05:36:23.3988545Z"
+  }
+}

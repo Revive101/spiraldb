@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_CarRoof1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "134.7671,7211.012,809.1264,0.008836439",
+        "m_destinationZone": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2739-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12322-A",
+    "@last-modified": "2024-01-08T23:28:56.8759108Z"
+  }
+}

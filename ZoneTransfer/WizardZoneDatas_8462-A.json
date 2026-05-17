@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Khrysalis/KR_Z12_ShadowPalace",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToHOM",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-25.3624,1257.395,5.601013,0",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z11_I07_MagiHouseMain"
+      }
+    },
+    {
+      "TriggerName": "TeleportToEntry_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.421668,-3982.561,0.0003356934,3.116174",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z12_I02_Entry"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1961-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8462-A",
+    "@last-modified": "2023-11-16T06:36:20.8575994Z"
+  }
+}

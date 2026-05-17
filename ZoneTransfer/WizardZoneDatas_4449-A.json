@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Avalon/AV_Z00_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to AbbeyRoad (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6864.413,259.0813,241.4107,-1.662909",
+        "m_destinationZone": "Avalon/AV_Z01_AbbeyRoad"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "109.4814,-448.3535,-5.791443,2.673597",
+        "m_destinationZone": "Avalon/AV_Z02_HighRoad"
+      }
+    },
+    {
+      "TriggerName": "Trigger TeleportPlayerToPike",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7.338181,-2612.302,-9.60013,-2.305089",
+        "m_destinationZone": "Avalon/AV_Z00_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1290-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4449-A",
+    "@last-modified": "2023-10-31T07:55:56.0881255Z"
+  }
+}

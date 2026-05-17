@@ -1,0 +1,35 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z08_I02_Mausoleum_Lower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToGraveyard",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.76796,2636.378,0.5198669,0",
+        "m_destinationZone": "G14_DM/DM_Z07_Graveyard"
+      }
+    },
+    {
+      "TriggerName": "TeleporttoUpperTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-20.77749,-3024.013,3.814697E-06,-3.098318",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z08_I01_MausoleumTop"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2950-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13729-A",
+    "@last-modified": "2024-02-21T22:37:32.9038578Z"
+  }
+}

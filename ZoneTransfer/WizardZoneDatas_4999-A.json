@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z02_VolcanoTop",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_UrsaiVillage",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7485.558,-4479.568,360.8513,-2.422198",
+        "m_destinationZone": "Lemuria/LM_Z02_UrsaiVillage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1217-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4999-A",
+    "@last-modified": "2023-10-31T06:33:32.2304273Z"
+  }
+}

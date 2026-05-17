@@ -1,0 +1,200 @@
+{
+  "ZoneName": "WizardCity/WC_Shop_Area",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (WC_Shop Hub)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1349.434,-3125.509,-30.48013,-3.092899",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Shop Area to Street2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2393.913,188.495,-0.0005122126,1.409596",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport Street6",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5.483823,681.8608,0.001464904,-0.03333931",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop Jewelry)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-14.36775,-143.4872,-7.00124,2.67924",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Jeweler"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Amulets)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.774706,-121.453,46.16287,3.100284",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Amulets"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Athames)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7.214265,-140.9447,46.16287,3.100284",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Athames"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Decks)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7.06811,-137.4091,46.16287,3.100284",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Decks"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Hat)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-16.11783,-115.3152,2.179429,-3.134331",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Hat"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Pets)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.13536,-150.0611,16.78685,3.100284",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Pets"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Rings)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "12.88925,-123.1099,46.16287,3.131103",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Rings"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Robes)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4.479444,-126.2452,46.16286,-3.112728",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Robes"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Shoe)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.807278,-131.1525,46.16287,3.138903",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Boots"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Wands)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10.93657,-128.2559,46.16287,3.100284",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Wands"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Dye)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.107926,-138.4805,9.373657,-3.141593",
+        "m_destinationZone": "WizardCity/Interiors/WC_ShopDye"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Housing)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.212136,-126.9901,2.390671,-3.141593",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_House"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Shop NPCShop Makeup)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.107926,-138.4805,9.373657,-3.141593",
+        "m_destinationZone": "WizardCity/Interiors/WC_Shop_Makeup"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_2_PartyRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4.50434,-154.9424,1.72181,-3.141593",
+        "m_destinationZone": "WizardCity/Interiors/WC_PartyRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:198-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/161-A",
+    "@last-modified": "2023-10-11T09:14:15.4935697Z"
+  }
+}

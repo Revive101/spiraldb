@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Karamelle/KM_Z04_Sweetzburg",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-To GummyPlant",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.441092,-4142.625,2,-3.141593",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z04_GummyPlant"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "18991.28,-2540.44,-517.6161,1.570796",
+        "m_destinationZone": "Karamelle/KM_Z03_GumdropForest"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToPlayhouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1102.781,-47.25948,1.074796,-1.554069",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z04_Playhouse"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1036-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4324-A",
+    "@last-modified": "2023-10-29T09:25:26.0438435Z"
+  }
+}

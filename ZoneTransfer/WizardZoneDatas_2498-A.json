@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/CL_Z05_The_Floating_Land",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Hub (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6534.581,8200.383,-872.1653,-1.584665",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:596-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2498-A",
+    "@last-modified": "2023-10-19T08:54:04.4369453Z"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "ZoneName": "Aquila/AQ_Z02_Atlantea02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Puzzle Room",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1107.185,5470.012,190.1481,-1.507015",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_SirenPuzzleRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (7)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.62248,-265.7566,37.23024,3.133013",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_ThroneRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (6)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.62248,-265.7566,37.23024,3.133013",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_ThroneRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.62248,-265.7566,37.23024,3.133013",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_ThroneRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.62248,-265.7566,37.23024,3.133013",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_ThroneRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (3)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.62248,-265.7566,37.23024,3.133013",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_ThroneRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (4)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.62248,-265.7566,37.23024,3.133013",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_ThroneRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3378-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14088-A",
+    "@last-modified": "2024-04-18T00:07:33.0487603Z"
+  }
+}

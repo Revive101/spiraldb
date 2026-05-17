@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Classroom_Frost",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6921.662,9993.495,-1749.786,-1.562972",
+        "m_destinationZone": "Wysteria/PA_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:755-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2852-A",
+    "@last-modified": "2023-10-24T09:23:04.6374807Z"
+  }
+}

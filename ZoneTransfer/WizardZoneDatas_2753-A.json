@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Mirage/MR_Z03_CaterwaulCanyon",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Thieves Den",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-166.998,-272.647,32.77541,-3.126332",
+        "m_destinationZone": "Mirage/MR_Z07_ThievesDen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Caravan",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2364.219,10112.5,-106.4978,-0.2060246",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger Jezzerit Counsel Hall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-43.83145,150.929,-8.114351E-06,0.03875957",
+        "m_destinationZone": "Mirage/Interiors/MR_Z03_JezzeritCounselHall"
+      }
+    },
+    {
+      "TriggerName": "Trigger House Tabbi",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-28.49374,71.76929,-0.0001100498,0.08098277",
+        "m_destinationZone": "Mirage/Interiors/MR_Z03_TabbiManor"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1999-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2753-A",
+    "@last-modified": "2023-11-16T07:42:47.7146617Z"
+  }
+}

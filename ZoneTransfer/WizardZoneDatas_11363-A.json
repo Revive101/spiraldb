@@ -1,0 +1,35 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_Gauntlet_8Room_Sub/8Room_3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1605.147,31.29373,-86.72421,1.570796",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_Gauntlet_8Room_Sub/8Room_4"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportTo7",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.880065,-1236.452,0.1234916,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_Gauntlet_8Room_Sub/8Room_2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2435-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11363-A",
+    "@last-modified": "2023-12-08T18:47:13.1649341Z"
+  }
+}

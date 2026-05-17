@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_MAW_Brandon",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1450.724,5932.736,100.0002,-1.514234",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_LandingZone"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:563-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2337-A",
+    "@last-modified": "2023-10-17T08:58:06.3979805Z"
+  }
+}

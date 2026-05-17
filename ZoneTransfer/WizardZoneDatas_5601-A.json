@@ -1,0 +1,68 @@
+{
+  "ZoneName": "MooShu/MS_War/MS_War_BattlefieldA",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToWarHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6964.095,-26534.92,-211.1962,-3.141593",
+        "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
+    },
+    {
+      "TriggerName": "teleportTotower2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0,-1600,-6.843818E-05,-3.141593",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_War2_T2"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7125.041,41781.87,0,-3.141593",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldA"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6775.82,21300.59,213.9731,0",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldA"
+      }
+    },
+    {
+      "TriggerName": "TeleportToBack",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-77.52096,-1784.951,-0.005636215,-3.141593",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_War2_T1"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1461-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5601-A",
+    "@last-modified": "2023-11-02T05:13:50.3982196Z"
+  }
+}

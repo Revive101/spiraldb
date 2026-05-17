@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z07_I03_Zoo",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_StoneTown",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1411.911,13135.16,9.995423,-0.6852337",
+        "m_destinationZone": "Zafaria/ZF_Z07_Stone_Town"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1346-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5219-A",
+    "@last-modified": "2023-10-31T08:51:44.5113655Z"
+  }
+}

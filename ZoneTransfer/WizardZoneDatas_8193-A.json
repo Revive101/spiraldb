@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z07_ThievesVault",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3489.665,115.0645,-60.21354,3.087005",
+        "m_destinationZone": "Mirage/MR_Z07_ThievesDen"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1847-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8193-A",
+    "@last-modified": "2023-11-15T23:37:52.8995656Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ZoneName": "MooShu/MS_Plague/Interiors/MS_Plague_SkeletonKey_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-SkeletonTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1422.755,-16.63261,-27.89738,1.570796",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague_SkeletonKey_T2"
+      }
+    },
+    {
+      "TriggerName": "Trigger-EVENT-SkeletonKeyLock-Wood",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1422.755,-16.63261,-27.89738,1.570796",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague_SkeletonKey_T2"
+      }
+    },
+    {
+      "TriggerName": "MS_Plaugue_Teleport_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "63617.18,26075.29,2.084629,1.650954",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave"
+      }
+    },
+    {
+      "TriggerName": "MS_Plaugue_Teleport_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "63617.18,26075.29,2.084629,1.650954",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3826-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14529-A",
+    "@last-modified": "2025-01-17T19:24:42.053365Z"
+  }
+}

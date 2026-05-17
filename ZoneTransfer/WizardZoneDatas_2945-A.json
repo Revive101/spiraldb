@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Warren01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoCrabAlley",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6638.215,867.8223,378.2499,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Underwater"
+      }
+    },
+    {
+      "TriggerName": "WailingCavernsTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-95.66479,1805.605,-3.475647,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Warren02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:778-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2945-A",
+    "@last-modified": "2023-10-24T09:47:02.3664579Z"
+  }
+}

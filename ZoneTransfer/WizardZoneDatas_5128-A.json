@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z03_Archive",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Caer",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4090.527,-4387.312,233.3258,0",
+        "m_destinationZone": "Avalon/AV_Z03_CaerLyon"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1315-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5128-A",
+    "@last-modified": "2023-10-31T08:14:58.1581626Z"
+  }
+}

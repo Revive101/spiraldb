@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Polaris/PL_Z02_ForlornTaig",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4015.895,-1859.599,-117.5568,1.524761",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
+    },
+    {
+      "TriggerName": "TeleporTo_BabaYaga",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "201.5343,24.84489,6.979551,1.582578",
+        "m_destinationZone": "Polaris/Interiors/PL_Z02_BabaYagaHut_Int"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Urville",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "161.9847,3834.25,-196.3945,0.08342031",
+        "m_destinationZone": "Polaris/PL_Z04_UrvilleStation"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1093-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4521-A",
+    "@last-modified": "2023-10-30T00:13:59.438147Z"
+  }
+}

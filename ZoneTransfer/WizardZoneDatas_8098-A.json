@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z09_FeatherPalace",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Alto_Alto",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4709.409,4428.458,1890.687,-1.456273",
+        "m_destinationZone": "Azteca/AZ_Z09_AltoAlto"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1813-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8098-A",
+    "@last-modified": "2023-11-15T23:00:44.6504544Z"
+  }
+}

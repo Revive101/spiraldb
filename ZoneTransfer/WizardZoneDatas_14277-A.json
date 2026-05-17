@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wallaru/Interiors/WL_Z02_I05_RidgeCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-25346.42,-28573.64,171.5274,-1.285153",
+        "m_destinationZone": "Wallaru/WL_Z02_Outback"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3631-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14277-A",
+    "@last-modified": "2024-09-07T04:37:35.2929199Z"
+  }
+}

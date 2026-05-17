@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Event_Maestro/MB_Z01_Museum",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1988.878,278.4694,167.3967,-1.179531",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z00_TelepgraphBox"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportBigBen",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-26.86476,-1061.996,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z05_PreTowerFight"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2563-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11554-A",
+    "@last-modified": "2023-12-23T04:22:54.3942926Z"
+  }
+}

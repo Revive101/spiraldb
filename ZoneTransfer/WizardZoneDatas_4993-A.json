@@ -1,0 +1,222 @@
+{
+  "ZoneName": "Lemuria/LM_Z00_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_HallofHeroes",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.410122,2290.39,4.200042,0",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z00_I07_HallofHeroesOuter"
+      }
+    },
+    {
+      "TriggerName": "Trigger_ToOldOnesComplex",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3245.154,-26.73602,2.000129,-1.570796",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z00_I09_OldOnesComplex"
+      }
+    },
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6677.417,-6625.48,382.7736,2.692638",
+        "m_destinationZone": "Lemuria/LM_Z01_WildLands"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower01-Top",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6681.689,1279.035,255.4877,3.118511",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower01-Bottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8313.627,-1185.704,-676.6044,0",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower02-Top",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7849.349,302.2563,255.491,1.596515",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower02-Bottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5192.761,1835.063,-676.6008,-1.528997",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower03-Top",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6680.398,-14192.06,255.4882,0",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower03-Bottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8307.154,-11641.39,-676.6062,3.078403",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower04-Bottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5223.134,-14692,-676.6015,1.52434",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower04-Top",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7853.194,-13228.42,255.49,-1.510566",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower02-Bottom_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8311.714,-1131.275,-676.6064,0",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower02-Top_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6788.385,1389.254,255.4891,3.050261",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower03-Bottom_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5244.435,-14711.58,-676.6029,-1.555269",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower03-Top_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7864.927,-13100.58,255.491,1.446748",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower04-Top_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6696.482,-14322.08,255.4897,0",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower04-Bottom_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8309.964,-11662.79,-676.6033,0",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower01-Top_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7700.05,254.4906,255.4912,-1.586987",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source Tower01-Bottom_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5321.972,1859.333,-676.6063,1.642173",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1287-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4993-A",
+    "@last-modified": "2023-10-31T07:31:30.1574665Z"
+  }
+}

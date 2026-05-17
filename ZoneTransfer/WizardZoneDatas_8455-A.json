@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Khrysalis/KR_Z10_KondhaDesert",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_MantisCity",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7581.806,8059.731,401.4585,0",
+        "m_destinationZone": "Khrysalis/KR_Z09_MantisCity"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport SandsOfTimeCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1073.521,-1930.231,0.1646201,3.069037",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z10_I05_SandsOfTimeCave"
+      }
+    },
+    {
+      "TriggerName": "TeleportToHiveTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6533.785,-4556.116,-576.5178,2.302262",
+        "m_destinationZone": "Khrysalis/KR_Z11_TheHive"
+      }
+    },
+    {
+      "TriggerName": "To_SolarArc",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "42.31682,3362.61,20.9837,0",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z10_I08_SolarArcMain"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1951-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8455-A",
+    "@last-modified": "2023-11-16T06:27:01.0868685Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wallaru/Interiors/WL_Z01_I15_BanditAlley",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1779.511,8009.828,2.000015,1.568771",
+        "m_destinationZone": "Wallaru/WL_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3912-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14563-A",
+    "@last-modified": "2025-01-29T06:38:58.9929696Z"
+  }
+}

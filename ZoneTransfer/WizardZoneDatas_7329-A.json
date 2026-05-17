@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Aquila/Interiors/AQ_Z01_ArtemusRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ExitArtemusRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6344.099,8328.974,-9.828369,-1.570796",
+        "m_destinationZone": "Aquila/AQ_Z01_MountOlympus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1719-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7329-A",
+    "@last-modified": "2023-11-14T11:55:30.1238316Z"
+  }
+}

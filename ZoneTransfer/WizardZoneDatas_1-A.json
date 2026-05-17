@@ -1,0 +1,134 @@
+{
+  "ZoneName": "WizardCity/WC_Hub",
+  "Teleports": [
+    {
+      "TriggerName": "Trigger TelepotToUW",
+      "Teleport": {
+        "m_destinationLoc": "-87.59521,-533.309,18.50042,3.087131",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Unicorn",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "TeleportToShoppingDistrict",
+      "Teleport": {
+        "m_destinationLoc": "-95.55735,-849.2842,-30.46902,-0.03700731",
+        "m_destinationZone": "WizardCity/WC_Shop_Area",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "TeleportToGolemCourt",
+      "Teleport": {
+        "m_destinationLoc": "20.85389,-133.9648,32.63281,2.748971",
+        "m_destinationZone": "WizardCity/WC_Golem_Tower",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "TeleportToLibraryTrigger",
+      "Teleport": {
+        "m_destinationLoc": "-3.757084,-373.2653,95.74229,-3.141593",
+        "m_destinationZone": "WizardCity/Interiors/WC_Library",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Hub WC_Headmistress_House Entrance)",
+      "Teleport": {
+        "m_destinationLoc": "-2.263153,-464.7307,0.0002441406,-3.125134",
+        "m_destinationZone": "WizardCity/Interiors/WC_Headmistress_House",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "TeleportToPetParkTrigger",
+      "Teleport": {
+        "m_destinationLoc": "-1663.075,658.7092,-40.79388,0",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_PET_Park",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToTower",
+      "Teleport": {
+        "m_destinationLoc": "18.68701,-664.0875,4.881425E-05,3.113886",
+        "m_destinationZone": "WizardCity/Interiors/WC_Headmaster_Tower",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "Trigger 1",
+      "Teleport": {
+        "m_destinationLoc": "400.2874,-2110.774,13.7479,2.778317",
+        "m_destinationZone": "WizardCity/WC_NightSide",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToCastleToursDorm",
+      "Teleport": {
+        "m_destinationLoc": "-48.15467,30.26001,6.103516E-05,-3.141593",
+        "m_destinationZone": "Housing_CastleToursApt/Housing_CastleToursApt_Int",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "Trigger Castle Tours",
+      "Teleport": {
+        "m_destinationLoc": "482.4429,27.56637,0.2000634,1.523721",
+        "m_destinationZone": "WizardCity/Interiors/WC_CastleTours",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
+      "TriggerName": "TeleportToRavenwoodTrigger",
+      "Teleport": {
+        "m_destinationLoc": "-5.701004,-1536.491,-47.42151,3.112397",
+        "m_destinationZone": "WizardCity/WC_Ravenwood",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    }
+  ],
+  "Events": [],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:5247-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1-A",
+    "@last-modified": "2025-09-19T19:57:02.487644Z"
+  }
+}

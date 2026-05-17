@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/MS_Death/Interiors/MS_Death3_SpiritWorld",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToPlague3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.96286,6403.223,0.1016568,-3.141593",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:519-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2211-A",
+    "@last-modified": "2023-10-17T06:34:32.8122777Z"
+  }
+}

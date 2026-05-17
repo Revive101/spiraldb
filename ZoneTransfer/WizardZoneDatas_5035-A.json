@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Lemuria/LM_Z05_Mandoria",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Badlands",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4220.56,-859.6302,-35.16297,0.9346646",
+        "m_destinationZone": "Lemuria/LM_Z04_Badlands"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1243-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5035-A",
+    "@last-modified": "2023-10-31T07:03:32.4868107Z"
+  }
+}

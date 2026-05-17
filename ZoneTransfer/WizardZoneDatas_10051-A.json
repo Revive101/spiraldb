@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_Detention_T3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (DS_T3 to Detention)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1035.482,4522.729,-127.892,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z3_Detention"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2175-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10051-A",
+    "@last-modified": "2023-11-23T09:13:22.6901519Z"
+  }
+}

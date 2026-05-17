@@ -1,0 +1,117 @@
+{
+  "TemplateID": 39302,
+  "Spells": [
+    {
+      "TemplateID": 2143810477,
+      "RequiredSpellID": 0,
+      "Level": 1
+    },
+    {
+      "TemplateID": 1462253104,
+      "RequiredSpellID": 2143810477,
+      "Level": 5
+    },
+    {
+      "TemplateID": 1321504283,
+      "RequiredSpellID": 1462253104,
+      "Level": 8
+    },
+    {
+      "TemplateID": 1965296812,
+      "RequiredSpellID": 1321504283,
+      "Level": 10
+    },
+    {
+      "TemplateID": 1829994384,
+      "RequiredSpellID": 1965296812,
+      "Level": 16
+    },
+    {
+      "TemplateID": 2103338466,
+      "RequiredSpellID": 751181746,
+      "Level": 20
+    },
+    {
+      "TemplateID": 767057080,
+      "RequiredSpellID": 1829994384,
+      "Level": 20
+    },
+    {
+      "TemplateID": 84457148,
+      "RequiredSpellID": 767057080,
+      "Level": 22
+    },
+    {
+      "TemplateID": 254485266,
+      "RequiredSpellID": 84457148,
+      "Level": 26
+    },
+    {
+      "TemplateID": 610540741,
+      "RequiredSpellID": 84457148,
+      "Level": 26
+    },
+    {
+      "TemplateID": 1484841148,
+      "RequiredSpellID": 254485266,
+      "Level": 33
+    },
+    {
+      "TemplateID": 70785800,
+      "RequiredSpellID": 1484841148,
+      "Level": 42
+    },
+    {
+      "TemplateID": 2011811763,
+      "RequiredSpellID": 1484841148,
+      "Level": 42
+    },
+    {
+      "TemplateID": 530493355,
+      "RequiredSpellID": 1321504283,
+      "Level": 45
+    },
+    {
+      "TemplateID": 2062835293,
+      "RequiredSpellID": 70785800,
+      "Level": 50
+    },
+    {
+      "TemplateID": 777395333,
+      "RequiredSpellID": 1484841148,
+      "Level": 40
+    },
+    {
+      "TemplateID": 829957886,
+      "RequiredSpellID": 1484841148,
+      "Level": 40
+    },
+    {
+      "TemplateID": 1931151039,
+      "RequiredSpellID": 1462253104,
+      "Level": 8
+    },
+    {
+      "TemplateID": 1533435663,
+      "RequiredSpellID": 84457148,
+      "Level": 22
+    },
+    {
+      "TemplateID": 1713300256,
+      "RequiredSpellID": 514206205,
+      "Level": 20
+    },
+    {
+      "TemplateID": 185282768,
+      "RequiredSpellID": 1533435663,
+      "Level": 28
+    }
+  ],
+  "@metadata": {
+    "@collection": "NpcSpellInventory",
+    "Raven-Clr-Type": "DragonNPCTool.Models.NPCSpellInventory, DragonNPCTool",
+    "@change-vector": "A:4380-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "NPCSpellInventories/289-A",
+    "@last-modified": "2025-04-13T01:49:11.3490195Z"
+  }
+}

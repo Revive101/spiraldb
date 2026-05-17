@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_Z01_Library",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3226.565,2288.863,-199.9999,1.444461",
+        "m_destinationZone": "Avalon/AV_Z01_AbbeyRoad"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1059-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4452-A",
+    "@last-modified": "2023-10-29T22:12:45.3913652Z"
+  }
+}

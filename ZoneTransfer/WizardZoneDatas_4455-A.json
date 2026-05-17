@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Avalon/AV_Z04_TheWild",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Caer Lyon",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6874.906,15019.97,1126.04,-1.104678",
+        "m_destinationZone": "Avalon/AV_Z03_CaerLyon"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ToTheWyrd",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5039.077,-8224.311,-1370.909,-3.077832",
+        "m_destinationZone": "Avalon/AV_Z05_TheWyrd"
+      }
+    },
+    {
+      "TriggerName": "AV-SPELL-C02-001_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-147.7123,-983.0033,0.9500809,-3.141593",
+        "m_destinationZone": "Avalon/Interiors/AV_Z04_HrefnaCave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1324-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4455-A",
+    "@last-modified": "2023-10-31T08:21:33.0978941Z"
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "ZoneName": "Arcanum/AR_Z01_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_Astral",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-26.40721,-354.2682,8.58524E-05,3.021165",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_AstalSchool"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Storm",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-83.62019,220.6396,0.0001815535,1.471033",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_StormSchool"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Fire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-39.90314,158.9634,5.186549E-05,1.616324",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_FireSchool"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Ice",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.572771,84.40765,13.51368,0.0006875755",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_IceSchool"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "32.08389,98.20158,0.000101985,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_BalanceSchool"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Death",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.38744,-145.4935,2.518404,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_DeathSchool"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Hall of Conjuration",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "227.6725,4.59034,4.252445,-1.589663",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_MythSchool"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Life",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.934061,1.156761,0.0001366465,-1.681838",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_LifeSchool"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Hall of Shadow",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13.96696,-13.33456,0.0001908464,0.1279984",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_ShadowSchool"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToMusicology",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "24.10466,-1.473615,2.89743,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_MusicologyOffice"
+      }
+    },
+    {
+      "TriggerName": "TR Teleport to Recovery Room",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.971302,-11.64598,3.766877,1.563064",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_RecoveryRoom"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to ArbitersArena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "995.9548,40.44263,0.0001205784,1.518223",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_ArbitersArena"
+      }
+    },
+    {
+      "TriggerName": "AR_to_Crafting",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.870406,-80.62624,-3.997116,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_Crafting_WORLD"
+      }
+    },
+    {
+      "TriggerName": "To_Infirmary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.934061,1.156761,0.0001366465,1.570796",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_Infirmary"
+      }
+    },
+    {
+      "TriggerName": "Trigger SchismBookRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.870406,-80.62624,-3.997116,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_SchismReadingRoom"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to ArbitersArena02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "995.9548,40.44263,0.0001205784,1.518223",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_ArbitersArena02"
+      }
+    },
+    {
+      "TriggerName": "UnhideBabaMellori",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "131.7558,-9369.8,-1.570922,-1.083904",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport_DryDockWithOutShip",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6272.917,-1325.814,-106.4114,1.574529",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_DrockDock_NoShip"
+      }
+    },
+    {
+      "TriggerName": "Teleport_DryDockWithShip",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6272.917,-1325.814,-106.4114,1.574529",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_I01_DryDock"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToMusicologyStudio",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1146.75,15.52905,0.1974001,1.631986",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_MusicologyStudio"
+      }
+    },
+    {
+      "TriggerName": "Trigger OldOnesOffice",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.870406,-80.62624,-3.997116,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_OldOnesOffice"
+      }
+    },
+    {
+      "TriggerName": "Trigger OldOnesOffice (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.870406,-80.62624,-3.997116,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_OldOnesOffice02"
+      }
+    },
+    {
+      "TriggerName": "TR_From_Apartment",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1845.191,3.090407,-0.002310275,1.586504",
+        "m_destinationZone": "Housing_AR_Dormroom/Interior"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_ShadowTraining",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23.73591,1140.841,0.3034496,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_ShadowTricksterLair_01"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Down-01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "826.4251,1119.032,1156.932,0.6739039",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Up-01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "876.3573,1181.556,0.6148682,1.716348",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Up-02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-931.5877,1162.064,0.614563,-1.920324",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Down-02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-911.017,1072.74,1156.932,-0.5493745",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3905-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2593-A",
+    "@last-modified": "2025-01-29T06:33:02.4506747Z"
+  }
+}

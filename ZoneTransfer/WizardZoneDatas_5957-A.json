@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/Interiors/GH_HFjord_Shop02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9680.86,5599.956,-599.9999,1.299743",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_HFjord"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1546-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5957-A",
+    "@last-modified": "2023-11-03T10:00:45.9393517Z"
+  }
+}

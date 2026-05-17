@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z07_PL_Horizon_Hold",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_SkyAnchor",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2090.814,3840.47,1771.606,1.570796",
+        "m_destinationZone": "Polaris/Interiors/PL_Z07_SkyAnchorPeak"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2838-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12961-A",
+    "@last-modified": "2024-01-18T11:50:59.6270185Z"
+  }
+}

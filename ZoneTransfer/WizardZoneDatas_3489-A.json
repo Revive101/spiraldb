@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T6",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToPlaza",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12346.78,12635,180.0046,-1.619228",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z2_ConquestPlaza"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:865-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3489-A",
+    "@last-modified": "2023-10-28T05:05:57.7304136Z"
+  }
+}

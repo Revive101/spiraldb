@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Aquila/AQ_Z01_MountOlympus",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-ExitInstance",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-291.8511,4099.1,-116.3977,0",
+        "m_destinationZone": "Aquila/AQ_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport-PitOfTheNoxii",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.639519,-2039.654,241.037,-3.141593",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z01_PitOfNoxii"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToApolloRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-190.7746,-2054.297,109.265,-3.141593",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z01_Apollo_Room"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToHallOfBattle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "21.87695,-4502.167,200.0001,-3.141593",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z01_HallOfBattle"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToArtemusRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-204.7789,-2002.371,104.0402,-3.141593",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z01_ArtemusRoom"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToHallOfTheWatchfulEye",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-55.73254,-4524.413,200.0001,-3.141593",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z01_HallOfWatchfulEye"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1720-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7297-A",
+    "@last-modified": "2023-11-14T11:55:46.5943911Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Karamelle/KM_Z05_Nibbleheim",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger_Teleport_To_Gutenstadt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2140.816,6424.726,34.56506,0",
+        "m_destinationZone": "Karamelle/KM_Z07_Gutenstadt"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_TreacleFoundry",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-34.47274,-3896.099,1.925076E-05,3.136443",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z05_TreacleFoundry"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1527-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5857-A",
+    "@last-modified": "2023-11-03T08:55:47.2807931Z"
+  }
+}

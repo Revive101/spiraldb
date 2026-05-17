@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/Interiors/KT_Hall_T3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5542.897,-7927.904,-7.629395E-06,0",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Hall"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1617-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6753-A",
+    "@last-modified": "2023-11-13T22:26:19.6230562Z"
+  }
+}

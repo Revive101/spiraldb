@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/QA_SpawnRate",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (WC_Arena Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.267008,50.24604,-30.47341,-1.178247",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (WC_Arena Hub Exit) (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.267008,50.24604,-30.47341,-1.178247",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3525-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3169-A",
+    "@last-modified": "2024-05-31T20:51:48.5343416Z"
+  }
+}

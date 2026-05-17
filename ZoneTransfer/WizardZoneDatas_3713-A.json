@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Krokotopia/KT_Hub_Sphinx",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Krok_Hub IceCrypt Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-279.6182,8.229065,-0.0002441406,-1.570796",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_EntranceHall"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 239",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "320.499,337.1144,1.418818,1.578513",
+        "m_destinationZone": "Krokotopia/Interiors/KT_ShopSphinx"
+      }
+    },
+    {
+      "TriggerName": "TeleporttoSphinxShip",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3610.656,3198.534,26.30786,1.583235",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Krok_Hub StormCrypt Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-156.0821,461.9312,-0.000147364,-3.093512",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_WellOfSpirits"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Krok_Hub StormIsland Return)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2899.293,-1465.485,-103.5085,-2.116922",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2898-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3713-A",
+    "@last-modified": "2024-02-19T02:27:13.8168311Z"
+  }
+}

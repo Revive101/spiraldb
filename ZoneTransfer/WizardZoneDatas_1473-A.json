@@ -1,0 +1,244 @@
+{
+  "ZoneName": "Marleybone/MB_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BarkinghamCt Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-410.3889,-1391.983,-4812.392,0",
+        "m_destinationZone": "Marleybone/G14_Gauntlet/MB_Z01_BarkinghamCourtyard"
+      }
+    },
+    {
+      "TriggerName": "ToAirportHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.883004,-2409.963,-294.4462,3.124505",
+        "m_destinationZone": "Marleybone/MB_Station/MB_Station_Hub"
+      }
+    },
+    {
+      "TriggerName": "To MB Wand Shop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.695044,-424.0005,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Shop_Wands"
+      }
+    },
+    {
+      "TriggerName": "ToScotlandYard",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.986108,-233.4138,-5.737314E-05,3.131645",
+        "m_destinationZone": "Marleybone/Interiors/MB_ScotlandYard"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (MB_Hub WC_Ravenwood_Teleporter Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.7431488,-3377.523,-0.0001907349,-3.093412",
+        "m_destinationZone": "Marleybone/Interiors/MB_WolfminsterAbbey"
+      }
+    },
+    {
+      "TriggerName": "To MB Hat Shop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.695052,-324.0387,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Shop_Hats"
+      }
+    },
+    {
+      "TriggerName": "To MB Shoe Shop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.695044,-424.0005,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Shop_Shoes"
+      }
+    },
+    {
+      "TriggerName": "To MB Athame Shop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.695044,-424.0005,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Shop_Athames"
+      }
+    },
+    {
+      "TriggerName": "To MB Ring Shop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.695044,-424.0005,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Shop_Rings"
+      }
+    },
+    {
+      "TriggerName": "To MB Deck Shop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.695044,-424.0005,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Shop_Decks"
+      }
+    },
+    {
+      "TriggerName": "To MB Robe Shop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.695044,-424.0005,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Shop_Robes"
+      }
+    },
+    {
+      "TriggerName": "ToHousingShop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "15.11178,-250.2134,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Shop_House"
+      }
+    },
+    {
+      "TriggerName": "ToPostOffice1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-210.0862,-700.1991,-6.103516E-05,-3.140997",
+        "m_destinationZone": "Marleybone/Interiors/MB_PostOffice1"
+      }
+    },
+    {
+      "TriggerName": "ToPostOffice2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-210.0862,-700.1991,-6.103516E-05,-3.140997",
+        "m_destinationZone": "Marleybone/Interiors/MB_PostOffice2"
+      }
+    },
+    {
+      "TriggerName": "ToPostOffice3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-209.0482,-700.1997,-6.103519E-05,-3.140997",
+        "m_destinationZone": "Marleybone/Interiors/MB_PostOffice3"
+      }
+    },
+    {
+      "TriggerName": "ToPostOffice4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-210.0862,-700.1991,-6.103516E-05,-3.140997",
+        "m_destinationZone": "Marleybone/Interiors/MB_PostOffice4"
+      }
+    },
+    {
+      "TriggerName": "To Burt's Bones & Biscuits",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.645357E-05,-559.7018,0,-3.141593",
+        "m_destinationZone": "Marleybone/Interiors/MB_Pubs"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport Empty Sherlock",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.364285,-341.6779,2.506747E-05,3.139676",
+        "m_destinationZone": "Marleybone/Interiors/MB_SherlockHolmes_House"
+      }
+    },
+    {
+      "TriggerName": "Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13.05084,-156.5803,-0.002197266,3.102542",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum"
+      }
+    },
+    {
+      "TriggerName": "Trigger 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13.05084,-156.5803,-0.002197266,3.102542",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum"
+      }
+    },
+    {
+      "TriggerName": "InstanceBonesTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.303053,-341.6709,2.506777E-05,-2.893309",
+        "m_destinationZone": "Marleybone/Interiors/MB_SherlockHolmesHouse_Instance"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:891-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1473-A",
+    "@last-modified": "2023-10-29T04:00:35.6419506Z"
+  }
+}

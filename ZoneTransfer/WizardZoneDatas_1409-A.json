@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Krokotopia/KT_Hub_Crypt",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Krok_Hub StormIsland Return)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2899.293,-1465.485,-103.5085,-2.116922",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Krok_Hub StormCrypt Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "22.74201,-182.6931,-0.000117347,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_WellOfSpirits"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:342-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1409-A",
+    "@last-modified": "2023-10-12T06:09:09.5410457Z"
+  }
+}

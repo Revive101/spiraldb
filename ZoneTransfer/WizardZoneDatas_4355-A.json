@@ -1,0 +1,90 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z00_ArkHold",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3242.69,1351.828,761.106,0.531285",
+        "m_destinationZone": "Empyrea/EM_Z00_Aeriel_HUB"
+      }
+    },
+    {
+      "TriggerName": "Trigger EM-TeleporterZanadu",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4796.467,6640.087,25.00058,0.7175214",
+        "m_destinationZone": "Empyrea/EM_Z02_Zanadu"
+      }
+    },
+    {
+      "TriggerName": "Trigger EM-TeleporterSepidious",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3725.262,1224.031,424.1074,1.962032",
+        "m_destinationZone": "Empyrea/EM_Z05_Sepidious"
+      }
+    },
+    {
+      "TriggerName": "TR_EM-TeleporterMandalla",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-799.4531,127.992,-10.67138,-2.046783",
+        "m_destinationZone": "Empyrea/EM_Z12_LandingZone"
+      }
+    },
+    {
+      "TriggerName": "Trigger EM-TeleporterNeumia",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2217.383,37.41602,2.000004,-2.451634",
+        "m_destinationZone": "Empyrea/EM_Z06_NimbusHanger"
+      }
+    },
+    {
+      "TriggerName": "Trigger EM-TeleporterOuterAthanor (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "124.482,-1075.101,63.72192,-0.2404623",
+        "m_destinationZone": "Empyrea/EM_Z03_OuterAthanor"
+      }
+    },
+    {
+      "TriggerName": "Trigger EM-TeleporterHusk",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "367.0908,828.5075,-911.6655,2.698119",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2910-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4355-A",
+    "@last-modified": "2024-02-21T20:24:49.7172282Z"
+  }
+}

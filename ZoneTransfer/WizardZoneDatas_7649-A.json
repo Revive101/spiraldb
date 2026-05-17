@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Krokosphinx/Interiors/KT_Retreat_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Sphinx05 Tower01 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13874.6,2986.268,4.3927,1.570796",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Retreat"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1748-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7649-A",
+    "@last-modified": "2023-11-14T18:20:57.4181584Z"
+  }
+}

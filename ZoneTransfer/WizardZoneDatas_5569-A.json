@@ -1,0 +1,68 @@
+{
+  "ZoneName": "WizardCity/Gauntlets/WC_Triton_Gauntlet1/WC_Triton_Gauntlet_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location UnderewaterTritonAve",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3452.203,-2715.743,33.96395,-1.011853",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Underwater"
+      }
+    },
+    {
+      "TriggerName": "Room2FightTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1172.782,-10.86232,-48.92419,1.544887",
+        "m_destinationZone": "WizardCity/Gauntlets/WC_Triton_Gauntlet1/WC_Triton_Gauntlet_01a"
+      }
+    },
+    {
+      "TriggerName": "Room4BossTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1627.99,1669.468,-44.42645,-0.87739",
+        "m_destinationZone": "WizardCity/Gauntlets/WC_Triton_Gauntlet1/WC_Triton_Gauntlet_03"
+      }
+    },
+    {
+      "TriggerName": "Room6FightTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1129.136,-6.479008,-48.92419,1.535177",
+        "m_destinationZone": "WizardCity/Gauntlets/WC_Triton_Gauntlet1/WC_Triton_Gauntlet_05"
+      }
+    },
+    {
+      "TriggerName": "ToRoom8FightTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1635.837,1672.009,2.602081,-0.8039074",
+        "m_destinationZone": "WizardCity/Gauntlets/WC_Triton_Gauntlet1/WC_Triton_Gauntlet_07"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2768-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5569-A",
+    "@last-modified": "2024-01-09T00:06:55.6572295Z"
+  }
+}

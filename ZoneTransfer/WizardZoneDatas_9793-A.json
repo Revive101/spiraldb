@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T4",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Zone 3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10777.34,22415.65,0.04052734,-1.570796",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2154-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9793-A",
+    "@last-modified": "2023-11-21T07:51:57.0605903Z"
+  }
+}

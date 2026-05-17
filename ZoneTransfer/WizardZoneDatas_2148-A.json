@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_ShopClothing",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToJadePalace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5986.693,620.7437,50,0",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:483-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2148-A",
+    "@last-modified": "2023-10-17T05:35:52.2839932Z"
+  }
+}

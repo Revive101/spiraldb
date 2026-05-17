@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z01_DrujCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleporttoAlkaliBarrows",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19430.63,260.1511,-3112.603,1.558816",
+        "m_destinationZone": "Mirage/MR_Z01_AlkaliBarrows"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1985-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8582-A",
+    "@last-modified": "2023-11-16T07:34:27.5789977Z"
+  }
+}

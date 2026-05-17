@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z07_I01_Darajani_Palace",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_StoneTown",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4001.326,9501.614,191.7501,-0.8391085",
+        "m_destinationZone": "Zafaria/ZF_Z07_Stone_Town"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1344-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5218-A",
+    "@last-modified": "2023-10-31T08:51:01.3828358Z"
+  }
+}

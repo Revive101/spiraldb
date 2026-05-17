@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z06_Kalypso_AboveDeck",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.768198,2065.017,136.9728,0.04442472",
+        "m_destinationZone": "Polaris/Interiors/PL_Z06_Kalypso_BelowDeck"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1114-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4546-A",
+    "@last-modified": "2023-10-30T01:27:13.8296486Z"
+  }
+}

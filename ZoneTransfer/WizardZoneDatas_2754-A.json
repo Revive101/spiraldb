@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Mirage/MR_Z07_ThievesDen",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5617.033,-11207.39,3562.69,-2.613679",
+        "m_destinationZone": "Mirage/MR_Z03_CaterwaulCanyon"
+      }
+    },
+    {
+      "TriggerName": "Trigger Thieves Den",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5.021362,199.8022,-59.30835,3.114092",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger Thieves Den (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "127.6116,-4666.708,8.942894E-09,-3.141593",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10.01348,-2578.728,3.75554,3.126704",
+        "m_destinationZone": "Mirage/Interiors/MR_Z07_ThievesVault"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1845-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2754-A",
+    "@last-modified": "2023-11-15T23:37:10.812196Z"
+  }
+}

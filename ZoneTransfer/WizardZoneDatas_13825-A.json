@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/MS_War/Interiors/MS_War1_T6",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To War 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4060.818,-17952.71,0.09382915,-3.141593",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2958-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13825-A",
+    "@last-modified": "2024-02-24T23:51:22.4109651Z"
+  }
+}

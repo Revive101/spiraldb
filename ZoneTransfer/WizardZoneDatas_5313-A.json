@@ -1,0 +1,57 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Sunken_City",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport Sunken City Entrance",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1515.109,-413.8293,15.93742,1.621965",
+        "m_destinationZone": "WizardCity/WC_NightSide"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportTower2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7.286222,-917.9577,1.593255,3.051137",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T2"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportTower3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "24.49216,-954.9427,0.006958001,-3.120712",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T3"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportTower1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.183479,-1027.441,4000.007,-3.141593",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Sunken_City_T1"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1369-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5313-A",
+    "@last-modified": "2023-10-31T09:15:30.2211431Z"
+  }
+}

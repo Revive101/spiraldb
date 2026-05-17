@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Tournament_Entry",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3528.218,4768.087,0.2137451,1.570796",
+        "m_destinationZone": "Wysteria/PA_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Areana_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "961.3274,-448.1815,0.1999878,1.948405",
+        "m_destinationZone": "Wysteria/Interiors/PA_Tournament_Arena01"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Areana_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "933.404,-413.1348,-0.0001313358,1.986408",
+        "m_destinationZone": "Wysteria/Interiors/PA_Tournament_Arena02"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Areana_03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "884.2804,-411.5645,0.2001221,2.083696",
+        "m_destinationZone": "Wysteria/Interiors/PA_Tournament_Arena03"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Areana_04",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "859.0503,-374.1235,0.20002,1.936338",
+        "m_destinationZone": "Wysteria/Interiors/PA_Tournament_Arena04"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Areana_05",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.290295,-8347.686,482.4479,-3.141593",
+        "m_destinationZone": "Wysteria/Interiors/PA_Tournament_Arena05"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:580-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2371-A",
+    "@last-modified": "2023-10-17T09:26:00.0957684Z"
+  }
+}

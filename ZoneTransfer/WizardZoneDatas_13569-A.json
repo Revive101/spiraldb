@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z00_I08_HallofHeroesInner_Hard",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.619107,-3253.426,543.1954,3.140224",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z00_I07_HallofHeroesOuter"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2916-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13569-A",
+    "@last-modified": "2024-02-21T20:34:36.6994935Z"
+  }
+}

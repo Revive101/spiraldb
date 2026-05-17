@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z13_KalamarHouse02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13093.66,-14284.79,231.8116,-0.3083903",
+        "m_destinationZone": "Empyrea/EM_Z13_SamsaraDestroyed"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1170-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4835-A",
+    "@last-modified": "2023-10-31T05:56:08.6400167Z"
+  }
+}

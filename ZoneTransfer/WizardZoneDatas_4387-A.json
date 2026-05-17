@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z02_DanceHall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_LeisureDome",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3227.289,1042.251,0,1.550426",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_LeisureDome"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1047-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4387-A",
+    "@last-modified": "2023-10-29T09:35:24.6070577Z"
+  }
+}

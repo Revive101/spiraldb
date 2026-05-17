@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Celestia/Interiors/CL_SkeleKey_Center_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "EVENT-SkeletonKeyLock-Gold",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.504395,834.9008,-358.5051,3.112301",
+        "m_destinationZone": "Celestia/Interiors/CL_SkeleKey_Center_02"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.504395,834.9008,-358.5051,3.112301",
+        "m_destinationZone": "Celestia/Interiors/CL_SkeleKey_Center_02"
+      }
+    },
+    {
+      "TriggerName": "Exit_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12246.46,13754.31,-743.7158,-2.338331",
+        "m_destinationZone": "Celestia/CL_Z09_Science_Center"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2880-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13313-A",
+    "@last-modified": "2024-02-19T01:55:21.9918609Z"
+  }
+}

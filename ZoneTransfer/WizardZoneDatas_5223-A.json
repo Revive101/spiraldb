@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z07_I09_MinionQuest",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToI08",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "15.92816,1184.29,-6.103516E-05,0",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z07_I08_MinionQuest"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1354-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5223-A",
+    "@last-modified": "2023-10-31T08:55:00.5089265Z"
+  }
+}

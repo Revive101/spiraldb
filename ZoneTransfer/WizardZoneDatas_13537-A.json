@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z16_I04_StormTitan_Hard",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10351.83,17403.3,3069.242,2.359997",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2914-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13537-A",
+    "@last-modified": "2024-02-21T20:31:08.2576545Z"
+  }
+}

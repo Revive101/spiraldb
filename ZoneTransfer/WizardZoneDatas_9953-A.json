@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z12_I04_MorgantheBossRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToEntry",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4.127701,-2725.316,0.0003356934,0",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z12_I02_Entry"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2164-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9953-A",
+    "@last-modified": "2023-11-21T09:08:56.2560782Z"
+  }
+}

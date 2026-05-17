@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/GH_Vestrilund",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location HFjord",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-15105.49,2009.436,-900,-1.568348",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_HFjord"
+      }
+    },
+    {
+      "TriggerName": "ToGHVestTower01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-474.9655,1273.756,-22.16548,0",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Vest_Tower01"
+      }
+    },
+    {
+      "TriggerName": "Trigger (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-163.2622,-1290.597,1.950071,-2.974292",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Vest_Cave03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1680-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5958-A",
+    "@last-modified": "2023-11-14T10:48:31.4816581Z"
+  }
+}

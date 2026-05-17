@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z00_ClovisHeadquarters",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_Walruskberg",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2377.018,-7210.24,-865.4748,2.88571",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1100-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4526-A",
+    "@last-modified": "2023-10-30T00:20:53.6066971Z"
+  }
+}

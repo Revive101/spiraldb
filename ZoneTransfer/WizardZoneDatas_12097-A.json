@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_SkeleKey_House_2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Exit_Room_2_to1_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-688.0157,-357.6672,30.82611,-1.92126",
+        "m_destinationZone": "Wysteria/Interiors/PA_SkeleKey_House_01"
+      }
+    },
+    {
+      "TriggerName": "Exit_OnDeath_Version",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.571106,-2084.467,81.02499,-3.117154",
+        "m_destinationZone": "Wysteria/Interiors/PA_SkeleKey_House_2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2689-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12097-A",
+    "@last-modified": "2024-01-05T11:45:58.0270732Z"
+  }
+}

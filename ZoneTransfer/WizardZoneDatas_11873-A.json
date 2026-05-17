@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_FlotsamCantina/FlotsamCantina_Int",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-TopHatch",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2140.165,1066.55,0.700531,1.570796",
+        "m_destinationZone": "Housing_FlotsamCantina/FlotsamCantina_Int"
+      }
+    },
+    {
+      "TriggerName": "Teleport location- BottomHatch",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2554.385,1093.325,-704.8049,-3.141593",
+        "m_destinationZone": "Housing_FlotsamCantina/FlotsamCantina_Int"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2666-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11873-A",
+    "@last-modified": "2024-01-05T06:13:39.3354144Z"
+  }
+}

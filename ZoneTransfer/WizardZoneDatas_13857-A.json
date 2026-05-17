@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_UnformedWorld",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport2Arcanum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-32.94641,953.9233,0.6148988,-1.947348",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2961-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13857-A",
+    "@last-modified": "2024-02-27T03:12:22.6231939Z"
+  }
+}

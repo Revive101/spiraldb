@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Zafaria/ZF_Z05_Zamunda_Outskirts",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-381.9131,6133.507,-721.5203,-0.2004898",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "WC-LIFE-C11-001_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.7493591,114.543,8.068726,-3.090747",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Z05_I05_Jungle_Clearing_04"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Zamunda",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1209.488,-7293.803,-20.65804,3.136045",
+        "m_destinationZone": "Zafaria/ZF_Z06_Zamunda"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:704-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2792-A",
+    "@last-modified": "2023-10-24T07:31:26.6200782Z"
+  }
+}

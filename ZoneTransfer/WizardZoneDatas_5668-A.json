@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/MS_Plague/Interiors/MS_Plague3_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToPlague3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11021.09,21848.67,79.35123,0",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone3_CliffsidePalace"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1470-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5668-A",
+    "@last-modified": "2023-11-02T05:28:45.9684793Z"
+  }
+}

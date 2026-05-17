@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Hatchery",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToPetPark",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1193.24,-2834.237,115.8287,2.998968",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_PET_Park"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:18-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/36-A",
+    "@last-modified": "2023-10-02T02:12:33.970324Z"
+  }
+}

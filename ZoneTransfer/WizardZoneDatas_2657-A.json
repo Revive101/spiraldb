@@ -1,0 +1,46 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Catacombs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_Drains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17402.69,-12039.83,-755.9771,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Drains/Z00_Drains_HUB"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_CatacombsB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "558.7754,-884.21,-576.1589,1.543384",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Catacombs_B"
+      }
+    },
+    {
+      "TriggerName": "Trigger Catacombs_C",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13292.97,-9130.275,534.8831,3.138914",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Catacombs_C"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2673-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2657-A",
+    "@last-modified": "2024-01-05T06:26:55.3096352Z"
+  }
+}

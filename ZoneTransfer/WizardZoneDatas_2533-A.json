@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Karamelle/KM_Z00_HUB",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport to RockCandy",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3202.576,317.4844,214.772,2.380496",
+        "m_destinationZone": "Karamelle/KM_Z02_CandyMountains"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "21.02409,95.41913,0.006996941,-0.01984814",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z00_NanasHQ"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-506.6318,117.3594,89.43866,-1.220324",
+        "m_destinationZone": "Karamelle/KM_Z03_GumdropForest"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1031-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2533-A",
+    "@last-modified": "2023-10-29T09:21:17.9305998Z"
+  }
+}

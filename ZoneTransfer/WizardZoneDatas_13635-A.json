@@ -1,0 +1,35 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z07_I01_Observatory",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToArmory",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-597.6876,-94.62488,1100.2,-3.021695",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z04_I01_Staircase"
+      }
+    },
+    {
+      "TriggerName": "ToLandingZone2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2376.85,-2457.753,755.5134,-1.541232",
+        "m_destinationZone": "G14_DM/DM_Z04_LandingZone2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2930-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13635-A",
+    "@last-modified": "2024-02-21T22:06:44.3064852Z"
+  }
+}

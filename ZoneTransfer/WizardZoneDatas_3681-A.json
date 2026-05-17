@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_SherlockHolmesHouse_Instance",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8797.953,7889.01,7.361084,-1.574495",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:893-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3681-A",
+    "@last-modified": "2023-10-29T04:01:06.9546115Z"
+  }
+}

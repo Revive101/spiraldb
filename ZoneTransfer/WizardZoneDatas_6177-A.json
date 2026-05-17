@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Colossus_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street6 CustTower01 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2642.267,-15102.74,-27.3297,-2.298688",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1605-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6177-A",
+    "@last-modified": "2023-11-13T06:13:41.1433997Z"
+  }
+}

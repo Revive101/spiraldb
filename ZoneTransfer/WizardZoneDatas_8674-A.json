@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z05_Armory",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1611.138,266.8519,-15.29337,-1.570796",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_TetrusPrison"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2018-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8674-A",
+    "@last-modified": "2023-11-16T07:56:05.6598818Z"
+  }
+}

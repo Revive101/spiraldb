@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_Arena_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (DS_T1 to Arena)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20811.45,21998.27,179.9995,-1.570796",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z2_Arena"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2404-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11265-A",
+    "@last-modified": "2023-12-06T16:40:03.7027172Z"
+  }
+}

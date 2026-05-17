@@ -1,0 +1,79 @@
+{
+  "ZoneName": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To MooShu Main Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1409.591,1582.451,0,-1.570796",
+        "m_destinationZone": "MooShu/Interiors/MS_RockDojoT2"
+      }
+    },
+    {
+      "TriggerName": "To Death Zone 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7012.303,-20692.88,32.94224,-3.097025",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround"
+      }
+    },
+    {
+      "TriggerName": "To Death Zone 2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3105.897,150.5554,0.0001140498,-1.570796",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage"
+      }
+    },
+    {
+      "TriggerName": "SpiritDialog (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13267.45,16795.75,-1129.964,1.570796",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
+      }
+    },
+    {
+      "TriggerName": "CrossBridge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19422.09,16809.33,-1283.326,-1.570796",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13267.45,16795.75,-1129.964,1.570796",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2996-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2179-A",
+    "@last-modified": "2024-03-07T11:59:00.0737877Z"
+  }
+}

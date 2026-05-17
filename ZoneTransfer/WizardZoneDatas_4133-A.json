@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z01_ConferenceTent",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_AnteChamber",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.537893,994.6045,-4.171509,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z01_TentAntechamber"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:994-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4133-A",
+    "@last-modified": "2023-10-29T08:46:13.2341574Z"
+  }
+}

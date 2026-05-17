@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z07_SecondaryDock",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToCitadel",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1539.687,2211.212,0.9999406,-0.4490833",
+        "m_destinationZone": "Empyrea/EM_Z07_NimbusCitadel"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1186-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4901-A",
+    "@last-modified": "2023-10-31T06:03:53.6575983Z"
+  }
+}

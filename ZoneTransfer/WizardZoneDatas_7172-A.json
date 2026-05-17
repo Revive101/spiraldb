@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/GH_Hero_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToHeroCamp",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1937.901,5465.028,502.2123,-0.9123588",
+        "m_destinationZone": "Grizzleheim/GH_Hero"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1673-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7172-A",
+    "@last-modified": "2023-11-14T10:38:39.991465Z"
+  }
+}

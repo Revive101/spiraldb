@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z08_I02_PheonixTower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4756.934,-5029.647,142.6152,2.341569",
+        "m_destinationZone": "Khrysalis/KR_Z08_RadianceReborn"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1931-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8422-A",
+    "@last-modified": "2023-11-16T06:12:41.3978133Z"
+  }
+}

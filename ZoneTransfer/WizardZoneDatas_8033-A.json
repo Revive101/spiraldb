@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Azteca/AZ_Z05_ZultunDock",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport to KathleenWilderCottage",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-26.81243,-446.0181,11.16162,-3.134656",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z05_KathleenWilderHouse"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleporter to Cloudburst Forest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2134.018,-3271.245,-237.1106,2.835711",
+        "m_destinationZone": "Azteca/AZ_Z06_CloudburstIsland"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1798-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8033-A",
+    "@last-modified": "2023-11-15T22:47:53.5598629Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Karamelle/KM_Z01_VonTrapEstate",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_Teleport_to_vonTrapLodge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.874138,142.4819,1.301892,3.120343",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z01_VonTrapLodge"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_vonTrapLodge (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.874138,142.4819,1.301892,3.120343",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z01_VonTrapLodge_02"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_RockCandyMountains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6503.09,18025.01,2384.346,0.865065",
+        "m_destinationZone": "Karamelle/KM_Z02_CandyMountains"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:617-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2529-A",
+    "@last-modified": "2023-10-19T09:36:16.355174Z"
+  }
+}

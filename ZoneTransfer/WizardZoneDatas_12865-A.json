@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_Teleport_to_Oasis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.3659,26.97078,-59.30836,-3.124092",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int02"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_ValleyoftheSun",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-334.1022,-663.5695,68.62766,-2.916463",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2823-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12865-A",
+    "@last-modified": "2024-01-18T11:32:08.7002843Z"
+  }
+}

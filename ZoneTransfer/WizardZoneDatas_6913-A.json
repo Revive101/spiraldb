@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Celestia/CL_Z08_Temple_Of_The_Moon/MoonC1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to HUB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-510.9068,10881.63,-892.1374,-0.8714255",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Moon_C2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4458.013,-3408.253,1225.348,3.067295",
+        "m_destinationZone": "Celestia/CL_Z08_Temple_Of_The_Moon/MoonC2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1630-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6913-A",
+    "@last-modified": "2023-11-14T08:12:00.0320441Z"
+  }
+}

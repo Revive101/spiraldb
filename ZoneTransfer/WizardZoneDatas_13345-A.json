@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Krokotopia/Interiors/KT_SkeletonKeyWood_Landing_1330",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "942.1542,11.43066,1.000003,1.570796",
+        "m_destinationZone": "Krokotopia/Interiors/KT_HallofDoors"
+      }
+    },
+    {
+      "TriggerName": "Trigger-SkeletonTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1799.457,16.6558,9.291257E-05,1.584624",
+        "m_destinationZone": "Krokotopia/Interiors/KT_SkeletonKeyWood_1330"
+      }
+    },
+    {
+      "TriggerName": "Trigger-EVENT-SkeletonKeyLock-Wood",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1799.457,16.6558,9.291257E-05,1.584624",
+        "m_destinationZone": "Krokotopia/Interiors/KT_SkeletonKeyWood_1330"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2886-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13345-A",
+    "@last-modified": "2024-02-19T02:02:31.2749369Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/KT_AltarOfKings",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (KT_Hub Krok_Pyramid_Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-36.56997,7429.127,495.6038,0",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport (Krok_Pyramid_Hub Krok_Pyramid_Level02 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "407.773,-702.5092,-0.0001274549,-1.247437",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    },
+    {
+      "TriggerName": "Teleport (Krok_Pyramid_Hub Krok_Pyramid_Level03 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "724.6251,36.26123,-0.0001359465,1.55912",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Chamber"
+      }
+    },
+    {
+      "TriggerName": "Teleport Palace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "43.23785,683.1552,-0.0001220703,0",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    },
+    {
+      "TriggerName": "Teleport (Krok_Pyramid_Hub Krok_Pyramind_Level01 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "30.90771,649.9102,-0.0002441406,0",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Hall"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2984-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1313-A",
+    "@last-modified": "2024-03-03T17:49:59.832122Z"
+  }
+}

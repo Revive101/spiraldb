@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/Interiors/KT_ShopSphinx",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToKrokSphinxHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13042.75,3780.671,1204.39,-0.6904482",
+        "m_destinationZone": "Krokotopia/KT_Hub_Sphinx"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:897-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3714-A",
+    "@last-modified": "2023-10-29T04:09:21.9920958Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z04_TowerOfBabble",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "72.1376,8913.187,-264.6394,-0.6914313",
+        "m_destinationZone": "Mirage/MR_Z04_RubalWastes"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2028-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8705-A",
+    "@last-modified": "2023-11-16T08:09:01.27563Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z01_DefiledCrypt",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-14662.63,-2727.028,-2813.565,-1.794673",
+        "m_destinationZone": "Mirage/MR_Z01_AlkaliBarrows"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1983-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8581-A",
+    "@last-modified": "2023-11-16T07:33:48.8536398Z"
+  }
+}

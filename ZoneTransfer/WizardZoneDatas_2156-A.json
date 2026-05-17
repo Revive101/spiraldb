@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToPlagueHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11649.41,7072.283,480.0125,1.570796",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Hub_FarmVillage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:499-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2156-A",
+    "@last-modified": "2023-10-17T05:56:39.7427538Z"
+  }
+}

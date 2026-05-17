@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Tomb/KT_KaranahnPalace",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Crypt04 to Crypt03)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-36465.43,23995.62,0.001954068,-1.570796",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_Barracks"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2111-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9249-A",
+    "@last-modified": "2023-11-17T12:13:51.6074994Z"
+  }
+}

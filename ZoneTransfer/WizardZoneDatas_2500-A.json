@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Celestia/CL_Z10_Kingdom_Of_The_Crabs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2392.887,15992.74,-948.2834,0.6044155",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    },
+    {
+      "TriggerName": "To CL_Z10i2 - Emperor - front door",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-557.2277,390.8683,1.61192,2.392738",
+        "m_destinationZone": "Celestia/Interiors/CL_Z10i2_Kingdom_Of_The_Crabs"
+      }
+    },
+    {
+      "TriggerName": "To CL_Z10i2 - Emperor - back door",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2866.777,2506.339,-28.64783,-0.6974088",
+        "m_destinationZone": "Celestia/Interiors/CL_Z10i2_Kingdom_Of_The_Crabs"
+      }
+    },
+    {
+      "TriggerName": "Trigger Spell Teleporter to Eel Cave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-248.0023,10.59574,26.81651,1.573086",
+        "m_destinationZone": "Celestia/Interiors/CL_Z10i10_Kingdom_Of_The_Crabs"
+      }
+    },
+    {
+      "TriggerName": "Trigger_To_CL_Z10_I11",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1010.959,-30.00113,25.83283,1.58041",
+        "m_destinationZone": "Celestia/Interiors/CL_Z10i11_Kingdom_Of_The_Crabs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:4136-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2500-A",
+    "@last-modified": "2025-02-21T16:53:51.5169629Z"
+  }
+}

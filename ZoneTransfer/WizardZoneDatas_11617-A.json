@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Event_Maestro/ZF_Z00_TelegraphBox",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-TeleportMuseum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-148.0399,-292.7142,-0.08551025,-3.141593",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Event_Maestro/ZF_Z01_IslandTavern"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportCaves",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1184.712,-122.6844,0.0001220703,-1.638557",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Event_Maestro/ZF_Z02_CaveHideout"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport-InsideShip",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "35.9539,1449.025,-0.001464844,0",
+        "m_destinationZone": "Zafaria/Interiors/ZF_Event_Maestro/ZF_Z03_PirateShipInt"
+      }
+    },
+    {
+      "TriggerName": "Teleport-Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6867.992,589.8105,410.265,-1.52403",
+        "m_destinationZone": "Zafaria/ZF_Z02_Baobab_Market"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2597-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11617-A",
+    "@last-modified": "2023-12-23T05:28:59.3688436Z"
+  }
+}

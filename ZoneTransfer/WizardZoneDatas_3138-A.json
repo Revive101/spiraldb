@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z08_I03_SkeletonKey2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToGraveyard",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2673.521,-67.06849,0.5197207,-1.534997",
+        "m_destinationZone": "G14_DM/DM_Z07_Graveyard"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:809-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3138-A",
+    "@last-modified": "2023-10-25T10:03:17.7757601Z"
+  }
+}

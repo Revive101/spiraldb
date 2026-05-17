@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z08_ColaLake",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_BLF",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8829.002,17727.58,-843.6357,0",
+        "m_destinationZone": "Karamelle/KM_Z08_LicoriceForest"
+      }
+    },
+    {
+      "TriggerName": "Trigger To_Gobblerton",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-271.8174,-10660.6,89.54341,-3.103473",
+        "m_destinationZone": "Karamelle/KM_Z10_Gobblerton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1513-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5865-A",
+    "@last-modified": "2023-11-03T08:42:11.9576987Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z01_MonkeySpiderCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2470.679,-3218.228,-149.3633,-2.171024",
+        "m_destinationZone": "Empyrea/EM_Z01_Jungle"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1124-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4611-A",
+    "@last-modified": "2023-10-30T01:43:31.0024747Z"
+  }
+}

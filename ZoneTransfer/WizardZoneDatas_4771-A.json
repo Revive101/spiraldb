@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z03_IceDwarfBunker",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to EM_Z03_OuterAthanor",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13529.02,221.853,900.9985,0.7867146",
+        "m_destinationZone": "Empyrea/EM_Z03_OuterAthanor"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1151-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4771-A",
+    "@last-modified": "2023-10-31T05:41:35.9698717Z"
+  }
+}

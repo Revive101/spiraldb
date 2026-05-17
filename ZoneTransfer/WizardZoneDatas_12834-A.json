@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_Gauntlet_Theater/Gauntlet_01/TheaterGauntlet_G01_Int04",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_TheaterGauntlet_G01_Int01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4.57859,980.6925,3.051758E-05,0",
+        "m_destinationZone": "Housing_Gauntlet_Theater/Gauntlet_01/TheaterGauntlet_G01_Int01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2817-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12834-A",
+    "@last-modified": "2024-01-18T11:22:16.3480245Z"
+  }
+}

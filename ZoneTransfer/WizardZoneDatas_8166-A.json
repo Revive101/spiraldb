@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z03_ArkShip",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_DryDock",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "516.5349,2451.427,661.2003,0",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_I01_DryDock"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1833-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8166-A",
+    "@last-modified": "2023-11-15T23:25:12.4532138Z"
+  }
+}

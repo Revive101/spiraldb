@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z09_I15_ZedsHouseSM",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_MantisCity",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7903.844,-1704.391,20,1.578238",
+        "m_destinationZone": "Khrysalis/KR_Z09_MantisCity"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1939-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8452-A",
+    "@last-modified": "2023-11-16T06:21:52.6058772Z"
+  }
+}

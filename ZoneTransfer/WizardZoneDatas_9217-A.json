@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Krokotopia/KT_Tomb/Interiors/KT_Djeserit_CL_Preview",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToKT_Djeserit_Tomb",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5431.676,6003.262,91.97534,0",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_DjeseritTomb"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2109-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9217-A",
+    "@last-modified": "2023-11-17T12:03:49.8234849Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z07_Precinct",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger_Teleport_BumblesMind",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2486.198,-5249.771,-1819.94,2.124155",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z07_BumblesMind"
+      }
+    },
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6053.535,2368.445,-1464.001,0",
+        "m_destinationZone": "Lemuria/LM_Z07_Heap"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1258-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5090-A",
+    "@last-modified": "2023-10-31T07:13:52.1678896Z"
+  }
+}

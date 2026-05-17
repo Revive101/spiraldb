@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_MaestroEvent/AV_Z04_TowerBottom_B",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.686089,-1134.747,0.1235526,3.130529",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AZ_Z05_TowerTop_B"
+      }
+    },
+    {
+      "TriggerName": "Teleport to TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "613.0477,-2133.991,167.3967,2.770289",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AV_Z00_LandingZone"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2611-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11687-A",
+    "@last-modified": "2023-12-23T06:00:05.1793309Z"
+  }
+}

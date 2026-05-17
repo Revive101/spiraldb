@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Krokotopia/KT_Krokosphinx/KT_EntranceHall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (KT_SphinxHub KT_Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14760.74,3914.59,1083.127,1.516405",
+        "m_destinationZone": "Krokotopia/KT_Hub_Sphinx"
+      }
+    },
+    {
+      "TriggerName": "Teleport (KT_SphinxHub KT_Sphinx_Level02 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "330.5252,187.0402,51.98792,1.587454",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_ChampHall"
+      }
+    },
+    {
+      "TriggerName": "Teleport (KT_SphinxHub KT_Sphinx_Level04 Entrance) (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "200.6819,-346.4936,-0.0007679985,3.088154",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Arena"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3609-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14241-A",
+    "@last-modified": "2024-09-07T02:04:56.9427382Z"
+  }
+}

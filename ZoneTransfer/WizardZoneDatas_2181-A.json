@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Death Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9204.817,31306.52,-117.7904,0.6689502",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:510-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2181-A",
+    "@last-modified": "2023-10-17T06:20:42.3995565Z"
+  }
+}

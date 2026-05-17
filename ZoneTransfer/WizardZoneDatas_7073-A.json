@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano_Elevator_Up",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportPlayerToVolcano2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1461.546,6382.001,4726.965,-3.093242",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1649-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7073-A",
+    "@last-modified": "2023-11-14T09:19:36.7283376Z"
+  }
+}

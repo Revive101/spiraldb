@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Wysteria/PA_Z02_Tanglewood",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9888.672,7546.452,-1749.786,-1.589119",
+        "m_destinationZone": "Wysteria/PA_Hub"
+      }
+    },
+    {
+      "TriggerName": "TeleportToEddieTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-631.2079,367.4613,31.38495,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_House01"
+      }
+    },
+    {
+      "TriggerName": "ToQuentinHouse1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-633.9777,375.0818,31.385,0",
+        "m_destinationZone": "Wysteria/Interiors/PA_House03"
+      }
+    },
+    {
+      "TriggerName": "ToQuentinHouse2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1208.533,-340.8698,328.722,-1.542453",
+        "m_destinationZone": "Wysteria/Interiors/PA_House03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:718-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2819-A",
+    "@last-modified": "2023-10-24T08:02:43.1132616Z"
+  }
+}

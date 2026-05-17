@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_Tournament_Arena05",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11.50745,-1206.193,180.0878,3.04494",
+        "m_destinationZone": "Wysteria/Interiors/PA_Tournament_Entry"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:581-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2402-A",
+    "@last-modified": "2023-10-17T09:26:23.1957692Z"
+  }
+}

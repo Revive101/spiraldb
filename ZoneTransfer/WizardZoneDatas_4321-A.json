@@ -1,0 +1,101 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z00_NanasHQ",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleoprt to Cavity",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "124.3431,8.440903,0.9154776,-0.01554802",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z00_CavityDining"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5.021362,199.8022,-59.30835,3.114092",
+        "m_destinationZone": "Krokotopia/KT_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "127.6116,-4666.708,8.942894E-09,-3.141593",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-40.60261,-132.4988,1.100379,-1.602396",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4901.385,-5531.402,2466.518,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_Hub_Cathedral"
+      }
+    },
+    {
+      "TriggerName": "Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.247505,492.8723,-49.69999,3.067107",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "153.0881,46.34628,-709.6104,-1.633361",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location Glockenspiel",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "57.82373,4379.283,-2.29582,0",
+        "m_destinationZone": "Karamelle/KM_Z00_HUB"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1537-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4321-A",
+    "@last-modified": "2023-11-03T09:11:20.1919578Z"
+  }
+}

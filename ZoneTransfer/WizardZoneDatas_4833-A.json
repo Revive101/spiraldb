@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Empyrea/EM_Z12_LandingZone",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger GoToSamsara (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-202.3253,51.74066,-14.68897,0.3418585",
+        "m_destinationZone": "Empyrea/EM_Z13_SamsaraDestroyed"
+      }
+    },
+    {
+      "TriggerName": "Trigger GoToSamsara",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-311.3575,-244.609,-14.68896,0.6367309",
+        "m_destinationZone": "Empyrea/EM_Z12_SamsaraVillage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1166-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4833-A",
+    "@last-modified": "2023-10-31T05:55:03.7331919Z"
+  }
+}

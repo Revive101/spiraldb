@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Tutorial_Exterior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TriggerTeleportToInterior",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.323257,-1000.484,0.006958008,3.084044",
+        "m_destinationZone": "WizardCity/Tutorial_Interior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2206-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10273-A",
+    "@last-modified": "2023-11-24T08:49:06.6278651Z"
+  }
+}

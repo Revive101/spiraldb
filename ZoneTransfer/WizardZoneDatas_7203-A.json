@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/GH_Austrilund",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To HFjord Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "301.5264,11303.55,-200,1.604338",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_HFjord"
+      }
+    },
+    {
+      "TriggerName": "TriggerGH-LIFE-C09-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-170.6479,-1329.962,9.659271,-2.810724",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Aust_Cave10"
+      }
+    },
+    {
+      "TriggerName": "TriggerGH-DEATH-C09-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-222.8489,-1620.531,0.946167,-3.037932",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Aust_Cave09"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1688-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7203-A",
+    "@last-modified": "2023-11-14T10:57:58.8762576Z"
+  }
+}

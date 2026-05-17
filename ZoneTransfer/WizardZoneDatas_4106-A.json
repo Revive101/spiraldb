@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Grizzleheim/GH_Wolf",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TriggerTeleportToMirkholmWasRaven",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1555.196,-17.62042,3.051758E-05,1.570796",
+        "m_destinationZone": "Grizzleheim/Interiors/GH_RavenFortress_T12"
+      }
+    },
+    {
+      "TriggerName": "TeleportToWolfHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8810.429,5647.934,651.5374,0.3695047",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1674-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4106-A",
+    "@last-modified": "2023-11-14T10:42:00.3492514Z"
+  }
+}

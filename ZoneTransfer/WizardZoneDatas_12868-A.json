@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int04",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_Teleport_to_ValleyofSun",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-891.9373,7711.785,232.1185,-0.4449819",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int03"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2136.273,-553.6848,167.3967,-1.869892",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2827-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12868-A",
+    "@last-modified": "2024-01-18T11:33:49.4337205Z"
+  }
+}

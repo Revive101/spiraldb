@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Mirage/MR_Z04_RubalWastes",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4570.169,-16594.33,68.43576,-2.866473",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Istamboa",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5650.663,-12384.82,4997.158,2.992546",
+        "m_destinationZone": "Mirage/MR_Z05_Istanboa"
+      }
+    },
+    {
+      "TriggerName": "Trigger-Teleport location - House Colixco",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4.697174,77.46835,1.629234E-05,0.04291465",
+        "m_destinationZone": "Mirage/Interiors/MR_Z04_CalixcoManor"
+      }
+    },
+    {
+      "TriggerName": "Trigger TowerOfBabble",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13.04346,-1316.123,9.546318,3.104373",
+        "m_destinationZone": "Mirage/Interiors/MR_Z04_TowerOfBabble"
+      }
+    },
+    {
+      "TriggerName": "Telepot_YachalMountian",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7756.206,2071.724,-2888.462,1.537066",
+        "m_destinationZone": "Mirage/MR_Z06_YakhalMountain"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2029-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8641-A",
+    "@last-modified": "2023-11-16T08:09:56.4537914Z"
+  }
+}

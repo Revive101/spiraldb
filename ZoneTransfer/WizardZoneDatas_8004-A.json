@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z04_SwampCavern",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6936.523,3440.786,100.8551,-0.3888868",
+        "m_destinationZone": "Azteca/AZ_Z03_MangroveMarsh"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1794-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8004-A",
+    "@last-modified": "2023-11-15T22:44:06.4356561Z"
+  }
+}

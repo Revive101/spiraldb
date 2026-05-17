@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Karamelle/KM_Z06_Mines",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Nibbelheim",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6221.413,-1018.817,1051.537,-2.822537",
+        "m_destinationZone": "Karamelle/KM_Z05_Nibbleheim"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1535-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5921-A",
+    "@last-modified": "2023-11-03T09:03:44.5183787Z"
+  }
+}

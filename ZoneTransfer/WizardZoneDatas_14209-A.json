@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_Headmaster_CabinetOfWonders",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-554.234,-14.27085,3.051758E-05,-1.715953",
+        "m_destinationZone": "WizardCity/Interiors/WC_Headmistress_House"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4581.86,3719.512,-35.0946,3.064451",
+        "m_destinationZone": "WizardCity/WC_Ravenwood_Graduation"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3531-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14209-A",
+    "@last-modified": "2024-05-31T20:56:43.7592156Z"
+  }
+}

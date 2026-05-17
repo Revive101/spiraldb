@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_Station/Interiors/MB_Ironworks_T5",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Tower5toFactory",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "31366.49,40935.95,-239.9056,1.606786",
+        "m_destinationZone": "Marleybone/MB_Station/MB_Ironworks"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1433-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5476-A",
+    "@last-modified": "2023-11-01T12:32:48.9171906Z"
+  }
+}

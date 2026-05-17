@@ -1,0 +1,35 @@
+{
+  "ZoneName": "G14_SB/SB_Z05_CaveSystem",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2745.531,-11219.5,3738.934,-1.340564",
+        "m_destinationZone": "G14_SB/SB_Z01_KimbaalungVillage"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToPuzzle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-144.6008,190.0322,-49.76068,-0.8759053",
+        "m_destinationZone": "G14_SB/SB_Z06_PuzzleRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1444-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5537-A",
+    "@last-modified": "2023-11-01T13:07:13.8804647Z"
+  }
+}

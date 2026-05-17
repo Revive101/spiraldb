@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z00_I14_Barracks_B",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4810.643,5026.893,536.6262,0.7646847",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2852-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13058-A",
+    "@last-modified": "2024-01-18T12:15:52.0564998Z"
+  }
+}

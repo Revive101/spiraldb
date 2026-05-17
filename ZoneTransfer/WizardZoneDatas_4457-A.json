@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Avalon/AV_Z06_DunDara",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Wyrd",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7939.902,-1370.823,-1301.695,1.378034",
+        "m_destinationZone": "Avalon/AV_Z05_TheWyrd"
+      }
+    },
+    {
+      "TriggerName": "Triggere To Ettin_Cave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-193.1695,-1358.563,1.842644,3.06397",
+        "m_destinationZone": "Avalon/Interiors/AV_Z06_Cave02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1070-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4457-A",
+    "@last-modified": "2023-10-29T22:34:30.9006601Z"
+  }
+}

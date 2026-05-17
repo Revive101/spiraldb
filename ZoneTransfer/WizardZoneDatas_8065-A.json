@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z07_Grotto_of_Wirachoca",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2662.969,4375.333,2817.279,-2.975657",
+        "m_destinationZone": "Azteca/AZ_Z07_TierraDeBrea"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1806-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8065-A",
+    "@last-modified": "2023-11-15T22:53:35.2084778Z"
+  }
+}

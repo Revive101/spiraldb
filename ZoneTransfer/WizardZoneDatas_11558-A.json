@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Event_Maestro/MB_Z04_ClandestineTower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToFirstRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.1654549,1087.602,0,0",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z05_PreTowerFight"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2566-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11558-A",
+    "@last-modified": "2023-12-23T04:25:50.2251725Z"
+  }
+}

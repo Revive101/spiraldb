@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Crafting_WORLD",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Arcanum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7205.632,-999.6705,-106.7745,1.568899",
+        "m_destinationZone": "Arcanum/AR_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:668-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2633-A",
+    "@last-modified": "2023-10-21T06:33:09.5726064Z"
+  }
+}

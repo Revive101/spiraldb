@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z01_DuelingTent",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Conatus",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-570.8654,-8288.249,104.1123,-3.038204",
+        "m_destinationZone": "Novus/NV_Z01_Conatus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:990-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4131-A",
+    "@last-modified": "2023-10-29T08:44:41.7880508Z"
+  }
+}

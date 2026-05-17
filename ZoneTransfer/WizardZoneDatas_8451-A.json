@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Khrysalis/KR_Z09_MantisCity",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_ShrineofLostLight",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-24.74951,-1327.66,0.163936,-3.141593",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z09_I12_LostLightMain"
+      }
+    },
+    {
+      "TriggerName": "To_ZedsHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-16.97352,-388.0206,0.163936,-3.141593",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z09_I15_ZedsHouseSM"
+      }
+    },
+    {
+      "TriggerName": "To_PaleBeauty02Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1076.338,-8.742325,0.163936,1.570796",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z09_I26_PaleBeautyBot02"
+      }
+    },
+    {
+      "TriggerName": "To_KondhaTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13913.97,-16069.45,-510.2999,2.393861",
+        "m_destinationZone": "Khrysalis/KR_Z10_KondhaDesert"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1945-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8451-A",
+    "@last-modified": "2023-11-16T06:23:07.6884114Z"
+  }
+}

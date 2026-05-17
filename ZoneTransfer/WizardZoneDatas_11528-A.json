@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z08_Fire_Tower02_Basement",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.857405,5.755419,0.5001276,-1.629728",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z04_Fire_School"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2549-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11528-A",
+    "@last-modified": "2023-12-23T04:06:27.2811917Z"
+  }
+}

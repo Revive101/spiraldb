@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z07_CandyBar",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1990.076,-842.5825,2.779728,1.56082",
+        "m_destinationZone": "Karamelle/KM_Z07_Gutenstadt"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1502-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5860-A",
+    "@last-modified": "2023-11-03T08:30:14.539419Z"
+  }
+}

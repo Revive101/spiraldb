@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_HauntedCave_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToHauntedCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14330.53,10234.49,167.6584,1.303338",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_HauntedCave"
+      }
+    },
+    {
+      "TriggerName": "ToLowerWarrens",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "499.9346,637.0635,-82.64081,0.6527721",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_HauntedCave_T3"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1390-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5377-A",
+    "@last-modified": "2023-10-31T10:00:05.8576877Z"
+  }
+}

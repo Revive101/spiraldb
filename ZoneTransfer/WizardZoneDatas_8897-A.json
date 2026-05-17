@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street2 Tower2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9399.639,-4920.449,-2200,-2.287047",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2057-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8897-A",
+    "@last-modified": "2023-11-17T06:20:28.2764749Z"
+  }
+}

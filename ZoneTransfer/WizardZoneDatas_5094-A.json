@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z07_TamarinCellar",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_TamarinHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1325.432,1085.357,-1.424923E-05,-0.728813",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z07_TamarinHouse"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1265-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5094-A",
+    "@last-modified": "2023-10-31T07:18:09.3674418Z"
+  }
+}

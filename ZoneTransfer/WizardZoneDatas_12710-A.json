@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_GHGauntlet/GH_WinterbaneGauntlet01/GH_WinterbaneGauntlet01_R06",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToRoom5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-229.4132,-1287.271,4.834404,-3.06436",
+        "m_destinationZone": "Housing_GHGauntlet/GH_WinterbaneGauntlet01/GH_WinterbaneGauntlet01_R05"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2792-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12710-A",
+    "@last-modified": "2024-01-18T10:49:45.2261563Z"
+  }
+}

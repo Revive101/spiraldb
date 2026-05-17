@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Triton_H3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-23857.23,-6380.902,28.71293,-0.2813639",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2061-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8929-A",
+    "@last-modified": "2023-11-17T06:28:36.7751313Z"
+  }
+}

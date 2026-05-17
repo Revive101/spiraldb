@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/CL_Z11_Temple_Of_The_Sun",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "482.8304,10977.03,-899.6999,1.106206",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1633-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6945-A",
+    "@last-modified": "2023-11-14T08:13:44.5501452Z"
+  }
+}

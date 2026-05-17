@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Housing_Acropolis/Interior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Maze",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11744.79,-8738.519,500.0014,0",
+        "m_destinationZone": "Housing_Acropolis/Interior"
+      }
+    },
+    {
+      "TriggerName": "From_Staircase_To_Maze",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4019.849,2994.252,-1499.999,-1.5928",
+        "m_destinationZone": "Housing_Acropolis/Interior"
+      }
+    },
+    {
+      "TriggerName": "To_Oracle_Secret",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10.40936,-13864.62,666.3454,-3.131022",
+        "m_destinationZone": "Housing_Acropolis/Interior"
+      }
+    },
+    {
+      "TriggerName": "To_Main_Room",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.439124,-6814.4,-1.458595E-05,-3.116527",
+        "m_destinationZone": "Housing_Acropolis/Interior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1496-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5825-A",
+    "@last-modified": "2023-11-03T08:15:09.261739Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Polaris/PL_Z01_Harbor",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location Walruskberg",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4614.836,895.7666,536.6332,-1.571169",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
+    },
+    {
+      "TriggerName": "Trigger teleport to Basstile",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4548.354,-25.43677,126.3245,-1.570889",
+        "m_destinationZone": "Polaris/Interiors/Z01_I06_Basstille"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToLaNettoyage",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "56.63822,-1175.857,4.183777,-3.141593",
+        "m_destinationZone": "Polaris/Interiors/Z01_I02_LaNettoyage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1078-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4514-A",
+    "@last-modified": "2023-10-30T00:00:11.6858037Z"
+  }
+}

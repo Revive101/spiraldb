@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z01_BeastmanStockade",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1260.954,8625.21,359.7616,-0.8382238",
+        "m_destinationZone": "Empyrea/EM_Z01_Jungle"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1120-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4609-A",
+    "@last-modified": "2023-10-30T01:40:12.9164044Z"
+  }
+}

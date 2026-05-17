@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Marleybone/MB_Station/MB_ChelseaCourt",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToAirportHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3906.382,11745.43,-113.5536,1.65046",
+        "m_destinationZone": "Marleybone/MB_Station/MB_Station_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport to MB_ChelseaCourt_LD",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17.63029,-1121.254,0,-3.141593",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_LD"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportFire-C04",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.777204,1505.582,-724.9929,0",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_W2"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleportIce-C04",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.777204,1889.924,-724.9929,0",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_W1"
+      }
+    },
+    {
+      "TriggerName": "Trigger KT-BAL-C04-002",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-36.34936,-1369.338,-724.9929,-3.141593",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T1"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2134-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2434-A",
+    "@last-modified": "2023-11-21T07:31:58.2889307Z"
+  }
+}

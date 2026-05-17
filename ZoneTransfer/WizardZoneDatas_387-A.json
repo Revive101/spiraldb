@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_ShopDye",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "507.7531,-3180.55,-30.46894,-2.175722",
+        "m_destinationZone": "WizardCity/WC_Shop_Area"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:124-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/387-A",
+    "@last-modified": "2023-10-10T08:49:51.2543872Z"
+  }
+}

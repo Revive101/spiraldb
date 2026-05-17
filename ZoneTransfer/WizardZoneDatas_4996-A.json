@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Lemuria/LM_Z01_WildLands",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source-ToUrsai",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-326.6497,2220.373,59.97947,-0.06459943",
+        "m_destinationZone": "Lemuria/LM_Z02_UrsaiVillage"
+      }
+    },
+    {
+      "TriggerName": "Teleport source-ToManaFont",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "179.0679,150.5746,331.4599,-2.911719",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z01_ManaFontClearing"
+      }
+    },
+    {
+      "TriggerName": "Teleport source-ToTelos",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6007.39,-6441.161,-428.5048,-1.584452",
+        "m_destinationZone": "Lemuria/LM_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source-ToNightForest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5941.076,-4740.984,-331.2884,-1.550906",
+        "m_destinationZone": "Lemuria/LM_Z03_NightForest"
+      }
+    },
+    {
+      "TriggerName": "Teleport source-ToHeap",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4651.722,-9939.259,-1733.201,2.394519",
+        "m_destinationZone": "Lemuria/LM_Z07_Heap"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1255-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4996-A",
+    "@last-modified": "2023-10-31T07:11:27.1519167Z"
+  }
+}

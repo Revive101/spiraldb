@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/Interiors/Hub_CraftingRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToGH_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7104.095,7955.592,200.2001,1.008888",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:983-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4105-A",
+    "@last-modified": "2023-10-29T08:35:02.7753778Z"
+  }
+}

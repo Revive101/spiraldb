@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Aquila/AQ_Z02_Atlantea",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (6)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1158.277,-834.412,2.670353,-0.01395498",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_PirateShip"
+      }
+    },
+    {
+      "TriggerName": "Trigger Puzzle Room",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6.350616,-661.3251,96.31166,3.096244",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_SirenPuzzleRoom"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.479709,-758.8801,96.25026,3.085848",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_HouseOfLostSaliors"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (2)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.964355,-2710.293,189.5,3.134083",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_HouseOfFury"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (3)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4.953613,-3576.726,189.5,-3.114762",
+        "m_destinationZone": "Aquila/Interiors/AQ_Z02_HallOfContriver"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3384-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14081-A",
+    "@last-modified": "2024-04-18T00:29:28.8956105Z"
+  }
+}

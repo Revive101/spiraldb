@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Arcanum/Interiors/AR_Z01_AstralPlane_Repeat",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "RemovePlayer",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-26.40721,-354.2682,8.58524E-05,3.021165",
+        "m_destinationZone": "Arcanum/Interiors/AR_Z01_AstalSchool"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3018-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14049-A",
+    "@last-modified": "2024-03-08T09:31:48.3433161Z"
+  }
+}

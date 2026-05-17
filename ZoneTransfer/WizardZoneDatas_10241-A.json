@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Azteca/Interiors/PageEvent/AZ_TrashMobs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1547.674,82.05566,600,0.2504193",
+        "m_destinationZone": "Azteca/AZ_Z11_TwinGiants"
+      }
+    },
+    {
+      "TriggerName": "ToBoss",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-58.48795,-467.9603,6.052979,0",
+        "m_destinationZone": "Azteca/Interiors/PageEvent/AZ_BossRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2203-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10241-A",
+    "@last-modified": "2023-11-24T07:43:41.1163082Z"
+  }
+}

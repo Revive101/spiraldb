@@ -1,0 +1,134 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Triton",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (Street4 Street2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6804,-598.441,-1400,-1.40517",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Street4 to Cavern)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.245071,625.4392,0.0003662109,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_HauntedCave"
+      }
+    },
+    {
+      "TriggerName": "Teleport Trigger (Street4 Tower1 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11.54554,-996.5529,61.54469,-3.120712",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Triton_T1"
+      }
+    },
+    {
+      "TriggerName": "Teleport Trigger (Street4 Tower2 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "18.28375,-1021.986,0.007141113,3.13222",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Triton_T2"
+      }
+    },
+    {
+      "TriggerName": "Teleport location To TempestNexus",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10856.64,-6592.851,140.0049,2.48957",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "Teleport location High_Ledge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-17739.88,-4203.805,18.24912,1.9256",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ThiefHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20.23645,840.4855,0.3999023,0",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Triton_H3"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Tele Up)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-17121.71,880.7988,-299.9998,-0.5319167",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Tele Down)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-16014.83,1090.158,-1400,-0.4897324",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "Trigger To_Kraken",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13957.86,154.3762,-2000,-3.097356",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "Teleport location From Kraken Isle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11090.53,339.5967,-674.5453,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3352-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/417-A",
+    "@last-modified": "2024-04-08T02:41:14.5148631Z"
+  }
+}

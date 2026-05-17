@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wysteria/Interiors/PA_House02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoPegasus",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3662.882,7435.491,835.5828,-1.587962",
+        "m_destinationZone": "Wysteria/PA_Z01_Pegasus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:712-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2818-A",
+    "@last-modified": "2023-10-24T07:47:42.6355719Z"
+  }
+}

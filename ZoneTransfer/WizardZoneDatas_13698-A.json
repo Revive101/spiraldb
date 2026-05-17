@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z05_I04_SkeletonKey1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Exit_DM_LandingZone2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2216.501,-1083.92,755.5138,-1.591101",
+        "m_destinationZone": "G14_DM/DM_Z04_LandingZone2"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2944-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13698-A",
+    "@last-modified": "2024-02-21T22:30:02.1731197Z"
+  }
+}

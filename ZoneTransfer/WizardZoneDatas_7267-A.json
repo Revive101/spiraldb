@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/GH_Sudrilund",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3911.738,-78.17358,400.0001,2.665365",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_HFjord"
+      }
+    },
+    {
+      "TriggerName": "TriggerGH-Bal-C09-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-170.6479,-1329.962,9.659271,-2.810724",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Sud_Cave07"
+      }
+    },
+    {
+      "TriggerName": "TriggerGH-ICE-C09-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-179.3361,-1400.644,1.825366,-2.904054",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Sud_Cave06"
+      }
+    },
+    {
+      "TriggerName": "Trigger (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-123.4349,-1409.11,128.7812,-3.026663",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Sud_Cave05"
+      }
+    },
+    {
+      "TriggerName": "Trigger GH-MYTH-C09-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-228.6082,-1604.153,1.825348,-2.904054",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/Interiors/GH_Sud_Cave04"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1707-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7267-A",
+    "@last-modified": "2023-11-14T11:15:03.2515338Z"
+  }
+}

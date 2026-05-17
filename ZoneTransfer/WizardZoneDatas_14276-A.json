@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Wallaru/WL_Z03_Kingsland",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7040.86,17044.82,2.000122,-0.325097",
+        "m_destinationZone": "Wallaru/WL_Z01_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport source (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "18003.11,-1122.324,103.3421,0.6998924",
+        "m_destinationZone": "Wallaru/WL_Z02_Outback"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3629-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14276-A",
+    "@last-modified": "2024-09-07T04:36:17.8664341Z"
+  }
+}

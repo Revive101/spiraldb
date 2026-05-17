@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z03_CliffsideNest",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_PuertoNuovo",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-15135.58,15938.16,-2062.318,2.467001",
+        "m_destinationZone": "Novus/NV_Z03_PuertoNuovo_VA"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_Room2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2383.757,378.6318,4223.445,1.12729",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CliffsideNest"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_Room1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2291.047,411.937,167.7106,1.353159",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CliffsideNest"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_Room3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1010.201,-1332.367,9405.62,2.623506",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CliffsideNest"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Top_Teleport_Room2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1021.681,-1294.411,4256.657,2.688664",
+        "m_destinationZone": "Novus/Interiors/NV_Z03_CliffsideNest"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2266-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10593-A",
+    "@last-modified": "2023-11-25T08:29:30.264932Z"
+  }
+}

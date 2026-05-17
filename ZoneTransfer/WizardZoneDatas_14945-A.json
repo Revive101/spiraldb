@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet_Voyage/Gauntlet_03/Z01_KalypsoEngineRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport Deck 01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.172333,-1271.762,-149.8269,0",
+        "m_destinationZone": "Housing_Gauntlet_Voyage/Gauntlet_03/Z02_KalypsoDeck"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport Deck 02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1572.359,-823.6537,-548.5125,1.599607",
+        "m_destinationZone": "Housing_Gauntlet_Voyage/Gauntlet_03/Z03_DataBeach"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:4033-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14945-A",
+    "@last-modified": "2025-02-04T07:23:57.5337332Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Unicorn",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street1 Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6099.128,5063.831,-30.47318,0.3989218",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Street1 Hedgemaze Entrance) Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "600.7432,-3195.192,162.3401,-3.141593",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Unicorn_HedgeMaze"
+      }
+    },
+    {
+      "TriggerName": "Trigger Totos House",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "435.1501,-2.195417,1.103638,1.160189",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Unicorn_H3"
+      }
+    },
+    {
+      "TriggerName": "Teleport To Lady Blackhope's Tower (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.520257,-886.0833,39.43598,-3.139825",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Unicorn_T1"
+      }
+    },
+    {
+      "TriggerName": "Trigger Dorothy's House",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "401.377,77.93835,1.103643,2.18338",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Unicorn_H2"
+      }
+    },
+    {
+      "TriggerName": "Tower2Teleporter (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-25.9009,-1154.273,0.006901629,-3.140244",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Unicorn_T2"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ThiefHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20.23645,840.4855,0.3999023,0",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Unicorn_H4"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Street1 Arena Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6.609941,-9556.829,408.5199,-3.117046",
+        "m_destinationZone": "WizardCity/WC_Duel_Arena"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3326-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/65-A",
+    "@last-modified": "2024-03-22T05:29:42.0413946Z"
+  }
+}

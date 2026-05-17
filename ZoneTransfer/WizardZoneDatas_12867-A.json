@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int03",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2136.273,-553.6848,167.3967,-1.869892",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int01"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_TempleofSands",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4.230884,-265.7161,-0.01170364,-3.140268",
+        "m_destinationZone": "Housing_Gauntlet_Professor/HG_Gauntlet_Professor_Int04"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2825-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12867-A",
+    "@last-modified": "2024-01-18T11:32:36.6732724Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "TemplateID": 1206770,
+  "Spells": [
+    {
+      "TemplateID": 78544,
+      "RequiredSpellID": 0,
+      "Level": 69
+    }
+  ],
+  "@metadata": {
+    "@collection": "NpcSpellInventory",
+    "Raven-Clr-Type": "DragonNPCTool.Models.NPCSpellInventory, DragonNPCTool",
+    "@change-vector": "A:3709-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "NPCSpellInventories/449-A",
+    "@last-modified": "2024-09-25T00:24:01.1630428Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z05_KathleenWilderHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6382.797,-5902.973,-597.4647,-1.988217",
+        "m_destinationZone": "Azteca/AZ_Z05_ZultunDock"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1797-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8034-A",
+    "@last-modified": "2023-11-15T22:47:14.6667708Z"
+  }
+}

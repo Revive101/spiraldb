@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_SchoolStorm",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (StormSchool Ravenwood Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2752.043,818.4474,-6.205161E-05,2.302508",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:91-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/355-A",
+    "@last-modified": "2023-10-10T08:34:35.3551962Z"
+  }
+}

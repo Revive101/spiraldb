@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_FarmHouse/Interior_Preview",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Outside_Cellar",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "37.92969,1480.803,-669.8486,-3.086973",
+        "m_destinationZone": "Housing_FarmHouse/Exterior_Preview"
+      }
+    },
+    {
+      "TriggerName": "To_Exteroior_1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-696.4747,-486.2329,0.001953125,0",
+        "m_destinationZone": "Housing_FarmHouse/Exterior_Preview"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1910-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8322-A",
+    "@last-modified": "2023-11-16T05:53:36.4188534Z"
+  }
+}

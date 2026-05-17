@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Wallaru/Interiors/WL_Z01_I00_PrimeMinister",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4915.208,16254.22,35.82227,0",
+        "m_destinationZone": "Wallaru/WL_Z01_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3910-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14562-A",
+    "@last-modified": "2025-01-29T06:38:14.714239Z"
+  }
+}

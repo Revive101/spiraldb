@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet_Sinbad/SP_SinbadGauntlet_Int02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_Ferros",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3817.842,-3060.344,-2052.533,-0.02599174",
+        "m_destinationZone": "Housing_Gauntlet_Sinbad/SP_SinbadGauntlet_Int01"
+      }
+    },
+    {
+      "TriggerName": "TR_Teleport_to_Summit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6281.043,-7073.586,-1131.087,0",
+        "m_destinationZone": "Housing_Gauntlet_Sinbad/SP_SinbadGauntlet_Int03"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2734-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12290-A",
+    "@last-modified": "2024-01-08T23:23:48.7393488Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z03_Courtyard",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_NightForest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8188.012,2990.398,-340.0162,-0.5356825",
+        "m_destinationZone": "Lemuria/LM_Z03_NightForest"
+      }
+    },
+    {
+      "TriggerName": "Teleport_to_MonitoringStation",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3221.088,17.13668,2.00001,-1.58129",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z03__StationThree"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1236-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5031-A",
+    "@last-modified": "2023-10-31T06:49:58.5171141Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z04_CalixcoNursery",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1753.058,-2543.566,3.338827E-05,-1.622568",
+        "m_destinationZone": "Mirage/Interiors/MR_Z04_CalixcoManor"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2024-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8677-A",
+    "@last-modified": "2023-11-16T08:06:51.5084631Z"
+  }
+}

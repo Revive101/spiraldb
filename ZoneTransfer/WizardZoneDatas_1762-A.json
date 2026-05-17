@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/MB_Roof",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to MB Hub to ScotYard Hub Interior",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.807981,1879.216,0.0006103516,0",
+        "m_destinationZone": "Marleybone/Interiors/MB_ScotlandYard"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Scot Yard Zone 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "164.9896,-1828.866,-230,-3.141593",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Prison"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Scot Yard Zone 3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-493.855,-9187.207,-248.1969,-3.141593",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:409-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1762-A",
+    "@last-modified": "2023-10-14T05:41:51.2946721Z"
+  }
+}

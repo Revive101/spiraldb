@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_W2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Wharehouse02 Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17201.01,29951.01,54.52417,-1.573299",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:591-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2465-A",
+    "@last-modified": "2023-10-19T07:50:09.5559882Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z01_I01_HouseOfHorror",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6109.767,-831.6943,-139.5862,-1.596388",
+        "m_destinationZone": "G14_DM/DM_Z01_CastleDarkmoor"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3634-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14305-A",
+    "@last-modified": "2024-09-07T04:39:24.8878278Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Khrysalis/KR_Z06_CrescentBeach",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location To For Rachias",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-17124.83,-14258.02,-866.2799,-0.568422",
+        "m_destinationZone": "Khrysalis/KR_Z05_FortRachias"
+      }
+    },
+    {
+      "TriggerName": "Trigger Mazarine the StormWind",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23.71401,-1436.52,1.999998,-3.137635",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z06_I03_UmbraTentLarge"
+      }
+    },
+    {
+      "TriggerName": "Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "234.4796,-1077.874,4.495911,3.024959",
+        "m_destinationZone": "Khrysalis/Interiors/KR_Z06_I01_Hermitcave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1868-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8232-A",
+    "@last-modified": "2023-11-16T04:15:11.8879674Z"
+  }
+}

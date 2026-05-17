@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToNecropolis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7166.835,10161.86,203.5342,1.570796",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Hub_Necropolis"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:553-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2313-A",
+    "@last-modified": "2023-10-17T08:24:21.3190995Z"
+  }
+}

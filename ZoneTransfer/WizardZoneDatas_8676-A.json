@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z04_CalixcoManor",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport Nursery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "25.50171,-15.84077,0.0001157749,-0.03204803",
+        "m_destinationZone": "Mirage/Interiors/MR_Z04_CalixcoNursery"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2635.722,399.603,-2060.253,2.501038",
+        "m_destinationZone": "Mirage/MR_Z04_RubalWastes"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2025-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8676-A",
+    "@last-modified": "2023-11-16T08:07:41.2460547Z"
+  }
+}

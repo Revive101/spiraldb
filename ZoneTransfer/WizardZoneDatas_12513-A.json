@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/Gauntlets/WC_Triton_Gauntlet1/WC_Triton_Gauntlet_01a",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1129.021,32.61362,-48.92419,1.542903",
+        "m_destinationZone": "WizardCity/Gauntlets/WC_Triton_Gauntlet1/WC_Triton_Gauntlet_02"
+      }
+    },
+    {
+      "TriggerName": "ToLevel1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1684.319,51.69986,-2.14502,-1.535245",
+        "m_destinationZone": "WizardCity/Gauntlets/WC_Triton_Gauntlet1/WC_Triton_Gauntlet_01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2756-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12513-A",
+    "@last-modified": "2024-01-08T23:58:06.0953868Z"
+  }
+}

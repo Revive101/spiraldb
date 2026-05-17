@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z05_SnakishPass",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location-ToPrison",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1611.138,266.8519,-15.29337,-1.570796",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_TetrusPrison"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToRuins",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2083.278,-152.0346,-15.29334,1.493282",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_CatstanRuins"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2021-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8675-A",
+    "@last-modified": "2023-11-16T07:56:40.0960709Z"
+  }
+}

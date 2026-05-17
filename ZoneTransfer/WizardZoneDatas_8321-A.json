@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Housing_FarmHouse/Exterior_Preview",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Silo_Top",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2457.112,1617.428,1582.089,0.3605973",
+        "m_destinationZone": "Housing_FarmHouse/Exterior_Preview"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Bottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3236.76,2048.1,0,0",
+        "m_destinationZone": "Housing_FarmHouse/Exterior_Preview"
+      }
+    },
+    {
+      "TriggerName": "To_Inside",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.857941,-415.395,3111.716,-3.134905",
+        "m_destinationZone": "Housing_FarmHouse/Interior_Preview"
+      }
+    },
+    {
+      "TriggerName": "To_Inside_Cellar",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2652.917,402.7842,2311.716,3.061204",
+        "m_destinationZone": "Housing_FarmHouse/Interior_Preview"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1908-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8321-A",
+    "@last-modified": "2023-11-16T05:53:19.1005521Z"
+  }
+}

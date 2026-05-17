@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Azteca/AZ_Z01_ThreePoints",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Zocolo\\",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14.51423,9098.505,275.4996,0",
+        "m_destinationZone": "Azteca/AZ_Z00_Zocalo"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Cenote",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2525.378,5187.018,65.0061,0.7101809",
+        "m_destinationZone": "Azteca/AZ_Z02_Cenote"
+      }
+    },
+    {
+      "TriggerName": "Trigger To Palace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "16.9494,-1862.17,1.000062,3.060416",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z01_JuraPalace_Room01"
+      }
+    },
+    {
+      "TriggerName": "Teleport location To Library",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.635101,-415.1774,-18.96699,-3.115933",
+        "m_destinationZone": "Azteca/Interiors/AZ_Z00_TeocalliSacredWar"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1791-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7937-A",
+    "@last-modified": "2023-11-15T22:34:53.0360022Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_OldeTown",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (Street 2 WC_Shop_Area Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5442.132,-3267.829,-30.47099,-1.54078",
+        "m_destinationZone": "WizardCity/WC_Shop_Area"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Triton Lane",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5.325233,2038.949,0.00164881,0.03697451",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport CyclopsLane",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3714.869,2989.113,0.001733947,1.540233",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to FireCat Alley",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2196.633,22.8427,0.0008950137,1.619092",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Firecat"
+      }
+    },
+    {
+      "TriggerName": "ToBazaar",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.156014,-91.53638,4.220121,-3.112728",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_OldeTown_AuctionHouse"
+      }
+    },
+    {
+      "TriggerName": "Teleport-Foulgaze",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-38.87285,-981.8115,0.007080318,-3.052784",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T2"
+      }
+    },
+    {
+      "TriggerName": "Trigger Caretaker Tower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.884151,-1237.941,0.00689422,3.128293",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1"
+      }
+    },
+    {
+      "TriggerName": "TeleportToOldeTownDorm (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-48.15467,30.26001,6.103516E-05,-3.141593",
+        "m_destinationZone": "Housing_WizardCommonsApt/House_WizardCommonsApt_Int"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:744-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/289-A",
+    "@last-modified": "2023-10-24T09:13:05.0237289Z"
+  }
+}

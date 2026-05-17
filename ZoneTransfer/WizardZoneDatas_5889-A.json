@@ -1,0 +1,68 @@
+{
+  "ZoneName": "Karamelle/Interiors/KM_Z05_TreacleFoundry",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_Nibbleheim",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4029.769,2527.871,1.504044,-1.034979",
+        "m_destinationZone": "Karamelle/KM_Z05_Nibbleheim"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_2ndFloor_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2811.002,-344.9455,881.501,-1.593146",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z05_TreacleFoundry"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_1stFloor_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2875.435,-344.9454,-3.051758E-05,-1.627965",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z05_TreacleFoundry"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_1stFloor_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2887.004,-348.5276,2.458028E-06,1.510884",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z05_TreacleFoundry"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_2ndFloor_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2842.838,-344.9457,881.501,1.520923",
+        "m_destinationZone": "Karamelle/Interiors/KM_Z05_TreacleFoundry"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1533-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5889-A",
+    "@last-modified": "2023-11-03T08:57:21.1011232Z"
+  }
+}

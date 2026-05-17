@@ -1,0 +1,90 @@
+{
+  "ZoneName": "WizardCity/WC_Ravenwood_Lite",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_WC-COMMONS-MAIN-002_StormTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-85.74344,6.126312,0.5001201,-1.578804",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolStorm"
+      }
+    },
+    {
+      "TriggerName": "TR_WC-COMMONS-MAIN-002_IceTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-128.9479,1.022176,0.5001198,-1.58151",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolFrost"
+      }
+    },
+    {
+      "TriggerName": "TR_WC-COMMONS-MAIN-002_FireTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-135.7416,-0.9598687,0.5001194,-1.580902",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolFire"
+      }
+    },
+    {
+      "TriggerName": "TR_WC-COMMONS-MAIN-002_MythTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-119.3933,4.761268,0.5001203,-1.556804",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolMyth"
+      }
+    },
+    {
+      "TriggerName": "TR_WC-COMMONS-MAIN-002_LifeTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-106.8441,2.170145,0.5001208,-1.551283",
+        "m_destinationZone": "WizardCity/Interiors/WC_SchoolLife"
+      }
+    },
+    {
+      "TriggerName": "TR_WC-COMMONS-MAIN-002_DeathTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "641.8373,5968.792,-28.78596,1.723647",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    },
+    {
+      "TriggerName": "TR_WC-COMMONS-MAIN-002_BalanceTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "322.9819,-171.081,-28.78595,-2.774013",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3528-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/865-A",
+    "@last-modified": "2024-05-31T20:55:38.455907Z"
+  }
+}

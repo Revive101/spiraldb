@@ -1,0 +1,24 @@
+{
+  "ZoneName": "G14_DM/Interiors/DM_Z04_I02_SkeletonKey3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToEncounter1Staircase",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-437.3433,-398.8262,400,-0.9360738",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z04_I01_Staircase"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2927-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/13634-A",
+    "@last-modified": "2024-02-21T22:03:55.9332143Z"
+  }
+}

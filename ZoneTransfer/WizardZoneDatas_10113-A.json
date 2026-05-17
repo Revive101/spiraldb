@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Krokotopia/Interiors/KT_PageEvent_MobRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToKTArena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "16219.33,21501.4,78.95823,1.517541",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Arena"
+      }
+    },
+    {
+      "TriggerName": "To_Boss_Room",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.436279,-2684.516,-0.0001220703,3.107155",
+        "m_destinationZone": "Krokotopia/Interiors/KT_PageEvent_BossRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2187-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10113-A",
+    "@last-modified": "2023-11-24T06:56:17.171248Z"
+  }
+}

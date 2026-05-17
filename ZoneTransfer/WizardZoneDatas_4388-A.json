@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z02_Sewers",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_Zanadu_Fountain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1681.873,-4.40789,-6.103516E-05,-1.589907",
+        "m_destinationZone": "Empyrea/EM_Z02_Zanadu"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Zanadu_PalaceWest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7418.148,-7846.763,458.5773,-3.040381",
+        "m_destinationZone": "Empyrea/EM_Z02_Zanadu"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Zandu_PalaceSide",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13361.99,8136.606,451.9056,-1.622877",
+        "m_destinationZone": "Empyrea/EM_Z02_Zanadu"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport2DrainageControl",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3416.763,270.8538,376.0001,-1.412594",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_SewerDrainage"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1135-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4388-A",
+    "@last-modified": "2023-10-31T05:22:21.5900027Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "ZoneName": "Avalon/Interiors/AV_MaestroEvent/AV_Z00_LandingZone",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger To School",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1980.912,-20.39966,300,1.404741",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AV_Z01_School"
+      }
+    },
+    {
+      "TriggerName": "Trigger Drake House",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "537.6636,1.316172,1.525879E-05,1.570796",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AV_Z02_DrakesCottage"
+      }
+    },
+    {
+      "TriggerName": "To Malistairs",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "537.6636,1.316172,1.525879E-05,1.570796",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AV_Z03_MalistairsHouse"
+      }
+    },
+    {
+      "TriggerName": "Trigger TowerBottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "36.50116,1141.834,0.1236137,0",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AV_Z04_TowerBottom"
+      }
+    },
+    {
+      "TriggerName": "Trigger TowerTop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2.686089,-1134.747,0.1235526,3.052692",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AV_Z05_TowerTop"
+      }
+    },
+    {
+      "TriggerName": "Trigger Tower-B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "36.50116,1141.834,0.1236137,0",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AV_Z04_TowerBottom_B"
+      }
+    },
+    {
+      "TriggerName": "Trigger WarRoom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "50.72083,-1362.808,0.1236137,-3.123564",
+        "m_destinationZone": "Avalon/Interiors/AV_MaestroEvent/AZ_Z04_TowerBottom_C"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "724.6671,-18.89743,-99.79996,-1.577634",
+        "m_destinationZone": "Avalon/AV_Z01_AbbeyRoad"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2617-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11681-A",
+    "@last-modified": "2023-12-23T06:13:20.8836374Z"
+  }
+}

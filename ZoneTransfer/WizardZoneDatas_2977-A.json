@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Triton_Underwater/Interiors/WC_Triton_Underwater_Storm",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "FromStromChamber",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2612.38,-3435.911,72.31712,-3.134784",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Warren02"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:781-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2977-A",
+    "@last-modified": "2023-10-24T09:49:13.4927519Z"
+  }
+}

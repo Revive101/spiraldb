@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Lemuria/LM_Z06_SkyCity",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger_Teleport_MonitorStation",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3342.211,-19.43296,2.000013,-1.565668",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z06_MonitoringStation"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_Headquarters_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-666.1912,-7647.531,2.241296,-3.139858",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z06_Headquarters"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_Headquarters_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9455.185,14.18359,-0.0001525879,-1.588708",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z06_Headquarters"
+      }
+    },
+    {
+      "TriggerName": "Trigger_Teleport_Headquarters_03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-666.4769,7665.536,-0.0001525879,0",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z06_Headquarters"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1249-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5057-A",
+    "@last-modified": "2023-10-31T07:08:58.0717828Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z06_ChairmanSuite",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Yakhal",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-90.74641,5516.142,-1027.277,0",
+        "m_destinationZone": "Mirage/MR_Z06_YakhalMountain"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2038-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8707-A",
+    "@last-modified": "2023-11-16T08:13:51.3110073Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T6",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (DS_T6 to CrystalGrove)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "24806.34,24415.25,35.05568,0.7854096",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2296-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10817-A",
+    "@last-modified": "2023-11-26T06:02:51.5018392Z"
+  }
+}

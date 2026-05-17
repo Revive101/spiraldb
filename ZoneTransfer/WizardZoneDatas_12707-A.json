@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_GHGauntlet/GH_WinterbaneGauntlet01/GH_WinterbaneGauntlet01_R03",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToLevel2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2264.22,-17.23671,7.078166,1.574468",
+        "m_destinationZone": "Housing_GHGauntlet/GH_WinterbaneGauntlet01/GH_WinterbaneGauntlet01_R02"
+      }
+    },
+    {
+      "TriggerName": "ToLevel4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-55.48303,1429.637,-119.36,0.09936892",
+        "m_destinationZone": "Housing_GHGauntlet/GH_WinterbaneGauntlet01/GH_WinterbaneGauntlet01_R04"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2787-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12707-A",
+    "@last-modified": "2024-01-18T10:49:06.2708058Z"
+  }
+}

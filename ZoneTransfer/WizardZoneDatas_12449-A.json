@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Triton_Underwater/Interiors/WC_Triton_Underwater_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location to UnderwaterTriton Ave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5111.325,-7753.888,30.19103,1.556111",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton_Underwater/WC_Triton_Underwater"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2750-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12449-A",
+    "@last-modified": "2024-01-08T23:43:08.8904035Z"
+  }
+}

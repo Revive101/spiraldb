@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Colossus_ThroneRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (WC_Street6_GobblerKing_ThroneRoom Street6 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "44646.57,8996.55,-650.0071,1.552446",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport Player",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11.42431,-272.0096,0,3.11182",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Colossus_Balcony"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1608-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6625-A",
+    "@last-modified": "2023-11-13T06:17:54.9098793Z"
+  }
+}

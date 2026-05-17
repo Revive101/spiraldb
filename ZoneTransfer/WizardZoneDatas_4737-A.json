@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/EM_Z05_Sepidious",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_SpinalChord",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-88.17912,-5810.365,-57.51843,3.118438",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z05_NodoChord"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1145-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4737-A",
+    "@last-modified": "2023-10-31T05:36:01.0601518Z"
+  }
+}

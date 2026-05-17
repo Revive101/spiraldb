@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Polaris/PL_Z04_UrvilleStation",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-Forlorn",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "16484.22,-12855.51,32.961,2.226563",
+        "m_destinationZone": "Polaris/PL_Z02_ForlornTaig"
+      }
+    },
+    {
+      "TriggerName": "Teleport location_NostradonimusHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.8890533,120.8594,5.767784,0",
+        "m_destinationZone": "Polaris/Interiors/PL_Z04_NostradonimusHouse"
+      }
+    },
+    {
+      "TriggerName": "TriggerTeleport_Mine",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1497.637,-8292.254,-1942.838,3.097436",
+        "m_destinationZone": "Polaris/PL_Z05_FrigidMine"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1097-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4523-A",
+    "@last-modified": "2023-10-30T00:18:57.7413536Z"
+  }
+}

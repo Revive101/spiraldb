@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/GH_HFjord/Interiors/GH_Vest_Cave03",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToGHVestCave03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12299.96,-6046.673,-130.9692,-0.7926937",
+        "m_destinationZone": "Grizzleheim/GH_HFjord/GH_Vestrilund"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1681-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7202-A",
+    "@last-modified": "2023-11-14T10:49:04.3385949Z"
+  }
+}

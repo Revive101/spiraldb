@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Aquila/AQ_Z00_Hub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger AQ-MYTH-C01-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9914.004,8531.67,31.20578,-2.158016",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:195-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/769-A",
+    "@last-modified": "2023-10-11T08:53:15.6168658Z"
+  }
+}

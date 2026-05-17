@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_FarmHouse/Exterior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Silo_Top",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2465.129,1602.48,1567.611,0.3674902",
+        "m_destinationZone": "Housing_FarmHouse/Exterior"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Bottom",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3180.957,2150.171,6.850745,0",
+        "m_destinationZone": "Housing_FarmHouse/Exterior"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1555-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6017-A",
+    "@last-modified": "2023-11-04T09:32:48.4685638Z"
+  }
+}

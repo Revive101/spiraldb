@@ -1,0 +1,321 @@
+{
+  "ZoneName": "Marleybone/MB_BigBen/MB_BigBen",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport (Tower Level 1 BigBen Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-0.06584167,5233.198,-98.8476,0",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level2 Level1 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-27734.36,21004.29,-203.3473,1.572674",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level2 Level3 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7587.88,21010.79,-203.3473,-1.613169",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level3 Level2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9875.839,21010.72,-203.3473,1.547879",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level3 Level4 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4454.529,20999.53,-203.3473,-1.544163",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level4 Level3 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3875.875,21011.71,-203.3473,1.610462",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level4 Level5 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10485.9,20996.18,-203.3473,-1.533566",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level5 Level4 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8158.049,21011.71,-203.3473,1.614454",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level5 Level6 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "16570.86,20999.03,-203.3473,-1.553771",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level6 Level5 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14147.48,21011.71,-203.3473,1.585426",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level6 Level7 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "22589.13,20995.97,-203.3473,-1.544314",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level7 Level6 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20149.76,21011.71,-203.3473,1.551681",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level7 Level8 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-31369.11,11963.93,-203.3473,-1.557775",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level8 Level7 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26157.26,21011.71,-203.3473,1.552179",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level8 Level9 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-25527.63,11985.47,-203.3473,-1.570282",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level9 Level8 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-27854.03,11976.27,-203.3473,1.581659",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level9 Level10 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13501.98,11950.45,-203.3473,-1.563851",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level10 Level9 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-21859.49,11993.27,-203.3473,1.580231",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level10 Level11 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1501.35,11984.07,-203.3473,-1.577496",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level11 Level10 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9859.921,11959.75,-203.3473,1.570796",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level11 Level12 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10607.89,12000,-203.3472,-1.570796",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level12 Level11 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2137.653,11990.2,-203.3473,1.590741",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level12 Level13 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "16570.86,20999.03,-203.3473,-1.553771",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level13 Level12 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14161.96,11992.13,-203.3473,1.577731",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level13 Level14 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "22484.34,11938.75,-203.3473,-1.570796",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level14 Level13 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20137.4,12014.68,-203.3473,1.598577",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Trigger (Level14 Level15 Entrance)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4.143738,-1926.3,-279.6762,3.047627",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Level15 Level14 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "29.95313,-270.1406,0.01416016,-3.141593",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1425-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5441-A",
+    "@last-modified": "2023-11-01T12:05:20.2412913Z"
+  }
+}

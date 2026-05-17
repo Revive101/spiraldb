@@ -1,0 +1,46 @@
+{
+  "ZoneName": "G14_HS/HS_Z02_ZigazagLower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger teleport to KusBhid",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2042.875,-2.40004,0.2000086,1.557067",
+        "m_destinationZone": "G14_HS/Interiors/HS_Z02_I01_TollHouse"
+      }
+    },
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2036.476,-2005.26,-713.4839,-1.536922",
+        "m_destinationZone": "G14_HS/HS_Z01_ZigazagUpper"
+      }
+    },
+    {
+      "TriggerName": "Trigger Tent",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "375.5461,-24.78101,0.2000217,2.933499",
+        "m_destinationZone": "G14_HS/HS_Z03_ApepsTent"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2776-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12609-A",
+    "@last-modified": "2024-01-09T00:20:06.3806972Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z10_EvidenceStore",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_PortAero",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6927.551,-70.05039,550.0971,1.042197",
+        "m_destinationZone": "Empyrea/EM_Z10_PortAero"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1192-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4930-A",
+    "@last-modified": "2023-10-31T06:08:01.3491923Z"
+  }
+}

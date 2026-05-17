@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Avalon/AV_Z08_LakeShore",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger Teleport to Deepwater",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "443.3419,-2233.043,503.3401,3.086485",
+        "m_destinationZone": "Avalon/AV_Z09_DeepWater"
+      }
+    },
+    {
+      "TriggerName": "To Avalon",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6170.513,1058.127,310.0082,1.586814",
+        "m_destinationZone": "Avalon/AV_Z07_OuterYard"
+      }
+    },
+    {
+      "TriggerName": "To UpperLevelSouth",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6191.511,4169.447,814.8771,1.138814",
+        "m_destinationZone": "Avalon/AV_Z08_LakeShore"
+      }
+    },
+    {
+      "TriggerName": "To LowerLevelSouth",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6462.338,2804.504,9.008728,0",
+        "m_destinationZone": "Avalon/AV_Z08_LakeShore"
+      }
+    },
+    {
+      "TriggerName": "To LowerLevelNorth",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1690.03,6526.802,0.1391602,1.086616",
+        "m_destinationZone": "Avalon/AV_Z08_LakeShore"
+      }
+    },
+    {
+      "TriggerName": "To UpperLevelNorth",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3720.524,6420.057,814.0222,0.1616119",
+        "m_destinationZone": "Avalon/AV_Z08_LakeShore"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1309-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5125-A",
+    "@last-modified": "2023-10-31T08:08:14.8418423Z"
+  }
+}

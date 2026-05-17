@@ -1,0 +1,57 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_PET_Park",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToCommons",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8131.446,-1881.066,-30.48,2.425181",
+        "m_destinationZone": "WizardCity/WC_Hub"
+      }
+    },
+    {
+      "TriggerName": "TeleportToHatchery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "28.36829,-480.6345,0,-3.141593",
+        "m_destinationZone": "WizardCity/Interiors/WC_Hatchery"
+      }
+    },
+    {
+      "TriggerName": "TeleportToSnackshop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.14196,-116.3952,2.179473,-3.141593",
+        "m_destinationZone": "WizardCity/Interiors/WC_Park_Snackshop"
+      }
+    },
+    {
+      "TriggerName": "TeleportToPetshop",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13.72132,-152.1423,22.24353,-3.141593",
+        "m_destinationZone": "WizardCity/Interiors/WC_Park_Petshop"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:29-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/35-A",
+    "@last-modified": "2023-10-02T02:20:10.798583Z"
+  }
+}

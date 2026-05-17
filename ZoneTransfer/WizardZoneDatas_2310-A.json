@@ -1,0 +1,46 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/DS_A1Z2_ConquestPlaza",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToLibrary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "448.259,10054.35,791.1042,0",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Hub_Library"
+      }
+    },
+    {
+      "TriggerName": "Teleport-ToNecropolis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "12.49541,-982.2717,-185.2997,-3.141593",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Hub_Necropolis"
+      }
+    },
+    {
+      "TriggerName": "The Hoarder's Tower Teleport Balance",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11.65408,-1074.476,0.1235118,-3.128309",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T6"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:863-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2310-A",
+    "@last-modified": "2023-10-28T05:05:23.2463063Z"
+  }
+}

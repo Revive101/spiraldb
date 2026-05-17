@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_Station/Interiors/MB_HydePark_T8",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Tower8toHydePark",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "18292.42,5007.396,-485.3389,-3.111526",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2133-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9537-A",
+    "@last-modified": "2023-11-21T05:21:58.7415337Z"
+  }
+}

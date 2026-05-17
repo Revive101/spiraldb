@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Empyrea/Interiors/EM_Z02_LeisureDome",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_DanceHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.260262,2682.93,4.220093,0",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z02_DanceHall"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Zanadu",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10378.47,0.7783127,-451.9064,1.563584",
+        "m_destinationZone": "Empyrea/EM_Z02_Zanadu"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1048-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4386-A",
+    "@last-modified": "2023-10-29T09:35:51.3651331Z"
+  }
+}

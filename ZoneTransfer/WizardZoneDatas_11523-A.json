@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z02_Ice_Tower",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To TelegraphBox",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "568.9565,-2152.291,167.3967,2.770289",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Event_Maestro/WC_Z00_TelegraphBox"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2541-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11523-A",
+    "@last-modified": "2023-12-23T03:57:12.3756066Z"
+  }
+}

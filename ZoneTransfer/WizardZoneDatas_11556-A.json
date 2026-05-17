@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_Event_Maestro/MB_Z03_MeowiartysLair",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ToTelegraph",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "163.7692,1875.139,167.3967,1.446035",
+        "m_destinationZone": "Marleybone/Interiors/MB_Event_Maestro/MB_Z00_TelepgraphBox"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2562-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11556-A",
+    "@last-modified": "2023-12-23T04:21:25.2981505Z"
+  }
+}

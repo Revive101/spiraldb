@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/DS_A3_FlightPath",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TriggerFlight",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "12.08255,-997.2512,100.0001,0",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_LandingZone"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1394-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5409-A",
+    "@last-modified": "2023-10-31T11:58:45.9543413Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Grizzleheim/GH_Raven",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8567.592,2203.093,200.0999,-3.141593",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    },
+    {
+      "TriggerName": "ToRavenFortressT8",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-216.4232,-1230.988,1.950071,-3.007079",
+        "m_destinationZone": "Grizzleheim/Interiors/GH_RavenFortress_T8"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1675-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4103-A",
+    "@last-modified": "2023-11-14T10:42:59.6952818Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Empyrea/EM_Z11_VeloCity",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_NEPlains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19001.84,9832.016,15.82413,-1.423864",
+        "m_destinationZone": "Empyrea/EM_Z09_NWAeroplains"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_HuntersGuild",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "15.16205,-1219.425,4.603098,-3.133797",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z11_HunterGuild"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1201-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4934-A",
+    "@last-modified": "2023-10-31T06:14:15.7423462Z"
+  }
+}

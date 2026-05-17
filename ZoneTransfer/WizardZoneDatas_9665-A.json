@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Prison Zone",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-22103.63,34328.1,-239.9057,0",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Prison"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2142-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/9665-A",
+    "@last-modified": "2023-11-21T07:41:46.725138Z"
+  }
+}

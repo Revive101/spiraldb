@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Avalon/Interiors/PageEvent/AV_TrashMobs",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6537.601,13795.57,3.782593,0",
+        "m_destinationZone": "Avalon/AV_Z02_HighRoad"
+      }
+    },
+    {
+      "TriggerName": "ToLevel2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "37.81393,1050.963,2.000224,-0.02575798",
+        "m_destinationZone": "Avalon/Interiors/PageEvent/AV_BossRoom"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2199-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10209-A",
+    "@last-modified": "2023-11-24T07:27:48.0031244Z"
+  }
+}

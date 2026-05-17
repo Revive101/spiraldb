@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Azteca/AZ_Z08_PitchBlackLake",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-MoonDoor1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3966.326,-7471.448,-4.351532,-3.141593",
+        "m_destinationZone": "Azteca/AZ_Z08_PitchBlackLake"
+      }
+    },
+    {
+      "TriggerName": "Teleport-MoonDoor2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1697.304,-8428.59,-104.359,-2.368684",
+        "m_destinationZone": "Azteca/AZ_Z08_PitchBlackLake"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1809-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8066-A",
+    "@last-modified": "2023-11-15T22:57:52.5481408Z"
+  }
+}

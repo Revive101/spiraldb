@@ -1,0 +1,79 @@
+{
+  "ZoneName": "Lemuria/LM_Z03_NightForest",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-PetTeleporter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-932.1073,1052.964,2.001129,-1.570796",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z03_LucienHouse"
+      }
+    },
+    {
+      "TriggerName": "Teleport source-ToCraneHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "64.94052,-1863.039,1.999573,-3.141593",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z03_CraneHouse"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToCellar",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13.00518,1384.864,1,0",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z03_Cellar"
+      }
+    },
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4131.167,16497.93,620.0905,-0.5042832",
+        "m_destinationZone": "Lemuria/LM_Z01_WildLands"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToManaFont",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-72.16887,-1134.6,-26.29745,-3.086647",
+        "m_destinationZone": "Lemuria/Interiors/LM_Z03_Courtyard"
+      }
+    },
+    {
+      "TriggerName": "Teleport source-ToBadlands",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7083.365,284.2649,-13.64063,0",
+        "m_destinationZone": "Lemuria/LM_Z04_Badlands"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1238-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5027-A",
+    "@last-modified": "2023-10-31T07:00:58.129568Z"
+  }
+}

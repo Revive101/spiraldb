@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Novus/NV_Z04_NewVicorgia",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport To_GovMansion",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-30.65552,-257.5905,1.999908,0",
+        "m_destinationZone": "Novus/Interiors/NV_Z04_I02_GovernorsMansion"
+      }
+    },
+    {
+      "TriggerName": "Trigger To_SkyCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-164.9735,1139.304,-124.5726,3.13338",
+        "m_destinationZone": "Novus/Interiors/NV_Z04_SkyCave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1001-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4193-A",
+    "@last-modified": "2023-10-29T09:01:05.1037198Z"
+  }
+}

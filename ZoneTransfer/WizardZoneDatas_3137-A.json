@@ -1,0 +1,57 @@
+{
+  "ZoneName": "G14_DM/DM_Z07_Graveyard",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TriggerSkeletonTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26.73613,-309.0443,-23.86521,3.078508",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z08_I03_SkeletonKey2"
+      }
+    },
+    {
+      "TriggerName": "BackToBridge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4.932861,2237.934,0.6973877,0",
+        "m_destinationZone": "G14_DM/DM_Z06_Bridge"
+      }
+    },
+    {
+      "TriggerName": "Trigger_EVENT-SkeletonKeyLock-Stone",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26.73613,-309.0443,-23.86521,3.078508",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z08_I03_SkeletonKey2"
+      }
+    },
+    {
+      "TriggerName": "TeleporttoLower_Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "36.70081,-1133.047,0.0001220703,-3.108775",
+        "m_destinationZone": "G14_DM/Interiors/DM_Z08_I02_Mausoleum_Lower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2947-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3137-A",
+    "@last-modified": "2024-02-21T22:36:17.9372531Z"
+  }
+}

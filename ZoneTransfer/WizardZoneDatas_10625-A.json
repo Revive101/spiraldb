@@ -1,0 +1,123 @@
+{
+  "ZoneName": "Housing_Guild/GuildStarter_Ext",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-FromRaid",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2173.117,-2724.705,-112.7361,1.106219",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToRaid",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5318.066,-35.1875,-13.86344,-2.211069",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-FromMuseum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4251.812,-9374.036,-112.7362,-1.820614",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToMuseum",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7812.494,-10283.94,-5.721825,1.383523",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-FromArena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2377.862,-3242.41,-112.736,-0.840699",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToArena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5674.745,-1063.193,-294.2189,1.881795",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToFishing",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7193.127,-10048.49,-671.7145,-1.571367",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-FromFishing",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3858.64,-9836.534,-112.7362,2.18613",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-FromSmallhouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1173.096,-14004.78,-327.5839,-3.125847",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToSmallhouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1994.067,-17102.86,-656.5,0",
+        "m_destinationZone": "Housing_Guild/GuildStarter_Ext"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2279-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10625-A",
+    "@last-modified": "2023-11-25T09:43:37.5487833Z"
+  }
+}

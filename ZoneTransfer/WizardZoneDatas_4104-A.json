@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Grizzleheim/GH_AbandCity/GH_EntranceHall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5941.434,-4857.899,-1098.746,-3.141593",
+        "m_destinationZone": "Grizzleheim/GH_MainHub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:980-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4104-A",
+    "@last-modified": "2023-10-29T08:31:56.3734904Z"
+  }
+}

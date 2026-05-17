@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/Interiors/NV_Z07_I01_EngineeringWing_Hard",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1910.203,1250.578,-14.97046,-0.1217163",
+        "m_destinationZone": "Novus/NV_Z07_DoomMoon"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3662-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14433-A",
+    "@last-modified": "2024-09-11T04:03:27.6711891Z"
+  }
+}

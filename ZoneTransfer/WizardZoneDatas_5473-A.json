@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Marleybone/MB_Station/MB_Ironworks",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToAirportHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2.064453,8516.217,-293.84,3.137153",
+        "m_destinationZone": "Marleybone/MB_Station/MB_Station_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger WC-DETH-C11-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "45.4526,-1738.831,-724.9929,-3.141593",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_Ironworks_T8"
+      }
+    },
+    {
+      "TriggerName": "Trigger Tower 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1.545422,-1118.252,-1.671345E-05,-3.128352",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_Ironworks_T1"
+      }
+    },
+    {
+      "TriggerName": "Brady Teleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "69.94898,-1692.622,-724.6169,-3.141593",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_Ironworks_T5"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1432-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5473-A",
+    "@last-modified": "2023-11-01T12:28:07.2552436Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Polaris/Interiors/PL_Z07_JeweledSlopes_P3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_JeweledSlopers_P2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1932.732,3782.764,-0.001953125,0.5562024",
+        "m_destinationZone": "Polaris/Interiors/PL_Z07_JeweledSlopes_P2"
+      }
+    },
+    {
+      "TriggerName": "To_SkyAnchorPeak",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-348.9386,-657.6824,-3.254028,0.3841895",
+        "m_destinationZone": "Polaris/Interiors/PL_Z07_SkyAnchorPeak"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2836-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12931-A",
+    "@last-modified": "2024-01-18T11:50:02.0316415Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_HauntedCave",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Cavern to Street4)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-37017.65,2729.719,-0.0009040833,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "Trigger 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-37017.65,2729.719,-0.0009040833,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2959-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/418-A",
+    "@last-modified": "2024-02-27T02:50:36.4665547Z"
+  }
+}

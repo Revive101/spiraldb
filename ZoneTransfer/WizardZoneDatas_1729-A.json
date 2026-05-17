@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/MB_BigBen/MB_Museum",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMB_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-259.2078,8605.365,0.0004882813,0",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:401-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1729-A",
+    "@last-modified": "2023-10-14T04:24:19.8600159Z"
+  }
+}

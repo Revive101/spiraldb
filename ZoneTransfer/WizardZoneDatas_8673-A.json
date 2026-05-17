@@ -1,0 +1,46 @@
+{
+  "ZoneName": "Mirage/Interiors/MR_Z05_TetrusPrison",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-ToOutside",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "386.6611,4674.713,-4233.134,-2.71842",
+        "m_destinationZone": "Mirage/MR_Z05_Istanboa"
+      }
+    },
+    {
+      "TriggerName": "Trigger-ToArmory",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1519.517,189.8625,50,-1.570796",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_Armory"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToSnakishPass",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-29.17375,-2571.42,253.0656,-3.141593",
+        "m_destinationZone": "Mirage/Interiors/MR_Z05_SnakishPass"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2019-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8673-A",
+    "@last-modified": "2023-11-16T07:56:17.0903218Z"
+  }
+}

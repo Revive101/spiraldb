@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z04_I02_SavageClearing",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_Badlands",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10246.06,-2027.618,-4.951904,0.1051556",
+        "m_destinationZone": "Lemuria/LM_Z04_Badlands"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1241-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5034-A",
+    "@last-modified": "2023-10-31T07:02:22.8912372Z"
+  }
+}

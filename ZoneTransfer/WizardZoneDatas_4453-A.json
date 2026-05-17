@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Avalon/AV_Z02_HighRoad",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location to Caliburn",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "318.9646,5470.777,-509.784,0.3749081",
+        "m_destinationZone": "Avalon/AV_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "Trigger To CaerLyon",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3795.365,-8539.905,0.5561625,-3.075121",
+        "m_destinationZone": "Avalon/AV_Z03_CaerLyon"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleporter to VortigernsTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-52.90649,-1246.621,0.199707,3.120271",
+        "m_destinationZone": "Avalon/Interiors/AV_Z02_VortigernsTower"
+      }
+    },
+    {
+      "TriggerName": "AV-SPELL-C01-001-Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-73.25754,-1167.946,47.89569,-3.141593",
+        "m_destinationZone": "Avalon/Interiors/AV_Z02_LonelyTower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1322-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4453-A",
+    "@last-modified": "2023-10-31T08:19:48.3604815Z"
+  }
+}

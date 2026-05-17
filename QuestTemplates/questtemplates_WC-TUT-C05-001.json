@@ -1,0 +1,295 @@
+{
+  "m_questName": "WC-TUT-C05-001",
+  "m_questNameID": 0,
+  "m_questTitle": "",
+  "m_questInfo": null,
+  "m_questPrep": null,
+  "m_questUnderway": null,
+  "m_questComplete": null,
+  "m_startGoals": [],
+  "m_goals": [
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Trigger Storm",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResPlaySound, Imcodec.ObjectProperty",
+            "m_router": {
+              "m_locX": 0.0,
+              "m_locY": 0.0,
+              "m_locZ": 0.0,
+              "m_routingType": "ROUTING_ACTOR",
+              "m_useLocation": false,
+              "m_useTriggerLocation": false
+            },
+            "m_soundName": "ObjectData/StormStart.xml",
+            "m_blocking": false,
+            "m_reinteractTime": 0.0
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "TutorialStorm",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "Raining",
+            "m_zoneName": "WizardCity/Tutorial_Exterior"
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Despawn Ambrose Outside",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResDespawn, Imcodec.ObjectProperty",
+            "m_spawnID": 0,
+            "m_despawnEffect": false,
+            "m_templateID": 39394
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Trigger Rubble",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC-Rubble",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "Rubble",
+            "m_zoneName": "WizardCity/Tutorial_Exterior"
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Trigger Silhouette",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "MalSilhouetteObj",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "walk",
+            "m_zoneName": "WizardCity/Tutorial_Exterior"
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Walk Ambrose",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResPostEvent, Imcodec.ObjectProperty",
+            "m_eventName": "WalkAmbrose"
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResWait, Imcodec.ObjectProperty",
+            "m_secondsToWait": 5
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResPostEvent, Imcodec.ObjectProperty",
+            "m_eventName": "DespawnA"
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    }
+  ],
+  "m_startResults": {
+    "m_results": []
+  },
+  "m_endResults": {
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "TEST",
+        "m_maxRolls": 0
+      }
+    ]
+  },
+  "m_requirements": null,
+  "m_prepRequirements": null,
+  "m_pruneRequirements": null,
+  "m_prepAlways": false,
+  "m_clientTags": null,
+  "m_goalLogic": [],
+  "m_questLevel": 0,
+  "m_questRepeat": 0,
+  "m_onStartQuestScript": "",
+  "m_onEndQuestScript": "",
+  "m_dialogList": {
+    "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+    "m_dialogs": []
+  },
+  "m_missionDoors": null,
+  "m_dynaMods": null,
+  "m_isHidden": true,
+  "m_outdated": false,
+  "m_noQuestHelper": false,
+  "m_mainline": false,
+  "m_defaultDialogAnimation": null,
+  "m_skipQHAutoSelect": false,
+  "m_questEffectInfoList": null,
+  "m_forceInteraction": false,
+  "m_checkInventoryForCrafting": false,
+  "m_playAsYourPetNPC": false,
+  "m_activityType": "ACTIVITY_NotActivity",
+  "m_behaviors": null,
+  "@metadata": {
+    "@collection": "QuestTemplates",
+    "Raven-Clr-Type": "Imcodec.ObjectProperty.TypeCache.QuestTemplate, Imcodec.ObjectProperty",
+    "@change-vector": "A:5552-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "questtemplates/WC-TUT-C05-001",
+    "@last-modified": "2025-12-30T20:37:06.181396Z"
+  }
+}

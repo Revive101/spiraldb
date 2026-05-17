@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Zafaria/Interiors/ZF_Z08_I04_Library_Cave_Art_Museum",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BackToTown",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1095.111,11470.45,210.5237,-0.02950703",
+        "m_destinationZone": "Zafaria/ZF_Z08_Waterfront"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1357-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5250-A",
+    "@last-modified": "2023-10-31T08:57:18.3271237Z"
+  }
+}

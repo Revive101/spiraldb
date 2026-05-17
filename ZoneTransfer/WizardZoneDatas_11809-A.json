@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/WC_Drains/Z04_BossOffice",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-TeleportAfterBoss",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19.849,-17317.71,4.399658,-3.141593",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Drains/Z04_OldeTownDrains"
+      }
+    },
+    {
+      "TriggerName": "Teleport location-ToDrainsFromBoss",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19.849,-17317.71,4.399658,-3.141593",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Drains/Z04_OldeTownDrains"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2655-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11809-A",
+    "@last-modified": "2023-12-31T08:16:25.4310547Z"
+  }
+}

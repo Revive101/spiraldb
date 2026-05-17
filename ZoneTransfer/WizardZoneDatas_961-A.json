@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_TowerMyth",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (TowerMyth Ravenwood Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2532.937,3071.928,0.002922123,0.9465443",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:228-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/961-A",
+    "@last-modified": "2023-10-11T10:58:35.1908524Z"
+  }
+}

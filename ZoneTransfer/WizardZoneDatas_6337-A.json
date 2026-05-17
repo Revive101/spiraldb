@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_Watch/Exterior_Preview",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Interior_Teleport_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3.674663,-1447.639,0,3.10535",
+        "m_destinationZone": "Housing_Watch/Interior_Preview"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1585-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/6337-A",
+    "@last-modified": "2023-11-11T11:15:58.7965879Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_SchoolLife",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (LifeSchool Ravenwood Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2646.668,797.2547,-0.0001413648,-2.280212",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3773-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1089-A",
+    "@last-modified": "2024-10-30T02:18:32.9132033Z"
+  }
+}

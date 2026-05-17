@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Khrysalis/Interiors/KR_Z02_DetentionBlock",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport-ExitDetentionBlock",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6465.063,8607.924,2339.489,-1.277164",
+        "m_destinationZone": "Khrysalis/KR_Z02_MoonCliffs"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1892-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8290-A",
+    "@last-modified": "2023-11-16T05:42:30.9837073Z"
+  }
+}

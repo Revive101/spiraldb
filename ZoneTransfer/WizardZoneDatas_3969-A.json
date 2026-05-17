@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Holiday/Halloween/Gauntlet_Easy/Level1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleporttoLevel2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-17.39697,-1003.73,1.612305,-3.141593",
+        "m_destinationZone": "Holiday/Halloween/Gauntlet_Easy/Level2"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1169.08,7372.814,1.459896,1.536731",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:941-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3969-A",
+    "@last-modified": "2023-10-29T06:53:47.4792994Z"
+  }
+}

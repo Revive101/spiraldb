@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_ScotlandYard",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9115.485,2296.707,0.0001831055,-1.572263",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    },
+    {
+      "TriggerName": "ToScotYardHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-252.8619,-4.845638,-59.98865,1.546263",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Roof"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:405-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1761-A",
+    "@last-modified": "2023-10-14T05:37:01.4301956Z"
+  }
+}

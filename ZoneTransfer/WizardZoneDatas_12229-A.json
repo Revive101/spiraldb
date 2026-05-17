@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Housing_AV_Gauntlet/AV_Gauntlet_80/AV_Gauntlet_80_05",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "BacktoTourney",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "398.6502,-1351.37,-10.87914,1.526543",
+        "m_destinationZone": "Housing_AV_Gauntlet/AV_Gauntlet_80/AV_Gauntlet_80_01"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2726-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12229-A",
+    "@last-modified": "2024-01-08T23:10:15.2000438Z"
+  }
+}

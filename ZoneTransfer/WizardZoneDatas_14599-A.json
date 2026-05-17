@@ -1,0 +1,35 @@
+{
+  "ZoneName": "Housing_Gauntlet/KH_Gauntlet01/KH_Gauntlet01_07",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_01_06",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6.944899,-1814.229,-6.018777,3.128446",
+        "m_destinationZone": "Housing_Gauntlet/KH_Gauntlet01/KH_Gauntlet01_06"
+      }
+    },
+    {
+      "TriggerName": "To_01_08",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.096924,1315.469,2.197144,0",
+        "m_destinationZone": "Housing_Gauntlet/KH_Gauntlet01/KH_Gauntlet01_08"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:3934-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/14599-A",
+    "@last-modified": "2025-02-04T06:23:03.0798418Z"
+  }
+}

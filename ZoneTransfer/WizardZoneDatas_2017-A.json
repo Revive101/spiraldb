@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Marleybone/Interiors/PilotsPub",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To MB Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1766.173,1815.915,-293.853,-3.141593",
+        "m_destinationZone": "Marleybone/MB_Station/MB_Station_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:460-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2017-A",
+    "@last-modified": "2023-10-15T11:00:16.1278971Z"
+  }
+}

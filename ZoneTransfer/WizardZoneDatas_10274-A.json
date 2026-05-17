@@ -1,0 +1,35 @@
+{
+  "ZoneName": "WizardCity/Tutorial_Interior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TP to Duel Circle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "508.07,-364.78,10,2.164199",
+        "m_destinationZone": "WizardCity/Tutorial_Interior"
+      }
+    },
+    {
+      "TriggerName": "TeleporterStuff",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "278.4752,-510.3217,2.780912E-05,2.550045",
+        "m_destinationZone": "WizardCity/Interiors/WC_Headmistress_House"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2208-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10274-A",
+    "@last-modified": "2023-11-24T08:54:37.4949945Z"
+  }
+}

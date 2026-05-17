@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int03",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_LadderTeleport_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "209.1751,-2073.148,472.6061,-0.01157543",
+        "m_destinationZone": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int03"
+      }
+    },
+    {
+      "TriggerName": "To_LadderBottom_03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "37.54779,-1744.959,332.8289,3.031439",
+        "m_destinationZone": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int03"
+      }
+    },
+    {
+      "TriggerName": "TR_LadderTeleport_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "209.1751,-2073.148,472.6061,-0.01157543",
+        "m_destinationZone": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int03"
+      }
+    },
+    {
+      "TriggerName": "TR_To_FirstClassCar",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11.80487,-1600.789,2.056095,3.067252",
+        "m_destinationZone": "Housing_Gauntlet_Train/HG_Gauntlet_Train_Int04"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2797-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/12737-A",
+    "@last-modified": "2024-01-18T11:00:19.715147Z"
+  }
+}

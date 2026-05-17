@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T4",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (DS_T4 to ToK)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1136.787,-10551.44,-1266.785,0.752315",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:836-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/3329-A",
+    "@last-modified": "2023-10-27T14:25:50.4658338Z"
+  }
+}

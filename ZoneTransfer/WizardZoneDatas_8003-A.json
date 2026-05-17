@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Azteca/Interiors/AZ_Z00_TeocalliSacredWar",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5207.763,1275.996,536.3732,-2.349735",
+        "m_destinationZone": "Azteca/AZ_Z01_ThreePoints"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1792-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/8003-A",
+    "@last-modified": "2023-11-15T22:35:28.0764661Z"
+  }
+}

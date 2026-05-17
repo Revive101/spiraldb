@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Empyrea/EM_Z16_Husk",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_BoughA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4705.139,12640.98,4942.549,1.648056",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z16_I05_BrokenBough_A"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1204-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4961-A",
+    "@last-modified": "2023-10-31T06:20:31.0450981Z"
+  }
+}

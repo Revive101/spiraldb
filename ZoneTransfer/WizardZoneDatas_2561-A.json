@@ -1,0 +1,24 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_GardenDojo_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14437.04,-11245.64,-158.6549,2.10415",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:623-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/2561-A",
+    "@last-modified": "2023-10-19T11:27:40.954346Z"
+  }
+}

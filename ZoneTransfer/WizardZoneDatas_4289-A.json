@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Novus/NV_Z06_NucleusGallery",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TR_ForcePort_to_Conatus",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9094.863,-3113.325,586.4683,-1.598883",
+        "m_destinationZone": "Novus/NV_Z01_Conatus"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1026-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4289-A",
+    "@last-modified": "2023-10-29T09:16:17.0732983Z"
+  }
+}

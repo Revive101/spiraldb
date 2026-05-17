@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Cyclops_T2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Street3 Tower2 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-22259.59,36767.13,0.04106903,0",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:252-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/1122-A",
+    "@last-modified": "2023-10-11T19:35:57.1967295Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/Interiors/CL_Z12i2_Test_Of_The_Spheres",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger teleport to HUB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13.27231,15078.28,-1049.7,0",
+        "m_destinationZone": "Celestia/CL_Hub"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2303-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/10851-A",
+    "@last-modified": "2023-11-27T09:44:10.8733088Z"
+  }
+}

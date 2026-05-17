@@ -1,0 +1,24 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_PartyRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_Commons",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4818.731,-2501.965,-0.1039429,0",
+        "m_destinationZone": "WizardCity/WC_Shop_Area"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:197-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/801-A",
+    "@last-modified": "2023-10-11T09:11:52.5283331Z"
+  }
+}

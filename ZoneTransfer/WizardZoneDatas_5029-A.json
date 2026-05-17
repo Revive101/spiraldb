@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Lemuria/Interiors/LM_Z03_CraneHouse",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1176.907,-4296,-293.3427,-0.01466554",
+        "m_destinationZone": "Lemuria/LM_Z03_NightForest"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1230-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/5029-A",
+    "@last-modified": "2023-10-31T06:44:13.9149002Z"
+  }
+}

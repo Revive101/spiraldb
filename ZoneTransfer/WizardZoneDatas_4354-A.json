@@ -1,0 +1,57 @@
+{
+  "ZoneName": "Empyrea/EM_Z01_Jungle",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location To HUB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6815.297,-10634.81,-9.787767,2.42133",
+        "m_destinationZone": "Empyrea/EM_Z00_Aeriel_HUB"
+      }
+    },
+    {
+      "TriggerName": "Trigger Teleport to Stockade",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1191.102,4343.175,295.5484,-2.803612",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z01_BeastmanStockade"
+      }
+    },
+    {
+      "TriggerName": "Trigger CaveScorax",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-17.16647,501.2126,-1.889526,0.0299737",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z01_CaveScorax"
+      }
+    },
+    {
+      "TriggerName": "Teleport to EM_Z01_SpiderCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-149.5299,557.2676,24.63312,0.09682629",
+        "m_destinationZone": "Empyrea/Interiors/EM_Z01_MonkeySpiderCave"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1123-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/4354-A",
+    "@last-modified": "2023-10-30T01:42:46.3508446Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_CrystalGrove_Gauntlet_7Room_Sub/7Room_4",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3859.01,9160.082,-500.0001,-2.356183",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:2428-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/11332-A",
+    "@last-modified": "2023-12-08T18:42:56.5548866Z"
+  }
+}

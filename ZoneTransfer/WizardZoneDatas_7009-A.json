@@ -1,0 +1,24 @@
+{
+  "ZoneName": "Celestia/CL_Z04_Temple_Of_The_Stars",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To StarDistrict",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4.589111,9142.107,353.7853,0",
+        "m_destinationZone": "Celestia/CL_Z03_District_Of_The_Stars"
+      }
+    }
+  ],
+  "@metadata": {
+    "@collection": "ZoneTransfer",
+    "Raven-Clr-Type": "DragonZoneTool.Models.WizardZoneData, DragonZoneTool",
+    "@change-vector": "A:1639-W9pQo7ze7EWvihr0j0wlRg",
+    "@id": "WizardZoneDatas/7009-A",
+    "@last-modified": "2023-11-14T08:21:29.5659612Z"
+  }
+}
