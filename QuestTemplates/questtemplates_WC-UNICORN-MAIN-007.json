@@ -915,12 +915,5 @@
   "m_checkInventoryForCrafting": false,
   "m_playAsYourPetNPC": false,
   "m_activityType": "ACTIVITY_NotActivity",
-  "m_behaviors": null,
-  "@metadata": {
-    "@collection": "QuestTemplates",
-    "Raven-Clr-Type": "Imcodec.ObjectProperty.TypeCache.QuestTemplate, Imcodec.ObjectProperty",
-    "@change-vector": "A:5636-W9pQo7ze7EWvihr0j0wlRg",
-    "@id": "questtemplates/WC-UNICORN-MAIN-007",
-    "@last-modified": "2026-04-03T17:35:09.8817112Z"
-  }
+  "m_behaviors": null
 }

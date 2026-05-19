@@ -1239,7 +1239,7 @@
             "m_cameraOffsetX": -3440.491943359375,
             "m_cameraOffsetY": 8797.51171875,
             "m_cameraOffsetZ": 67.73438262939453,
-            "m_pitch": -1.1924879750324635E-08,
+            "m_pitch": -1.1924879750324635e-08,
             "m_yaw": -0.8252875804901123,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
@@ -1599,12 +1599,5 @@
   "m_checkInventoryForCrafting": false,
   "m_playAsYourPetNPC": false,
   "m_activityType": "ACTIVITY_NotActivity",
-  "m_behaviors": null,
-  "@metadata": {
-    "@collection": "QuestTemplates",
-    "Raven-Clr-Type": "Imcodec.ObjectProperty.TypeCache.QuestTemplate, Imcodec.ObjectProperty",
-    "@change-vector": "A:5616-W9pQo7ze7EWvihr0j0wlRg",
-    "@id": "questtemplates/WC-UNICORN-MAIN-008",
-    "@last-modified": "2026-04-03T04:57:37.0015438Z"
-  }
+  "m_behaviors": null
 }

@@ -284,12 +284,5 @@
   "m_checkInventoryForCrafting": false,
   "m_playAsYourPetNPC": false,
   "m_activityType": "ACTIVITY_NotActivity",
-  "m_behaviors": null,
-  "@metadata": {
-    "@collection": "QuestTemplates",
-    "Raven-Clr-Type": "Imcodec.ObjectProperty.TypeCache.QuestTemplate, Imcodec.ObjectProperty",
-    "@change-vector": "A:5552-W9pQo7ze7EWvihr0j0wlRg",
-    "@id": "questtemplates/WC-TUT-C05-001",
-    "@last-modified": "2025-12-30T20:37:06.181396Z"
-  }
+  "m_behaviors": null
 }
