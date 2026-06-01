@@ -499,17 +499,20 @@
       }
     ]
   },
-  "m_requirements": null,
-  "m_prepRequirements": {
+  "m_requirements": {
     "$type": "Imcodec.ObjectProperty.TypeCache.RequirementList, Imcodec.ObjectProperty",
+    "m_applyNOT": false,
+    "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ResCompleteQuest, Imcodec.ObjectProperty",
-        "m_questName": "MB-MUSEHub-C03-001",
-        "m_completeQuest": true
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND",
+        "m_questName": "MB-MUSEHub-C03-001"
       }
     ]
   },
+  "m_prepRequirements": null,
   "m_pruneRequirements": null,
   "m_prepAlways": false,
   "m_clientTags": null,
