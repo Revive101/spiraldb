@@ -252,6 +252,7 @@
         "m_dialogTag": "Prep",
         "m_dialogEntries": [
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "WC-TRITON-NPC02_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -316,8 +317,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "m_personaName": "WC-TRITON-NPC02_Persona",
