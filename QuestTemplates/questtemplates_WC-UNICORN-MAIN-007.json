@@ -73,6 +73,14 @@
         "m_results": [
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC_Rattlebones_ButterFlyZone instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "On",
+            "m_zoneName": null
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
             "m_dynaModClientTag": "WC_Debris",
             "m_dynaModRemove": false,
             "m_useQuestAsOriginator": false,
