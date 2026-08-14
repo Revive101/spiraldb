@@ -591,16 +591,19 @@
   },
   "m_requirements": {
     "$type": "Imcodec.ObjectProperty.TypeCache.RequirementList, Imcodec.ObjectProperty",
-    "m_applyNOT": false,
-    "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Completed",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "WC-TRITON-MAIN-006",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "WC-TRITON-MAIN-006"
+        "m_operator": "ROP_AND"
       }
-    ]
+    ],
+    "m_applyNOT": false,
+    "m_operator": "ROP_AND"
   },
   "m_prepRequirements": null,
   "m_pruneRequirements": null,
