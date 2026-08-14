@@ -1,0 +1,29 @@
+{
+  "ZoneName": "WizardCity/Tutorial_Interior",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TP to Duel Circle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.323257,-1000.484,0.006958008,3.084044",
+        "m_destinationZone": "WizardCity/Tutorial_Interior"
+      }
+    },
+    {
+      "TriggerName": "TeleporterStuff",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-466.1871,1104.25,20.68359,-0.4000808",
+        "m_destinationZone": "WizardCity/Tutorial_Exterior"
+      }
+    }
+  ]
+}
+
