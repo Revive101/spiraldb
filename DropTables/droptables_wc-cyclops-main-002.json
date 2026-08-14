@@ -5,13 +5,21 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 20,
+  "MaxGold": 20,
+  "ExperienceAmount": 130,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "4695",
+      "ItemName": "Sturdy Blade",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:49:32.675957Z",
-  "ModifiedAt": "2026-06-01T00:49:32.675957Z",
+  "ModifiedAt": "2026-08-14T23:08:23.0722943Z",
   "CreatedBy": "quest_builder",
-  "ModifiedBy": "quest_builder"
+  "ModifiedBy": "quest_builder",
+  "GrantsPotionSlot": false
 }

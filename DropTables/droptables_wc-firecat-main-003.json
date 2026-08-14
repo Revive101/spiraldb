@@ -5,13 +5,14 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 18,
+  "MaxGold": 18,
+  "ExperienceAmount": 150,
   "TrainingPoints": 0,
   "Items": [],
   "CreatedAt": "2026-06-01T00:49:43.653604Z",
-  "ModifiedAt": "2026-06-01T00:49:43.653604Z",
+  "ModifiedAt": "2026-08-14T23:08:23.0753902Z",
   "CreatedBy": "quest_builder",
-  "ModifiedBy": "quest_builder"
+  "ModifiedBy": "quest_builder",
+  "GrantsPotionSlot": false
 }

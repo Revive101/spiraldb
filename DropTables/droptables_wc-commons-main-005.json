@@ -7,11 +7,19 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 115,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160218",
+      "ItemName": "Crystal Ball",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:49:27.278404Z",
-  "ModifiedAt": "2026-06-01T00:49:27.278404Z",
+  "ModifiedAt": "2026-08-14T23:08:23.0804738Z",
   "CreatedBy": "quest_builder",
-  "ModifiedBy": "quest_builder"
+  "ModifiedBy": "quest_builder",
+  "GrantsPotionSlot": true
 }
