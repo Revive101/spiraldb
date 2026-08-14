@@ -30,12 +30,12 @@
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
             "m_templateID": 35528,
-            "m_spellID": 2064450794
+            "m_spellID": 2064457962
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
             "m_templateID": 126461,
-            "m_spellID": 2064450794
+            "m_spellID": 775892479
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.ResDrawHand, Imcodec.ObjectProperty",
@@ -44,8 +44,730 @@
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.ResDrawHand, Imcodec.ObjectProperty",
             "m_templateID": 126461
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResDrawHand, Imcodec.ObjectProperty",
+            "m_templateID": 625720646
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResDrawHand, Imcodec.ObjectProperty",
+            "m_templateID": 1356552154
           }
         ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "CloseDoor",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": []
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Clear hand mob 0",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": []
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Clear hand mob 1",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": []
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "mob damage 2",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
+            "m_templateID": 35528,
+            "m_spellID": 342088211
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "mob damage 3",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
+            "m_templateID": 126461,
+            "m_spellID": 342087699
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "mob damage 4",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
+            "m_templateID": 35528,
+            "m_spellID": 342087187
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "mob weakness",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
+            "m_templateID": 126461,
+            "m_spellID": 1187361084
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "mob damage 5",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
+            "m_templateID": 35528,
+            "m_spellID": 342086675
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "mob damage 6",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
+            "m_templateID": 126461,
+            "m_spellID": 342086163
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "mob damage 7",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
+            "m_templateID": 35528,
+            "m_spellID": 342085651
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "mob damage 8",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResGiveSpell, Imcodec.ObjectProperty",
+            "m_templateID": 126461,
+            "m_spellID": 342085139
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "player heal",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResDrawHand, Imcodec.ObjectProperty",
+            "m_templateID": 1782107340
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "player damage 2",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResDrawHand, Imcodec.ObjectProperty",
+            "m_templateID": 936099142
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "player blade",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResDrawHand, Imcodec.ObjectProperty",
+            "m_templateID": 514206205
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "player damage 3",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResDrawHand, Imcodec.ObjectProperty",
+            "m_templateID": 1421623998
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Give 3 pips to player",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": []
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 3,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "give 4 pips to player",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": []
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 4,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
+      "m_locationName": "",
+      "m_displayImage1": "",
+      "m_displayImage2": "",
+      "m_clientTags": [],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": []
+      },
+      "m_goalType": "GOAL_TYPE_ACHIEVERANK",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.AchieveRankGoalTemplate, Imcodec.ObjectProperty",
+      "m_rank": 1,
+      "m_goalName": "Update pips",
+      "m_goalNameID": 0,
+      "m_goalTitle": "",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": []
       },
       "m_goalRequirements": null,
       "m_tallyCounter": null,
