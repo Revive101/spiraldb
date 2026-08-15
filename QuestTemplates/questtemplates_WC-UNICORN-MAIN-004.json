@@ -553,9 +553,116 @@
         "m_maxRolls": 1
       },
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
-        "m_tableName": "WC-UNICORN-MAIN-004-SPELL",
-        "m_maxRolls": 1
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 74836240,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Balance",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 74836240,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Death",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 74836240,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Fire",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 74836240,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Ice",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 74836240,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Myth",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 74836240,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Storm",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 75304275,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Life",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
       },
       {
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
