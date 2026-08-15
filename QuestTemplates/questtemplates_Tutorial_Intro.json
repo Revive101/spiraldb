@@ -20,7 +20,42 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddHealth, Imcodec.ObjectProperty"
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddMana, Imcodec.ObjectProperty"
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+            "m_templateID": 2062265892
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+            "m_templateID": 1496157882
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+            "m_templateID": 103007158
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+            "m_templateID": 1731857280
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+            "m_templateID": 1067010286
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+            "m_templateID": 84361
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+            "m_templateID": 2143810477
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": null,
