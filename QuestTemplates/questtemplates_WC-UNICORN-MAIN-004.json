@@ -551,6 +551,16 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "WC-UNICORN-MAIN-004",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "WC-UNICORN-MAIN-004-SPELL",
+        "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "WC-UNICORN-MAIN-004-MOUNT",
+        "m_maxRolls": 1
       }
     ]
   },

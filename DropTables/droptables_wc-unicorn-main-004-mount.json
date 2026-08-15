@@ -1,0 +1,25 @@
+{
+  "Name": "WC-UNICORN-MAIN-004-MOUNT",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "TrainingPoints": 0,
+  "GrantsPotionSlot": false,
+  "CreatedAt": "2026-08-15T04:33:42.0752865Z",
+  "ModifiedAt": "2026-08-15T04:33:42.0752879Z",
+  "CreatedBy": "makima",
+  "ModifiedBy": "makima",
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "Items": [
+    {
+      "ItemId": "191154",
+      "ItemName": "Enchanted Broom (1 Day)",
+      "Notes": "",
+      "Requirements": null
+    }
+  ]
+}

@@ -1,18 +1,23 @@
 {
-  "Name": "WC-UNICORN-MAIN-004",
+  "Name": "WC-UNICORN-MAIN-004-SPELL",
   "Description": "",
   "RollChance": 1.0,
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 20,
-  "MaxGold": 20,
-  "ExperienceAmount": 120,
   "TrainingPoints": 0,
+  "GrantsPotionSlot": false,
+  "CreatedAt": "2026-08-15T04:33:42.0734668Z",
+  "ModifiedAt": "2026-08-15T04:33:42.0734714Z",
+  "CreatedBy": "makima",
+  "ModifiedBy": "makima",
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
   "Items": [
     {
-      "ItemId": "4815",
-      "ItemName": "Frost Wolf Boots",
+      "ItemId": "74836240",
+      "ItemName": "Pixie",
       "Notes": "Balance",
       "Requirements": {
         "m_requirements": [
@@ -28,8 +33,8 @@
       }
     },
     {
-      "ItemId": "4814",
-      "ItemName": "Footwraps of Calamity",
+      "ItemId": "74836240",
+      "ItemName": "Pixie",
       "Notes": "Death",
       "Requirements": {
         "m_requirements": [
@@ -45,8 +50,8 @@
       }
     },
     {
-      "ItemId": "4809",
-      "ItemName": "Seared Shoes",
+      "ItemId": "74836240",
+      "ItemName": "Pixie",
       "Notes": "Fire",
       "Requirements": {
         "m_requirements": [
@@ -62,8 +67,8 @@
       }
     },
     {
-      "ItemId": "4810",
-      "ItemName": "Frost-Touched Shoes",
+      "ItemId": "74836240",
+      "ItemName": "Pixie",
       "Notes": "Ice",
       "Requirements": {
         "m_requirements": [
@@ -79,25 +84,8 @@
       }
     },
     {
-      "ItemId": "4856",
-      "ItemName": "Sturdy Boots",
-      "Notes": "Life",
-      "Requirements": {
-        "m_requirements": [
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
-            "m_magicSchool": "Life",
-            "m_applyNOT": false,
-            "m_operator": "ROP_AND"
-          }
-        ],
-        "m_applyNOT": false,
-        "m_operator": "ROP_AND"
-      }
-    },
-    {
-      "ItemId": "4812",
-      "ItemName": "Graven Boots",
+      "ItemId": "74836240",
+      "ItemName": "Pixie",
       "Notes": "Myth",
       "Requirements": {
         "m_requirements": [
@@ -113,8 +101,8 @@
       }
     },
     {
-      "ItemId": "4811",
-      "ItemName": "Stormweave Shoes",
+      "ItemId": "74836240",
+      "ItemName": "Pixie",
       "Notes": "Storm",
       "Requirements": {
         "m_requirements": [
@@ -128,11 +116,23 @@
         "m_applyNOT": false,
         "m_operator": "ROP_AND"
       }
+    },
+    {
+      "ItemId": "75304275",
+      "ItemName": "Fairy",
+      "Notes": "Life",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Life",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
     }
-  ],
-  "CreatedAt": "2025-10-19T00:08:45.0115692Z",
-  "ModifiedAt": "2026-08-15T04:33:42.0556290Z",
-  "CreatedBy": "jay",
-  "ModifiedBy": "jay",
-  "GrantsPotionSlot": false
+  ]
 }
