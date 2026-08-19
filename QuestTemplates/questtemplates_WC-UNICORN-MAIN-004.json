@@ -33,23 +33,6 @@
             "m_dynaModClientTag": "WC-FairyCage02 instance",
             "m_dynaModRemove": false,
             "m_useQuestAsOriginator": false,
-            "m_dynaModState": "FairyEscaping",
-            "m_zoneName": null
-          },
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.ResWait, Imcodec.ObjectProperty",
-            "m_secondsToWait": 2
-          },
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
-            "m_dynaModClientTag": "WC-FairyCage02 Instance",
-            "m_useQuestAsOriginator": false
-          },
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
-            "m_dynaModClientTag": "WC-FairyCage02 instance",
-            "m_dynaModRemove": false,
-            "m_useQuestAsOriginator": false,
             "m_dynaModState": "FairyEscaped",
             "m_zoneName": null
           }
@@ -105,7 +88,7 @@
             "m_dynaModClientTag": "WC-FairyCage03 instance",
             "m_dynaModRemove": false,
             "m_useQuestAsOriginator": false,
-            "m_dynaModState": "Off",
+            "m_dynaModState": "FairyEscaped",
             "m_zoneName": null
           }
         ]
@@ -160,7 +143,7 @@
             "m_dynaModClientTag": "WC-FairyCage04 instance",
             "m_dynaModRemove": false,
             "m_useQuestAsOriginator": false,
-            "m_dynaModState": "Off",
+            "m_dynaModState": "FairyEscaped",
             "m_zoneName": null
           }
         ]
@@ -215,7 +198,7 @@
             "m_dynaModClientTag": "WC-FairyCage05 instance",
             "m_dynaModRemove": false,
             "m_useQuestAsOriginator": false,
-            "m_dynaModState": "Off",
+            "m_dynaModState": "FairyEscaped",
             "m_zoneName": null
           }
         ]
