@@ -13,6 +13,17 @@
       }
     },
     {
+      "TriggerName": "Trigger TelepotToUW (1)",
+      "Teleport": {
+        "m_destinationLoc": "-87.59521,-533.309,18.50042,3.087131",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Unicorn",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
       "TriggerName": "TeleportToShoppingDistrict",
       "Teleport": {
         "m_destinationLoc": "-95.55735,-849.2842,-30.46902,-0.03700731",
