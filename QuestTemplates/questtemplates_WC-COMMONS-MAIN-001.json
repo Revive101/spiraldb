@@ -558,6 +558,14 @@
         "m_zoneName": ""
       },
       {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "WC_GateCommons_ToUnicornWay",
+        "m_dynaModRemove": false,
+        "m_useQuestAsOriginator": false,
+        "m_dynaModState": "IdleOpen",
+        "m_zoneName": "WizardCity/WC_Hub"
+      },
+      {
         "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
         "m_entryName": "GainedEnrollment",
         "m_isQuestRegistry": false,
