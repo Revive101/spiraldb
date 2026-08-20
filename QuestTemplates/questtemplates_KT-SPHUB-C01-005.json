@@ -324,22 +324,27 @@
                 "m_madlibBlock": {
                   "m_madlibs": [
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "WC-NPCs_00000196",
                       "m_madlibToken": "FIRSTNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "",
                       "m_madlibToken": "LASTNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "WC-NPCs_00002558",
                       "m_madlibToken": "TITLE"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "",
                       "m_madlibToken": "NICKNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "NPCFormats_First_Only",
                       "m_madlibToken": "FULLNAME"
                     }
@@ -352,22 +357,27 @@
                 "m_madlibBlock": {
                   "m_madlibs": [
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "WC-NPCs_00000254",
                       "m_madlibToken": "FIRSTNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "WC-NPCs_00000255",
                       "m_madlibToken": "LASTNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "",
                       "m_madlibToken": "TITLE"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "",
                       "m_madlibToken": "NICKNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "NPCFormats_First_Last",
                       "m_madlibToken": "FULLNAME"
                     }
@@ -639,22 +649,27 @@
                 "m_madlibBlock": {
                   "m_madlibs": [
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "WC-NPCs_00000115",
                       "m_madlibToken": "FIRSTNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "WC-NPCs_00000114",
                       "m_madlibToken": "LASTNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "WC-NPCs_00000159",
                       "m_madlibToken": "TITLE"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "",
                       "m_madlibToken": "NICKNAME"
                     },
                     {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                       "m_madlibArgument": "NPCFormats_First_Last",
                       "m_madlibToken": "FULLNAME"
                     }
@@ -886,22 +901,27 @@
             "m_madlibBlock": {
               "m_madlibs": [
                 {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                   "m_madlibArgument": "WC-NPCs_00000254",
                   "m_madlibToken": "FIRSTNAME"
                 },
                 {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                   "m_madlibArgument": "WC-NPCs_00000255",
                   "m_madlibToken": "LASTNAME"
                 },
                 {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                   "m_madlibArgument": "",
                   "m_madlibToken": "TITLE"
                 },
                 {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                   "m_madlibArgument": "",
                   "m_madlibToken": "NICKNAME"
                 },
                 {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
                   "m_madlibArgument": "NPCFormats_First_Last",
                   "m_madlibToken": "FULLNAME"
                 }
