@@ -11,6 +11,7 @@
   ],
   "m_goals": [
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "1_WizardQuestGoals_Explore",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -41,13 +42,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "WizardCity/WC_Streets/WC_OldeTown",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "2_WizardQuestGoals_00000008",
       "m_goalNameID": 572984775,
       "m_goalTitle": "WizardQuestGoals_00000008",
@@ -79,13 +81,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "3_WizardQuestGoals_Kill",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_Kill",
@@ -117,10 +120,11 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+
       "m_bountyTotal": 1
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "4_WizardQuestGoals_Explore",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -152,13 +156,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "5_WizardQuestGoals_00000058",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_00000058",
@@ -191,13 +196,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "6_WizardQuestGoals_00000146",
       "m_goalNameID": 740756935,
       "m_goalTitle": "WizardQuestGoals_00000146",
@@ -229,13 +235,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "7_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 769984730,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -265,6 +272,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC07_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -334,9 +342,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-OLDE-NPC03_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -404,7 +413,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -489,11 +498,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "8_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 1803424514,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -523,6 +533,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-OLDE-NPC03-B_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -590,9 +601,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-OLDE-NPC03-B_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -660,9 +672,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-OLDE-NPC03-B_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -730,9 +743,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-OLDE-NPC03-B_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -800,7 +814,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -852,11 +866,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "9_WizardQuestGoals_00000007",
       "m_goalNameID": 707202503,
       "m_goalTitle": "WizardQuestGoals_00000007",
@@ -888,13 +903,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "10_WizardQuestGoals_00000298",
       "m_goalNameID": 774311367,
       "m_goalTitle": "WizardQuestGoals_00000298",
@@ -927,13 +943,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "11_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 841420231,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -963,6 +980,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-OLDE-NPC03-B_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -1030,9 +1048,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-OLDE-NPC03-B_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -1100,9 +1119,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-OLDE-NPC03-B_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -1170,7 +1190,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -1222,11 +1242,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "12_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 572984771,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -1255,6 +1276,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-ST02-NPC01_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -1322,9 +1344,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC07_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -1390,9 +1413,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC07_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -1458,9 +1482,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC07_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -1526,9 +1551,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-ST02-NPC01_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -1596,7 +1622,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -1681,7 +1707,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     }
@@ -1858,6 +1884,7 @@
         "m_dialogTag": "Prep",
         "m_dialogEntries": [
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "WC-ST02-NPC01_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -1925,9 +1952,10 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           },
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "",
             "m_nameOverride": "WizQst1627D9_00000010",
             "m_nameSTKey": "",
@@ -1993,9 +2021,10 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           },
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "WC-ST02-NPC01_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -2063,9 +2092,10 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           },
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "WC-ST02-NPC01_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -2133,9 +2163,10 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           },
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "WC-ST02-NPC01_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -2203,7 +2234,7 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           }
         ],
         "m_madlibs": [

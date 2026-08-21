@@ -11,6 +11,7 @@
   ],
   "m_goals": [
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "1_WizardQuestGoals_Explore",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -39,13 +40,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "Marleybone/MB_ScotlandYard/MB_Prison",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "2_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -74,6 +76,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MB-YARD1-NPC02_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -141,7 +144,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -193,11 +196,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "3_WizardQuestGoals_Explore",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -228,13 +232,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "4_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -263,6 +268,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MB-YARD1-NPC03_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -330,7 +336,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -382,11 +388,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "5_WizardQuestGoals_Explore",
       "m_goalNameID": 707202503,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -417,13 +424,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "6_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 740756935,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -452,6 +460,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MB-YARD1-NPC04_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -519,7 +528,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -571,11 +580,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "7_WizardQuestGoals_Explore",
       "m_goalNameID": 774311367,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -606,13 +616,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "8_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 807865799,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -641,6 +652,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MB-YARD1-NPC05_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -708,9 +720,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MB-YARD1-NPC05_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -778,9 +791,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MB-YARD1-NPC05_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -848,7 +862,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -900,11 +914,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "9_WizardQuestGoals_Explore",
       "m_goalNameID": 841420231,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -937,13 +952,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "10_WizardQuestGoals_Kill",
       "m_goalNameID": 572984771,
       "m_goalTitle": "WizardQuestGoals_Kill",
@@ -976,10 +992,11 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+
       "m_bountyTotal": 1
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "11_WizardQuestGoals_Explore",
       "m_goalNameID": 1646726595,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -1010,13 +1027,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "12_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 1574498877,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -1045,6 +1063,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MB-YARD1-NPC06_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -1112,7 +1131,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -1164,11 +1183,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "13_WizardQuestGoals_Explore",
       "m_goalNameID": 500757053,
       "m_goalTitle": "WizardQuestGoals_Explore",
@@ -1201,13 +1221,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "14_WizardQuestGoals_Kill",
       "m_goalNameID": 572984770,
       "m_goalTitle": "WizardQuestGoals_Kill",
@@ -1240,10 +1261,11 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+
       "m_bountyTotal": 1
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "15_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 1646726594,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -1275,6 +1297,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MB-YARDHub-NPC01_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -1342,7 +1365,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -1394,7 +1417,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     }
@@ -1604,6 +1627,7 @@
         "m_dialogTag": "Prep",
         "m_dialogEntries": [
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "MB-YARD1-NPC01_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -1669,7 +1693,7 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           }
         ],
         "m_madlibs": [

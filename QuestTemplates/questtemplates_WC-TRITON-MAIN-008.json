@@ -9,6 +9,7 @@
   "m_startGoals": [],
   "m_goals": [
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "1_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -35,6 +36,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-RAV-NPC05_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -102,9 +104,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-RAV-NPC05_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -172,9 +175,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-ST01-NPC07_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -240,7 +244,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -325,11 +329,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "2_WizardQuestGoals_UseItem",
       "m_goalNameID": 572984775,
       "m_goalTitle": "WizardQuestGoals_UseItem",
@@ -360,13 +365,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "3_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -395,6 +401,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-TRITON-NPC05-C_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -460,9 +467,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-TRITON-NPC05-C_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -528,7 +536,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -580,11 +588,12 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "4_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -613,6 +622,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-TRITON-NPC02-B_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -678,7 +688,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -730,7 +740,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     }
@@ -822,6 +832,7 @@
         "m_dialogTag": "Prep",
         "m_dialogEntries": [
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "WC-TRITON-NPC05-C_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Only",
@@ -887,9 +898,10 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           },
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "WC-TRITON-NPC05-C_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Only",
@@ -955,7 +967,7 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           }
         ],
         "m_madlibs": [

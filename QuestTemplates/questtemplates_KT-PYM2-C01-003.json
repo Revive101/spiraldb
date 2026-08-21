@@ -14,6 +14,7 @@
   ],
   "m_goals": [
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "1_WizardQuestGoals_Kill",
       "m_goalNameID": 762778575,
       "m_goalTitle": "WizardQuestGoals_Kill",
@@ -45,10 +46,11 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+
       "m_bountyTotal": 1
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "2_WizardQuestGoals_Kill",
       "m_goalNameID": 762778623,
       "m_goalTitle": "WizardQuestGoals_Kill",
@@ -80,10 +82,11 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+
       "m_bountyTotal": 1
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "3_WizardQuestGoals_Kill",
       "m_goalNameID": 762778607,
       "m_goalTitle": "WizardQuestGoals_Kill",
@@ -115,10 +118,11 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+
       "m_bountyTotal": 1
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "4_WizardQuestGoals_Kill",
       "m_goalNameID": 762778591,
       "m_goalTitle": "WizardQuestGoals_Kill",
@@ -150,10 +154,11 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+
       "m_bountyTotal": 1
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "5_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 762778559,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -182,6 +187,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "KT-PYM2-NPC01_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -247,9 +253,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "KT-PYM2-NPC01_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -315,9 +322,10 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               },
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "KT-PYM2-NPC01_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
@@ -383,7 +391,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -435,7 +443,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     }
@@ -535,6 +543,7 @@
         "m_dialogTag": "Prep",
         "m_dialogEntries": [
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "KT-PYM2-NPC01_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -600,9 +609,10 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           },
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "KT-PYM2-NPC01_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -668,9 +678,10 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           },
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "KT-PYM2-NPC01_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Last",
@@ -736,7 +747,7 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           }
         ],
         "m_madlibs": [

@@ -11,6 +11,7 @@
   ],
   "m_goals": [
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "1_WizardQuestGoals_00000162",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_00000162",
@@ -42,13 +43,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+
       "m_zoneEntry": true,
       "m_zoneTag": "MooShu/MS_Plague/Interiors/MS_Plague2_T1",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "2_WizardQuestGoals_TalkNPC",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
@@ -78,6 +80,7 @@
             "m_dialogTag": "Completion",
             "m_dialogEntries": [
               {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "MS-PLAG2-NPC02_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Only",
@@ -143,7 +146,7 @@
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
                 "m_displayButtonsOnTimedDialog": false,
-                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
               }
             ],
             "m_madlibs": [
@@ -195,7 +198,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+
       "m_personaName": "",
       "m_usePatron": false
     }
@@ -262,6 +265,7 @@
         "m_dialogTag": "Prep",
         "m_dialogEntries": [
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "MS-PLAG2-NPC02_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Only",
@@ -327,9 +331,10 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           },
           {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
             "m_personaName": "MS-PLAG2-NPC02_Persona",
             "m_nameOverride": "",
             "m_nameSTKey": "NPCFormats_First_Only",
@@ -395,7 +400,7 @@
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
             "m_displayButtonsOnTimedDialog": false,
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty"
+
           }
         ],
         "m_madlibs": [
