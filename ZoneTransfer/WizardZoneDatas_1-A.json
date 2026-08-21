@@ -132,6 +132,17 @@
         "m_teleportType": "TELEPORT_STATIC",
         "m_transitionID": 0
       }
+    },
+    {
+      "TriggerName": "Trigger-ToRavenwoodLite",
+      "Teleport": {
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "WizardCity/WC_Ravenwood_Lite",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
     }
   ],
   "Events": []
