@@ -185,9 +185,63 @@
         "m_entryName": "Complete",
         "m_displayName": null,
         "m_isQuestRegistry": true,
+        "m_questName": "WC-COMMONS-MAIN-002-FIRE",
+        "m_applyNOT": false,
+        "m_operator": "ROP_OR"
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "WC-COMMONS-MAIN-002-ICE",
+        "m_applyNOT": false,
+        "m_operator": "ROP_OR"
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "WC-COMMONS-MAIN-002-LIFE",
+        "m_applyNOT": false,
+        "m_operator": "ROP_OR"
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "WC-COMMONS-MAIN-002-MYTH",
+        "m_applyNOT": false,
+        "m_operator": "ROP_OR"
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "WC-COMMONS-MAIN-002-DEATH",
+        "m_applyNOT": false,
+        "m_operator": "ROP_OR"
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "WC-COMMONS-MAIN-002-BALANCE",
+        "m_applyNOT": false,
+        "m_operator": "ROP_OR"
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
         "m_questName": "WC-COMMONS-MAIN-002-STORM",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND"
+        "m_operator": "ROP_OR"
       }
     ],
     "m_applyNOT": false,

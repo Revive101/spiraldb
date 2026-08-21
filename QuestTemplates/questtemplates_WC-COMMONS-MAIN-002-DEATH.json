@@ -1,5 +1,5 @@
 {
-  "m_questName": "WC-COMMONS-MAIN-002-STORM",
+  "m_questName": "WC-COMMONS-MAIN-002-DEATH",
   "m_questNameID": 0,
   "m_questTitle": "QuestTitle_00001718",
   "m_questInfo": null,
@@ -22,8 +22,8 @@
         "m_results": [
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.ResTeleport, Imcodec.ObjectProperty",
-            "m_destinationLoc": "-85.74344,6.126312,0.5001201,-1.578804",
-            "m_destinationZone": "WizardCity/Interiors/WC_SchoolStorm",
+            "m_destinationLoc": "641.8373,5968.792,-28.78596,1.723647",
+            "m_destinationZone": "WizardCity/WC_Ravenwood",
             "m_exitTeleporter": 0,
             "m_teleporterTag": 0,
             "m_teleportType": "TELEPORT_STATIC",
@@ -2301,7 +2301,7 @@
       },
       {
         "$type": "Imcodec.ObjectProperty.TypeCache.ReqIsSchool, Imcodec.ObjectProperty",
-        "m_magicSchoolName": "Storm",
+        "m_magicSchoolName": "Death",
         "m_applyNOT": false,
         "m_operator": "ROP_AND"
       }
