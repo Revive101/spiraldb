@@ -19,7 +19,16 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC-TRITON-NPC02-B instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "On",
+            "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -51,7 +60,10 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
 
-      "m_bountyTotal": 3
+      "m_bountyTotal": 3,
+      "m_npcAdjectives": [
+        "Haunted_Minion"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
@@ -207,7 +219,16 @@
     }
   ],
   "m_startResults": {
-    "m_results": []
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "WC-TRITON-NPC02 instance",
+        "m_dynaModRemove": false,
+        "m_useQuestAsOriginator": false,
+        "m_dynaModState": "Off",
+        "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
+      }
+    ]
   },
   "m_endResults": {
     "m_results": [
