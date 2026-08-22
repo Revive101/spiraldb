@@ -161,7 +161,7 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
 
-      "m_personaName": "",
+      "m_personaName": "WC-ST02-NPC01",
       "m_usePatron": false
     }
   ],
@@ -232,7 +232,7 @@
             "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/ArturGryphonbane_002_09.mp3",
             "m_action": "",
             "m_dialogEvent": "",
-            "m_actorTemplateID": 0,
+            "m_actorTemplateID": 1451951,
             "m_cameraName": "Cinematic Camera instance WC-TRITON-NPC02-B - Artur Gryphonbane",
             "m_interpolationDuration": 1.0,
             "m_cameraOffsetX": 0.0,

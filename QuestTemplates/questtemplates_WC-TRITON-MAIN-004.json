@@ -159,7 +159,7 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
 
-      "m_personaName": "",
+      "m_personaName": "WC-TRITON-NPC03",
       "m_usePatron": false
     }
   ],
@@ -230,7 +230,7 @@
             "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/DuncanGrimwater_002_08.mp3",
             "m_action": "",
             "m_dialogEvent": "",
-            "m_actorTemplateID": 0,
+            "m_actorTemplateID": 1451941,
             "m_cameraName": "Cinematic Camera instance WC-TRITON-NPC01 - Duncan Grimwater",
             "m_interpolationDuration": 1.0,
             "m_cameraOffsetX": 0.0,

@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1627D9_00000010",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_443748",
       "m_displayImage1": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_Cheery_Piggle.dds",
       "m_displayImage2": "",
@@ -42,7 +50,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "WizardCity/WC_Streets/WC_OldeTown",
       "m_proximityTag": "",
@@ -60,7 +67,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1627D9_00000011",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_1451998",
       "m_displayImage1": "|_Shared|WorldData|GUI/QuestButtons/Art_Quest_Teal_Tower.dds",
       "m_displayImage2": "",
@@ -81,7 +96,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
@@ -99,7 +113,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "WizardMobs_00003532",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_1451998",
       "m_displayImage1": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_Ghoul_Red_NPC.dds",
       "m_displayImage2": "",
@@ -112,7 +134,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -120,7 +142,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_bountyTotal": 1
     },
     {
@@ -135,7 +156,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1627D9_00000022",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_1451998",
       "m_displayImage1": "|_Shared|WorldData|GUI/QuestButtons/Quest_WC_StandardLock.dds",
       "m_displayImage2": "",
@@ -156,7 +185,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
@@ -174,7 +202,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizardGameObjects_00000917",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_1451998",
       "m_displayImage1": "|_Shared|WorldData|GUI/QuestButtons/Quest_WC_PortcullisKey.dds",
       "m_displayImage2": "",
@@ -188,7 +224,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": true,
       "m_activateResults": {
@@ -196,7 +232,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
@@ -214,7 +249,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1627D9_00000048",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_1451998",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Girl_Death3.dds",
       "m_displayImage2": "",
@@ -235,7 +278,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
@@ -341,8 +383,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -412,8 +453,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -498,8 +538,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_personaName": "",
+      "m_personaName": "WC-HUB-NPC07",
       "m_usePatron": false
     },
     {
@@ -600,8 +639,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -671,8 +709,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -742,8 +779,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -813,8 +849,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -866,8 +901,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_personaName": "",
+      "m_personaName": "WC-OLDE-NPC03-B",
       "m_usePatron": false
     },
     {
@@ -882,7 +916,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1627D9_00000046",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_00000286",
       "m_displayImage1": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_Cheery_Piggle.dds",
       "m_displayImage2": "",
@@ -895,7 +937,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": true,
       "m_activateResults": {
@@ -903,7 +945,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
@@ -921,7 +962,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "GUI_00009397",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_1451998",
       "m_displayImage1": "|_Shared|WorldData|GUI/QuestButtons/Quest_WC_ComboLock.dds",
       "m_displayImage2": "",
@@ -935,7 +984,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -943,7 +992,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
@@ -1047,8 +1095,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -1118,8 +1165,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -1189,8 +1235,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -1242,8 +1287,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_personaName": "",
+      "m_personaName": "WC-OLDE-NPC03-B",
       "m_usePatron": false
     },
     {
@@ -1343,8 +1387,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -1412,8 +1455,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -1481,8 +1523,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -1550,8 +1591,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -1621,8 +1661,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -1707,8 +1746,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_personaName": "",
+      "m_personaName": "WC-ST02-NPC01",
       "m_usePatron": false
     }
   ],
@@ -1897,7 +1935,7 @@
             "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/SeargeantMuldoon_002_15.mp3",
             "m_action": "",
             "m_dialogEvent": "WC-OLDE-MAIN-001_CallPet",
-            "m_actorTemplateID": 0,
+            "m_actorTemplateID": 38218,
             "m_cameraName": "LOCATION",
             "m_interpolationDuration": 2.0,
             "m_cameraOffsetX": -3160.466,
@@ -1951,8 +1989,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -2020,8 +2057,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -2091,8 +2127,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -2162,8 +2197,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -2233,8 +2267,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           }
         ],
         "m_madlibs": [

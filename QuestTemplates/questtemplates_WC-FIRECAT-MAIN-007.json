@@ -107,8 +107,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -178,8 +177,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -249,8 +247,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -302,8 +299,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_personaName": "",
+      "m_personaName": "WC-FIRECAT-NPC01",
       "m_usePatron": false
     },
     {
@@ -403,8 +399,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -474,8 +469,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -527,8 +521,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_personaName": "",
+      "m_personaName": "WC-ST02-NPC01",
       "m_usePatron": false
     }
   ],
@@ -610,7 +603,7 @@
             "m_soundFile": "|Sound_Dialogue_005|WorldData|Sound/Dialogue/GrettaDarkkettle_005_22.mp3",
             "m_action": "",
             "m_dialogEvent": "",
-            "m_actorTemplateID": 0,
+            "m_actorTemplateID": 1521048,
             "m_cameraName": "LOCATION",
             "m_interpolationDuration": 1.0,
             "m_cameraOffsetX": 13.55475,
@@ -662,8 +655,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -731,8 +723,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -800,8 +791,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           }
         ],
         "m_madlibs": [

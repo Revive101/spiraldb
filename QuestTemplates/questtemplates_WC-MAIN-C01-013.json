@@ -40,7 +40,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "Celestia/CL_Hub",
       "m_proximityTag": "",
@@ -111,7 +110,7 @@
             "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/MerleAmbrose_CEL_02.mp3",
             "m_action": "",
             "m_dialogEvent": "",
-            "m_actorTemplateID": 0,
+            "m_actorTemplateID": 38168,
             "m_cameraName": "Cinematic Camera - Merle Ambrose",
             "m_interpolationDuration": 1.0,
             "m_cameraOffsetX": -14.40217,
@@ -165,8 +164,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -236,8 +234,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -305,8 +302,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -376,8 +372,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -447,8 +442,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           }
         ],
         "m_madlibs": [

@@ -43,7 +43,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_bountyTotal": 1
     },
     {
@@ -141,8 +140,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -194,8 +192,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_personaName": "",
+      "m_personaName": "DS-LIB2-NPC05_Warrior5",
       "m_usePatron": false
     },
     {
@@ -295,8 +292,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -348,8 +344,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_personaName": "",
+      "m_personaName": "DS-LIB2-NPC02",
       "m_usePatron": false
     }
   ],
@@ -491,8 +486,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -560,8 +554,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -629,8 +622,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -698,8 +690,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -767,8 +758,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           }
         ],
         "m_madlibs": [
