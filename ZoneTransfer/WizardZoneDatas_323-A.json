@@ -56,6 +56,28 @@
         "m_destinationLoc": "464.7949,33.36941,1.103638,1.601829",
         "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_CabalSafehouse"
       }
+    },
+    {
+      "TriggerName": "TeleportSigil_ BastillasBastion",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Street5 Tower1 Entrance)",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_T1"
+      }
+    },
+    {
+      "TriggerName": "TeleportSigil_ FireGlobeTheater",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target (Street5 FireTheatre Entrance)",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_Theatre"
+      }
     }
   ]
 }
