@@ -408,7 +408,10 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 2
+      "m_bountyTotal": 2,
+      "m_npcAdjectives": [
+        "Fire_Elf_Pathfinder"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
@@ -675,7 +678,7 @@
       "m_zoneExit": false
     },
     {
-      "$type": "Imcodec.ObjectProperty.TypeCache.ScavengeGoalTemplate, Imcodec.ObjectProperty",
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "5_WizardQuestGoals_KillCollect",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_KillCollect",
@@ -713,7 +716,10 @@
         "m_results": []
       },
       "m_hideGoalFloatyText": false,
-      "m_behaviors": null
+      "m_behaviors": null,
+      "m_npcAdjectives": [
+        "Magma_Man"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",

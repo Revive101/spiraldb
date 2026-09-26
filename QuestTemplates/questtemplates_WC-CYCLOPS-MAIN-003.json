@@ -50,7 +50,10 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Cyclops_Legionaire"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
@@ -96,7 +99,7 @@
       "m_zoneExit": false
     },
     {
-      "$type": "Imcodec.ObjectProperty.TypeCache.ScavengeGoalTemplate, Imcodec.ObjectProperty",
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "3_WizardQuestGoals_KillCollect",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_KillCollect",
@@ -134,7 +137,10 @@
         "m_results": []
       },
       "m_hideGoalFloatyText": false,
-      "m_behaviors": null
+      "m_behaviors": null,
+      "m_npcAdjectives": [
+        "Rotting_Fodder"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",

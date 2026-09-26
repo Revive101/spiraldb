@@ -51,9 +51,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC03_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000004",
@@ -61,7 +61,7 @@
                 "m_soundFile": "|Sound_Dialogue_001|WorldData|Sound/Dialogue/HaroldArgleston_001_01.mp3",
                 "m_action": "",
                 "m_dialogEvent": "",
-                "m_actorTemplateID": 38214,
+                "m_actorTemplateID": 0,
                 "m_cameraName": "Cinematic Camera instance - Harold Argleston",
                 "m_interpolationDuration": 1.0,
                 "m_cameraOffsetX": 0.0,
@@ -121,9 +121,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC03_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000005",
@@ -191,9 +191,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC03_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000006",
@@ -261,9 +261,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC03_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000007",
@@ -331,9 +331,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC03_Persona",
                 "m_nameOverride": "WizQst1625CC_00000012",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000019",
@@ -399,9 +399,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC03_Persona",
                 "m_nameOverride": "WizQst1625CC_00000012",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "|_Shared|WorldData|GUI/FTUE-TCDeck.gui",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000009",
@@ -467,9 +467,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC03_Persona",
                 "m_nameOverride": "WizQst1625CC_00000012",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "|_Shared|WorldData|GUI/FTUE-CombatDeckChoice.gui",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000010",
@@ -535,9 +535,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC03_Persona",
                 "m_nameOverride": "WizQst1625CC_00000012",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000011",
@@ -600,7 +600,41 @@
                 "m_displayButtonsOnTimedDialog": false
               }
             ],
-            "m_madlibs": null,
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000098",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000099",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000100",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1328668710
+              }
+            ],
             "m_dialogEvents": null,
             "m_noAggroWhileDialogIsUp": false,
             "m_noAggroNoDelay": false
@@ -652,9 +686,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC01_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000013",
@@ -662,7 +696,7 @@
                 "m_soundFile": "|Sound_Dialogue_001|WorldData|Sound/Dialogue/MerleAmbrose_001_06.mp3",
                 "m_action": "",
                 "m_dialogEvent": "",
-                "m_actorTemplateID": 38168,
+                "m_actorTemplateID": 0,
                 "m_cameraName": "Cinematic Camera - Merle Ambrose",
                 "m_interpolationDuration": 1.0,
                 "m_cameraOffsetX": -386.5557861328125,
@@ -722,9 +756,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC01_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000014",
@@ -732,7 +766,7 @@
                 "m_soundFile": "|Sound_Dialogue_001|WorldData|Sound/Dialogue/MerleAmbrose_001_07.mp3",
                 "m_action": "",
                 "m_dialogEvent": "",
-                "m_actorTemplateID": 38168,
+                "m_actorTemplateID": 0,
                 "m_cameraName": "LOCATION",
                 "m_interpolationDuration": 3.0,
                 "m_cameraOffsetX": -262.5828857421875,
@@ -792,9 +826,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC01_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000015",
@@ -802,7 +836,7 @@
                 "m_soundFile": "|Sound_Dialogue_001|WorldData|Sound/Dialogue/MerleAmbrose_001_08.mp3",
                 "m_action": "",
                 "m_dialogEvent": "WC-ST01-C02-002",
-                "m_actorTemplateID": 38168,
+                "m_actorTemplateID": 0,
                 "m_cameraName": "LOCATION",
                 "m_interpolationDuration": 1.0,
                 "m_cameraOffsetX": -350.65618896484375,
@@ -862,9 +896,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC01_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000016",
@@ -872,7 +906,7 @@
                 "m_soundFile": "|Sound_Dialogue_001|WorldData|Sound/Dialogue/MerleAmbrose_001_09.mp3",
                 "m_action": "",
                 "m_dialogEvent": "",
-                "m_actorTemplateID": 38168,
+                "m_actorTemplateID": 0,
                 "m_cameraName": "",
                 "m_interpolationDuration": 1.0,
                 "m_cameraOffsetX": 0.0,
@@ -932,9 +966,9 @@
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
                 "m_personaName": "WC-HUB-NPC01_Persona",
                 "m_nameOverride": "",
-                "m_nameSTKey": null,
+                "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
-                "m_maxTimeSeconds": 0,
+                "m_maxTimeSeconds": -1,
                 "m_invisible": false,
                 "m_requirements": null,
                 "m_dialog": "WizQst1625CC_00000020",
@@ -942,7 +976,7 @@
                 "m_soundFile": "|Sound_Dialogue_001|WorldData|Sound/Dialogue/MerleAmbrose_001_10.mp3",
                 "m_action": "",
                 "m_dialogEvent": "",
-                "m_actorTemplateID": 38168,
+                "m_actorTemplateID": 0,
                 "m_cameraName": "",
                 "m_interpolationDuration": 1.0,
                 "m_cameraOffsetX": 0.0,
@@ -999,7 +1033,41 @@
                 "m_displayButtonsOnTimedDialog": false
               }
             ],
-            "m_madlibs": null,
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000014",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000015",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000016",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1311891494
+              }
+            ],
             "m_dialogEvents": null,
             "m_noAggroWhileDialogIsUp": false,
             "m_noAggroNoDelay": false

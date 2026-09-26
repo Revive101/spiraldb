@@ -142,7 +142,10 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Rotting_Fodder"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",

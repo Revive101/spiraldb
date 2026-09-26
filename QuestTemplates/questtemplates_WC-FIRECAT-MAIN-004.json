@@ -11,7 +11,7 @@
   ],
   "m_goals": [
     {
-      "$type": "Imcodec.ObjectProperty.TypeCache.ScavengeGoalTemplate, Imcodec.ObjectProperty",
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "1_WizardQuestGoals_KillCollect",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_KillCollect",
@@ -49,7 +49,10 @@
         "m_results": []
       },
       "m_hideGoalFloatyText": false,
-      "m_behaviors": null
+      "m_behaviors": null,
+      "m_npcAdjectives": [
+        "Rotting_Fodder"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
@@ -425,7 +428,10 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Bastilla_Gravewynd"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",

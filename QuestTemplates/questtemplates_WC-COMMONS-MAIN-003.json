@@ -206,6 +206,14 @@
         "m_useQuestAsOriginator": false,
         "m_dynaModState": "Off",
         "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "WC_TA_Cog instance",
+        "m_dynaModRemove": false,
+        "m_useQuestAsOriginator": false,
+        "m_dynaModState": "Off",
+        "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
       }
     ]
   },

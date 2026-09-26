@@ -50,7 +50,10 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 3
+      "m_bountyTotal": 3,
+      "m_npcAdjectives": [
+        "Minotaur"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",

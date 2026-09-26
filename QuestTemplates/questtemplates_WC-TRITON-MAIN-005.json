@@ -48,18 +48,26 @@
       "m_noQuestHelper": true,
       "m_petOnlyQuest": false,
       "m_activateResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC_TA_Cog instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "On",
+            "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
+          }
+        ]
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "WizardCity/WC_Streets/WC_Triton",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
-      "$type": "Imcodec.ObjectProperty.TypeCache.ScavengeGoalTemplate, Imcodec.ObjectProperty",
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
       "m_goalName": "2_WizardQuestGoals_KillCollect",
       "m_goalNameID": 572984775,
       "m_goalTitle": "WizardQuestGoals_KillCollect",
@@ -98,7 +106,9 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
+      "m_npcAdjectives": [
+        "Scarlet_Screamer"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
@@ -195,8 +205,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -248,7 +257,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_personaName": "WC-TRITON-NPC03",
       "m_usePatron": false
     },
@@ -261,7 +269,139 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResActorDialog, Imcodec.ObjectProperty",
+            "m_dialog": {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialog, Imcodec.ObjectProperty",
+              "m_dialogTag": "Hyperlink",
+              "m_dialogEntries": [
+                {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                  "m_personaName": "WC-TRITON-NPC03_Persona",
+                  "m_nameOverride": "",
+                  "m_nameSTKey": "NPCFormats_First_Last",
+                  "m_guiDisplay": "",
+                  "m_maxTimeSeconds": -1,
+                  "m_invisible": false,
+                  "m_requirements": null,
+                  "m_dialog": "WizQst1627B5_00000006",
+                  "m_picture": "GUI/NpcPortraits/Human_WCShopKeep_E_NPC.dds",
+                  "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/BladRaveneye_002_07.mp3",
+                  "m_action": "",
+                  "m_dialogEvent": "",
+                  "m_actorTemplateID": 0,
+                  "m_cameraName": "LOCATION",
+                  "m_interpolationDuration": 2.0,
+                  "m_cameraOffsetX": -17698.67,
+                  "m_cameraOffsetY": -1740.626,
+                  "m_cameraOffsetZ": 568.891,
+                  "m_pitch": 0.3472359,
+                  "m_yaw": -1.129598,
+                  "m_roll": 0.0,
+                  "m_cameraShakeType": "",
+                  "m_cameraShakeDuration": 0.0,
+                  "m_cameraShakeAmplitude": 0.0,
+                  "m_bypassCameraOnReview": true,
+                  "m_cameraZoneName": "WizardCity/WC_Streets/WC_Triton",
+                  "m_duration": 0.0,
+                  "m_delay": 0.0,
+                  "m_cameraHidePlayers": 1,
+                  "m_walkAwayNpcTemplateID": 0,
+                  "m_walkAwayExitDirectionInDegrees": 0.0,
+                  "m_walkAwayFadeTime": 0.0,
+                  "m_walkAwayUseCurrentFacing": false,
+                  "m_standInPlayerTag": "",
+                  "m_fadeOutCamera": false,
+                  "m_snapCameraToPlayerAtExit": false,
+                  "m_secondaryCameraName": "",
+                  "m_secondaryInterpolationDuration": 0.0,
+                  "m_npcStandInList": [],
+                  "m_dialogAnimationList": [],
+                  "m_dialogTurningList": [],
+                  "m_npcYawOffsetInDegrees": 0.0,
+                  "m_allowPlayerToMove": false,
+                  "m_soundEffectFile": "",
+                  "m_musicFile": "",
+                  "m_nonStackableMusic": false,
+                  "m_nonRepeatableMusic": false,
+                  "m_playMusicAtSFXVolume": false,
+                  "m_soundEffectDelay": 0.0,
+                  "m_musicDelay": 0.0,
+                  "m_musicFadeTime": 3.0,
+                  "m_dontReleaseCameraAtExit": false,
+                  "m_disableBackButton": false,
+                  "m_enableExitButton": false,
+                  "m_cameraFadeType": "",
+                  "m_cameraFadeTime": 0.5,
+                  "m_idleAnimation": "",
+                  "m_spamTime": 1.0,
+                  "m_playSoundIfSpamming": true,
+                  "m_playMusicIfSpamming": true,
+                  "m_stopMusicFadeTime": 0.0,
+                  "m_restartMusicFadeTime": 0.0,
+                  "m_meetsRequirements": true,
+                  "m_secondaryCameraInitalDelay": 0.0,
+                  "m_displayButtonsOnTimedDialog": false
+                }
+              ],
+              "m_madlibs": [
+                {
+                  "m_madlibBlock": {
+                    "m_madlibs": [
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "WC-NPCs_00000046",
+                        "m_madlibToken": "FIRSTNAME"
+                      },
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "WC-NPCs_00000047",
+                        "m_madlibToken": "LASTNAME"
+                      },
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "WC-NPCs_00000048",
+                        "m_madlibToken": "TITLE"
+                      },
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "",
+                        "m_madlibToken": "NICKNAME"
+                      },
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "NPCFormats_First_Last",
+                        "m_madlibToken": "FULLNAME"
+                      }
+                    ],
+                    "m_blockToken": "NPC"
+                  },
+                  "m_index": 1191011560
+                }
+              ],
+              "m_dialogEvents": null,
+              "m_noAggroWhileDialogIsUp": false,
+              "m_noAggroNoDelay": false
+            }
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC_Triton_Waterwheel instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "On",
+            "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC_TritonAve_Coil instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "On",
+            "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -290,10 +430,9 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
-      "m_zoneEntry": true,
-      "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_zoneEntry": false,
+      "m_zoneTag": "WizardCity/WC_Streets/WC_Triton",
+      "m_proximityTag": "Activator Volume WC-TRITON-MAIN-005 Goal 3",
       "m_zoneExit": false
     },
     {
@@ -305,7 +444,153 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResPlaySound, Imcodec.ObjectProperty",
+            "m_router": {
+              "m_locX": 0.0,
+              "m_locY": 0.0,
+              "m_locZ": 0.0,
+              "m_routingType": "ROUTING_ACTOR",
+              "m_useLocation": false,
+              "m_useTriggerLocation": false
+            },
+            "m_soundName": "ObjectData/Sound/ObjectInteraction/Lever_Pull.xml",
+            "m_blocking": false,
+            "m_reinteractTime": 0.0
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResActorDialog, Imcodec.ObjectProperty",
+            "m_dialog": {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialog, Imcodec.ObjectProperty",
+              "m_dialogTag": "Hyperlink",
+              "m_dialogEntries": [
+                {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                  "m_personaName": "WC-TRITON-NPC03_Persona",
+                  "m_nameOverride": "",
+                  "m_nameSTKey": "NPCFormats_First_Last",
+                  "m_guiDisplay": "",
+                  "m_maxTimeSeconds": -1,
+                  "m_invisible": false,
+                  "m_requirements": null,
+                  "m_dialog": "WizQst1627B5_00000007",
+                  "m_picture": "GUI/NpcPortraits/Human_WCShopKeep_E_NPC.dds",
+                  "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/BladRaveneye_002_08.mp3",
+                  "m_action": "",
+                  "m_dialogEvent": "",
+                  "m_actorTemplateID": 0,
+                  "m_cameraName": "LOCATION",
+                  "m_interpolationDuration": 1.0,
+                  "m_cameraOffsetX": -17877.02,
+                  "m_cameraOffsetY": -1660.356,
+                  "m_cameraOffsetZ": 77.28101,
+                  "m_pitch": -0.3727639,
+                  "m_yaw": -1.109603,
+                  "m_roll": 0.0,
+                  "m_cameraShakeType": "",
+                  "m_cameraShakeDuration": 0.0,
+                  "m_cameraShakeAmplitude": 0.0,
+                  "m_bypassCameraOnReview": true,
+                  "m_cameraZoneName": "WizardCity/WC_Streets/WC_Triton",
+                  "m_duration": 0.0,
+                  "m_delay": 0.0,
+                  "m_cameraHidePlayers": 1,
+                  "m_walkAwayNpcTemplateID": 0,
+                  "m_walkAwayExitDirectionInDegrees": 0.0,
+                  "m_walkAwayFadeTime": 0.0,
+                  "m_walkAwayUseCurrentFacing": false,
+                  "m_standInPlayerTag": "",
+                  "m_fadeOutCamera": false,
+                  "m_snapCameraToPlayerAtExit": true,
+                  "m_secondaryCameraName": "",
+                  "m_secondaryInterpolationDuration": 0.0,
+                  "m_npcStandInList": [],
+                  "m_dialogAnimationList": [],
+                  "m_dialogTurningList": [],
+                  "m_npcYawOffsetInDegrees": 0.0,
+                  "m_allowPlayerToMove": false,
+                  "m_soundEffectFile": "",
+                  "m_musicFile": "|Music|WorldData|Silent_OGG_10Sec.ogg",
+                  "m_nonStackableMusic": false,
+                  "m_nonRepeatableMusic": false,
+                  "m_playMusicAtSFXVolume": false,
+                  "m_soundEffectDelay": 0.0,
+                  "m_musicDelay": 0.5,
+                  "m_musicFadeTime": 3.0,
+                  "m_dontReleaseCameraAtExit": false,
+                  "m_disableBackButton": false,
+                  "m_enableExitButton": false,
+                  "m_cameraFadeType": "Out Black",
+                  "m_cameraFadeTime": 0.5,
+                  "m_idleAnimation": "",
+                  "m_spamTime": 1.0,
+                  "m_playSoundIfSpamming": true,
+                  "m_playMusicIfSpamming": true,
+                  "m_stopMusicFadeTime": 0.0,
+                  "m_restartMusicFadeTime": 0.0,
+                  "m_meetsRequirements": true,
+                  "m_secondaryCameraInitalDelay": 0.0,
+                  "m_displayButtonsOnTimedDialog": false
+                }
+              ],
+              "m_madlibs": [
+                {
+                  "m_madlibBlock": {
+                    "m_madlibs": [
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "WC-NPCs_00000046",
+                        "m_madlibToken": "FIRSTNAME"
+                      },
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "WC-NPCs_00000047",
+                        "m_madlibToken": "LASTNAME"
+                      },
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "WC-NPCs_00000048",
+                        "m_madlibToken": "TITLE"
+                      },
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "",
+                        "m_madlibToken": "NICKNAME"
+                      },
+                      {
+                        "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                        "m_madlibArgument": "NPCFormats_First_Last",
+                        "m_madlibToken": "FULLNAME"
+                      }
+                    ],
+                    "m_blockToken": "NPC"
+                  },
+                  "m_index": 1191011560
+                }
+              ],
+              "m_dialogEvents": null,
+              "m_noAggroWhileDialogIsUp": false,
+              "m_noAggroNoDelay": false
+            }
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "HD_WC_MillCoil_Electrified instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "On",
+            "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC_Leverl_Mill instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "On",
+            "m_zoneName": "WizardCity/WC_Streets/WC_Triton"
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -336,7 +621,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
@@ -437,8 +721,7 @@
                 "m_restartMusicFadeTime": 0.0,
                 "m_meetsRequirements": true,
                 "m_secondaryCameraInitalDelay": 0.0,
-                "m_displayButtonsOnTimedDialog": false,
-
+                "m_displayButtonsOnTimedDialog": false
               }
             ],
             "m_madlibs": [
@@ -490,7 +773,6 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-
       "m_personaName": "WC-TRITON-NPC03",
       "m_usePatron": false
     }
@@ -669,8 +951,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -738,8 +1019,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           },
           {
             "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
@@ -807,8 +1087,7 @@
             "m_restartMusicFadeTime": 0.0,
             "m_meetsRequirements": true,
             "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false,
-
+            "m_displayButtonsOnTimedDialog": false
           }
         ],
         "m_madlibs": [
