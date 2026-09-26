@@ -77,7 +77,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_H2",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -372,7 +372,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_T1",
       "m_dialogList": null,
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
@@ -383,7 +383,7 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "",
+      "m_zoneTag": "WizardCity/WC_Streets/Interiors/WC_Firecat_T1",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
@@ -456,7 +456,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_H2",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
