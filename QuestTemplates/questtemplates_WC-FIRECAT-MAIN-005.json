@@ -399,7 +399,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Firecat_H2",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -536,7 +536,16 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC-TableAlchemy instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "Assembled",
+            "m_zoneName": "WizardCity/WC_Streets/Interiors/WC_Firecat_H2"
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -570,7 +579,7 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "Activator Volume WC-FIRECAT-MAIN-005_Goal02",
       "m_zoneExit": false
     },
     {
@@ -582,7 +591,16 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC-TableAlchemy instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "Working",
+            "m_zoneName": "WizardCity/WC_Streets/Interiors/WC_Firecat_H2"
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
