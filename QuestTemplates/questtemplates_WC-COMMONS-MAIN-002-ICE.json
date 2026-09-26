@@ -1670,7 +1670,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Ravenwood",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -1679,7 +1679,7 @@
             "m_dialogEntries": [
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-                "m_personaName": "WC-HUB-NPC08_Persona",
+                "m_personaName": "WC-GTW-Registrar_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
@@ -1750,7 +1750,7 @@
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-                "m_personaName": "WC-HUB-NPC08_Persona",
+                "m_personaName": "WC-GTW-Registrar_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
@@ -1821,7 +1821,7 @@
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-                "m_personaName": "WC-HUB-NPC08_Persona",
+                "m_personaName": "WC-GTW-Registrar_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
@@ -1892,7 +1892,7 @@
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-                "m_personaName": "WC-HUB-NPC08_Persona",
+                "m_personaName": "WC-GTW-Registrar_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
@@ -1963,7 +1963,7 @@
               },
               {
                 "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-                "m_personaName": "WC-HUB-NPC08_Persona",
+                "m_personaName": "WC-GTW-Registrar_Persona",
                 "m_nameOverride": "",
                 "m_nameSTKey": "NPCFormats_First_Last",
                 "m_guiDisplay": "",
@@ -2116,7 +2116,7 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
 
-      "m_personaName": "WC-HUB-NPC08-B",
+      "m_personaName": "WC-GTW-Registrar",
       "m_usePatron": false
     },
     {
