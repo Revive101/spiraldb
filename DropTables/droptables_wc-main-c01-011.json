@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 545,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160233",
+      "ItemName": "Globe",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:49:59.076537Z",
   "ModifiedAt": "2026-06-01T00:49:59.076537Z",
   "CreatedBy": "quest_builder",

@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 128,
+  "MaxGold": 128,
+  "ExperienceAmount": 5935,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "126606",
+      "ItemName": "Band of the Last Bulwark",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T01:00:17.101369Z",
   "ModifiedAt": "2026-06-01T01:00:17.101369Z",
   "CreatedBy": "quest_builder",

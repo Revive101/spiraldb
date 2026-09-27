@@ -204,6 +204,11 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "MS-DTH2-C01-005",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "MS-DTH2-C01-005-2",
+        "m_maxRolls": 1
       }
     ]
   },

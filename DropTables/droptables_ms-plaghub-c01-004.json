@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 196,
+  "MaxGold": 196,
+  "ExperienceAmount": 3515,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160462",
+      "ItemName": "Grey Silk Kimono",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:56:46.746405Z",
   "ModifiedAt": "2026-06-01T00:56:46.746405Z",
   "CreatedBy": "quest_builder",

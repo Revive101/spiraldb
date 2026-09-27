@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 43,
+  "MaxGold": 43,
+  "ExperienceAmount": 685,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "82828",
+      "ItemName": "Painted Bowl",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:52:17.673694Z",
   "ModifiedAt": "2026-06-01T00:52:17.673694Z",
   "CreatedBy": "quest_builder",

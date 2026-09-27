@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 3055,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160466",
+      "ItemName": "Ceremonial Tea Pot",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:55:54.552226Z",
   "ModifiedAt": "2026-06-01T00:55:54.552226Z",
   "CreatedBy": "quest_builder",

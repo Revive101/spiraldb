@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 845,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "82723",
+      "ItemName": "Fang Harp",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:53:03.721068Z",
   "ModifiedAt": "2026-06-01T00:53:03.721068Z",
   "CreatedBy": "quest_builder",

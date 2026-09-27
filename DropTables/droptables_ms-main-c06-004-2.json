@@ -1,0 +1,24 @@
+{
+  "Name": "MS-MAIN-C06-004-2",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160441",
+      "ItemName": "Imperial Banner",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-09-27T17:08:08.856760Z",
+  "ModifiedAt": "2026-09-27T17:08:08.856760Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

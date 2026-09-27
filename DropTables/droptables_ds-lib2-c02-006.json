@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 1480,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160855",
+      "ItemName": "Great Dragon Bust",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:59:38.293056Z",
   "ModifiedAt": "2026-06-01T00:59:38.293056Z",
   "CreatedBy": "quest_builder",

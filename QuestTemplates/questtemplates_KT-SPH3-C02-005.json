@@ -207,6 +207,11 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "KT-SPH3-C02-005",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "KT-SPH3-C02-005-2",
+        "m_maxRolls": 1
       }
     ]
   },

@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 88,
+  "MaxGold": 88,
+  "ExperienceAmount": 3040,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "97441",
+      "ItemName": "Athame of Consideration",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:57:28.633033Z",
   "ModifiedAt": "2026-06-01T00:57:28.633033Z",
   "CreatedBy": "quest_builder",

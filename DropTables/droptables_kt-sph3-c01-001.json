@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 515,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "4925",
+      "ItemName": "Initiate's Dirk",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:52:29.382501Z",
   "ModifiedAt": "2026-06-01T00:52:29.382501Z",
   "CreatedBy": "quest_builder",
