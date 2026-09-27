@@ -543,7 +543,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Ravenwood",
       "m_dialogList": null,
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
@@ -555,7 +555,7 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "AR-MidEM-MAIN-001_Explore_Bartleby",
       "m_zoneExit": false
     },
     {
@@ -589,7 +589,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T2",
       "m_dialogList": null,
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
@@ -600,7 +600,7 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "",
+      "m_zoneTag": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T2",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
@@ -678,7 +678,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Streets/WC_HauntedCave",
       "m_dialogList": null,
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
@@ -689,7 +689,7 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "",
+      "m_zoneTag": "WizardCity/WC_Streets/WC_HauntedCave",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
