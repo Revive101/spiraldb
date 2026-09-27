@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 120,
+  "MaxGold": 120,
+  "ExperienceAmount": 5240,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160801",
+      "ItemName": "Phoenix Plaque",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T01:01:16.217566Z",
   "ModifiedAt": "2026-06-01T01:01:16.217566Z",
   "CreatedBy": "quest_builder",

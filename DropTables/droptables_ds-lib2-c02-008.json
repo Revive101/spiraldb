@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 103,
+  "MaxGold": 103,
+  "ExperienceAmount": 1480,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160827",
+      "ItemName": "Lava-filled Fountain",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:59:44.801969Z",
   "ModifiedAt": "2026-06-01T00:59:44.801969Z",
   "CreatedBy": "quest_builder",

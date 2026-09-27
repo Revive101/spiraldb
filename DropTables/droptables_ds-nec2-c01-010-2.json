@@ -1,24 +1,24 @@
 {
-  "Name": "DS-NEC1-C05-006",
+  "Name": "DS-NEC2-C01-010-2",
   "Description": "",
   "RollChance": 1.0,
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 128,
-  "MaxGold": 128,
-  "ExperienceAmount": 960,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "160839",
-      "ItemName": "Drake Obelisk",
+      "ItemId": "160814",
+      "ItemName": "Boris Blackrock Statue",
       "Notes": "",
       "Requirements": null
     }
   ],
-  "CreatedAt": "2026-06-01T01:00:58.881701Z",
-  "ModifiedAt": "2026-06-01T01:00:58.881701Z",
+  "CreatedAt": "2026-09-27T17:08:11.643201Z",
+  "ModifiedAt": "2026-09-27T17:08:11.643201Z",
   "CreatedBy": "quest_builder",
   "ModifiedBy": "quest_builder"
 }
