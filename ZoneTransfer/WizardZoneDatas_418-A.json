@@ -23,6 +23,17 @@
         "m_destinationLoc": "-37017.65,2729.719,-0.0009040833,0",
         "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
       }
+    },
+    {
+      "TriggerName": "Cave 2 Boss Tower Instance Sigil",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Cave2 to BossTower)",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_HauntedCave_T1"
+      }
     }
   ]
 }
