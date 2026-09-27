@@ -1,19 +1,19 @@
 {
-  "Name": "WC-OLDE-SIDE-002",
+  "Name": "WC-OLDE-SIDE-002-2",
   "Description": "",
   "RollChance": 1.0,
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 13,
-  "MaxGold": 13,
-  "ExperienceAmount": 55,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "77563",
-      "ItemName": "Scholarly Cap",
-      "Notes": "Balance Hat",
+      "ItemId": "87172",
+      "ItemName": "Tunic of the Thinker",
+      "Notes": "Balance Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -28,9 +28,9 @@
       }
     },
     {
-      "ItemId": "77562",
-      "ItemName": "Helm of Agitation",
-      "Notes": "Death Hat",
+      "ItemId": "87173",
+      "ItemName": "Robe of Agitation",
+      "Notes": "Death Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -45,9 +45,9 @@
       }
     },
     {
-      "ItemId": "77557",
-      "ItemName": "Fire-stitched Hood",
-      "Notes": "Fire Hat",
+      "ItemId": "87178",
+      "ItemName": "Fire-stitched Clothing",
+      "Notes": "Fire Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -62,9 +62,9 @@
       }
     },
     {
-      "ItemId": "77558",
-      "ItemName": "Cowl of Obstruction",
-      "Notes": "Ice Hat",
+      "ItemId": "87177",
+      "ItemName": "Runed Cloak",
+      "Notes": "Ice Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -79,9 +79,9 @@
       }
     },
     {
-      "ItemId": "77561",
-      "ItemName": "Cowl of Excitement",
-      "Notes": "Life Hat",
+      "ItemId": "87174",
+      "ItemName": "Soft Robes",
+      "Notes": "Life Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -96,9 +96,9 @@
       }
     },
     {
-      "ItemId": "77560",
-      "ItemName": "Helm of the Troll King",
-      "Notes": "Myth Hat",
+      "ItemId": "87175",
+      "ItemName": "Cloak of Tales",
+      "Notes": "Myth Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -113,9 +113,9 @@
       }
     },
     {
-      "ItemId": "77559",
-      "ItemName": "Stormcaller's Hat",
-      "Notes": "Storm Hat",
+      "ItemId": "87176",
+      "ItemName": "Cloudburst Coat",
+      "Notes": "Storm Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -130,8 +130,8 @@
       }
     }
   ],
-  "CreatedAt": "2026-06-01T00:50:14.580098Z",
-  "ModifiedAt": "2026-06-01T00:50:14.580098Z",
+  "CreatedAt": "2026-09-27T17:08:00.426258Z",
+  "ModifiedAt": "2026-09-27T17:08:00.426258Z",
   "CreatedBy": "quest_builder",
   "ModifiedBy": "quest_builder"
 }

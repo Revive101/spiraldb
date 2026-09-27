@@ -1,19 +1,19 @@
 {
-  "Name": "WC-OLDE-SIDE-002",
+  "Name": "WC-OLDE-SIDE-002-3",
   "Description": "",
   "RollChance": 1.0,
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 13,
-  "MaxGold": 13,
-  "ExperienceAmount": 55,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "77563",
-      "ItemName": "Scholarly Cap",
-      "Notes": "Balance Hat",
+      "ItemId": "4822",
+      "ItemName": "Scholarly Slippers",
+      "Notes": "Balance Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -28,9 +28,9 @@
       }
     },
     {
-      "ItemId": "77562",
-      "ItemName": "Helm of Agitation",
-      "Notes": "Death Hat",
+      "ItemId": "4821",
+      "ItemName": "Shoes of Agitation",
+      "Notes": "Death Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -45,9 +45,9 @@
       }
     },
     {
-      "ItemId": "77557",
-      "ItemName": "Fire-stitched Hood",
-      "Notes": "Fire Hat",
+      "ItemId": "4816",
+      "ItemName": "Fire-stitched Slippers",
+      "Notes": "Fire Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -62,9 +62,9 @@
       }
     },
     {
-      "ItemId": "77558",
-      "ItemName": "Cowl of Obstruction",
-      "Notes": "Ice Hat",
+      "ItemId": "4817",
+      "ItemName": "Boots of Frost",
+      "Notes": "Ice Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -79,9 +79,9 @@
       }
     },
     {
-      "ItemId": "77561",
-      "ItemName": "Cowl of Excitement",
-      "Notes": "Life Hat",
+      "ItemId": "4820",
+      "ItemName": "Boots of the Fae",
+      "Notes": "Life Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -96,9 +96,9 @@
       }
     },
     {
-      "ItemId": "77560",
-      "ItemName": "Helm of the Troll King",
-      "Notes": "Myth Hat",
+      "ItemId": "4819",
+      "ItemName": "Elven Slippers",
+      "Notes": "Myth Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -113,9 +113,9 @@
       }
     },
     {
-      "ItemId": "77559",
-      "ItemName": "Stormcaller's Hat",
-      "Notes": "Storm Hat",
+      "ItemId": "4818",
+      "ItemName": "Footwraps of Tension",
+      "Notes": "Storm Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -130,8 +130,8 @@
       }
     }
   ],
-  "CreatedAt": "2026-06-01T00:50:14.580098Z",
-  "ModifiedAt": "2026-06-01T00:50:14.580098Z",
+  "CreatedAt": "2026-09-27T17:09:23.103102Z",
+  "ModifiedAt": "2026-09-27T17:09:23.103102Z",
   "CreatedBy": "quest_builder",
   "ModifiedBy": "quest_builder"
 }
