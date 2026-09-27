@@ -331,10 +331,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "KT-SPH2-C02-002",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "KT-SPH2-C01-003"
+        "m_operator": "ROP_AND"
       }
     ]
   },
