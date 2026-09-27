@@ -39,7 +39,126 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops",
-      "m_dialogList": null,
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "WC-ST03-NPC01_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1731A9_00000018",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Boy_Myth02.dds",
+                "m_soundFile": "|Sound_Dialogue_005|WorldData|Sound/Dialogue/NolanStormgate_005_01.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.5,
+                "m_cameraOffsetX": 2833.97,
+                "m_cameraOffsetY": 2118.357,
+                "m_cameraOffsetZ": 174.6414,
+                "m_pitch": 0.02710109,
+                "m_yaw": -2.201405,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/WC_Cyclops",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 1520058,
+                "m_walkAwayExitDirectionInDegrees": 270.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": true,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [
+                  "WC_StandIn_Nolan_Stormgate_NPC instance"
+                ],
+                "m_dialogAnimationList": [
+                  "0|WC_StandIn_Nolan_Stormgate_NPC instance|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000129",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000130",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 840712590
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
