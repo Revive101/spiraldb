@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 176,
+  "MaxGold": 176,
+  "ExperienceAmount": 3040,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160463",
+      "ItemName": "Tactical Map",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:57:33.185747Z",
   "ModifiedAt": "2026-06-01T00:57:33.185747Z",
   "CreatedBy": "quest_builder",

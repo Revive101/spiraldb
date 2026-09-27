@@ -1,19 +1,19 @@
 {
-  "Name": "MS-PLAG2-C04-005",
+  "Name": "MS-DTH2-C01-005-2",
   "Description": "",
   "RollChance": 1.0,
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 95,
-  "MaxGold": 95,
-  "ExperienceAmount": 3435,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "97754",
-      "ItemName": "Robe of Prudence",
-      "Notes": "Balance Robe",
+      "ItemId": "97921",
+      "ItemName": "Boots of Prudence",
+      "Notes": "Balance Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -28,9 +28,9 @@
       }
     },
     {
-      "ItemId": "97753",
-      "ItemName": "Tunic of Calculation",
-      "Notes": "Death Robe",
+      "ItemId": "97920",
+      "ItemName": "Footwraps of Calculation",
+      "Notes": "Death Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -45,9 +45,9 @@
       }
     },
     {
-      "ItemId": "97748",
-      "ItemName": "Tunic of Purpose",
-      "Notes": "Fire Robe",
+      "ItemId": "97915",
+      "ItemName": "Footwraps of Purpose",
+      "Notes": "Fire Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -62,9 +62,9 @@
       }
     },
     {
-      "ItemId": "97749",
-      "ItemName": "Robe of Intent",
-      "Notes": "Ice Robe",
+      "ItemId": "97916",
+      "ItemName": "Boots of Intent",
+      "Notes": "Ice Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -79,9 +79,9 @@
       }
     },
     {
-      "ItemId": "97752",
-      "ItemName": "Garments of Realization",
-      "Notes": "Life Robe",
+      "ItemId": "97919",
+      "ItemName": "Slippers of Realization",
+      "Notes": "Life Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -96,9 +96,9 @@
       }
     },
     {
-      "ItemId": "97751",
-      "ItemName": "Vestment of Notion",
-      "Notes": "Myth Robe",
+      "ItemId": "97918",
+      "ItemName": "Sandals of Notion",
+      "Notes": "Myth Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -113,9 +113,9 @@
       }
     },
     {
-      "ItemId": "97750",
-      "ItemName": "Interpretive Cloak",
-      "Notes": "Storm Robe",
+      "ItemId": "97917",
+      "ItemName": "Interpretive Shoes",
+      "Notes": "Storm Boots",
       "Requirements": {
         "m_requirements": [
           {
@@ -130,8 +130,8 @@
       }
     }
   ],
-  "CreatedAt": "2026-06-01T00:56:39.567315Z",
-  "ModifiedAt": "2026-06-01T00:56:39.567315Z",
+  "CreatedAt": "2026-09-27T17:08:08.858922Z",
+  "ModifiedAt": "2026-09-27T17:08:08.858922Z",
   "CreatedBy": "quest_builder",
   "ModifiedBy": "quest_builder"
 }
