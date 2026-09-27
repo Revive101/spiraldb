@@ -1,5 +1,5 @@
 {
-  "Name": "KT-SPHUB-C01-005",
+  "Name": "KT-SPHub-C01-004-2",
   "Description": "",
   "RollChance": 1.0,
   "Weight": 100,
@@ -7,18 +7,18 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 845,
+  "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "82723",
-      "ItemName": "Fang Harp",
+      "ItemId": "4996",
+      "ItemName": "Sandblasted Jewel",
       "Notes": "",
       "Requirements": null
     }
   ],
-  "CreatedAt": "2026-06-01T00:53:03.721068Z",
-  "ModifiedAt": "2026-06-01T00:53:03.721068Z",
+  "CreatedAt": "2026-09-27T17:08:03.255520Z",
+  "ModifiedAt": "2026-09-27T17:08:03.255520Z",
   "CreatedBy": "quest_builder",
   "ModifiedBy": "quest_builder"
 }
