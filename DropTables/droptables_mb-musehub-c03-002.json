@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 176,
+  "MaxGold": 176,
+  "ExperienceAmount": 700,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160243",
+      "ItemName": "Telescope",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:54:01.743901Z",
   "ModifiedAt": "2026-06-01T00:54:01.743901Z",
   "CreatedBy": "quest_builder",

@@ -1,19 +1,19 @@
 {
-  "Name": "MB-AIR2-C02-003",
+  "Name": "MB-MUSEHub-C03-001-2",
   "Description": "",
   "RollChance": 1.0,
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 60,
-  "MaxGold": 60,
-  "ExperienceAmount": 3165,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "39048",
-      "ItemName": "Band of Consistency",
-      "Notes": "Balance Ring",
+      "ItemId": "77137",
+      "ItemName": "Pleasing Vestment",
+      "Notes": "Balance Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -28,9 +28,9 @@
       }
     },
     {
-      "ItemId": "39047",
-      "ItemName": "Band of Extinction",
-      "Notes": "Death Ring",
+      "ItemId": "77136",
+      "ItemName": "Vestment of Agony",
+      "Notes": "Death Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -45,9 +45,9 @@
       }
     },
     {
-      "ItemId": "39042",
-      "ItemName": "Band of the Sunrise",
-      "Notes": "Fire Ring",
+      "ItemId": "77131",
+      "ItemName": "Opportunists' Robe",
+      "Notes": "Fire Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -62,9 +62,9 @@
       }
     },
     {
-      "ItemId": "39043",
-      "ItemName": "Biting Ring",
-      "Notes": "Ice Ring",
+      "ItemId": "77132",
+      "ItemName": "Vestment of Accuracy",
+      "Notes": "Ice Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -79,9 +79,9 @@
       }
     },
     {
-      "ItemId": "39046",
-      "ItemName": "Band of Restoration",
-      "Notes": "Life Ring",
+      "ItemId": "77135",
+      "ItemName": "Grandiose Tunic",
+      "Notes": "Life Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -96,9 +96,9 @@
       }
     },
     {
-      "ItemId": "39045",
-      "ItemName": "Band of History",
-      "Notes": "Myth Ring",
+      "ItemId": "77134",
+      "ItemName": "Cloak of Atlantis",
+      "Notes": "Myth Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -113,9 +113,9 @@
       }
     },
     {
-      "ItemId": "39044",
-      "ItemName": "Experimental Band",
-      "Notes": "Storm Ring",
+      "ItemId": "77133",
+      "ItemName": "Elegant Vestment",
+      "Notes": "Storm Robe",
       "Requirements": {
         "m_requirements": [
           {
@@ -130,8 +130,8 @@
       }
     }
   ],
-  "CreatedAt": "2026-06-01T00:53:35.110595Z",
-  "ModifiedAt": "2026-06-01T00:53:35.110595Z",
+  "CreatedAt": "2026-09-27T17:08:06.039995Z",
+  "ModifiedAt": "2026-09-27T17:08:06.039995Z",
   "CreatedBy": "quest_builder",
   "ModifiedBy": "quest_builder"
 }

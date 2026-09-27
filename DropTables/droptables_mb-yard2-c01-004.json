@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 68,
+  "MaxGold": 68,
+  "ExperienceAmount": 605,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160780",
+      "ItemName": "Soda Barrels",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:54:20.976630Z",
   "ModifiedAt": "2026-06-01T00:54:20.976630Z",
   "CreatedBy": "quest_builder",

@@ -1,5 +1,5 @@
 {
-  "Name": "MB-YARD1-C01-001",
+  "Name": "MB-YARD2-C01-007-2",
   "Description": "",
   "RollChance": 1.0,
   "Weight": 100,
@@ -7,18 +7,18 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 1055,
+  "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "160623",
-      "ItemName": "Buried Bone",
+      "ItemId": "160687",
+      "ItemName": "Arched Counter",
       "Notes": "",
       "Requirements": null
     }
   ],
-  "CreatedAt": "2026-06-01T00:54:07.714179Z",
-  "ModifiedAt": "2026-06-01T00:54:07.714179Z",
+  "CreatedAt": "2026-09-27T17:08:06.043857Z",
+  "ModifiedAt": "2026-09-27T17:08:06.043857Z",
   "CreatedBy": "quest_builder",
   "ModifiedBy": "quest_builder"
 }
