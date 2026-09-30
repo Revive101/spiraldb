@@ -1,0 +1,660 @@
+{
+  "m_questName": "DS-LIB4-C01-002",
+  "m_questNameID": 0,
+  "m_questTitle": "QuestTitle_1ED23",
+  "m_questInfo": null,
+  "m_questPrep": null,
+  "m_questUnderway": null,
+  "m_questComplete": null,
+  "m_startGoals": [
+    "Goal 3"
+  ],
+  "m_goals": [
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+      "m_goalName": "Goal 3",
+      "m_goalNameID": 640093639,
+      "m_goalTitle": "WizardQuestGoals_TalkNPC",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResSpawn, Imcodec.ObjectProperty",
+            "m_spawnID": 815695,
+            "m_activate": true
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "WizQst1ED23_00000000",
+      "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_M_wizard_military_3BLUE.dds",
+      "m_displayImage2": "",
+      "m_clientTags": [
+        "Ddl_DS_GCP_Wzd8a"
+      ],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z4_GrandChasm_Past",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "DS-LIB4-NPC01_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1ED23_00000007",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_M_wizard_military_3BLUE.dds",
+                "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VasekAshweaver_QST_18.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 126308,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 2.0,
+                "m_cameraOffsetX": 126.6773,
+                "m_cameraOffsetY": 2554.723,
+                "m_cameraOffsetZ": -79.95936,
+                "m_pitch": 0.1399993,
+                "m_yaw": -2.983185,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "DragonSpire/DS_A1_Knowledge/DS_A1Z4_GrandChasm_Past",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 126308,
+                "m_walkAwayExitDirectionInDegrees": 90.0,
+                "m_walkAwayFadeTime": 1.0,
+                "m_walkAwayUseCurrentFacing": true,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|126308|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000953",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000954",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1748778080
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
+      "m_goalType": "GOAL_TYPE_PERSONA",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null,
+      "m_personaName": "DS-LIB4-NPC01",
+      "m_usePatron": false
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
+      "m_goalName": "Goal",
+      "m_goalNameID": 2559431,
+      "m_goalTitle": "WizardQuestGoals_TalkNPC",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResSpawn, Imcodec.ObjectProperty",
+            "m_spawnID": 805549,
+            "m_activate": true
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResSpawn, Imcodec.ObjectProperty",
+            "m_spawnID": 805551,
+            "m_activate": true
+          }
+        ]
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "WizQst1ED23_00000000",
+      "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_M_wizard_military_3BLUE.dds",
+      "m_displayImage2": "",
+      "m_clientTags": [
+        "Ddl_DS_GCP_Wzd8b"
+      ],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "DS-LIB4-NPC02_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1ED23_00000008",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_M_wizard_military_3BLUE.dds",
+                "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VasekAshweaver_QST_19.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 126309,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 7114.924,
+                "m_cameraOffsetY": -6859.624,
+                "m_cameraOffsetZ": -876.0854,
+                "m_pitch": 0.07662643,
+                "m_yaw": 1.498109,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "DragonSpire/DS_A1_Knowledge/DS_A1Z4_GrandChasm_Past",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|126309|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "DS-LIB4-NPC02_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "WC-NPCs_00000955",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1ED23_00000009",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_M_wizard_military_3BLUE.dds",
+                "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VasekAshweaver_QST_20.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 126309,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 6533.447,
+                "m_cameraOffsetY": -9057.448,
+                "m_cameraOffsetZ": -253.3065,
+                "m_pitch": 0.5771382,
+                "m_yaw": -2.862768,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "DragonSpire/DS_A1_Knowledge/DS_A1Z4_GrandChasm_Past",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 1,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000956",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000957",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1480342624
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
+      "m_goalType": "GOAL_TYPE_PERSONA",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null,
+      "m_personaName": "DS-LIB4-NPC02",
+      "m_usePatron": false
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+      "m_goalName": "Goal 2",
+      "m_goalNameID": 606539207,
+      "m_goalTitle": "WizardQuestGoals_Kill",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": []
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": null,
+      "m_locationName": "WizQst1ED23_00000000",
+      "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Helephant.dds",
+      "m_displayImage2": "",
+      "m_clientTags": [
+        "Ddl_DS_GCP_GenFireTusk",
+        "Ddl_DS_GCP_Wzd8b"
+      ],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "DS-LIB4-NPC02_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "WC-NPCs_00000955",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1ED23_00000010",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_M_wizard_military_3BLUE.dds",
+                "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VasekAshweaver_QST_21.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 126309,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 7022.841,
+                "m_cameraOffsetY": -6859.54,
+                "m_cameraOffsetZ": -872.9455,
+                "m_pitch": 0.207435,
+                "m_yaw": 1.611074,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "DragonSpire/DS_A1_Knowledge/DS_A1Z4_GrandChasm_Past",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|126309|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000956",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000957",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1480342624
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
+      "m_goalType": "GOAL_TYPE_BOUNTY",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null,
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Helephant-Fire-Boss-R8.AdjRef"
+      ]
+    }
+  ],
+  "m_startResults": {
+    "m_results": []
+  },
+  "m_endResults": {
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "DS-LIB4-C01-002",
+        "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDespawn, Imcodec.ObjectProperty",
+        "m_spawnID": 805549,
+        "m_despawnEffect": false,
+        "m_templateID": 0
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDespawn, Imcodec.ObjectProperty",
+        "m_spawnID": 805551,
+        "m_despawnEffect": false,
+        "m_templateID": 0
+      }
+    ]
+  },
+  "m_requirements": {
+    "$type": "Imcodec.ObjectProperty.TypeCache.RequirementList, Imcodec.ObjectProperty",
+    "m_applyNOT": false,
+    "m_operator": "ROP_AND",
+    "m_requirements": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqInZone, Imcodec.ObjectProperty",
+        "m_zoneName": "DragonSpire/DS_A1_Knowledge/DS_A1Z4_GrandChasm_Past",
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "DS-LIB4-C01-001",
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    ]
+  },
+  "m_prepRequirements": null,
+  "m_pruneRequirements": null,
+  "m_prepAlways": false,
+  "m_clientTags": null,
+  "m_goalLogic": [
+    {
+      "m_goalsAND": [
+        "Goal 3"
+      ],
+      "m_goalsOR": [],
+      "m_goalsToAdd": [
+        "Goal"
+      ],
+      "m_completeQuest": false,
+      "m_requiredORCount": 1
+    },
+    {
+      "m_goalsAND": [
+        "Goal"
+      ],
+      "m_goalsOR": [],
+      "m_goalsToAdd": [
+        "Goal 2"
+      ],
+      "m_completeQuest": false,
+      "m_requiredORCount": 1
+    },
+    {
+      "m_goalsAND": [
+        "Goal 2"
+      ],
+      "m_goalsOR": [],
+      "m_goalsToAdd": [],
+      "m_completeQuest": true,
+      "m_requiredORCount": 1
+    }
+  ],
+  "m_questLevel": 1,
+  "m_questRepeat": 0,
+  "m_onStartQuestScript": "",
+  "m_onEndQuestScript": "",
+  "m_dialogList": null,
+  "m_missionDoors": null,
+  "m_dynaMods": null,
+  "m_isHidden": false,
+  "m_outdated": false,
+  "m_noQuestHelper": false,
+  "m_mainline": false,
+  "m_defaultDialogAnimation": null,
+  "m_skipQHAutoSelect": false,
+  "m_questEffectInfoList": null,
+  "m_forceInteraction": false,
+  "m_checkInventoryForCrafting": false,
+  "m_playAsYourPetNPC": false,
+  "m_activityType": "ACTIVITY_NotActivity",
+  "m_behaviors": null
+}
