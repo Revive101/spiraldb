@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_KillCollect"
+    "Goal"
   ],
   "m_goals": [
     {
-      "$type": "Imcodec.ObjectProperty.TypeCache.ScavengeGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_KillCollect",
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_KillCollect",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1EDA3_00000001",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_draconian_warrior_4.dds",
       "m_displayImage2": "",
@@ -35,18 +43,22 @@
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T1",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_SCAVENGE",
+      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
         "m_results": []
       },
       "m_hideGoalFloatyText": false,
-      "m_behaviors": null
+      "m_behaviors": null,
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Kraysys"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -66,7 +78,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -213,10 +225,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "DS-ACAD2-C01-003",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "DS-ACAD2-C01-003"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -227,18 +242,18 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_KillCollect"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -265,9 +280,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1EDA0_00000007",
+            "m_dialog": "WizQst1EDA3_00000003",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_M_warrior_soldier_3_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VidorDrakesmith_QST_02.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VidorDrakesmith_QST_18.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126326,
@@ -333,9 +348,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1EDA0_00000008",
+            "m_dialog": "WizQst1EDA3_00000004",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_M_warrior_soldier_3_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VidorDrakesmith_QST_03.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VidorDrakesmith_QST_19.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126326,
@@ -401,77 +416,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1EDA0_00000009",
+            "m_dialog": "WizQst1EDA3_00000005",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_M_warrior_soldier_3_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VidorDrakesmith_QST_04.mp3",
-            "m_action": "",
-            "m_dialogEvent": "",
-            "m_actorTemplateID": 126326,
-            "m_cameraName": "",
-            "m_interpolationDuration": 0.0,
-            "m_cameraOffsetX": 0.0,
-            "m_cameraOffsetY": 0.0,
-            "m_cameraOffsetZ": 0.0,
-            "m_pitch": 0.0,
-            "m_yaw": 0.0,
-            "m_roll": 0.0,
-            "m_cameraShakeType": "",
-            "m_cameraShakeDuration": 0.0,
-            "m_cameraShakeAmplitude": 0.0,
-            "m_bypassCameraOnReview": true,
-            "m_cameraZoneName": "",
-            "m_duration": 0.0,
-            "m_delay": 0.0,
-            "m_cameraHidePlayers": 0,
-            "m_walkAwayNpcTemplateID": 0,
-            "m_walkAwayExitDirectionInDegrees": 0.0,
-            "m_walkAwayFadeTime": 0.0,
-            "m_walkAwayUseCurrentFacing": false,
-            "m_standInPlayerTag": "",
-            "m_fadeOutCamera": false,
-            "m_snapCameraToPlayerAtExit": false,
-            "m_secondaryCameraName": "",
-            "m_secondaryInterpolationDuration": 0.0,
-            "m_npcStandInList": [],
-            "m_dialogAnimationList": [],
-            "m_dialogTurningList": [],
-            "m_npcYawOffsetInDegrees": 0.0,
-            "m_allowPlayerToMove": false,
-            "m_soundEffectFile": "",
-            "m_musicFile": "",
-            "m_nonStackableMusic": false,
-            "m_nonRepeatableMusic": false,
-            "m_playMusicAtSFXVolume": false,
-            "m_soundEffectDelay": 0.0,
-            "m_musicDelay": 0.0,
-            "m_musicFadeTime": 3.0,
-            "m_dontReleaseCameraAtExit": false,
-            "m_disableBackButton": false,
-            "m_enableExitButton": false,
-            "m_cameraFadeType": "",
-            "m_cameraFadeTime": 0.5,
-            "m_idleAnimation": "",
-            "m_spamTime": 1.0,
-            "m_playSoundIfSpamming": true,
-            "m_playMusicIfSpamming": true,
-            "m_stopMusicFadeTime": 0.0,
-            "m_restartMusicFadeTime": 0.0,
-            "m_meetsRequirements": true,
-            "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false
-          },
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-            "m_personaName": "DS-ACAD2-NPC01_Persona",
-            "m_nameOverride": "",
-            "m_nameSTKey": "NPCFormats_First_Last",
-            "m_guiDisplay": "",
-            "m_maxTimeSeconds": -1,
-            "m_invisible": false,
-            "m_requirements": null,
-            "m_dialog": "WizQst1EDA0_00000010",
-            "m_picture": "GUI/NpcPortraits/Art_Portrait_M_warrior_soldier_3_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VidorDrakesmith_QST_05.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/VidorDrakesmith_QST_20.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126326,
