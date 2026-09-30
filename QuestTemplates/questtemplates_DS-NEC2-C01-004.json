@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Kill"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Kill",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Kill",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED3C_00000000",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Halloween_Undead_Caster.dds",
       "m_displayImage2": "",
@@ -34,8 +42,91 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Arena_Gauntlet_6Room_Sub/6Room_6",
-      "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst1ED3C_00000008",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1ED3C_00000006",
+                "m_picture": "GUI/QuestButtons/Quest_BattleCrystal.dds",
+                "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/Narrator_NAR_101.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 0.0,
+                "m_cameraOffsetX": -1022.592,
+                "m_cameraOffsetY": 591.5067,
+                "m_cameraOffsetZ": 843.389,
+                "m_pitch": 0.7566597,
+                "m_yaw": 2.051816,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_Arena_Gauntlet_6Room_Sub/6Room_6",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 0,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|Player|Clap|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -43,11 +134,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Undead-Orange-Boss-R8.AdjRef"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -67,7 +161,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z2_Arena",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -205,6 +299,13 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "DS-NEC2-C01-004",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
+        "m_entryName": "QT-DS-NEC2-C01-004",
+        "m_isQuestRegistry": false,
+        "m_value": 1,
+        "m_questName": ""
       }
     ]
   },
@@ -214,10 +315,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "DS-NEC2-C01-003",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "DS-NEC2-C01-003"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -228,18 +332,18 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Kill"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -266,9 +370,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1ED39_00000004",
+            "m_dialog": "WizQst1ED3C_00000002",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_F_warrior_wings_1_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/ZanettaStormbreaker_QST_04.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/ZanettaStormbreaker_QST_23.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126317,
@@ -278,7 +382,7 @@
             "m_cameraOffsetY": 6625.575,
             "m_cameraOffsetZ": 176.6981,
             "m_pitch": 0.01688498,
-            "m_yaw": 0.01881048,
+            "m_yaw": 0.09881038,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
             "m_cameraShakeDuration": 0.0,
@@ -334,9 +438,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1ED39_00000005",
+            "m_dialog": "WizQst1ED3C_00000003",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_F_warrior_wings_1_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/ZanettaStormbreaker_QST_05.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/ZanettaStormbreaker_QST_24.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126317,
@@ -402,77 +506,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1ED39_00000006",
+            "m_dialog": "WizQst1ED3C_00000004",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_F_warrior_wings_1_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/ZanettaStormbreaker_QST_06.mp3",
-            "m_action": "",
-            "m_dialogEvent": "",
-            "m_actorTemplateID": 126317,
-            "m_cameraName": "",
-            "m_interpolationDuration": 0.0,
-            "m_cameraOffsetX": 0.0,
-            "m_cameraOffsetY": 0.0,
-            "m_cameraOffsetZ": 0.0,
-            "m_pitch": 0.0,
-            "m_yaw": 0.0,
-            "m_roll": 0.0,
-            "m_cameraShakeType": "",
-            "m_cameraShakeDuration": 0.0,
-            "m_cameraShakeAmplitude": 0.0,
-            "m_bypassCameraOnReview": true,
-            "m_cameraZoneName": "",
-            "m_duration": 0.0,
-            "m_delay": 0.0,
-            "m_cameraHidePlayers": 0,
-            "m_walkAwayNpcTemplateID": 0,
-            "m_walkAwayExitDirectionInDegrees": 0.0,
-            "m_walkAwayFadeTime": 0.0,
-            "m_walkAwayUseCurrentFacing": false,
-            "m_standInPlayerTag": "",
-            "m_fadeOutCamera": false,
-            "m_snapCameraToPlayerAtExit": false,
-            "m_secondaryCameraName": "",
-            "m_secondaryInterpolationDuration": 0.0,
-            "m_npcStandInList": [],
-            "m_dialogAnimationList": [],
-            "m_dialogTurningList": [],
-            "m_npcYawOffsetInDegrees": 0.0,
-            "m_allowPlayerToMove": false,
-            "m_soundEffectFile": "",
-            "m_musicFile": "",
-            "m_nonStackableMusic": false,
-            "m_nonRepeatableMusic": false,
-            "m_playMusicAtSFXVolume": false,
-            "m_soundEffectDelay": 0.0,
-            "m_musicDelay": 0.0,
-            "m_musicFadeTime": 3.0,
-            "m_dontReleaseCameraAtExit": false,
-            "m_disableBackButton": false,
-            "m_enableExitButton": false,
-            "m_cameraFadeType": "",
-            "m_cameraFadeTime": 0.5,
-            "m_idleAnimation": "",
-            "m_spamTime": 1.0,
-            "m_playSoundIfSpamming": true,
-            "m_playMusicIfSpamming": true,
-            "m_stopMusicFadeTime": 0.0,
-            "m_restartMusicFadeTime": 0.0,
-            "m_meetsRequirements": true,
-            "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false
-          },
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-            "m_personaName": "DS-NEC2-NPC01_Persona",
-            "m_nameOverride": "",
-            "m_nameSTKey": "NPCFormats_First_Last",
-            "m_guiDisplay": "",
-            "m_maxTimeSeconds": -1,
-            "m_invisible": false,
-            "m_requirements": null,
-            "m_dialog": "WizQst1ED39_00000007",
-            "m_picture": "GUI/NpcPortraits/Art_Portrait_F_warrior_wings_1_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/ZanettaStormbreaker_QST_07.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/ZanettaStormbreaker_QST_25.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126317,
