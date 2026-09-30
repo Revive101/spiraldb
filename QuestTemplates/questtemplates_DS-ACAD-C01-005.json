@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_UseItem"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_UseItem",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_UseItem",
       "m_goalUnderway": null,
@@ -22,19 +22,28 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED8C_00000009",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8C_00000008",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_drake.dds",
       "m_displayImage2": "",
       "m_clientTags": [
-        "DS_Fly_Drake"
+        "DS_Fly_Drake",
+        "DS_Young_Battledrake"
       ],
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -42,14 +51,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_zoneEntry": true,
-      "m_zoneTag": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy",
+      "m_zoneEntry": false,
+      "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_ExploreZone",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_ExploreZone",
       "m_goalUnderway": null,
@@ -67,7 +76,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano1",
       "m_dialogList": null,
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
@@ -78,13 +87,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "",
+      "m_zoneTag": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano1",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_Kill",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_Kill",
       "m_goalUnderway": null,
@@ -94,7 +103,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8C_00000007",
       "m_displayImage1": "GUI/NpcPortraits/Portraits_Human_Malistaire_A_MOB.dds",
       "m_displayImage2": "",
@@ -104,7 +121,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -112,11 +129,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Malistaire-Boss-R10.AdjRef"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "4_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 4",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -137,7 +157,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/Interiors/WC_Headmistress_House",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -687,7 +707,23 @@
     }
   ],
   "m_startResults": {
-    "m_results": []
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
+        "m_entryName": "QT-DS-ACAD-C01-005",
+        "m_isQuestRegistry": false,
+        "m_value": 1,
+        "m_questName": ""
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "TeleportToVolcano1",
+        "m_dynaModRemove": false,
+        "m_useQuestAsOriginator": false,
+        "m_dynaModState": "Glowy",
+        "m_zoneName": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_LandingZone"
+      }
+    ]
   },
   "m_endResults": {
     "m_results": [
@@ -704,10 +740,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "DS-NEC1-C05-006",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "DS-ACAD-C01-004"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -718,40 +757,40 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_UseItem"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_ExploreZone"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_ExploreZone"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_Kill"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_Kill"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 4"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 4"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],

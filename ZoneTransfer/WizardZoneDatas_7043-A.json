@@ -34,6 +34,17 @@
         "m_destinationLoc": "-14.55327,5848.705,100.0001,0",
         "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_LandingZone"
       }
+    },
+    {
+      "TriggerName": "DS_ElevatorActivator",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location-VolcanoUP",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano_Elevator_Up"
+      }
     }
   ]
 }
