@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 126,
+  "MaxGold": 126,
+  "ExperienceAmount": 540,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160627",
+      "ItemName": "Can of Tuna",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:53:38.791421Z",
   "ModifiedAt": "2026-06-01T00:53:38.791421Z",
   "CreatedBy": "quest_builder",

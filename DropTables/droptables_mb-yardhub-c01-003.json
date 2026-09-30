@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 75,
+  "MaxGold": 75,
+  "ExperienceAmount": 3785,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160782",
+      "ItemName": "Scotland Yard Name Sign",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:54:39.728108Z",
   "ModifiedAt": "2026-06-01T00:54:39.728108Z",
   "CreatedBy": "quest_builder",

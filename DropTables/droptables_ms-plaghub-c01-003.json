@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 95,
+  "MaxGold": 95,
+  "ExperienceAmount": 3435,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "97469",
+      "ItemName": "Kris of the Pensive Ones",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:56:45.488290Z",
   "ModifiedAt": "2026-06-01T00:56:45.488290Z",
   "CreatedBy": "quest_builder",

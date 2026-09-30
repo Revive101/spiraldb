@@ -307,6 +307,11 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "MB-YARD2-C01-007",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "MB-YARD2-C01-007-2",
+        "m_maxRolls": 1
       }
     ]
   },

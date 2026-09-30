@@ -461,6 +461,11 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "MS-DTHHub-C01-003",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "MS-DTHHub-C01-003-2",
+        "m_maxRolls": 1
       }
     ]
   },

@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 50,
+  "MaxGold": 50,
+  "ExperienceAmount": 845,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "82769",
+      "ItemName": "Krok Storm Plaque",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:50:54.256824Z",
   "ModifiedAt": "2026-06-01T00:50:54.256824Z",
   "CreatedBy": "quest_builder",

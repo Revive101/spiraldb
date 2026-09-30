@@ -459,6 +459,11 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "DS-LIB1-C01-008",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "DS-LIB1-C01-008-2",
+        "m_maxRolls": 1
       }
     ]
   },

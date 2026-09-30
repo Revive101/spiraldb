@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 115,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "82864",
+      "ItemName": "Krok Student Desk",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:53:08.874370Z",
   "ModifiedAt": "2026-06-01T00:53:08.874370Z",
   "CreatedBy": "quest_builder",

@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 3435,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160590",
+      "ItemName": "Blue Sword Display",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:56:34.782865Z",
   "ModifiedAt": "2026-06-01T00:56:34.782865Z",
   "CreatedBy": "quest_builder",

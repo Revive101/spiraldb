@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 5585,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "126608",
+      "ItemName": "Signet Ring of the Ages",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:57:40.516730Z",
   "ModifiedAt": "2026-06-01T00:57:40.516730Z",
   "CreatedBy": "quest_builder",

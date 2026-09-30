@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 200,
+  "MaxGold": 200,
+  "ExperienceAmount": 3700,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "160538",
+      "ItemName": "Wooden Memorial",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:54:59.542376Z",
   "ModifiedAt": "2026-06-01T00:54:59.542376Z",
   "CreatedBy": "quest_builder",

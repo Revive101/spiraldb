@@ -7,9 +7,16 @@
   "PityCounter": 0.0,
   "MinGold": 0,
   "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "ExperienceAmount": 4750,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "146214",
+      "ItemName": "Dragonfire Mantle",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T01:00:03.969781Z",
   "ModifiedAt": "2026-06-01T01:00:03.969781Z",
   "CreatedBy": "quest_builder",

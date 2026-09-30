@@ -5,11 +5,18 @@
   "Weight": 100,
   "NoneChance": 0.0,
   "PityCounter": 0.0,
-  "MinGold": 0,
-  "MaxGold": 0,
-  "ExperienceAmount": 0,
+  "MinGold": 116,
+  "MaxGold": 116,
+  "ExperienceAmount": 3010,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "39041",
+      "ItemName": "Thinker's Ring",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
   "CreatedAt": "2026-06-01T00:53:24.293484Z",
   "ModifiedAt": "2026-06-01T00:53:24.293484Z",
   "CreatedBy": "quest_builder",
