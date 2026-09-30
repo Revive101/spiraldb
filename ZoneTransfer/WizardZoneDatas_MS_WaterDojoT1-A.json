@@ -1,0 +1,17 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_WaterDojoT1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "11762.29,12839.86,27.2883,0",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    }
+  ]
+}
