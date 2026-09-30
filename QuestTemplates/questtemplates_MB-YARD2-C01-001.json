@@ -255,7 +255,7 @@
       "m_tallyCounter": {
         "m_percentChance": 1.0,
         "m_descriptor": "",
-        "m_descriptor2": "",
+        "m_descriptor2": "WizardMobs_00000170",
         "m_count": 1,
         "m_tallyResults": {
           "m_results": []
@@ -274,7 +274,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T9",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
