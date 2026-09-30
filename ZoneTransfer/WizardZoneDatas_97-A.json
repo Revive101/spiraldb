@@ -166,6 +166,28 @@
         "m_destinationLoc": "Target Marker (Ravenwood_Teleporter Ravenwood Exit)",
         "m_destinationZone": "WizardCity/WC_Ravenwood_Teleporter"
       }
+    },
+    {
+      "TriggerName": "Trigger-MythMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (TowerMyth Entrance)",
+        "m_destinationZone": "WizardCity/Interiors/WC_TowerMyth_Main"
+      }
+    },
+    {
+      "TriggerName": "Trigger-MythMain2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (TowerMyth Entrance)",
+        "m_destinationZone": "WizardCity/Interiors/WC_TowerMyth_Main"
+      }
     }
   ]
 }
