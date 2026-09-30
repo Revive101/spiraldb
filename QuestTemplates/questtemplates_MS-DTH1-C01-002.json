@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_ExploreZone"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_ExploreZone",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_ExploreZone",
       "m_goalUnderway": null,
@@ -50,7 +50,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_00000036",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_00000036",
       "m_goalUnderway": null,
@@ -60,7 +60,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst12E2E_00000004",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_595371",
       "m_displayImage1": "GUI/QuestButtons/Use_Fire_Tablet.dds",
       "m_displayImage2": "",
@@ -73,7 +81,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -88,7 +96,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -108,7 +116,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -257,10 +265,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MS-DTH1-C01-001",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MS-DTH1-C01-001"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -271,29 +282,29 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_ExploreZone"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_00000036"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_00000036"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -320,9 +331,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst12E2D_00000006",
+            "m_dialog": "WizQst12E2E_00000006",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Soldier_Dark_Blue_Ghost.dds",
-            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/IchiroKebo_QST_03.mp3",
+            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/IchiroKebo_QST_08.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 77336,
@@ -342,142 +353,6 @@
             "m_duration": 0.0,
             "m_delay": 0.0,
             "m_cameraHidePlayers": 2,
-            "m_walkAwayNpcTemplateID": 0,
-            "m_walkAwayExitDirectionInDegrees": 0.0,
-            "m_walkAwayFadeTime": 0.0,
-            "m_walkAwayUseCurrentFacing": false,
-            "m_standInPlayerTag": "",
-            "m_fadeOutCamera": false,
-            "m_snapCameraToPlayerAtExit": false,
-            "m_secondaryCameraName": "",
-            "m_secondaryInterpolationDuration": 0.0,
-            "m_npcStandInList": [],
-            "m_dialogAnimationList": [],
-            "m_dialogTurningList": [],
-            "m_npcYawOffsetInDegrees": 0.0,
-            "m_allowPlayerToMove": false,
-            "m_soundEffectFile": "",
-            "m_musicFile": "",
-            "m_nonStackableMusic": false,
-            "m_nonRepeatableMusic": false,
-            "m_playMusicAtSFXVolume": false,
-            "m_soundEffectDelay": 0.0,
-            "m_musicDelay": 0.0,
-            "m_musicFadeTime": 3.0,
-            "m_dontReleaseCameraAtExit": false,
-            "m_disableBackButton": false,
-            "m_enableExitButton": false,
-            "m_cameraFadeType": "",
-            "m_cameraFadeTime": 0.5,
-            "m_idleAnimation": "",
-            "m_spamTime": 1.0,
-            "m_playSoundIfSpamming": true,
-            "m_playMusicIfSpamming": true,
-            "m_stopMusicFadeTime": 0.0,
-            "m_restartMusicFadeTime": 0.0,
-            "m_meetsRequirements": true,
-            "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false
-          },
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-            "m_personaName": "MS-DTH1-NPC01_Persona",
-            "m_nameOverride": "",
-            "m_nameSTKey": "NPCFormats_First_Last",
-            "m_guiDisplay": "",
-            "m_maxTimeSeconds": -1,
-            "m_invisible": false,
-            "m_requirements": null,
-            "m_dialog": "WizQst12E2D_00000007",
-            "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Soldier_Dark_Blue_Ghost.dds",
-            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/IchiroKebo_QST_04.mp3",
-            "m_action": "",
-            "m_dialogEvent": "",
-            "m_actorTemplateID": 77336,
-            "m_cameraName": "",
-            "m_interpolationDuration": 0.0,
-            "m_cameraOffsetX": 0.0,
-            "m_cameraOffsetY": 0.0,
-            "m_cameraOffsetZ": 0.0,
-            "m_pitch": 0.0,
-            "m_yaw": 0.0,
-            "m_roll": 0.0,
-            "m_cameraShakeType": "",
-            "m_cameraShakeDuration": 0.0,
-            "m_cameraShakeAmplitude": 0.0,
-            "m_bypassCameraOnReview": true,
-            "m_cameraZoneName": "",
-            "m_duration": 0.0,
-            "m_delay": 0.0,
-            "m_cameraHidePlayers": 0,
-            "m_walkAwayNpcTemplateID": 0,
-            "m_walkAwayExitDirectionInDegrees": 0.0,
-            "m_walkAwayFadeTime": 0.0,
-            "m_walkAwayUseCurrentFacing": false,
-            "m_standInPlayerTag": "",
-            "m_fadeOutCamera": false,
-            "m_snapCameraToPlayerAtExit": false,
-            "m_secondaryCameraName": "",
-            "m_secondaryInterpolationDuration": 0.0,
-            "m_npcStandInList": [],
-            "m_dialogAnimationList": [],
-            "m_dialogTurningList": [],
-            "m_npcYawOffsetInDegrees": 0.0,
-            "m_allowPlayerToMove": false,
-            "m_soundEffectFile": "",
-            "m_musicFile": "",
-            "m_nonStackableMusic": false,
-            "m_nonRepeatableMusic": false,
-            "m_playMusicAtSFXVolume": false,
-            "m_soundEffectDelay": 0.0,
-            "m_musicDelay": 0.0,
-            "m_musicFadeTime": 3.0,
-            "m_dontReleaseCameraAtExit": false,
-            "m_disableBackButton": false,
-            "m_enableExitButton": false,
-            "m_cameraFadeType": "",
-            "m_cameraFadeTime": 0.5,
-            "m_idleAnimation": "",
-            "m_spamTime": 1.0,
-            "m_playSoundIfSpamming": true,
-            "m_playMusicIfSpamming": true,
-            "m_stopMusicFadeTime": 0.0,
-            "m_restartMusicFadeTime": 0.0,
-            "m_meetsRequirements": true,
-            "m_secondaryCameraInitalDelay": 0.0,
-            "m_displayButtonsOnTimedDialog": false
-          },
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
-            "m_personaName": "MS-DTH1-NPC01_Persona",
-            "m_nameOverride": "",
-            "m_nameSTKey": "NPCFormats_First_Last",
-            "m_guiDisplay": "",
-            "m_maxTimeSeconds": -1,
-            "m_invisible": false,
-            "m_requirements": null,
-            "m_dialog": "WizQst12E2D_00000008",
-            "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Soldier_Dark_Blue_Ghost.dds",
-            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/IchiroKebo_QST_05.mp3",
-            "m_action": "",
-            "m_dialogEvent": "",
-            "m_actorTemplateID": 77336,
-            "m_cameraName": "",
-            "m_interpolationDuration": 0.0,
-            "m_cameraOffsetX": 0.0,
-            "m_cameraOffsetY": 0.0,
-            "m_cameraOffsetZ": 0.0,
-            "m_pitch": 0.0,
-            "m_yaw": 0.0,
-            "m_roll": 0.0,
-            "m_cameraShakeType": "",
-            "m_cameraShakeDuration": 0.0,
-            "m_cameraShakeAmplitude": 0.0,
-            "m_bypassCameraOnReview": true,
-            "m_cameraZoneName": "",
-            "m_duration": 0.0,
-            "m_delay": 0.0,
-            "m_cameraHidePlayers": 0,
             "m_walkAwayNpcTemplateID": 0,
             "m_walkAwayExitDirectionInDegrees": 0.0,
             "m_walkAwayFadeTime": 0.0,
