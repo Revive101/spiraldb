@@ -1057,6 +1057,102 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "WC-COMMONS-MAIN-004",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 1730822561,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Balance",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 927448295,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Death",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 975200773,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Fire",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 534093744,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Life",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 533943727,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Myth",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 1627273980,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Storm",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
       }
     ]
   },
