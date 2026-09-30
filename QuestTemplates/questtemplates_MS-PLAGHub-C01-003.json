@@ -260,7 +260,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "WizardMobs_00000247",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_106513",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Helephant_Plague.dds",
       "m_displayImage2": "",
