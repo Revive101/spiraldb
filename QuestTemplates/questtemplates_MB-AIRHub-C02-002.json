@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_TalkNPC"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -321,10 +321,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MB-AIR1-C01-005",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MB-AIRHub-C02-001"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -335,7 +338,7 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_TalkNPC"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -362,19 +365,19 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B3D_00000006",
+            "m_dialog": "WizQst9B3F_00000007",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Sherlock_Bones.dds",
-            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/SherlockBones_QST_09.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/SherlockBones_QST_14.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39694,
             "m_cameraName": "LOCATION",
             "m_interpolationDuration": 1.0,
-            "m_cameraOffsetX": -997.2882,
-            "m_cameraOffsetY": 2096.484,
-            "m_cameraOffsetZ": -111.403,
-            "m_pitch": 0.03717448,
-            "m_yaw": -0.2010912,
+            "m_cameraOffsetX": -994.2119,
+            "m_cameraOffsetY": 2104.549,
+            "m_cameraOffsetZ": -74.12151,
+            "m_pitch": 0.2700002,
+            "m_yaw": -0.3400016,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
             "m_cameraShakeDuration": 0.0,
@@ -430,9 +433,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B3D_00000007",
+            "m_dialog": "WizQst9B3F_00000008",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Sherlock_Bones.dds",
-            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/SherlockBones_QST_10.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/SherlockBones_QST_15.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39694,
