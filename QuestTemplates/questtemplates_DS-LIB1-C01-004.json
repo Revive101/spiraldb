@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ECF8_00000007",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ECF8_00000005",
       "m_displayImage1": "GUI/QuestButtons/Quest_DS_Tower_2.dds",
       "m_displayImage2": "",

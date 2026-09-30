@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ECF3_00000034",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ECF3_00000023",
       "m_displayImage1": "GUI/QuestButtons/Quest_DS_Detention_Center_Entrance.dds",
       "m_displayImage2": "",
@@ -62,7 +70,7 @@
       "m_tallyCounter": {
         "m_percentChance": 1.0,
         "m_descriptor": "",
-        "m_descriptor2": "",
+        "m_descriptor2": "WizQst1ECF3_00000024",
         "m_count": 1,
         "m_tallyResults": {
           "m_results": []
@@ -390,7 +398,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ECF3_00000046",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ECF3_00000032",
       "m_displayImage1": "GUI/QuestButtons/Quest_DS_Academy.dds",
       "m_displayImage2": "",
