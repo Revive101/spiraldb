@@ -1,0 +1,103 @@
+{
+  "Name": "DragonHordeLT-Common",
+  "Description": "BoosterPack-Set-10-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160810",
+      "ItemName": "Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160825",
+      "ItemName": "Dragon Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160799",
+      "ItemName": "Dragon Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160920",
+      "ItemName": "Dragon Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160219",
+      "ItemName": "Dragon Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1508339025",
+      "ItemName": "Dragonblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160804",
+      "ItemName": "Dragonfire Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160914",
+      "ItemName": "Dragonmoon Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1992604577",
+      "ItemName": "Fire Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1866000101",
+      "ItemName": "Fire Wyvern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220336",
+      "ItemName": "Frosted Drakes Cereal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220275",
+      "ItemName": "Glowing Dragon Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160855",
+      "ItemName": "Great Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "460965238",
+      "ItemName": "Ice Wyvern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "260156497",
+      "ItemName": "Squall Wyvern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160516",
+      "ItemName": "Tall Dragon Vase",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.422191Z",
+  "ModifiedAt": "2026-09-30T03:55:50.422191Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

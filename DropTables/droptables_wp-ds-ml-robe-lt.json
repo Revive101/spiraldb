@@ -1,0 +1,53 @@
+{
+  "Name": "WP-DS-ML-Robe-LT",
+  "Description": "BoosterPack-Set-118 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1548898",
+      "ItemName": "Malistaire Drake\u0027s Ebon Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548899",
+      "ItemName": "Malistaire\u0027s Dragonfire Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548900",
+      "ItemName": "Malistaire\u0027s Iceflame Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548901",
+      "ItemName": "Malistaire\u0027s Purgatory Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548897",
+      "ItemName": "Malistaire\u0027s Tunic of Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548902",
+      "ItemName": "Malistaire\u0027s Unhallowed Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548903",
+      "ItemName": "Malistaire\u0027s Wrathful Wrap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427031Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427032Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

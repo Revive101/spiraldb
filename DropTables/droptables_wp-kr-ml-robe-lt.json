@@ -1,0 +1,53 @@
+{
+  "Name": "WP-KR-ML-Robe-LT",
+  "Description": "BoosterPack-Set-125 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1548997",
+      "ItemName": "Devil\u0027s Flower Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557001",
+      "ItemName": "Digger\u0027s Brimstone Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548998",
+      "ItemName": "Frozen In Time Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548996",
+      "ItemName": "Grave Digger Drone\u0027s Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548995",
+      "ItemName": "Mantis Captain\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557000",
+      "ItemName": "Mantis Prophet\u0027s Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548999",
+      "ItemName": "Mouse Armor of Persistence",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.425997Z",
+  "ModifiedAt": "2026-09-30T03:55:50.425997Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

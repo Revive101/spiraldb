@@ -1,0 +1,88 @@
+{
+  "Name": "PigswickAcademyLorePackLT-Common",
+  "Description": "BoosterPack-Set-52 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507393",
+      "ItemName": "Angry Snowpig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220280",
+      "ItemName": "Delicious Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220321",
+      "ItemName": "Fancy Truffle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713175",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507398",
+      "ItemName": "Ninja Piglets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507388",
+      "ItemName": "Pigsie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589187",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713168",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789460",
+      "ItemName": "Winged Bean",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406525Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406525Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,53 @@
+{
+  "Name": "WP-DS-ML-Rings-LT",
+  "Description": "BoosterPack-Set-118 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1548930",
+      "ItemName": "Gurtok Apotheosis Ringlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548928",
+      "ItemName": "Gurtok Celsius Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548931",
+      "ItemName": "Gurtok Fulgis Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548927",
+      "ItemName": "Gurtok Ignus Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548926",
+      "ItemName": "Gurtok Mortis Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548925",
+      "ItemName": "Gurtok Oroboros Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548929",
+      "ItemName": "Gurtok Vivus Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427072Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427073Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

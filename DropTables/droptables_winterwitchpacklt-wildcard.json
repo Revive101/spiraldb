@@ -1,0 +1,43 @@
+{
+  "Name": "WinterWitchPackLT-Wildcard",
+  "Description": "BoosterPack-Set-146 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1664449",
+      "ItemName": "Brutal Snowblin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1660031",
+      "ItemName": "Chilly Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1660029",
+      "ItemName": "Freezing Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1660030",
+      "ItemName": "Frosty Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504144",
+      "ItemName": "Ice Throne",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.429679Z",
+  "ModifiedAt": "2026-09-30T03:55:50.429680Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

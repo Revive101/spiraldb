@@ -1,0 +1,53 @@
+{
+  "Name": "BoosterPack-Set-03-Uncommons",
+  "Description": "BoosterPack-Set-03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1530909093",
+      "ItemName": "Buff Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "605111790",
+      "ItemName": "Drain Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1361848376",
+      "ItemName": "Draw Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1171444879",
+      "ItemName": "Heck Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "494306015",
+      "ItemName": "Purloin Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1280381748",
+      "ItemName": "Purloin Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "68210593",
+      "ItemName": "Shield Minion",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412045Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412045Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

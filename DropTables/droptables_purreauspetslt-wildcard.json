@@ -1,0 +1,348 @@
+{
+  "Name": "PurreausPetsLT-Wildcard",
+  "Description": "BoosterPack-Set-20 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1360534",
+      "ItemName": "Adroit Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360533",
+      "ItemName": "Attentive Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360507",
+      "ItemName": "Balance-Giver Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360500",
+      "ItemName": "Balance-It Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360658",
+      "ItemName": "Befuddle Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360671",
+      "ItemName": "Big Boost Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360649",
+      "ItemName": "Big Drain Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360663",
+      "ItemName": "Big Exhaust Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360664",
+      "ItemName": "Big-Check Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360527",
+      "ItemName": "Canny Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360670",
+      "ItemName": "Charge Up Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360666",
+      "ItemName": "Clay Post Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360662",
+      "ItemName": "Clear Path Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360647",
+      "ItemName": "Dead End Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360508",
+      "ItemName": "Death-Giver Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360517",
+      "ItemName": "Death-Proof Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360501",
+      "ItemName": "Death-Shot Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690107",
+      "ItemName": "Deer Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360536",
+      "ItemName": "Dependable Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360530",
+      "ItemName": "Determined Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360667",
+      "ItemName": "Dirt Post Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360652",
+      "ItemName": "Distract Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360525",
+      "ItemName": "Eager Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360528",
+      "ItemName": "Effective Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360535",
+      "ItemName": "Effervescent Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360509",
+      "ItemName": "Fire-Giver Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360518",
+      "ItemName": "Fire-Proof Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360502",
+      "ItemName": "Fire-Shot Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360537",
+      "ItemName": "Forceful Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360650",
+      "ItemName": "Freeze Frame Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360668",
+      "ItemName": "Grass Post Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360514",
+      "ItemName": "Health Boost Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360672",
+      "ItemName": "Hurry Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360510",
+      "ItemName": "Ice-Giver Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360519",
+      "ItemName": "Ice-Proof Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360503",
+      "ItemName": "Ice-Shot Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360529",
+      "ItemName": "Intrepid Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360661",
+      "ItemName": "Leech Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360511",
+      "ItemName": "Life-Giver Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360520",
+      "ItemName": "Life-Proof Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360504",
+      "ItemName": "Life-Shot Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360515",
+      "ItemName": "Mana Boost Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360653",
+      "ItemName": "Mute Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360512",
+      "ItemName": "Myth-Giver Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360521",
+      "ItemName": "Myth-Proof Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360505",
+      "ItemName": "Myth-Shot Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360648",
+      "ItemName": "Oil Slick Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360654",
+      "ItemName": "Perplex Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363078",
+      "ItemName": "Quick Learner Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360532",
+      "ItemName": "Quick-Witted Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360669",
+      "ItemName": "Rally Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360526",
+      "ItemName": "Rugged Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360524",
+      "ItemName": "Sharp Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360659",
+      "ItemName": "Silence Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360655",
+      "ItemName": "Siphonizer Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360665",
+      "ItemName": "Slow Leader Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360656",
+      "ItemName": "Slowpoke Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360523",
+      "ItemName": "Steadfast Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360513",
+      "ItemName": "Storm-Giver Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360522",
+      "ItemName": "Storm-Proof Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360506",
+      "ItemName": "Storm-Shot Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360660",
+      "ItemName": "Stumble Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360531",
+      "ItemName": "Sturdy Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360657",
+      "ItemName": "Super-Pass Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360651",
+      "ItemName": "Super-Stall Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360516",
+      "ItemName": "Unbalancer Citrine",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411958Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411959Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

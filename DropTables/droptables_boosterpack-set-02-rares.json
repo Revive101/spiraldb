@@ -1,0 +1,103 @@
+{
+  "Name": "BoosterPack-Set-02-Rares",
+  "Description": "BoosterPack-Set-02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "818677262",
+      "ItemName": "Animate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "708783314",
+      "ItemName": "Black Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1649709081",
+      "ItemName": "Cyclops Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1508670801",
+      "ItemName": "Dragonblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "386898264",
+      "ItemName": "Earth Walker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "639006344",
+      "ItemName": "Fire Elemental",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1649709209",
+      "ItemName": "Golem Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1294187833",
+      "ItemName": "Ice Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1389801865",
+      "ItemName": "Jade Oni",
+      "Notes": ""
+    },
+    {
+      "ItemId": "828387151",
+      "ItemName": "Krokotillian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1458876908",
+      "ItemName": "Leperchaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1761947262",
+      "ItemName": "Mander Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1649709145",
+      "ItemName": "Minotaur Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "638908120",
+      "ItemName": "Sprite Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1170444676",
+      "ItemName": "Storm Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1649709273",
+      "ItemName": "Troll Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1152250819",
+      "ItemName": "Water Elemental",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424428Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424429Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

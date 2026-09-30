@@ -1,0 +1,128 @@
+{
+  "Name": "2017YuletidePackLT-Wildcard",
+  "Description": "BoosterPack-Set-90 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1418947",
+      "ItemName": "Armor of the Silent Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418863",
+      "ItemName": "Blade of the Silent Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522156",
+      "ItemName": "Holiday Hoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1864863359",
+      "ItemName": "Krampus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1680123001",
+      "ItemName": "Reindeer Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418849",
+      "ItemName": "Silent Knight Claymore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418905",
+      "ItemName": "Silent Knight Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418877",
+      "ItemName": "Silent Knight\u0027s Cold Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418989",
+      "ItemName": "Silent Knight\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392744",
+      "ItemName": "Skating Rink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407417",
+      "ItemName": "Snowdrifter\u0027s Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407378",
+      "ItemName": "Snowdrifter\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407235",
+      "ItemName": "Snowdrifter\u0027s Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407209",
+      "ItemName": "Snowdrifter\u0027s Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407222",
+      "ItemName": "Snowdrifter\u0027s Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407456",
+      "ItemName": "Snowdrifter\u0027s Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392732",
+      "ItemName": "Snowhopper Sleigh (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392731",
+      "ItemName": "Snowhopper Sleigh (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392217",
+      "ItemName": "Snowhoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392743",
+      "ItemName": "Sparkle Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421915",
+      "ItemName": "Wolf of the Winter (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421910",
+      "ItemName": "Wolf of the Winter (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.415931Z",
+  "ModifiedAt": "2026-09-30T03:55:50.415931Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

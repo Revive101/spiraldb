@@ -1,0 +1,43 @@
+{
+  "Name": "Fishing_Aquarium_Large_Keeper",
+  "Description": "Fishing_Aquarium_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212071",
+      "ItemName": "Large Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212077",
+      "ItemName": "Large Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212060",
+      "ItemName": "Large Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212073",
+      "ItemName": "Regular Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212072",
+      "ItemName": "Tall Keeper Aquarium",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439290Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439291Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

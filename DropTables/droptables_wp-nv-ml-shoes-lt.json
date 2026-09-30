@@ -1,0 +1,53 @@
+{
+  "Name": "WP-NV-ML-Shoes-LT",
+  "Description": "BoosterPack-Set-136 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1588126",
+      "ItemName": "Abstract Aeon Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588129",
+      "ItemName": "Crystalline Aeon Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588131",
+      "ItemName": "Dreamscape Aeon Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588132",
+      "ItemName": "Fractal Aeon Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588130",
+      "ItemName": "Inspired Aeon Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588127",
+      "ItemName": "Macabre Aeon Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588128",
+      "ItemName": "Primordial Aeon Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406806Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406807Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

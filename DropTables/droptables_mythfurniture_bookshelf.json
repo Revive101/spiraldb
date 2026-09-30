@@ -1,0 +1,23 @@
+{
+  "Name": "MythFurniture_Bookshelf",
+  "Description": "Myth_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1317880",
+      "ItemName": "Cyrus\u0027s Private Library",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.438588Z",
+  "ModifiedAt": "2026-09-30T03:55:50.438588Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

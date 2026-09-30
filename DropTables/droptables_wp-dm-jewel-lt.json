@@ -1,0 +1,53 @@
+{
+  "Name": "WP-DM-Jewel-LT",
+  "Description": "BoosterPack-Set-162 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1352780",
+      "ItemName": "Polished Piercing Amethyst \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352808",
+      "ItemName": "Polished Piercing Citrine \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352794",
+      "ItemName": "Polished Piercing Jade \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352801",
+      "ItemName": "Polished Piercing Onyx \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352787",
+      "ItemName": "Polished Piercing Peridot \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352766",
+      "ItemName": "Polished Piercing Ruby \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352773",
+      "ItemName": "Polished Piercing Sapphire \u002B6%",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.435822Z",
+  "ModifiedAt": "2026-09-30T03:55:50.435824Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

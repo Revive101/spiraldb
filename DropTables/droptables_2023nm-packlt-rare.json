@@ -1,0 +1,93 @@
+{
+  "Name": "2023NM-PackLT-Rare",
+  "Description": "BoosterPack-Set-134 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "739111",
+      "ItemName": "Beetle Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724104",
+      "ItemName": "Cord of Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2015710230",
+      "ItemName": "Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "827817569",
+      "ItemName": "Cyclops Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374570",
+      "ItemName": "Glowing Seashrooms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724087",
+      "ItemName": "Grass Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1869407181",
+      "ItemName": "Kraken",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160379",
+      "ItemName": "Large Cypress Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683110",
+      "ItemName": "Open Campfire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538037",
+      "ItemName": "Poison Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1433025",
+      "ItemName": "Sail Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160921",
+      "ItemName": "Spider Egg Sac",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1976564443",
+      "ItemName": "Storm Shark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1136494205",
+      "ItemName": "Sunbird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "62163194",
+      "ItemName": "Vampire",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424927Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424927Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,53 @@
+{
+  "Name": "WP-LM-ML-Shoes-LT",
+  "Description": "BoosterPack-Set-126-Fix Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537082",
+      "ItemName": "Merciless Balance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537081",
+      "ItemName": "Merciless Death Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537076",
+      "ItemName": "Merciless Fire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537077",
+      "ItemName": "Merciless Ice Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537080",
+      "ItemName": "Merciless Life Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537079",
+      "ItemName": "Merciless Myth Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537078",
+      "ItemName": "Merciless Storm Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.405244Z",
+  "ModifiedAt": "2026-09-30T03:55:50.405244Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

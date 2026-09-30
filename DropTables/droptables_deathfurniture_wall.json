@@ -1,0 +1,23 @@
+{
+  "Name": "DeathFurniture_Wall",
+  "Description": "Death_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1359667",
+      "ItemName": "Dworgyn\u0027s Ominous Wallstones",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411258Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411258Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

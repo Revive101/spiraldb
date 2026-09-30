@@ -1,0 +1,128 @@
+{
+  "Name": "2018YuletidePackLT-Wildcard",
+  "Description": "BoosterPack-Set-60 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1456218",
+      "ItemName": "Armor of Minty Freshness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441337",
+      "ItemName": "Crumbles Gingerhorse (7-Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441336",
+      "ItemName": "Crumbles Gingerhorse (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447043",
+      "ItemName": "Feisty Gingerbreadman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456260",
+      "ItemName": "Karamelle Knight Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456317",
+      "ItemName": "Karamelle Knight Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1864863359",
+      "ItemName": "Krampus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456176",
+      "ItemName": "Peppermintalist\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456289",
+      "ItemName": "Peppermintalist\u0027s Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1680123001",
+      "ItemName": "Reindeer Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447044",
+      "ItemName": "Salty Gingerbreadman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392744",
+      "ItemName": "Skating Rink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407417",
+      "ItemName": "Snowdrifter\u0027s Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407378",
+      "ItemName": "Snowdrifter\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407235",
+      "ItemName": "Snowdrifter\u0027s Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407209",
+      "ItemName": "Snowdrifter\u0027s Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407222",
+      "ItemName": "Snowdrifter\u0027s Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407456",
+      "ItemName": "Snowdrifter\u0027s Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392743",
+      "ItemName": "Sparkle Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447042",
+      "ItemName": "Spicy Gingerbreadman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456303",
+      "ItemName": "Sword of Minty Freshness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421915",
+      "ItemName": "Wolf of the Winter (7 Day)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406492Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406493Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

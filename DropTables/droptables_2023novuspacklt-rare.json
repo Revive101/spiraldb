@@ -1,0 +1,88 @@
+{
+  "Name": "2023NovusPackLT-Rare",
+  "Description": "BoosterPack-Set-133 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1591377",
+      "ItemName": "Great Inventor\u0027s Balance Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591615",
+      "ItemName": "Great Inventor\u0027s Balance Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591735",
+      "ItemName": "Great Inventor\u0027s Death Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591497",
+      "ItemName": "Great Inventor\u0027s Death Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591379",
+      "ItemName": "Great Inventor\u0027s Fire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591617",
+      "ItemName": "Great Inventor\u0027s Fire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591737",
+      "ItemName": "Great Inventor\u0027s Ice Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591499",
+      "ItemName": "Great Inventor\u0027s Ice Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591381",
+      "ItemName": "Great Inventor\u0027s Life Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591619",
+      "ItemName": "Great Inventor\u0027s Life Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591739",
+      "ItemName": "Great Inventor\u0027s Myth Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591501",
+      "ItemName": "Great Inventor\u0027s Myth Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591383",
+      "ItemName": "Great Inventor\u0027s Storm Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1591621",
+      "ItemName": "Great Inventor\u0027s Storm Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.403995Z",
+  "ModifiedAt": "2026-09-30T03:55:50.403996Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

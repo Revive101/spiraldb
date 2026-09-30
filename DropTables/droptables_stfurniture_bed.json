@@ -1,0 +1,28 @@
+{
+  "Name": "STFurniture_Bed",
+  "Description": "Storm_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "683250",
+      "ItemName": "Halston\u0027s Bed of Clouds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683249",
+      "ItemName": "Halston\u0027s Nightstand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411414Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411415Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

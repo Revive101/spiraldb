@@ -1,0 +1,93 @@
+{
+  "Name": "ImmortalsLorePackLT-Common",
+  "Description": "BoosterPack-Set-46-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548542",
+      "ItemName": "Athena Battle Sight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356127",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528554",
+      "ItemName": "Hephaestus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473638",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473145",
+      "ItemName": "Purple Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473166",
+      "ItemName": "Purple Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528549",
+      "ItemName": "Queen Calypso",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473173",
+      "ItemName": "Red Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356120",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473152",
+      "ItemName": "Yellow Bell Pepper",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.419907Z",
+  "ModifiedAt": "2026-09-30T03:55:50.419907Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

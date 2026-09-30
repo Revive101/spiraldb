@@ -1,0 +1,33 @@
+{
+  "Name": "MythFurniture_Sink",
+  "Description": "Myth_Furniture_Set_02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1374138",
+      "ItemName": "Cyrus\u0027s Cobblestone Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317884",
+      "ItemName": "Cyrus\u0027s Fainting Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374141",
+      "ItemName": "Cyrus\u0027s Stone Sink",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.438605Z",
+  "ModifiedAt": "2026-09-30T03:55:50.438606Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

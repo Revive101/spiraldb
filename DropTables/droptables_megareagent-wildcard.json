@@ -1,0 +1,103 @@
+{
+  "Name": "MegaReagent-Wildcard",
+  "Description": "BoosterPack-Set-29 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "537974",
+      "ItemName": "Amber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537982",
+      "ItemName": "Amber Dust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1206362",
+      "ItemName": "Astral Shard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537976",
+      "ItemName": "Braided Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537985",
+      "ItemName": "Merle\u0027s Whisker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1340031",
+      "ItemName": "Mote of Beauty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1340033",
+      "ItemName": "Mote of Eternity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1340032",
+      "ItemName": "Mote of Severity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1340030",
+      "ItemName": "Mote of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317184",
+      "ItemName": "Sonic Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1206361",
+      "ItemName": "Stardust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537977",
+      "ItemName": "Vine",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439364Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439364Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,403 @@
+{
+  "Name": "AlphoiLorePackLT-Rare",
+  "Description": "BoosterPack-DeciusTest-02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1421931",
+      "ItemName": "Alphoi Bench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441012",
+      "ItemName": "Alphoi Noble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430625",
+      "ItemName": "Alphoi Reflector Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421950",
+      "ItemName": "Alphoi Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441000",
+      "ItemName": "Alphoi_Child_A2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "451341714",
+      "ItemName": "Astraphobia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421951",
+      "ItemName": "Beastman Hut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441018",
+      "ItemName": "Beastwoman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421952",
+      "ItemName": "Big Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "109277012",
+      "ItemName": "Brilliant Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441006",
+      "ItemName": "Cake Eater",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441014",
+      "ItemName": "Castaway Khan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "69276854",
+      "ItemName": "Cloaked Friendly Variable Charm Spell",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430231",
+      "ItemName": "Comfort Zone Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430245",
+      "ItemName": "Comfort Zone Leisure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430259",
+      "ItemName": "Comfort Zone Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441002",
+      "ItemName": "Dancing Alphoi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441016",
+      "ItemName": "Disco Khan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421945",
+      "ItemName": "Dwarven Scroll Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589096",
+      "ItemName": "Eggplant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357232006",
+      "ItemName": "Elemental Defuse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439000",
+      "ItemName": "Empyrea Aeriel Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439001",
+      "ItemName": "Empyrea Athanor Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439004",
+      "ItemName": "Empyrea Finale Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439005",
+      "ItemName": "Empyrea Flotsam Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439002",
+      "ItemName": "Empyrea Inner Athanor Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439006",
+      "ItemName": "Empyrea Jungle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439003",
+      "ItemName": "Empyrea Outer Athanor Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439007",
+      "ItemName": "Empyrea Sepidious Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439008",
+      "ItemName": "Empyrea Sepidious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "474068671",
+      "ItemName": "Ether Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421936",
+      "ItemName": "Fire Dwarf Sofa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589097",
+      "ItemName": "Fire Passion Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220304",
+      "ItemName": "Flaming Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100409",
+      "ItemName": "Frost Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "800610967",
+      "ItemName": "Galvanic Field",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220326",
+      "ItemName": "Goat Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220308",
+      "ItemName": "Golden Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100432",
+      "ItemName": "Green Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441004",
+      "ItemName": "Groovin\u0027 Alphoi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441008",
+      "ItemName": "Ice Cream Eater",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421937",
+      "ItemName": "Ice Dwarf Sofa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "175579",
+      "ItemName": "Jellyfish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240102",
+      "ItemName": "Killer Tomato",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220310",
+      "ItemName": "King Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441017",
+      "ItemName": "King Khan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430189",
+      "ItemName": "Leisure Dome Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430287",
+      "ItemName": "Leisure Dome Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430217",
+      "ItemName": "Leisure Dome Dancing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430301",
+      "ItemName": "Leisure Dome Steppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430203",
+      "ItemName": "Leisure Dome Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430273",
+      "ItemName": "Leisure Dome Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421913",
+      "ItemName": "Light Blades (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421914",
+      "ItemName": "Light Blades (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421923",
+      "ItemName": "Mini Sani-Bot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430597",
+      "ItemName": "Mirrorsphere Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589095",
+      "ItemName": "MooShu Cheddar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257439",
+      "ItemName": "Pesky Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1744027728",
+      "ItemName": "Pierce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1433025",
+      "ItemName": "Sail Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441010",
+      "ItemName": "Snacking Alphoi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1690681111",
+      "ItemName": "Spirit Defuse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225435",
+      "ItemName": "Stone Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220328",
+      "ItemName": "Taco Town Special",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1627220099",
+      "ItemName": "Tempest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421947",
+      "ItemName": "The Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "397528564",
+      "ItemName": "Unbalance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "437604948",
+      "ItemName": "Unstoppable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421930",
+      "ItemName": "Velvet Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441020",
+      "ItemName": "Wezlee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430611",
+      "ItemName": "Zanadu Mirror Relic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.420688Z",
+  "ModifiedAt": "2026-09-30T03:55:50.420688Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,53 @@
+{
+  "Name": "WP-DS-ML-Wands-LT",
+  "Description": "BoosterPack-Set-118 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1548939",
+      "ItemName": "Avalanche\u0027s Legendary Cutlass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548936",
+      "ItemName": "Dean Darkflame\u0027s Cleaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548937",
+      "ItemName": "Longblade of the Homunculus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548938",
+      "ItemName": "Redwind\u0027s Viridian Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548940",
+      "ItemName": "Shockblade of the Hoarder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548935",
+      "ItemName": "Soulsinger\u0027s Soulsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548934",
+      "ItemName": "Sword of the Steward",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427029Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427029Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

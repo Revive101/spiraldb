@@ -1,0 +1,113 @@
+{
+  "Name": "2025WWP-PackLT-Wildcard",
+  "Description": "BoosterPack-Set-160 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1664449",
+      "ItemName": "Brutal Snowblin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1660031",
+      "ItemName": "Chilly Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708174",
+      "ItemName": "Dirt Snowblin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706043",
+      "ItemName": "Fierce Polar Bearer (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706042",
+      "ItemName": "Fierce Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1660029",
+      "ItemName": "Freezing Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706035",
+      "ItemName": "Friendly Polar Bearer (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706034",
+      "ItemName": "Friendly Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1660030",
+      "ItemName": "Frosty Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706059",
+      "ItemName": "Frozen Satyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706039",
+      "ItemName": "Fuchsia Polar Bearer (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706038",
+      "ItemName": "Fuchsia Polar Bearer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708176",
+      "ItemName": "Ice Snowblin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504144",
+      "ItemName": "Ice Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708175",
+      "ItemName": "Jewel Snowblin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392741",
+      "ItemName": "The Frosted Tips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392740",
+      "ItemName": "The Snow Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392734",
+      "ItemName": "The Winter Antlers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706060",
+      "ItemName": "Winter Lamppost",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.434605Z",
+  "ModifiedAt": "2026-09-30T03:55:50.434606Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

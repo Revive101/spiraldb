@@ -1,0 +1,83 @@
+{
+  "Name": "AlphoiLorePackLT-Wildcard-BO-2",
+  "Description": "BoosterPack-Set-55-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1430625",
+      "ItemName": "Alphoi Reflector Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441018",
+      "ItemName": "Beastwoman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430245",
+      "ItemName": "Comfort Zone Leisure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441016",
+      "ItemName": "Disco Khan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441008",
+      "ItemName": "Ice Cream Eater",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441017",
+      "ItemName": "King Khan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430287",
+      "ItemName": "Leisure Dome Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430203",
+      "ItemName": "Leisure Dome Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421914",
+      "ItemName": "Light Blades (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421912",
+      "ItemName": "Light Blades (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421923",
+      "ItemName": "Mini Sani-Bot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430597",
+      "ItemName": "Mirrorsphere Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430611",
+      "ItemName": "Zanadu Mirror Relic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.425648Z",
+  "ModifiedAt": "2026-09-30T03:55:50.425649Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

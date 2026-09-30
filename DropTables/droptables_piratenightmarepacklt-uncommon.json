@@ -1,0 +1,83 @@
+{
+  "Name": "PirateNightmarePackLT-UnCommon",
+  "Description": "BoosterPack-Set-100 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225484",
+      "ItemName": "Bat Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191226",
+      "ItemName": "Enchanted Broom (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1451781",
+      "ItemName": "Flying Dutchman (1 day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1451780",
+      "ItemName": "Flying Dutchman (7 day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225433",
+      "ItemName": "Icebat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392007",
+      "ItemName": "Jack O Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100454",
+      "ItemName": "Krokotillian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653153",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225478",
+      "ItemName": "Seraph Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225479",
+      "ItemName": "Seraph Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383169",
+      "ItemName": "Shackled Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100433",
+      "ItemName": "Yellow Ghost",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.413101Z",
+  "ModifiedAt": "2026-09-30T03:55:50.413102Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

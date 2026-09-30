@@ -1,0 +1,33 @@
+{
+  "Name": "RRangersLorePackLT-Common",
+  "Description": "BoosterPack-Set-111 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1530081",
+      "ItemName": "Beastmoon Weakness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1530094",
+      "ItemName": "Chain Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1530093",
+      "ItemName": "Sprite",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.428299Z",
+  "ModifiedAt": "2026-09-30T03:55:50.428299Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

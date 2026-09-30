@@ -1,0 +1,48 @@
+{
+  "Name": "BoosterPack-Set-03-Commons-Uncommons",
+  "Description": "BoosterPack-Set-03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1977488755",
+      "ItemName": "Draw Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1530852266",
+      "ItemName": "Mend Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2108934057",
+      "ItemName": "Siphon Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "607475001",
+      "ItemName": "Steal Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1977040643",
+      "ItemName": "Take Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "430638620",
+      "ItemName": "Unicorn",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412046Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412046Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

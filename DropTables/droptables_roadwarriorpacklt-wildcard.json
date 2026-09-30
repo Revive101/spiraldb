@@ -1,0 +1,113 @@
+{
+  "Name": "RoadWarriorPackLT-Wildcard",
+  "Description": "BoosterPack-Set-45 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1374417",
+      "ItemName": "Chopping Sand Crawler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376692",
+      "ItemName": "Cool Rider\u0027s Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376602",
+      "ItemName": "Deathmetal Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374669",
+      "ItemName": "Doomsayer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374672",
+      "ItemName": "Hammering Winged Tooth ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374420",
+      "ItemName": "Honing Hundred Legger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374667",
+      "ItemName": "Mining Spike Horn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374666",
+      "ItemName": "Panning Spike Horn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374668",
+      "ItemName": "Prospecting Spike Horn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376626",
+      "ItemName": "Rapturerider\u0027s Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376656",
+      "ItemName": "Road Fury Jacket ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374795",
+      "ItemName": "Road Hog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376614",
+      "ItemName": "Road Legend Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374959",
+      "ItemName": "Road Warrior\u0027s Chopper (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374958",
+      "ItemName": "Road Warrior\u0027s Chopper (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374418",
+      "ItemName": "Scouring Sand Crawler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374419",
+      "ItemName": "Scrubbing Hundred Legger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374660",
+      "ItemName": "Sifting Spike Horn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376728",
+      "ItemName": "Thunder Road Leathers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.437613Z",
+  "ModifiedAt": "2026-09-30T03:55:50.437613Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

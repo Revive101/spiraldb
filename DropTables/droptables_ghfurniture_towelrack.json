@@ -1,0 +1,23 @@
+{
+  "Name": "GHFurniture_TowelRack",
+  "Description": "Grizzleheim_Furniture_Set_01 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1359106",
+      "ItemName": "Winterdeep Cloth Hook",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.410665Z",
+  "ModifiedAt": "2026-09-30T03:55:50.410666Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

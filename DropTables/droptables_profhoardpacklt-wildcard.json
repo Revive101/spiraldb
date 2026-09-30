@@ -1,0 +1,88 @@
+{
+  "Name": "ProfHoardPackLT-Wildcard",
+  "Description": "BoosterPack-Set-51 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1254229",
+      "ItemName": "Cast Symbol Balance (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254216",
+      "ItemName": "Cast Symbol Balance (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254224",
+      "ItemName": "Cast Symbol Death (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254213",
+      "ItemName": "Cast Symbol Death (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254218",
+      "ItemName": "Cast Symbol Fire (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254210",
+      "ItemName": "Cast Symbol Fire (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254220",
+      "ItemName": "Cast Symbol Ice (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254211",
+      "ItemName": "Cast Symbol Ice (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254221",
+      "ItemName": "Cast Symbol Life (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254212",
+      "ItemName": "Cast Symbol Life (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254225",
+      "ItemName": "Cast Symbol Myth (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254214",
+      "ItemName": "Cast Symbol Myth (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254228",
+      "ItemName": "Cast Symbol Storm (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254215",
+      "ItemName": "Cast Symbol Storm (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423605Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423606Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

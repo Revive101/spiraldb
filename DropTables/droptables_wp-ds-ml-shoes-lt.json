@@ -1,0 +1,53 @@
+{
+  "Name": "WP-DS-ML-Shoes-LT",
+  "Description": "BoosterPack-Set-118 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1548905",
+      "ItemName": "Kraysys\u0027 Boots of Retreat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548909",
+      "ItemName": "Kraysys\u0027 Subterfuge Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548908",
+      "ItemName": "Snowcrusher\u0027s Shoes of Shelter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548933",
+      "ItemName": "Snowcrusher\u0027s Snowstompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548904",
+      "ItemName": "Snowcrusher\u0027s Tread of Tension",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548906",
+      "ItemName": "Spiderkeeper\u0027s Charstriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548910",
+      "ItemName": "Spiderkeeper\u0027s Thundershoes",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427033Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427034Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

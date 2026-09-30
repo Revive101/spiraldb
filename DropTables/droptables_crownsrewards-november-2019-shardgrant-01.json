@@ -1,0 +1,28 @@
+{
+  "Name": "CrownsRewards-November-2019-ShardGrant-01",
+  "Description": "CrownsReward-Shard-Grant-01 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1492247",
+      "ItemName": "Daybreaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1492249",
+      "ItemName": "Nightbringer",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.420679Z",
+  "ModifiedAt": "2026-09-30T03:55:50.420680Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

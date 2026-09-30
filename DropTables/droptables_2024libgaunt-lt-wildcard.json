@@ -1,0 +1,478 @@
+{
+  "Name": "2024LibGaunt-LT-Wildcard",
+  "Description": "BoosterPack-Set-143 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1383273",
+      "ItemName": "Aquilan Centurion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383271",
+      "ItemName": "Aquilan Gladiator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653434",
+      "ItemName": "Astute Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653301",
+      "ItemName": "Astute Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653441",
+      "ItemName": "Astute Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653427",
+      "ItemName": "Astute Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653167",
+      "ItemName": "Astute Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653805",
+      "ItemName": "Astute Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653819",
+      "ItemName": "Astute Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653812",
+      "ItemName": "Astute Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446433116",
+      "ItemName": "Athena Battle Sight - TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653435",
+      "ItemName": "Baleful Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653302",
+      "ItemName": "Baleful Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653442",
+      "ItemName": "Baleful Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653428",
+      "ItemName": "Baleful Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653168",
+      "ItemName": "Baleful Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653806",
+      "ItemName": "Baleful Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653820",
+      "ItemName": "Baleful Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653813",
+      "ItemName": "Baleful Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "591413101",
+      "ItemName": "Beguile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360778",
+      "ItemName": "Big Energy Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160273",
+      "ItemName": "Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642060",
+      "ItemName": "Bookwyrm (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160272",
+      "ItemName": "Carved Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653437",
+      "ItemName": "Chilling Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653304",
+      "ItemName": "Chilling Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653444",
+      "ItemName": "Chilling Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653430",
+      "ItemName": "Chilling Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653170",
+      "ItemName": "Chilling Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653808",
+      "ItemName": "Chilling Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653822",
+      "ItemName": "Chilling Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653815",
+      "ItemName": "Chilling Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383283",
+      "ItemName": "Contemplative Aquilan Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360777",
+      "ItemName": "Energy Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653439",
+      "ItemName": "Epic Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653306",
+      "ItemName": "Epic Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653446",
+      "ItemName": "Epic Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653432",
+      "ItemName": "Epic Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653172",
+      "ItemName": "Epic Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653810",
+      "ItemName": "Epic Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653824",
+      "ItemName": "Epic Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653817",
+      "ItemName": "Epic Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653440",
+      "ItemName": "Fraught Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653307",
+      "ItemName": "Fraught Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653447",
+      "ItemName": "Fraught Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653433",
+      "ItemName": "Fraught Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653173",
+      "ItemName": "Fraught Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653811",
+      "ItemName": "Fraught Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653825",
+      "ItemName": "Fraught Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653818",
+      "ItemName": "Fraught Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220212",
+      "ItemName": "Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1847077257",
+      "ItemName": "Hephaestus Coppersmith - TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360779",
+      "ItemName": "Huge Energy Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1265702723",
+      "ItemName": "Ice Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "70785565",
+      "ItemName": "Ice Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653436",
+      "ItemName": "Illuminated Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653303",
+      "ItemName": "Illuminated Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653443",
+      "ItemName": "Illuminated Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653429",
+      "ItemName": "Illuminated Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653169",
+      "ItemName": "Illuminated Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653807",
+      "ItemName": "Illuminated Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653821",
+      "ItemName": "Illuminated Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653814",
+      "ItemName": "Illuminated Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160202",
+      "ItemName": "Lectern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1616886",
+      "ItemName": "Library Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1500101",
+      "ItemName": "Myth Seed Farmer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470214",
+      "ItemName": "Night Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383277",
+      "ItemName": "Oracle of Hesperides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383275",
+      "ItemName": "Oracle of Olympus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220231",
+      "ItemName": "Potato Chips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1500097",
+      "ItemName": "Potboiler Token",
+      "Notes": ""
+    },
+    {
+      "ItemId": "408744917",
+      "ItemName": "Queen Calypso - TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359133",
+      "ItemName": "Regent\u0027s Library Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1648144",
+      "ItemName": "Rolly Scrolly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "639089895",
+      "ItemName": "Sacrifice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2084798352",
+      "ItemName": "Sandstorm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1500098",
+      "ItemName": "Shatter Token",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160210",
+      "ItemName": "Stack of 5 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160212",
+      "ItemName": "Stack of Paper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160636",
+      "ItemName": "Stone Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1889148781",
+      "ItemName": "Storm Shark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383282",
+      "ItemName": "Studious Aquilan Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220237",
+      "ItemName": "Tiny Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360780",
+      "ItemName": "Ultra Energy Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653438",
+      "ItemName": "Vibrant Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653305",
+      "ItemName": "Vibrant Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653445",
+      "ItemName": "Vibrant Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653431",
+      "ItemName": "Vibrant Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653171",
+      "ItemName": "Vibrant Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653809",
+      "ItemName": "Vibrant Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653823",
+      "ItemName": "Vibrant Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653816",
+      "ItemName": "Vibrant Plot Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.432864Z",
+  "ModifiedAt": "2026-09-30T03:55:50.432865Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

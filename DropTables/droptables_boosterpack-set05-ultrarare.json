@@ -1,0 +1,53 @@
+{
+  "Name": "BoosterPack-Set05-UltraRare",
+  "Description": "BoosterPack-Set-05 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220304",
+      "ItemName": "Flaming Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220327",
+      "ItemName": "French Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220326",
+      "ItemName": "Goat Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220298",
+      "ItemName": "Golden Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220333",
+      "ItemName": "Rock and Roll Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220337",
+      "ItemName": "Sizzle Smacks Cereal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220328",
+      "ItemName": "Taco Town Special",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424398Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424399Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

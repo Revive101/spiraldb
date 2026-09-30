@@ -1,0 +1,108 @@
+{
+  "Name": "ShamansLorePackLT-Wildcard",
+  "Description": "BoosterPack-Set-24 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "537974",
+      "ItemName": "Amber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730673",
+      "ItemName": "Armor of the Proud Jaguar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469781",
+      "ItemName": "Blue Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469782",
+      "ItemName": "Cyan Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730733",
+      "ItemName": "Dawn Jaguar Hunting Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730830",
+      "ItemName": "Fire Serpent\u0027s Obsidian Fang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469783",
+      "ItemName": "Green Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733072",
+      "ItemName": "Leaf Foot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1760077096",
+      "ItemName": "Lord of Night",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2067156952",
+      "ItemName": "Lord of Night",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730703",
+      "ItemName": "Night Jaguar\u0027s Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469784",
+      "ItemName": "Orange Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730840",
+      "ItemName": "Prismatic Volcanic Axe ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537562415",
+      "ItemName": "Savage Paw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1906610029",
+      "ItemName": "Savage Paw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730820",
+      "ItemName": "Teeth of the Lords of Night",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512649414",
+      "ItemName": "Winter Moon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588945025",
+      "ItemName": "Winter Moon",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424068Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424069Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,83 @@
+{
+  "Name": "Nightmare2014LT-Common",
+  "Description": "BoosterPack-Set-30 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1201302",
+      "ItemName": "Boots of Midnight Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1201335",
+      "ItemName": "Boots of Nightfall Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1201269",
+      "ItemName": "Boots of Nighttide Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317239",
+      "ItemName": "False Dawn Harrowings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317241",
+      "ItemName": "Midnight Harrowings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359783",
+      "ItemName": "Midnight Owl (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1201291",
+      "ItemName": "Midnight Torment Top Hat ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317243",
+      "ItemName": "Nightfall Harrowings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1201324",
+      "ItemName": "Nightfall Torment Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1201258",
+      "ItemName": "Nighttide Torment Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359665",
+      "ItemName": "The Cat Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359662",
+      "ItemName": "The Goat Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359664",
+      "ItemName": "The Halo",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439573Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439573Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

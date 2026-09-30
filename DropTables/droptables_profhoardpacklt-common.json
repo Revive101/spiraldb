@@ -1,0 +1,88 @@
+{
+  "Name": "ProfHoardPackLT-Common",
+  "Description": "BoosterPack-Set-51 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1414647",
+      "ItemName": "Alhazred\u0027s Consistent Clogs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414619",
+      "ItemName": "Alhazred\u0027s Karmic Fez",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414521",
+      "ItemName": "Cyrus\u0027s Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414493",
+      "ItemName": "Cyrus\u0027s Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414367",
+      "ItemName": "Dalia\u0027s Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414395",
+      "ItemName": "Dalia\u0027s Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414605",
+      "ItemName": "Dworgyn\u0027s Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414577",
+      "ItemName": "Dworgyn\u0027s Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414451",
+      "ItemName": "Halston\u0027s Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414479",
+      "ItemName": "Halston\u0027s Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414409",
+      "ItemName": "Lydia\u0027s Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414437",
+      "ItemName": "Lydia\u0027s Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414535",
+      "ItemName": "Moolinda\u0027s Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414563",
+      "ItemName": "Moolinda\u0027s Spirit Sandals",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423507Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423508Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

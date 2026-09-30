@@ -1,0 +1,78 @@
+{
+  "Name": "2016YuletidePackLT-Wildcard",
+  "Description": "BoosterPack-Set-50 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1864863359",
+      "ItemName": "Krampus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392744",
+      "ItemName": "Skating Rink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407417",
+      "ItemName": "Snowdrifter\u0027s Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407378",
+      "ItemName": "Snowdrifter\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407235",
+      "ItemName": "Snowdrifter\u0027s Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407209",
+      "ItemName": "Snowdrifter\u0027s Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407222",
+      "ItemName": "Snowdrifter\u0027s Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407456",
+      "ItemName": "Snowdrifter\u0027s Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392732",
+      "ItemName": "Snowhopper Sleigh (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392731",
+      "ItemName": "Snowhopper Sleigh (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392217",
+      "ItemName": "Snowhoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392743",
+      "ItemName": "Sparkle Globe",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.436767Z",
+  "ModifiedAt": "2026-09-30T03:55:50.436768Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

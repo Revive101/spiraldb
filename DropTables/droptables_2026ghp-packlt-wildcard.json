@@ -1,0 +1,428 @@
+{
+  "Name": "2026GHP-PackLT-Wildcard",
+  "Description": "BoosterPack-Set-163 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1719326",
+      "ItemName": "Adventurer\u0027s Biplane (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719325",
+      "ItemName": "Adventurer\u0027s Biplane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2021587332",
+      "ItemName": "Aegis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "992537785",
+      "ItemName": "Age of Reckoning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683260",
+      "ItemName": "Aztecan Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683261",
+      "ItemName": "Aztecan Bed Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683262",
+      "ItemName": "Aztecan Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683263",
+      "ItemName": "Aztecan Cabinet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683265",
+      "ItemName": "Aztecan Coffee Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683266",
+      "ItemName": "Aztecan Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683267",
+      "ItemName": "Aztecan Cupboards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683268",
+      "ItemName": "Aztecan Dining Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683269",
+      "ItemName": "Aztecan Dining Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683270",
+      "ItemName": "Aztecan Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683271",
+      "ItemName": "Aztecan Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683264",
+      "ItemName": "Aztecan Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683272",
+      "ItemName": "Aztecan Sink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374669",
+      "ItemName": "Doomsayer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723750",
+      "ItemName": "Explorer Skull Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723883",
+      "ItemName": "Fitzhume\u0027s Explorer Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712952",
+      "ItemName": "Fitzhume\u0027s Explorer Fedora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712959",
+      "ItemName": "Fitzhume\u0027s Explorer Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712966",
+      "ItemName": "Fitzhume\u0027s Explorer Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723351",
+      "ItemName": "Fitzhume\u0027s Explorer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723358",
+      "ItemName": "Fitzhume\u0027s Explorer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723617",
+      "ItemName": "Fitzhume\u0027s Explorer Tag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723884",
+      "ItemName": "Fitzhume\u0027s Pathfinder Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712953",
+      "ItemName": "Fitzhume\u0027s Pathfinder Fedora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712960",
+      "ItemName": "Fitzhume\u0027s Pathfinder Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712967",
+      "ItemName": "Fitzhume\u0027s Pathfinder Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723352",
+      "ItemName": "Fitzhume\u0027s Pathfinder Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723359",
+      "ItemName": "Fitzhume\u0027s Pathfinder Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723618",
+      "ItemName": "Fitzhume\u0027s Pathfinder Tag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723880",
+      "ItemName": "Fitzhume\u0027s Raider Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712949",
+      "ItemName": "Fitzhume\u0027s Raider Fedora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712956",
+      "ItemName": "Fitzhume\u0027s Raider Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712963",
+      "ItemName": "Fitzhume\u0027s Raider Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723348",
+      "ItemName": "Fitzhume\u0027s Raider Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723355",
+      "ItemName": "Fitzhume\u0027s Raider Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723614",
+      "ItemName": "Fitzhume\u0027s Raider Tag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723879",
+      "ItemName": "Fitzhume\u0027s Rover Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712948",
+      "ItemName": "Fitzhume\u0027s Rover Fedora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712955",
+      "ItemName": "Fitzhume\u0027s Rover Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712962",
+      "ItemName": "Fitzhume\u0027s Rover Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723347",
+      "ItemName": "Fitzhume\u0027s Rover Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723354",
+      "ItemName": "Fitzhume\u0027s Rover Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723613",
+      "ItemName": "Fitzhume\u0027s Rover Tag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723885",
+      "ItemName": "Fitzhume\u0027s Stormchasing Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712954",
+      "ItemName": "Fitzhume\u0027s Stormchasing Fedora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712961",
+      "ItemName": "Fitzhume\u0027s Stormchasing Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712968",
+      "ItemName": "Fitzhume\u0027s Stormchasing Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723353",
+      "ItemName": "Fitzhume\u0027s Stormchasing Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723360",
+      "ItemName": "Fitzhume\u0027s Stormchasing Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723619",
+      "ItemName": "Fitzhume\u0027s Stormchasing Tag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723882",
+      "ItemName": "Fitzhume\u0027s Survivalist Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712951",
+      "ItemName": "Fitzhume\u0027s Survivalist Fedora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712958",
+      "ItemName": "Fitzhume\u0027s Survivalist Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712965",
+      "ItemName": "Fitzhume\u0027s Survivalist Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723350",
+      "ItemName": "Fitzhume\u0027s Survivalist Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723357",
+      "ItemName": "Fitzhume\u0027s Survivalist Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723616",
+      "ItemName": "Fitzhume\u0027s Survivalist Tag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723881",
+      "ItemName": "Fitzhume\u0027s Trailblazing Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712950",
+      "ItemName": "Fitzhume\u0027s Trailblazing Fedora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712957",
+      "ItemName": "Fitzhume\u0027s Trailblazing Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712964",
+      "ItemName": "Fitzhume\u0027s Trailblazing Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723349",
+      "ItemName": "Fitzhume\u0027s Trailblazing Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723356",
+      "ItemName": "Fitzhume\u0027s Trailblazing Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723615",
+      "ItemName": "Fitzhume\u0027s Trailblazing Tag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "90573842",
+      "ItemName": "Gobbler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1718549",
+      "ItemName": "Gold Monkey Idol",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719342",
+      "ItemName": "Gold U\u0027Bah",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719341",
+      "ItemName": "Li\u0027l U\u0027Bah",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1882775670",
+      "ItemName": "Mythbane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723751",
+      "ItemName": "Pathfinder Skull Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723747",
+      "ItemName": "Raider Skull Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723746",
+      "ItemName": "Rover Skull Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719329",
+      "ItemName": "Small U\u0027Bah",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723752",
+      "ItemName": "Stormchasing Skull Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "881756765",
+      "ItemName": "Sun Blade TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "113640277",
+      "ItemName": "Sun Shield TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723749",
+      "ItemName": "Survivalist Skull Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1723748",
+      "ItemName": "Trailblazing Skull Wand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423349Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423350Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

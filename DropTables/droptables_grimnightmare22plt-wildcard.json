@@ -1,0 +1,128 @@
+{
+  "Name": "GrimNightmare22PLT-Wildcard",
+  "Description": "BoosterPack-Set-131 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225484",
+      "ItemName": "Bat Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191226",
+      "ItemName": "Enchanted Broom (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553759",
+      "ItemName": "Ghostly Cerberus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553758",
+      "ItemName": "Ghostly Cerberus (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553754",
+      "ItemName": "Ghostly Cerberus (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383174",
+      "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553761",
+      "ItemName": "Ghoulish Cerberus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553760",
+      "ItemName": "Ghoulish Cerberus (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553755",
+      "ItemName": "Ghoulish Cerberus (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522124",
+      "ItemName": "Grim Bat Balloon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553757",
+      "ItemName": "Grim Cerberus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553756",
+      "ItemName": "Grim Cerberus (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553753",
+      "ItemName": "Grim Cerberus (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522125",
+      "ItemName": "Grim Spider Balloon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392007",
+      "ItemName": "Jack O Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100332",
+      "ItemName": "Lightningbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383172",
+      "ItemName": "Scarecrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225478",
+      "ItemName": "Seraph Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225479",
+      "ItemName": "Seraph Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383180",
+      "ItemName": "Wraith",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100433",
+      "ItemName": "Yellow Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359957",
+      "ItemName": "Ygor\u0027s Grimoire",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.433215Z",
+  "ModifiedAt": "2026-09-30T03:55:50.433216Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

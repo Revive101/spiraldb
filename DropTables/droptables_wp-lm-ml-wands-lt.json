@@ -1,0 +1,53 @@
+{
+  "Name": "WP-LM-ML-Wands-LT",
+  "Description": "BoosterPack-Set-126-Fix Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537545",
+      "ItemName": "Merciless Balance Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537544",
+      "ItemName": "Merciless Death Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537539",
+      "ItemName": "Merciless Fire Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537540",
+      "ItemName": "Merciless Ice Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537543",
+      "ItemName": "Merciless Life Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537542",
+      "ItemName": "Merciless Myth Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537541",
+      "ItemName": "Merciless Storm Wand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.405283Z",
+  "ModifiedAt": "2026-09-30T03:55:50.405283Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

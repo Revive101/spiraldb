@@ -1,0 +1,53 @@
+{
+  "Name": "AQ2025PackLT-Wildcard",
+  "Description": "BoosterPack-Set-157 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1695038",
+      "ItemName": "Faun of Balance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695040",
+      "ItemName": "Faun of Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695042",
+      "ItemName": "Faun of Omens",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695043",
+      "ItemName": "Faun of Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695044",
+      "ItemName": "Faun of Stories",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695041",
+      "ItemName": "Faun of Weather",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695039",
+      "ItemName": "Faun of Winter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.432824Z",
+  "ModifiedAt": "2026-09-30T03:55:50.432824Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

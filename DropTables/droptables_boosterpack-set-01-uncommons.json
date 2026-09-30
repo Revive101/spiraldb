@@ -1,10 +1,10 @@
 {
   "Name": "BoosterPack-Set-01-Uncommons",
-  "Description": "Eye of Bartleby Uncommon Treasure Cards",
-  "RollChance": 1.0,
+  "Description": "BoosterPack-Set-01 Drops",
+  "RollChance": 1,
   "Weight": 100,
-  "NoneChance": 0.0,
-  "PityCounter": 0.0,
+  "NoneChance": 0,
+  "PityCounter": 0,
   "MinGold": 0,
   "MaxGold": 0,
   "ExperienceAmount": 0,
@@ -13,252 +13,211 @@
     {
       "ItemId": "1897065731",
       "ItemName": "Balefrost",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "741139539",
       "ItemName": "Banshee",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1595773349",
       "ItemName": "Buff Minion",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "2041359529",
       "ItemName": "Cyclops",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1205750315",
       "ItemName": "Darkwind",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "780222043",
       "ItemName": "Death Trap",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1062079122",
       "ItemName": "Doom and Gloom",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1604762130",
       "ItemName": "Drain Health",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1427007544",
       "ItemName": "Draw Health",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1979647859",
       "ItemName": "Draw Power",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1106236198",
       "ItemName": "Evil Snowman",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "109932400",
       "ItemName": "Fire Trap",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "2003321660",
       "ItemName": "Freeze",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1211394363",
       "ItemName": "Ice Trap",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "458816822",
       "ItemName": "Ice Wyvern",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "460803647",
       "ItemName": "Keen Eyes",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1621054263",
       "ItemName": "Kraken",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "109920102",
       "ItemName": "Life Trap",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "186579964",
       "ItemName": "Locust Swarm",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1595716522",
       "ItemName": "Mend Minion",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "109835621",
       "ItemName": "Myth Trap",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "988256261",
-      "ItemName": "Nature's Wrath",
-      "Notes": "",
-      "Requirements": null
+      "ItemName": "Nature\u0027s Wrath",
+      "Notes": ""
     },
     {
       "ItemId": "791201790",
       "ItemName": "Power Play",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "203304560",
       "ItemName": "Precision",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "492277983",
       "ItemName": "Purloin Health",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1280318372",
       "ItemName": "Purloin Power",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "30283751",
       "ItemName": "Sanctuary",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1841962447",
       "ItemName": "Seraph",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1928278095",
       "ItemName": "Shield Minion",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "189544519",
       "ItemName": "Siphon Health",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "2005802863",
       "ItemName": "Sprite",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1602398919",
       "ItemName": "Steal Health",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "268548931",
       "ItemName": "Storm Shark",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "785515628",
       "ItemName": "Storm Trap",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1465410629",
       "ItemName": "Stun",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1110730434",
       "ItemName": "Sunbird",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1979067651",
       "ItemName": "Take Power",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1850689939",
       "ItemName": "Time of Legend",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "345668801",
       "ItemName": "Tough",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "37578823",
       "ItemName": "Vampire",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1187623223",
       "ItemName": "Wyldfire",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-28T14:36:00.000000Z",
-  "ModifiedAt": "2026-09-28T14:36:00.000000Z",
-  "CreatedBy": "system",
-  "ModifiedBy": "system"
+  "CreatedAt": "2026-09-30T03:55:50.424472Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424473Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
 }

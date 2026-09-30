@@ -1,0 +1,28 @@
+{
+  "Name": "FireFurniture_DiningChair",
+  "Description": "Fire_Furniture_Set_01 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1359731",
+      "ItemName": "Dalia\u0027s Dining Stool",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359735",
+      "ItemName": "Dalia\u0027s Hot Seat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.438642Z",
+  "ModifiedAt": "2026-09-30T03:55:50.438643Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

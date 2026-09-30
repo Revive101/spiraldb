@@ -1,0 +1,33 @@
+{
+  "Name": "2025CTP-PackLT-Common",
+  "Description": "BoosterPack-Set-159 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1396576437",
+      "ItemName": "Blight Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317963",
+      "ItemName": "Darkmoor Skeletal Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695074",
+      "ItemName": "Night Rabbit",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.436133Z",
+  "ModifiedAt": "2026-09-30T03:55:50.436133Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

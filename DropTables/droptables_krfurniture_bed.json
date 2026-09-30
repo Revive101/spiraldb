@@ -1,0 +1,28 @@
+{
+  "Name": "KRFurniture_Bed",
+  "Description": "Khrysalis_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1374372",
+      "ItemName": "Mantis Lounging Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374373",
+      "ItemName": "Rachias Side Table",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.437630Z",
+  "ModifiedAt": "2026-09-30T03:55:50.437631Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

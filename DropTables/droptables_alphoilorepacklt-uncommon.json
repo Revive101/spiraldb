@@ -1,0 +1,68 @@
+{
+  "Name": "AlphoiLorePackLT-Uncommon",
+  "Description": "BoosterPack-Set-55-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106958",
+      "ItemName": "Crystal Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106955",
+      "ItemName": "Ghost Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106952",
+      "ItemName": "Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106951",
+      "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106946",
+      "ItemName": "Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106947",
+      "ItemName": "Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106954",
+      "ItemName": "Shadow Oil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.425595Z",
+  "ModifiedAt": "2026-09-30T03:55:50.425595Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

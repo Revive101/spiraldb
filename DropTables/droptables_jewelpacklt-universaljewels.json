@@ -1,0 +1,1023 @@
+{
+  "Name": "JewelPackLT-UniversalJewels",
+  "Description": "BoosterPack-Set-42 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1317663",
+      "ItemName": "Balance Brume (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358600",
+      "ItemName": "Banshee Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358593",
+      "ItemName": "Blizzard Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357212",
+      "ItemName": "Blood Bat Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357074",
+      "ItemName": "Chipped Accurate Amethyst \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357110",
+      "ItemName": "Chipped Accurate Citrine \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357092",
+      "ItemName": "Chipped Accurate Jade \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357101",
+      "ItemName": "Chipped Accurate Onyx \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357083",
+      "ItemName": "Chipped Accurate Peridot \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357056",
+      "ItemName": "Chipped Accurate Ruby \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357065",
+      "ItemName": "Chipped Accurate Sapphire \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352631",
+      "ItemName": "Chipped Damage Amethyst \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352632",
+      "ItemName": "Chipped Damage Amethyst \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352727",
+      "ItemName": "Chipped Damage Citrine \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352728",
+      "ItemName": "Chipped Damage Citrine \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352679",
+      "ItemName": "Chipped Damage Jade \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352680",
+      "ItemName": "Chipped Damage Jade \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352703",
+      "ItemName": "Chipped Damage Onyx \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352704",
+      "ItemName": "Chipped Damage Onyx \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360042",
+      "ItemName": "Chipped Damage Opal \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352655",
+      "ItemName": "Chipped Damage Peridot \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352656",
+      "ItemName": "Chipped Damage Peridot \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352583",
+      "ItemName": "Chipped Damage Ruby \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352584",
+      "ItemName": "Chipped Damage Ruby \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352607",
+      "ItemName": "Chipped Damage Sapphire \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352608",
+      "ItemName": "Chipped Damage Sapphire \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357339",
+      "ItemName": "Chipped Defense Amethyst \u002B13",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357340",
+      "ItemName": "Chipped Defense Amethyst \u002B14",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357341",
+      "ItemName": "Chipped Defense Amethyst \u002B15",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357342",
+      "ItemName": "Chipped Defense Amethyst \u002B16",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357519",
+      "ItemName": "Chipped Defense Citrine \u002B13",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357520",
+      "ItemName": "Chipped Defense Citrine \u002B14",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357521",
+      "ItemName": "Chipped Defense Citrine \u002B15",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357522",
+      "ItemName": "Chipped Defense Citrine \u002B16",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357429",
+      "ItemName": "Chipped Defense Jade \u002B13",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357430",
+      "ItemName": "Chipped Defense Jade \u002B14",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357431",
+      "ItemName": "Chipped Defense Jade \u002B15",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357432",
+      "ItemName": "Chipped Defense Jade \u002B16",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357474",
+      "ItemName": "Chipped Defense Onyx \u002B13",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357475",
+      "ItemName": "Chipped Defense Onyx \u002B14",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357476",
+      "ItemName": "Chipped Defense Onyx \u002B15",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357477",
+      "ItemName": "Chipped Defense Onyx \u002B16",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358572",
+      "ItemName": "Chipped Defense Opal \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358573",
+      "ItemName": "Chipped Defense Opal \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357384",
+      "ItemName": "Chipped Defense Peridot \u002B13",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357385",
+      "ItemName": "Chipped Defense Peridot \u002B14",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357386",
+      "ItemName": "Chipped Defense Peridot \u002B15",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357387",
+      "ItemName": "Chipped Defense Peridot \u002B16",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357249",
+      "ItemName": "Chipped Defense Ruby \u002B13",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357250",
+      "ItemName": "Chipped Defense Ruby \u002B14",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357251",
+      "ItemName": "Chipped Defense Ruby \u002B15",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357252",
+      "ItemName": "Chipped Defense Ruby \u002B16",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357294",
+      "ItemName": "Chipped Defense Sapphire \u002B13",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357295",
+      "ItemName": "Chipped Defense Sapphire \u002B14",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357296",
+      "ItemName": "Chipped Defense Sapphire \u002B15",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357297",
+      "ItemName": "Chipped Defense Sapphire \u002B16",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352342",
+      "ItemName": "Chipped Health Opal \u002B16",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352343",
+      "ItemName": "Chipped Health Opal \u002B17",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352344",
+      "ItemName": "Chipped Health Opal \u002B18",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352345",
+      "ItemName": "Chipped Health Opal \u002B19",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352346",
+      "ItemName": "Chipped Health Opal \u002B20",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352347",
+      "ItemName": "Chipped Health Opal \u002B21",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352348",
+      "ItemName": "Chipped Health Opal \u002B22",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352349",
+      "ItemName": "Chipped Health Opal \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352350",
+      "ItemName": "Chipped Health Opal \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352351",
+      "ItemName": "Chipped Health Opal \u002B25",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352438",
+      "ItemName": "Chipped Mana Opal \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352439",
+      "ItemName": "Chipped Mana Opal \u002B11",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352440",
+      "ItemName": "Chipped Mana Opal \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352437",
+      "ItemName": "Chipped Mana Opal \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357125",
+      "ItemName": "Chipped PIP Opal \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357126",
+      "ItemName": "Chipped PIP Opal \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357140",
+      "ItemName": "Cracked Accurate Amethyst \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357141",
+      "ItemName": "Cracked Accurate Amethyst \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357148",
+      "ItemName": "Cracked Accurate Citrine \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357149",
+      "ItemName": "Cracked Accurate Citrine \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357144",
+      "ItemName": "Cracked Accurate Jade \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357145",
+      "ItemName": "Cracked Accurate Jade \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357146",
+      "ItemName": "Cracked Accurate Onyx \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357147",
+      "ItemName": "Cracked Accurate Onyx \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357150",
+      "ItemName": "Cracked Accurate Opal \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357142",
+      "ItemName": "Cracked Accurate Peridot \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357143",
+      "ItemName": "Cracked Accurate Peridot \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357136",
+      "ItemName": "Cracked Accurate Ruby \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357137",
+      "ItemName": "Cracked Accurate Ruby \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357138",
+      "ItemName": "Cracked Accurate Sapphire \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357139",
+      "ItemName": "Cracked Accurate Sapphire \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352625",
+      "ItemName": "Cracked Damage Amethyst \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352626",
+      "ItemName": "Cracked Damage Amethyst \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352627",
+      "ItemName": "Cracked Damage Amethyst \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352628",
+      "ItemName": "Cracked Damage Amethyst \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352629",
+      "ItemName": "Cracked Damage Amethyst \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352630",
+      "ItemName": "Cracked Damage Amethyst \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352721",
+      "ItemName": "Cracked Damage Citrine \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352722",
+      "ItemName": "Cracked Damage Citrine \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352723",
+      "ItemName": "Cracked Damage Citrine \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352724",
+      "ItemName": "Cracked Damage Citrine \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352725",
+      "ItemName": "Cracked Damage Citrine \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352726",
+      "ItemName": "Cracked Damage Citrine \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352673",
+      "ItemName": "Cracked Damage Jade \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352674",
+      "ItemName": "Cracked Damage Jade \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352675",
+      "ItemName": "Cracked Damage Jade \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352676",
+      "ItemName": "Cracked Damage Jade \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352677",
+      "ItemName": "Cracked Damage Jade \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352678",
+      "ItemName": "Cracked Damage Jade \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352697",
+      "ItemName": "Cracked Damage Onyx \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352698",
+      "ItemName": "Cracked Damage Onyx \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352699",
+      "ItemName": "Cracked Damage Onyx \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352700",
+      "ItemName": "Cracked Damage Onyx \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352701",
+      "ItemName": "Cracked Damage Onyx \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352702",
+      "ItemName": "Cracked Damage Onyx \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352649",
+      "ItemName": "Cracked Damage Peridot \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352650",
+      "ItemName": "Cracked Damage Peridot \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352651",
+      "ItemName": "Cracked Damage Peridot \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352652",
+      "ItemName": "Cracked Damage Peridot \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352653",
+      "ItemName": "Cracked Damage Peridot \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352654",
+      "ItemName": "Cracked Damage Peridot \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352577",
+      "ItemName": "Cracked Damage Ruby \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352578",
+      "ItemName": "Cracked Damage Ruby \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352579",
+      "ItemName": "Cracked Damage Ruby \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352580",
+      "ItemName": "Cracked Damage Ruby \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352581",
+      "ItemName": "Cracked Damage Ruby \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352582",
+      "ItemName": "Cracked Damage Ruby \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352601",
+      "ItemName": "Cracked Damage Sapphire \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352602",
+      "ItemName": "Cracked Damage Sapphire \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352603",
+      "ItemName": "Cracked Damage Sapphire \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352604",
+      "ItemName": "Cracked Damage Sapphire \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352605",
+      "ItemName": "Cracked Damage Sapphire \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352606",
+      "ItemName": "Cracked Damage Sapphire \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352473",
+      "ItemName": "Cracked Energy Opal \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352474",
+      "ItemName": "Cracked Energy Opal \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352475",
+      "ItemName": "Cracked Energy Opal \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352476",
+      "ItemName": "Cracked Energy Opal \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352477",
+      "ItemName": "Cracked Energy Opal \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352478",
+      "ItemName": "Cracked Fishing Opal \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352479",
+      "ItemName": "Cracked Fishing Opal \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352480",
+      "ItemName": "Cracked Fishing Opal \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352481",
+      "ItemName": "Cracked Fishing Opal \u002B4%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352482",
+      "ItemName": "Cracked Fishing Opal \u002B5%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358596",
+      "ItemName": "Cyclops Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357218",
+      "ItemName": "Dark Sprite Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374098",
+      "ItemName": "Death Brume (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358601",
+      "ItemName": "Deer Knight Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357220",
+      "ItemName": "Dream Shield Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376148",
+      "ItemName": "Dual Balanceblade Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376147",
+      "ItemName": "Dual Deathblade Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376142",
+      "ItemName": "Dual Fireblade Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376143",
+      "ItemName": "Dual Iceblade Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376146",
+      "ItemName": "Dual Lifeblade Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376145",
+      "ItemName": "Dual Mythblade Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376144",
+      "ItemName": "Dual Stormblade Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376307",
+      "ItemName": "Erratic Acrimony Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376305",
+      "ItemName": "Erratic Apologue Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376302",
+      "ItemName": "Erratic Eruption Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376303",
+      "ItemName": "Erratic Icewind opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376306",
+      "ItemName": "Erratic Intensify Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376304",
+      "ItemName": "Erratic Outpouring Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376308",
+      "ItemName": "Erratic Recompense Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358592",
+      "ItemName": "Evil Snowman Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374099",
+      "ItemName": "Fire Brume (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357203",
+      "ItemName": "Fire Cat Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357204",
+      "ItemName": "Fire Elf Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357206",
+      "ItemName": "Frost Beetle Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357219",
+      "ItemName": "Ghoul Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357205",
+      "ItemName": "Glacial Shield Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374100",
+      "ItemName": "Ice Brume (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357215",
+      "ItemName": "Imp Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357217",
+      "ItemName": "Legend Shield Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357216",
+      "ItemName": "Leprechaun Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374101",
+      "ItemName": "Life Brume (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357210",
+      "ItemName": "Lightning Bats Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358602",
+      "ItemName": "Locust Swarm Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360046",
+      "ItemName": "Metalops Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376297",
+      "ItemName": "Morganthe\u0027s Angst Amethyst ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376299",
+      "ItemName": "Morganthe\u0027s Ardor Jade ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376298",
+      "ItemName": "Morganthe\u0027s Deceit Peridot ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376296",
+      "ItemName": "Morganthe\u0027s Gaze Sapphire ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376300",
+      "ItemName": "Morganthe\u0027s Requiem Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376295",
+      "ItemName": "Morganthe\u0027s Venom Ruby ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376301",
+      "ItemName": "Morganthe\u0027s Will Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374102",
+      "ItemName": "Myth Brume (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357214",
+      "ItemName": "Myth Trap Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360044",
+      "ItemName": "Punklops Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1360045",
+      "ItemName": "Rocklops Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358599",
+      "ItemName": "Satyr Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357221",
+      "ItemName": "Scarab Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357222",
+      "ItemName": "Scorpion Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357207",
+      "ItemName": "Snow Serpent Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358603",
+      "ItemName": "Spectral Blast Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358598",
+      "ItemName": "Sprite Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374103",
+      "ItemName": "Storm Brume (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358594",
+      "ItemName": "Storm Shark Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358590",
+      "ItemName": "Sunbird Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357211",
+      "ItemName": "Thermic Shield Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357209",
+      "ItemName": "Thunder Snake Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358597",
+      "ItemName": "Time of Legend Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357213",
+      "ItemName": "Troll Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357208",
+      "ItemName": "Volcanic Shield Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357223",
+      "ItemName": "Weakness Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358595",
+      "ItemName": "Windstorm Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358591",
+      "ItemName": "Wyldfire Ruby",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.437926Z",
+  "ModifiedAt": "2026-09-30T03:55:50.437927Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

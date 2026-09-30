@@ -1,0 +1,513 @@
+{
+  "Name": "ProfHoardPackLT-UnCommon",
+  "Description": "BoosterPack-Set-51 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537593",
+      "ItemName": "Beetle Cream Soda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191233",
+      "ItemName": "Black Stallion (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "117876017",
+      "ItemName": "Blizzard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1058259531",
+      "ItemName": "Bloodbat TC PrH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160980",
+      "ItemName": "Bluebonnets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160372",
+      "ItemName": "Brown Blooms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220248",
+      "ItemName": "Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220256",
+      "ItemName": "Caramel Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220191",
+      "ItemName": "Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240118",
+      "ItemName": "Cauliflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220211",
+      "ItemName": "Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220228",
+      "ItemName": "Chocolate Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2076289216",
+      "ItemName": "Clockwork",
+      "Notes": ""
+    },
+    {
+      "ItemId": "476302871",
+      "ItemName": "Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160291",
+      "ItemName": "Crate of Chickens",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160292",
+      "ItemName": "Crate of Hot Dogs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160294",
+      "ItemName": "Crate of Jellybeans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160295",
+      "ItemName": "Crate of Pies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160296",
+      "ItemName": "Crate of Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160297",
+      "ItemName": "Crate of Pumpkins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "288801686",
+      "ItemName": "Curse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557353282",
+      "ItemName": "Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374540",
+      "ItemName": "Death Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1084126480",
+      "ItemName": "Death Troll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "863423206",
+      "ItemName": "Earthquake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589096",
+      "ItemName": "Eggplant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191154",
+      "ItemName": "Enchanted Broom (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "288354161",
+      "ItemName": "Evil Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "111757585",
+      "ItemName": "Fire Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1252608386",
+      "ItemName": "Fire Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160374",
+      "ItemName": "Fire Flowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374541",
+      "ItemName": "Fire Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220212",
+      "ItemName": "Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "211974638",
+      "ItemName": "Frost Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641684",
+      "ItemName": "Frozen Perogies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106955",
+      "ItemName": "Ghost Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "296072242",
+      "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374560",
+      "ItemName": "Ginormous Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160233",
+      "ItemName": "Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220319",
+      "ItemName": "Golden Candy Bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220240",
+      "ItemName": "Green Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220253",
+      "ItemName": "Harvest Corn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1173957583",
+      "ItemName": "Heck Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191225",
+      "ItemName": "Horned Sweeper (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "576014349",
+      "ItemName": "Ice Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374542",
+      "ItemName": "Ice Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1162091017",
+      "ItemName": "Jinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819750901",
+      "ItemName": "Judgement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374543",
+      "ItemName": "Life Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473523",
+      "ItemName": "Misfortune Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374544",
+      "ItemName": "Myth Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106951",
+      "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160200",
+      "ItemName": "Open Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733124",
+      "ItemName": "Papaya",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258591",
+      "ItemName": "Perfect Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258593",
+      "ItemName": "Perfect Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1362632333",
+      "ItemName": "Pirate Captain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "289138693",
+      "ItemName": "Pixie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "823693170",
+      "ItemName": "Poison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181129",
+      "ItemName": "Pot-bellied Stove",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160398",
+      "ItemName": "Professor Drake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160396",
+      "ItemName": "Professor Greyrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160397",
+      "ItemName": "Professor Wu",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191221",
+      "ItemName": "Purple Glider (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160373",
+      "ItemName": "Purple Posies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1080588910",
+      "ItemName": "Rain Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473521",
+      "ItemName": "Rotten Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473520",
+      "ItemName": "Salmon Joy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "530828052",
+      "ItemName": "Samoorai",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473528",
+      "ItemName": "Sandy Corn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "272881926",
+      "ItemName": "Satyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225478",
+      "ItemName": "Seraph Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1021436465",
+      "ItemName": "Shadow DPS",
+      "Notes": ""
+    },
+    {
+      "ItemId": "805217289",
+      "ItemName": "Skeletal Pirate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160981",
+      "ItemName": "Snapdragons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1486204966",
+      "ItemName": "Snow Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220207",
+      "ItemName": "Spicy Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "648405137",
+      "ItemName": "Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220222",
+      "ItemName": "Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160207",
+      "ItemName": "Stack of 2 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160209",
+      "ItemName": "Stack of 4 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160210",
+      "ItemName": "Stack of 5 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220287",
+      "ItemName": "Star Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1085415812",
+      "ItemName": "Storm Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374539",
+      "ItemName": "Storm Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1733007657",
+      "ItemName": "Sunbird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537599",
+      "ItemName": "Sweet Mango",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220322",
+      "ItemName": "Swirled Lollipop",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423512Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423513Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

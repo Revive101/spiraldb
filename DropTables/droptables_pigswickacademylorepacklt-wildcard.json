@@ -1,0 +1,93 @@
+{
+  "Name": "PigswickAcademyLorePackLT-Wildcard",
+  "Description": "BoosterPack-Set-52 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1871529831",
+      "ItemName": "Angry Snowpig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690101",
+      "ItemName": "Frosty Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690108",
+      "ItemName": "Gargoyle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789435",
+      "ItemName": "Harpy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100453",
+      "ItemName": "Imp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "522843215",
+      "ItemName": "Ninja Piglets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257611",
+      "ItemName": "Pegasus Pony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257439",
+      "ItemName": "Pesky Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1900505840",
+      "ItemName": "Pigsie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418461",
+      "ItemName": "Wysteria Warrior\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418503",
+      "ItemName": "Wysteria Warrior\u0027s Broadsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418489",
+      "ItemName": "Wysteria Warrior\u0027s Claymore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418419",
+      "ItemName": "Wysteria Warrior\u0027s Cuirass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418517",
+      "ItemName": "Wysteria Warrior\u0027s Longsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418377",
+      "ItemName": "Wysteria Warrior\u0027s Plate",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406608Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406608Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

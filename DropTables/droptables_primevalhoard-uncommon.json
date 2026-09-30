@@ -1,0 +1,208 @@
+{
+  "Name": "PrimevalHoard-Uncommon",
+  "Description": "BoosterPack-Set-99 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "514203989",
+      "ItemName": "Balanceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2058361962",
+      "ItemName": "Blade Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1623983249",
+      "ItemName": "Blademaster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733180",
+      "ItemName": "Candy-Caned Yams",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240103",
+      "ItemName": "Dastardly Radish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1432098147",
+      "ItemName": "Deathblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "881759932",
+      "ItemName": "Elemental Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359622",
+      "ItemName": "Eye Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850164170",
+      "ItemName": "Fireblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502884",
+      "ItemName": "Fossil Avenger\u0027s Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502898",
+      "ItemName": "Fossil Avenger\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505136",
+      "ItemName": "Fossil Avenger\u0027s Skullcrusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502912",
+      "ItemName": "Fossil Avenger\u0027s Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502968",
+      "ItemName": "Fossil Hunter\u0027s Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502982",
+      "ItemName": "Fossil Hunter\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505164",
+      "ItemName": "Fossil Hunter\u0027s Skullcrusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502996",
+      "ItemName": "Fossil Hunter\u0027s Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502926",
+      "ItemName": "Fossil Warrior\u0027s Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502940",
+      "ItemName": "Fossil Warrior\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505150",
+      "ItemName": "Fossil Warrior\u0027s Skullcrusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502954",
+      "ItemName": "Fossil Warrior\u0027s Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473718",
+      "ItemName": "Gummy Wyrms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2039832976",
+      "ItemName": "Iceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789454",
+      "ItemName": "Lava Guava",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850143684",
+      "ItemName": "Lifeblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850060227",
+      "ItemName": "Mythblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359623",
+      "ItemName": "Satyr Chow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507002",
+      "ItemName": "Scaly Frillasaur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507001",
+      "ItemName": "Scratchy Frillasaur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507003",
+      "ItemName": "Snappy Frillasaur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1893708917",
+      "ItemName": "Spirit Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1427058518",
+      "ItemName": "StormShark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359608",
+      "ItemName": "Tasty Rainbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473717",
+      "ItemName": "Treant Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317840",
+      "ItemName": "Wampyrnickel Bread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789459",
+      "ItemName": "Wiki Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789460",
+      "ItemName": "Winged Bean",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257596",
+      "ItemName": "Wrath\u0027s Grape Juice",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.413268Z",
+  "ModifiedAt": "2026-09-30T03:55:50.413269Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

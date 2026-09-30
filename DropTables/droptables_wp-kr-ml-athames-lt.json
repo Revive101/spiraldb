@@ -1,0 +1,53 @@
+{
+  "Name": "WP-KR-ML-Athames-LT",
+  "Description": "BoosterPack-Set-125 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1557009",
+      "ItemName": "Athame of the Chosen One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557015",
+      "ItemName": "Blade of the Shadow Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557011",
+      "ItemName": "Edge of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557010",
+      "ItemName": "Mercy of Shadow and Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557014",
+      "ItemName": "Morganthe\u0027s Bite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557012",
+      "ItemName": "Shadow Spider\u0027s Sting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557013",
+      "ItemName": "The Dark Woman\u0027s Dagger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.425979Z",
+  "ModifiedAt": "2026-09-30T03:55:50.425979Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

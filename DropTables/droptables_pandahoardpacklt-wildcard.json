@@ -1,0 +1,93 @@
+{
+  "Name": "PandaHoardPackLT-Wildcard",
+  "Description": "BoosterPack-Set-62 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1466468",
+      "ItemName": "Crimson Padamonium Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466412",
+      "ItemName": "Crimson Pandamonium Jian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466510",
+      "ItemName": "Ebony Padamonium Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466426",
+      "ItemName": "Ebony Pandamonium Jian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1468348",
+      "ItemName": "Giant Panda (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1468346",
+      "ItemName": "Giant Panda (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470051",
+      "ItemName": "Grand Panda (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470050",
+      "ItemName": "Grand Panda (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470046",
+      "ItemName": "Great Panda (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470045",
+      "ItemName": "Great Panda (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470000",
+      "ItemName": "Playful Panda Cubs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470049",
+      "ItemName": "Precious Panda Cubs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470048",
+      "ItemName": "Precocious Panda Cubs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466552",
+      "ItemName": "White Padamonium Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466440",
+      "ItemName": "White Pandamonium Jian",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.410852Z",
+  "ModifiedAt": "2026-09-30T03:55:50.410853Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

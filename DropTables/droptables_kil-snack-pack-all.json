@@ -1,0 +1,58 @@
+{
+  "Name": "KIL-Snack-Pack-All",
+  "Description": "BoosterPack-Set-117 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1522414",
+      "ItemName": "Cheese Day Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522419",
+      "ItemName": "Chilly Concoction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522416",
+      "ItemName": "Coo-KI-e",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522413",
+      "ItemName": "Drama Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522418",
+      "ItemName": "Everything Nachos",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522417",
+      "ItemName": "Pretzels and Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522415",
+      "ItemName": "Social Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522412",
+      "ItemName": "Tea Time",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427247Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427248Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

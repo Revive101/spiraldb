@@ -1,0 +1,58 @@
+{
+  "Name": "TCPack-CantripSigil-C-01",
+  "Description": "BoosterPack-Set-151 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1939289832",
+      "ItemName": "Donate Power 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1526144020",
+      "ItemName": "Dual Strike 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1848067092",
+      "ItemName": "Fiery Explosion 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1822888468",
+      "ItemName": "Horn of Plenty 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "80058386",
+      "ItemName": "Legion Shield 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "814640349",
+      "ItemName": "Restoring Rain 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1822888980",
+      "ItemName": "Sprite Swarm 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1453337377",
+      "ItemName": "Virulent Plague 3",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.436477Z",
+  "ModifiedAt": "2026-09-30T03:55:50.436478Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

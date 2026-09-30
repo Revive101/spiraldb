@@ -1,0 +1,53 @@
+{
+  "Name": "WP-KR-ML-Shoes-LT",
+  "Description": "BoosterPack-Set-125 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1557007",
+      "ItemName": "Aged Hundred Legger Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557005",
+      "ItemName": "Boots of the QuietBlade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557002",
+      "ItemName": "Digger\u0027s Boots of Symmetry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557004",
+      "ItemName": "Kermes Fire Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557006",
+      "ItemName": "Leaf Shield Clogs of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557003",
+      "ItemName": "Mouse Boots of Mourning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557008",
+      "ItemName": "Mouse Shoes of Ingenuity",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.425974Z",
+  "ModifiedAt": "2026-09-30T03:55:50.425974Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

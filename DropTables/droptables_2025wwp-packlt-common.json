@@ -1,0 +1,48 @@
+{
+  "Name": "2025WWP-PackLT-Common",
+  "Description": "BoosterPack-Set-160 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "641700",
+      "ItemName": "Antheneum Delight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664474",
+      "ItemName": "Frozen Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664473",
+      "ItemName": "Frozen Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664472",
+      "ItemName": "Frozen Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317842",
+      "ItemName": "Kan Davasi Delight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733176",
+      "ItemName": "Snow Apple Cider",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.434499Z",
+  "ModifiedAt": "2026-09-30T03:55:50.434500Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

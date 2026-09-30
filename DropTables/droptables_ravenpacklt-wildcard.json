@@ -1,0 +1,468 @@
+{
+  "Name": "RavenPackLT-Wildcard",
+  "Description": "BoosterPack-Set-83 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160708",
+      "ItemName": "Altar with Candles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473444",
+      "ItemName": "Arctic Ninja Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532418",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537601",
+      "ItemName": "Bad Honeyed Dates",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181032",
+      "ItemName": "Barrel Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181078",
+      "ItemName": "Bear-paw Oar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470158",
+      "ItemName": "Blood Raven (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181045",
+      "ItemName": "Bundle of Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537584",
+      "ItemName": "Caramel Corn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160776",
+      "ItemName": "Cat Wanted Poster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404096",
+      "ItemName": "Claw-marked Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164143",
+      "ItemName": "Clouded Wall Screen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181113",
+      "ItemName": "Coniferous Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225418",
+      "ItemName": "Dark Crow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532518",
+      "ItemName": "Dark Wing Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181080",
+      "ItemName": "Dinner Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160826",
+      "ItemName": "Drake Egg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532442",
+      "ItemName": "Everwinter Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "971451610",
+      "ItemName": "ExitCombat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537537",
+      "ItemName": "Fallen Spiral Runestone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537538",
+      "ItemName": "Flat Braided Runestone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164130",
+      "ItemName": "Forester\u0027s Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1595901458",
+      "ItemName": "FrostBeetleTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537589",
+      "ItemName": "Frosty Sugar Cubes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537540",
+      "ItemName": "Frozen Attacking Bear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537543",
+      "ItemName": "Frozen Attacking Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537541",
+      "ItemName": "Frozen Charging Bear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537539",
+      "ItemName": "Frozen Poised Bear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537603",
+      "ItemName": "Frozen Snails",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537544",
+      "ItemName": "Frozen Throwing Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537542",
+      "ItemName": "Frozen Wolf Warrior",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537598",
+      "ItemName": "Fruit \u0026 Nut Bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537545",
+      "ItemName": "Glacier Rocks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164133",
+      "ItemName": "Grassy Flooring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532502",
+      "ItemName": "Great Axe of the Storyteller",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404103",
+      "ItemName": "Grizzleheim Doodle Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537614",
+      "ItemName": "Hanging Feathers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2029419339",
+      "ItemName": "Harvest Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181039",
+      "ItemName": "Horn-leg Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1294147641",
+      "ItemName": "Ice Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "509744185",
+      "ItemName": "Icebird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82777",
+      "ItemName": "Krok Bird Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82842",
+      "ItemName": "Krok Bird Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537553",
+      "ItemName": "Large Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537547",
+      "ItemName": "Large Snowy Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164313",
+      "ItemName": "Leafy Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181108",
+      "ItemName": "Lounge Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160495",
+      "ItemName": "Mantis Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160765",
+      "ItemName": "Marleybonian Pilot Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181112",
+      "ItemName": "Medium Pine Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532534",
+      "ItemName": "Nevermore Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470481",
+      "ItemName": "Phoenix (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160861",
+      "ItemName": "Phoenix Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160801",
+      "ItemName": "Phoenix Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537592",
+      "ItemName": "Pickled Garlic Grubs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2111174242",
+      "ItemName": "Ra",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470159",
+      "ItemName": "Raven (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537559",
+      "ItemName": "Raven Claw Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532542",
+      "ItemName": "Raven\u0027s Bow of Unkind Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532486",
+      "ItemName": "Raven\u0027s Claw of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532510",
+      "ItemName": "Raven\u0027s Storied Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532466",
+      "ItemName": "Ravenking\u0027s Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160425",
+      "ItemName": "Ravenwood Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181063",
+      "ItemName": "Small Evergreen Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181066",
+      "ItemName": "Small Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181104",
+      "ItemName": "Small Heavy Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537554",
+      "ItemName": "Small Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537548",
+      "ItemName": "Small Snowy Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "400359846",
+      "ItemName": "Snow Angel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "360382229",
+      "ItemName": "Snow Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537552",
+      "ItemName": "Snow Pile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "187191258",
+      "ItemName": "Snow Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160552",
+      "ItemName": "Stone Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181088",
+      "ItemName": "Stoppered Jar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359910287",
+      "ItemName": "Storm Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164123",
+      "ItemName": "Stormwracked Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1179359615",
+      "ItemName": "Sunbird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537587",
+      "ItemName": "Sunflower Hearts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537612",
+      "ItemName": "Swirl Runestone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181120",
+      "ItemName": "Tall Wooden Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537546",
+      "ItemName": "Tribal Totem Runestone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532494",
+      "ItemName": "Trickster\u0027s Lying Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82754",
+      "ItemName": "Turkey Platter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532478",
+      "ItemName": "Unkind Axe of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404097",
+      "ItemName": "Wavy Grass Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181067",
+      "ItemName": "Wild Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181034",
+      "ItemName": "Winter Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532526",
+      "ItemName": "Winter\u0027s Whispering Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181093",
+      "ItemName": "Wooden Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "410547506",
+      "ItemName": "Woolly Mammoth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.422106Z",
+  "ModifiedAt": "2026-09-30T03:55:50.422107Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

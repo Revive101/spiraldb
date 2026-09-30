@@ -1,0 +1,268 @@
+{
+  "Name": "2025SCH-PackLT-Wildcard",
+  "Description": "BoosterPack-Set-161 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1317983",
+      "ItemName": "Arms of Castle Darkmoor ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350022",
+      "ItemName": "Blinded Bear Melee Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317968",
+      "ItemName": "Castle Darkmoor Armoire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708238",
+      "ItemName": "Creepy Doll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317959",
+      "ItemName": "Darkmoor Castle Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708218",
+      "ItemName": "Darkmoor Dining Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317944",
+      "ItemName": "Darkmoor Hall Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708230",
+      "ItemName": "Darkmoor Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317946",
+      "ItemName": "Darkmoor Lounge Cushion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317961",
+      "ItemName": "Darkmoor Parlor Sofa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317967",
+      "ItemName": "Darkmoor Side Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317963",
+      "ItemName": "Darkmoor Skeletal Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317979",
+      "ItemName": "Depths of Darkmoor  Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1938585154",
+      "ItemName": "Dr. Von\u0027s Monster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708191",
+      "ItemName": "Eerie Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708199",
+      "ItemName": "Eerie Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708201",
+      "ItemName": "Eerie Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708206",
+      "ItemName": "Eerie Footstool",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708216",
+      "ItemName": "Eerie Stool",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706094",
+      "ItemName": "Feral Demox (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706093",
+      "ItemName": "Feral Demox (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708237",
+      "ItemName": "Freaky Doll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "749808883",
+      "ItemName": "Gearhead Destroyer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317973",
+      "ItemName": "Grandiose Gargoyle Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708236",
+      "ItemName": "Haunted Doll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2039726156",
+      "ItemName": "Immolate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350021",
+      "ItemName": "Impaled Bear Melee Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317949",
+      "ItemName": "Imposing Darkmoor Arch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819802901",
+      "ItemName": "Judgement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708210",
+      "ItemName": "Leanto Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1848562644",
+      "ItemName": "Moon Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "658502354",
+      "ItemName": "Moon Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350023",
+      "ItemName": "One-Armed Bear Melee Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1945571706",
+      "ItemName": "Orthrus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708208",
+      "ItemName": "Preceptor\u0027s Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "883663540",
+      "ItemName": "Scarecrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708214",
+      "ItemName": "Scholomance Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708215",
+      "ItemName": "Scholomance Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708204",
+      "ItemName": "Scholomari Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "152960551",
+      "ItemName": "Ship of Fools",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1175483335",
+      "ItemName": "Skeletal Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350020",
+      "ItemName": "Speared Bear Melee Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317970",
+      "ItemName": "Towering Darkmoor Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706086",
+      "ItemName": "Trained Demox (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706085",
+      "ItemName": "Trained Demox (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708222",
+      "ItemName": "Vampire Lord Coffin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317974",
+      "ItemName": "Von Shane Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706090",
+      "ItemName": "Wild Demox (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706089",
+      "ItemName": "Wild Demox (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652417489",
+      "ItemName": "Wraith",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.436081Z",
+  "ModifiedAt": "2026-09-30T03:55:50.436081Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

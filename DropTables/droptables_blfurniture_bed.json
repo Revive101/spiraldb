@@ -1,0 +1,28 @@
+{
+  "Name": "BLFurniture_Bed",
+  "Description": "Balance_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1204456",
+      "ItemName": "Alhazred\u0027s Nightboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204455",
+      "ItemName": "Alhazred\u0027s Suspended Bed",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439405Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439405Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

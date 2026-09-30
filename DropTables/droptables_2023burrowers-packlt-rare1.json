@@ -1,0 +1,343 @@
+{
+  "Name": "2023Burrowers-PackLT-Rare1",
+  "Description": "BoosterPack-Set-137 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473722",
+      "ItemName": "Agave Leaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1206362",
+      "ItemName": "Astral Shard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "180014941",
+      "ItemName": "Avenging Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537586",
+      "ItemName": "Black Sun Seeds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225458",
+      "ItemName": "Brown Rat Magician",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292133",
+      "ItemName": "Bumbler Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292130",
+      "ItemName": "Burrower Heavy Weapon Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617026",
+      "ItemName": "Burrower\u0027s Conjuration Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614669",
+      "ItemName": "Burrower\u0027s Conjuration Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614326",
+      "ItemName": "Burrower\u0027s Conjuration Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614312",
+      "ItemName": "Burrower\u0027s Conjuration Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617146",
+      "ItemName": "Burrower\u0027s Divination Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617022",
+      "ItemName": "Burrower\u0027s Necromancy Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614322",
+      "ItemName": "Burrower\u0027s Necromancy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614308",
+      "ItemName": "Burrower\u0027s Necromancy Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614666",
+      "ItemName": "Burrower\u0027s Pyromancy Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617142",
+      "ItemName": "Burrower\u0027s Pyromancy Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614785",
+      "ItemName": "Burrower\u0027s Pyromancy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614316",
+      "ItemName": "Burrower\u0027s Pyromancy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614664",
+      "ItemName": "Burrower\u0027s Sorcery Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617140",
+      "ItemName": "Burrower\u0027s Sorcery Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614783",
+      "ItemName": "Burrower\u0027s Sorcery Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614314",
+      "ItemName": "Burrower\u0027s Sorcery Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617024",
+      "ItemName": "Burrower\u0027s Thaumaturgy Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614667",
+      "ItemName": "Burrower\u0027s Thaumaturgy Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614324",
+      "ItemName": "Burrower\u0027s Thaumaturgy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617143",
+      "ItemName": "Burrower\u0027s Thaumaturgy Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614310",
+      "ItemName": "Burrower\u0027s Thaumaturgy Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617144",
+      "ItemName": "Burrower\u0027s Theurgy Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614787",
+      "ItemName": "Burrower\u0027s Theurgy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614318",
+      "ItemName": "Burrower\u0027s Theurgy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1206360",
+      "ItemName": "Comet Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164422",
+      "ItemName": "Death Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614908",
+      "ItemName": "Diviner\u0027s Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "169311564",
+      "ItemName": "DoomGloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "228491667",
+      "ItemName": "Elemental Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1252606757",
+      "ItemName": "FireElfTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359770",
+      "ItemName": "Frosted Flax",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212015",
+      "ItemName": "Khrysalis Bastion Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212018",
+      "ItemName": "Khrysalis Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212020",
+      "ItemName": "Khrysalis Last Wood Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212021",
+      "ItemName": "Khrysalis Moon Cliffs Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514440",
+      "ItemName": "Legendary Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350236",
+      "ItemName": "Mithril",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258592",
+      "ItemName": "Perfect Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292151",
+      "ItemName": "Plain Burrower Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614904",
+      "ItemName": "Pyromancer\u0027s Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739194",
+      "ItemName": "Quetzal Cage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534337",
+      "ItemName": "RainyPoly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534335",
+      "ItemName": "RimyPoly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220325",
+      "ItemName": "Shiny Tomato",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160809",
+      "ItemName": "Singed Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614902",
+      "ItemName": "Sorcerer\u0027s Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "710379520",
+      "ItemName": "Storm Owl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1214821698",
+      "ItemName": "Sun Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614906",
+      "ItemName": "Theurgist\u0027s Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374384",
+      "ItemName": "Tyrian Gorge Rockwall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220229",
+      "ItemName": "Wafer Biscuit",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424675Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424675Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

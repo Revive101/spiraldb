@@ -1,0 +1,103 @@
+{
+  "Name": "BoosterPack-Set-02-Commons",
+  "Description": "BoosterPack-Set-02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1595132074",
+      "ItemName": "Bloodbat TC FC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1205031701",
+      "ItemName": "Dapper Frog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "655899589",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "999501018",
+      "ItemName": "ExitCombat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1722369010",
+      "ItemName": "FireCatTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1567327762",
+      "ItemName": "FrostBeetleTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "73626674",
+      "ItemName": "Giant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1161915321",
+      "ItemName": "Jinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1469002220",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588596516",
+      "ItemName": "Lord of the Jungle - A",
+      "Notes": ""
+    },
+    {
+      "ItemId": "921147923",
+      "ItemName": "Nature\u0027s Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "83699717",
+      "ItemName": "Pixie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1860161805",
+      "ItemName": "Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "157044698",
+      "ItemName": "Snow Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1635917677",
+      "ItemName": "Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2085329280",
+      "ItemName": "Sunbird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "74446689",
+      "ItemName": "Troll",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424415Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424416Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

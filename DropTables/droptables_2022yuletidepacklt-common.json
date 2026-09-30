@@ -1,0 +1,288 @@
+{
+  "Name": "2022YuletidePackLT-Common",
+  "Description": "BoosterPack-Set-139 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1359625",
+      "ItemName": "Beast Wellington",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511163",
+      "ItemName": "Blue Closed Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511179",
+      "ItemName": "Blue Crumpled Gift Wrapping",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511167",
+      "ItemName": "Blue Open Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511175",
+      "ItemName": "Blue Unboxed Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126817",
+      "ItemName": "Candle Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126816",
+      "ItemName": "Candy Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248061",
+      "ItemName": "Chili Peppermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522223",
+      "ItemName": "Evil Snowman Board (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448463",
+      "ItemName": "Festive Glass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448467",
+      "ItemName": "Festive Sundae",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724299",
+      "ItemName": "Fresh Powder Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126815",
+      "ItemName": "Gingerbread Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733177",
+      "ItemName": "Gingerbread Wizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511162",
+      "ItemName": "Green Closed Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511168",
+      "ItemName": "Green Open Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522242",
+      "ItemName": "Grumpy Gingerman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392078",
+      "ItemName": "Hespermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724297",
+      "ItemName": "Holiday Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589102",
+      "ItemName": "Hot Ginger Snaps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359605",
+      "ItemName": "Jiggy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1864620671",
+      "ItemName": "Krampus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1224876842",
+      "ItemName": "Levitate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733185",
+      "ItemName": "Mince Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126820",
+      "ItemName": "Mint Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470177",
+      "ItemName": "Mixed Candy-cane (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257589",
+      "ItemName": "Ninja Fig Bars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733179",
+      "ItemName": "Ninja Figgy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126814",
+      "ItemName": "Nutcracker Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126819",
+      "ItemName": "Ornamental Paper Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374297",
+      "ItemName": "Polaris Express (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1137028987",
+      "ItemName": "Rainmaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470174",
+      "ItemName": "Red Candy-cane (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511165",
+      "ItemName": "Red Closed Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511166",
+      "ItemName": "Red Open Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511174",
+      "ItemName": "Red Unboxed Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617994873",
+      "ItemName": "Reindeer Knight TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126808",
+      "ItemName": "Santa Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126806",
+      "ItemName": "Santa Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126807",
+      "ItemName": "Santa Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733176",
+      "ItemName": "Snow Apple Cider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1638001",
+      "ItemName": "Snow Hoppers Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617315",
+      "ItemName": "Snow Hoppers Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1623044",
+      "ItemName": "Snowflake Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617313",
+      "ItemName": "Snowflake Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392733",
+      "ItemName": "Snowhopper Sleigh (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126818",
+      "ItemName": "Star Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126821",
+      "ItemName": "Sweet Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511118",
+      "ItemName": "Winter Mint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1638000",
+      "ItemName": "Yuletide Gift Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617314",
+      "ItemName": "Yuletide Gift Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1638003",
+      "ItemName": "Yuletide Snowman Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359915",
+      "ItemName": "Yuletide Stag (1 Day)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.432968Z",
+  "ModifiedAt": "2026-09-30T03:55:50.432969Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

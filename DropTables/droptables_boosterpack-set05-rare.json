@@ -1,0 +1,73 @@
+{
+  "Name": "BoosterPack-Set05-Rare",
+  "Description": "BoosterPack-Set-05 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220206",
+      "ItemName": "Ape Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220277",
+      "ItemName": "Chocolate Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220281",
+      "ItemName": "Chocolate Donut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220278",
+      "ItemName": "Large Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220266",
+      "ItemName": "Meat Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220316",
+      "ItemName": "Moon Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220283",
+      "ItemName": "Nutty Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220300",
+      "ItemName": "Poncherello Chips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220262",
+      "ItemName": "Spicy Chips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220287",
+      "ItemName": "Star Lollipop",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424394Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424395Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

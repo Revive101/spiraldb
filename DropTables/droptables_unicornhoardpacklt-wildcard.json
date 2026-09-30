@@ -1,0 +1,93 @@
+{
+  "Name": "UnicornHoardPackLT-Wildcard",
+  "Description": "BoosterPack-Set-57 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1447030",
+      "ItemName": "Fantastic Plushie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447027",
+      "ItemName": "Fantastic Unicorn (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447026",
+      "ItemName": "Fantastic Unicorn (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447031",
+      "ItemName": "Majestic Plushie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447021",
+      "ItemName": "Majestic Unicorn (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447020",
+      "ItemName": "Majestic Unicorn (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447029",
+      "ItemName": "Mystic Plushie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447024",
+      "ItemName": "Mystic Unicorn (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447023",
+      "ItemName": "Mystic Unicorn (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446288",
+      "ItemName": "Unicorn Champion Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446346",
+      "ItemName": "Unicorn Champion\u0027s Rain-Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446246",
+      "ItemName": "Unicorn Knight Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446332",
+      "ItemName": "Unicorn Knight\u0027s Rain-Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446204",
+      "ItemName": "Unicorn Paladin Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446318",
+      "ItemName": "Unicorn Paladin\u0027s Rain-Bow",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.433280Z",
+  "ModifiedAt": "2026-09-30T03:55:50.433281Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

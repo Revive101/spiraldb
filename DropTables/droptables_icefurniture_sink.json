@@ -1,0 +1,33 @@
+{
+  "Name": "IceFurniture_Sink",
+  "Description": "Ice_Furniture_Set_02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1374189",
+      "ItemName": "Lydia\u0027s Chesterfield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317866",
+      "ItemName": "Lydia\u0027s Icy Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374182",
+      "ItemName": "Lydia\u0027s Icy Kitchen Counter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423636Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423636Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

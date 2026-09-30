@@ -1,0 +1,53 @@
+{
+  "Name": "2023Burrowers-PackLT-Common",
+  "Description": "BoosterPack-Set-137 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1605753",
+      "ItemName": "Burrowing Bane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1605750",
+      "ItemName": "Deermouse Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1605755",
+      "ItemName": "Dyvim\u0027s Resurgence ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1605752",
+      "ItemName": "Hero of Khrysalis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1605754",
+      "ItemName": "Kiiii-yaaaa!",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1605751",
+      "ItemName": "Revolutionary\u0027s Strike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1605749",
+      "ItemName": "Whitehart Fire",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424652Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424652Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

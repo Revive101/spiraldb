@@ -1,0 +1,53 @@
+{
+  "Name": "WP-KR-ML-Hat-LT",
+  "Description": "BoosterPack-Set-125 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1548994",
+      "ItemName": "Burrower Crown of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548990",
+      "ItemName": "Charred Mantle of the Burn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548993",
+      "ItemName": "Digger Drone Helm of Duty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548989",
+      "ItemName": "Fallen Knight Death Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548988",
+      "ItemName": "Gorge Digger\u0027s Sturdy Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548992",
+      "ItemName": "Mantis Cover of Readiness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548991",
+      "ItemName": "Mantis Helm of Cold Truth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.426022Z",
+  "ModifiedAt": "2026-09-30T03:55:50.426022Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,603 @@
+{
+  "Name": "2024FancifulFairyKei-PackLT-Uncommon",
+  "Description": "BoosterPack-Set-142 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1421822",
+      "ItemName": "Aethyr Dust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499029",
+      "ItemName": "Black Friendship Bear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220193",
+      "ItemName": "Blonde Strawberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479604",
+      "ItemName": "Blue and Yellow Star Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220198",
+      "ItemName": "Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473428",
+      "ItemName": "Carnation Pixie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642100",
+      "ItemName": "Charming Moon (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191222",
+      "ItemName": "Chestnut Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652913",
+      "ItemName": "Cool Fairy Kei Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652031",
+      "ItemName": "Cool Fairy Kei Broadbrim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652038",
+      "ItemName": "Cool Fairy Kei Dress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652409",
+      "ItemName": "Cool Fairy Kei Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652423",
+      "ItemName": "Cool Fairy Kei Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652787",
+      "ItemName": "Cool Fairy Kei Parasol",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652416",
+      "ItemName": "Cool Fairy Kei Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652045",
+      "ItemName": "Cool Fairy Kei Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160637",
+      "ItemName": "Crusher\u0027s Milk Bottle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652910",
+      "ItemName": "Cute Fairy Kei Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652028",
+      "ItemName": "Cute Fairy Kei Broadbrim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652035",
+      "ItemName": "Cute Fairy Kei Dress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652406",
+      "ItemName": "Cute Fairy Kei Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652420",
+      "ItemName": "Cute Fairy Kei Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652784",
+      "ItemName": "Cute Fairy Kei Parasol",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652413",
+      "ItemName": "Cute Fairy Kei Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652042",
+      "ItemName": "Cute Fairy Kei Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642094",
+      "ItemName": "Cutesy Moon (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260037",
+      "ItemName": "Cyan Bamboo Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359277",
+      "ItemName": "Cyan Ceramic Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652916",
+      "ItemName": "Electric Fairy Kei Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652034",
+      "ItemName": "Electric Fairy Kei Broadbrim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652041",
+      "ItemName": "Electric Fairy Kei Dress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652412",
+      "ItemName": "Electric Fairy Kei Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652426",
+      "ItemName": "Electric Fairy Kei Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652790",
+      "ItemName": "Electric Fairy Kei Parasol",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652419",
+      "ItemName": "Electric Fairy Kei Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652048",
+      "ItemName": "Electric Fairy Kei Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642097",
+      "ItemName": "Fancy Moon (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374490",
+      "ItemName": "Fancy Tea Service",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652912",
+      "ItemName": "Fire Fairy Kei Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652030",
+      "ItemName": "Fire Fairy Kei Broadbrim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652037",
+      "ItemName": "Fire Fairy Kei Dress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652408",
+      "ItemName": "Fire Fairy Kei Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652422",
+      "ItemName": "Fire Fairy Kei Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652786",
+      "ItemName": "Fire Fairy Kei Parasol",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652415",
+      "ItemName": "Fire Fairy Kei Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652044",
+      "ItemName": "Fire Fairy Kei Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350215",
+      "ItemName": "Friendship Teddy Bear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220242",
+      "ItemName": "Frosted Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560097",
+      "ItemName": "Giant Blueberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560099",
+      "ItemName": "Giant Cherry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652414",
+      "ItemName": "Goth Fairy Kei Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652407",
+      "ItemName": "Goth Fairy Kei Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652421",
+      "ItemName": "Goth Fairy Kei Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652029",
+      "ItemName": "Goth Fairy Kei Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652911",
+      "ItemName": "Goth Fairy Kei Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652043",
+      "ItemName": "Goth Fairy Kei Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652036",
+      "ItemName": "Goth Fairy Kei Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652785",
+      "ItemName": "Goth Fairy Kei Umbrella",
+      "Notes": ""
+    },
+    {
+      "ItemId": "211125",
+      "ItemName": "Gumball Machine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499013",
+      "ItemName": "Heart of Moon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499012",
+      "ItemName": "Heart of Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220288",
+      "ItemName": "Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160251",
+      "ItemName": "Knotted Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260029",
+      "ItemName": "Lilac Bamboo Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359281",
+      "ItemName": "Lilac Ceramic Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652417",
+      "ItemName": "Lovely Fairy Kei Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652410",
+      "ItemName": "Lovely Fairy Kei Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652424",
+      "ItemName": "Lovely Fairy Kei Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652032",
+      "ItemName": "Lovely Fairy Kei Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652914",
+      "ItemName": "Lovely Fairy Kei Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652046",
+      "ItemName": "Lovely Fairy Kei Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652039",
+      "ItemName": "Lovely Fairy Kei Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652788",
+      "ItemName": "Lovely Fairy Kei Umbrella",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260034",
+      "ItemName": "Maize Bamboo Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359287",
+      "ItemName": "Maize Ceramic Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "425083",
+      "ItemName": "Moonlight Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160439",
+      "ItemName": "Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1520577",
+      "ItemName": "Pawtunias",
+      "Notes": ""
+    },
+    {
+      "ItemId": "211111",
+      "ItemName": "Piggy Bank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374260",
+      "ItemName": "Pingouin Teapot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260026",
+      "ItemName": "Pink Bamboo Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359282",
+      "ItemName": "Pink Ceramic Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499031",
+      "ItemName": "Pink Friendship Bear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164121",
+      "ItemName": "Pink Heart Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359241",
+      "ItemName": "Pink Polka Dot Carpet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220247",
+      "ItemName": "Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160610",
+      "ItemName": "Potted Purple Pansy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220233",
+      "ItemName": "Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470095",
+      "ItemName": "Purple Fairy Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499035",
+      "ItemName": "Purple Friendship Mander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473424",
+      "ItemName": "Rose Pixie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473426",
+      "ItemName": "Roseate Pixie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499055",
+      "ItemName": "Small Rainbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220207",
+      "ItemName": "Spicy Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191659",
+      "ItemName": "Starlight Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "425087",
+      "ItemName": "Starshine Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164123",
+      "ItemName": "Stormwracked Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160617",
+      "ItemName": "Sunflower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220194",
+      "ItemName": "Sweet Pineapple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359138",
+      "ItemName": "Tea Party Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160596",
+      "ItemName": "Tea Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206114",
+      "ItemName": "Tea Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652418",
+      "ItemName": "Trendy Fairy Kei Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652411",
+      "ItemName": "Trendy Fairy Kei Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652425",
+      "ItemName": "Trendy Fairy Kei Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652033",
+      "ItemName": "Trendy Fairy Kei Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652915",
+      "ItemName": "Trendy Fairy Kei Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652047",
+      "ItemName": "Trendy Fairy Kei Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652040",
+      "ItemName": "Trendy Fairy Kei Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1652789",
+      "ItemName": "Trendy Fairy Kei Umbrella",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538065",
+      "ItemName": "Vine Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260031",
+      "ItemName": "Violet Bamboo Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359290",
+      "ItemName": "Violet Ceramic Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560092",
+      "ItemName": "Wide Teapot Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164286",
+      "ItemName": "Wizdoodle Wallpaper",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.429908Z",
+  "ModifiedAt": "2026-09-30T03:55:50.429908Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

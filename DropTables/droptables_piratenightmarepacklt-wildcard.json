@@ -1,0 +1,118 @@
+{
+  "Name": "PirateNightmarePackLT-Wildcard",
+  "Description": "BoosterPack-Set-82 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1481488",
+      "ItemName": "Blighted Captain\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481474",
+      "ItemName": "Blighted Captain\u0027s Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481586",
+      "ItemName": "Blighted Captain\u0027s Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481460",
+      "ItemName": "Blighted Captain\u0027s Tricorne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481530",
+      "ItemName": "Cursed Captain\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481516",
+      "ItemName": "Cursed Captain\u0027s Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481600",
+      "ItemName": "Cursed Captain\u0027s Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481502",
+      "ItemName": "Cursed Captain\u0027s Tricorne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404116",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1451779",
+      "ItemName": "Flying Dutchman (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1451788",
+      "ItemName": "Ghoulish Macawbre",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383176",
+      "ItemName": "Gravedigger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481572",
+      "ItemName": "Haunted Captain\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481558",
+      "ItemName": "Haunted Captain\u0027s Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481614",
+      "ItemName": "Haunted Captain\u0027s Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481544",
+      "ItemName": "Haunted Captain\u0027s Tricorne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1451790",
+      "ItemName": "Morbid Macawbre",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383172",
+      "ItemName": "Scarecrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1451789",
+      "ItemName": "Spooky Macawbre",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383180",
+      "ItemName": "Wraith",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423180Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423181Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,113 @@
+{
+  "Name": "RATrainPackLT-Rare",
+  "Description": "BoosterPack-Set-107 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1519919",
+      "ItemName": "Cool Rancher\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519904",
+      "ItemName": "Cool Rancher\u0027s Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519889",
+      "ItemName": "Cool Rancher\u0027s Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523009",
+      "ItemName": "Desert Wrangler\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519994",
+      "ItemName": "Desert Wrangler\u0027s Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519979",
+      "ItemName": "Desert Wrangler\u0027s Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522024",
+      "ItemName": "First Class Ticket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507362",
+      "ItemName": "Moseyin\u0027 Armadillo (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519964",
+      "ItemName": "Prairie Rambler\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519949",
+      "ItemName": "Prairie Rambler\u0027s Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519934",
+      "ItemName": "Prairie Rambler\u0027s Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523040",
+      "ItemName": "Rambler\u0027s Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507401",
+      "ItemName": "Rambler\u0027s Runner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507368",
+      "ItemName": "Ramblin\u0027 Armadillo (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523025",
+      "ItemName": "Rancher\u0027s Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507403",
+      "ItemName": "Rancher\u0027s Runner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507365",
+      "ItemName": "Trusty Armadillo (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523055",
+      "ItemName": "Wrangler\u0027s Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507402",
+      "ItemName": "Wrangler\u0027s Runner",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.428844Z",
+  "ModifiedAt": "2026-09-30T03:55:50.428845Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

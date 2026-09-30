@@ -1,0 +1,98 @@
+{
+  "Name": "2022LMPackLT-Wildcard",
+  "Description": "BoosterPack-Set-115 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1540255",
+      "ItemName": "Buck Gordon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507735",
+      "ItemName": "Buck Gordon\u0027s Jetpack (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507734",
+      "ItemName": "Buck Gordon\u0027s Jetpack (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507730",
+      "ItemName": "Buck Gordon\u0027s Jetpack (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540258",
+      "ItemName": "Dog Tracy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540246",
+      "ItemName": "Duck Savage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507755",
+      "ItemName": "Li\u0027l Lemur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540227",
+      "ItemName": "Mandar the Barbarian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534107",
+      "ItemName": "Night Forest Well",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522405",
+      "ItemName": "Sky City Hover Car Apple Green",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534091",
+      "ItemName": "Sky City Hover Car Magenta",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534093",
+      "ItemName": "Sky City Rocket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540249",
+      "ItemName": "Solomon Crane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540243",
+      "ItemName": "Stallion Quartermane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540240",
+      "ItemName": "The Bantam",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540252",
+      "ItemName": "The Shadoe",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427372Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427373Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

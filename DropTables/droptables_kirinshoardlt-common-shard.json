@@ -1,0 +1,28 @@
+{
+  "Name": "KirinsHoardLT-Common-Shard",
+  "Description": "BoosterPack-Set-110 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1494689",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1494691",
+      "ItemName": "Scorpion",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.428666Z",
+  "ModifiedAt": "2026-09-30T03:55:50.428667Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

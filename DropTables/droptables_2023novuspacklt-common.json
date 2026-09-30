@@ -1,0 +1,298 @@
+{
+  "Name": "2023NovusPackLT-Common",
+  "Description": "BoosterPack-Set-133 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "641608",
+      "ItemName": "Asparagus Spears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "514203989",
+      "ItemName": "Balanceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733131",
+      "ItemName": "Bedrock Bonbons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558429",
+      "ItemName": "Catmandu Carving",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558430",
+      "ItemName": "Catmandu Roundel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160648",
+      "ItemName": "Coil of Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1432098147",
+      "ItemName": "Deathblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248255",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850164170",
+      "ItemName": "Fireblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317098",
+      "ItemName": "Fish Taco",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160632",
+      "ItemName": "Fishbones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317930",
+      "ItemName": "Flawless Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317932",
+      "ItemName": "Flawless Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317937",
+      "ItemName": "Flawless Hematite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317935",
+      "ItemName": "Flawless Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317933",
+      "ItemName": "Flawless Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350076",
+      "ItemName": "Flawless Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317936",
+      "ItemName": "Flawless Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317931",
+      "ItemName": "Flawless Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317934",
+      "ItemName": "Flawless Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558433",
+      "ItemName": "Giant Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558434",
+      "ItemName": "Giant Croissant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558435",
+      "ItemName": "Giant Pineapple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317939",
+      "ItemName": "Hematite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2039832976",
+      "ItemName": "Iceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473638",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160651",
+      "ItemName": "Large Maroon Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850143684",
+      "ItemName": "Lifeblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733114",
+      "ItemName": "Maize",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789214",
+      "ItemName": "Manderdrake fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641692",
+      "ItemName": "Marshmellon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733128",
+      "ItemName": "Marzipan Maize",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160653",
+      "ItemName": "Medium Magenta Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160652",
+      "ItemName": "Medium Purple Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850060227",
+      "ItemName": "Mythblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350074",
+      "ItemName": "Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160649",
+      "ItemName": "Ornate Oval Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317938",
+      "ItemName": "Perfect Hematite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350075",
+      "ItemName": "Perfect Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374246",
+      "ItemName": "Pingouin Butter Churn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733129",
+      "ItemName": "Pyramints",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641680",
+      "ItemName": "Queasy Quiche",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733137",
+      "ItemName": "Quetzal Pretzel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733134",
+      "ItemName": "Rex Tea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248248",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374272",
+      "ItemName": "Small Walrusk Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1427058518",
+      "ItemName": "StormShark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641681",
+      "ItemName": "Street Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257585",
+      "ItemName": "Stuffed Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220218",
+      "ItemName": "Sugar Donut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248052",
+      "ItemName": "Sugar Khrystals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537587",
+      "ItemName": "Sunflower Hearts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248001",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374273",
+      "ItemName": "Walrusk Travel Trunk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374274",
+      "ItemName": "Walrusk Wooden Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1787596956",
+      "ItemName": "Wild Bolt",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.399070Z",
+  "ModifiedAt": "2026-09-30T03:55:50.403527Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

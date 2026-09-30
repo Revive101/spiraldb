@@ -1,0 +1,913 @@
+{
+  "Name": "JewelPackLT-Metals",
+  "Description": "BoosterPack-Set-33 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "927785577",
+      "ItemName": "Amplify",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1897131657",
+      "ItemName": "Balefrost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "827530221",
+      "ItemName": "Barbarians Saga - A",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1852782803",
+      "ItemName": "Blood Moon TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350234",
+      "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528019365",
+      "ItemName": "Buff Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350233",
+      "ItemName": "Cobalt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350013",
+      "ItemName": "Copper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352626",
+      "ItemName": "Cracked Damage Amethyst \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352627",
+      "ItemName": "Cracked Damage Amethyst \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352628",
+      "ItemName": "Cracked Damage Amethyst \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357336",
+      "ItemName": "Cracked Defense Amethyst \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357330",
+      "ItemName": "Cracked Defense Amethyst \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357331",
+      "ItemName": "Cracked Defense Amethyst \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357332",
+      "ItemName": "Cracked Defense Amethyst \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357333",
+      "ItemName": "Cracked Defense Amethyst \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357334",
+      "ItemName": "Cracked Defense Amethyst \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357335",
+      "ItemName": "Cracked Defense Amethyst \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357516",
+      "ItemName": "Cracked Defense Citrine \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357510",
+      "ItemName": "Cracked Defense Citrine \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357511",
+      "ItemName": "Cracked Defense Citrine \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357512",
+      "ItemName": "Cracked Defense Citrine \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357513",
+      "ItemName": "Cracked Defense Citrine \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357514",
+      "ItemName": "Cracked Defense Citrine \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357515",
+      "ItemName": "Cracked Defense Citrine \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357426",
+      "ItemName": "Cracked Defense Jade \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357420",
+      "ItemName": "Cracked Defense Jade \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357421",
+      "ItemName": "Cracked Defense Jade \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357422",
+      "ItemName": "Cracked Defense Jade \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357423",
+      "ItemName": "Cracked Defense Jade \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357424",
+      "ItemName": "Cracked Defense Jade \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357425",
+      "ItemName": "Cracked Defense Jade \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357471",
+      "ItemName": "Cracked Defense Onyx \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357465",
+      "ItemName": "Cracked Defense Onyx \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357466",
+      "ItemName": "Cracked Defense Onyx \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357467",
+      "ItemName": "Cracked Defense Onyx \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357468",
+      "ItemName": "Cracked Defense Onyx \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357469",
+      "ItemName": "Cracked Defense Onyx \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357470",
+      "ItemName": "Cracked Defense Onyx \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358567",
+      "ItemName": "Cracked Defense Opal \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358568",
+      "ItemName": "Cracked Defense Opal \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358569",
+      "ItemName": "Cracked Defense Opal \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357381",
+      "ItemName": "Cracked Defense Peridot \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357375",
+      "ItemName": "Cracked Defense Peridot \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357376",
+      "ItemName": "Cracked Defense Peridot \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357377",
+      "ItemName": "Cracked Defense Peridot \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357378",
+      "ItemName": "Cracked Defense Peridot \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357379",
+      "ItemName": "Cracked Defense Peridot \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357380",
+      "ItemName": "Cracked Defense Peridot \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357246",
+      "ItemName": "Cracked Defense Ruby \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357240",
+      "ItemName": "Cracked Defense Ruby \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357241",
+      "ItemName": "Cracked Defense Ruby \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357242",
+      "ItemName": "Cracked Defense Ruby \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357243",
+      "ItemName": "Cracked Defense Ruby \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357244",
+      "ItemName": "Cracked Defense Ruby \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357245",
+      "ItemName": "Cracked Defense Ruby \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357291",
+      "ItemName": "Cracked Defense Sapphire \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357285",
+      "ItemName": "Cracked Defense Sapphire \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357286",
+      "ItemName": "Cracked Defense Sapphire \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357287",
+      "ItemName": "Cracked Defense Sapphire \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357288",
+      "ItemName": "Cracked Defense Sapphire \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357289",
+      "ItemName": "Cracked Defense Sapphire \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357290",
+      "ItemName": "Cracked Defense Sapphire \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352473",
+      "ItemName": "Cracked Energy Opal \u002B1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352474",
+      "ItemName": "Cracked Energy Opal \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352475",
+      "ItemName": "Cracked Energy Opal \u002B3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352478",
+      "ItemName": "Cracked Fishing Opal \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352479",
+      "ItemName": "Cracked Fishing Opal \u002B2%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352480",
+      "ItemName": "Cracked Fishing Opal \u002B3%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352336",
+      "ItemName": "Cracked Health Opal \u002B10",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352337",
+      "ItemName": "Cracked Health Opal \u002B11",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352338",
+      "ItemName": "Cracked Health Opal \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352339",
+      "ItemName": "Cracked Health Opal \u002B13",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352332",
+      "ItemName": "Cracked Health Opal \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352333",
+      "ItemName": "Cracked Health Opal \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352334",
+      "ItemName": "Cracked Health Opal \u002B8",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352335",
+      "ItemName": "Cracked Health Opal \u002B9",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352432",
+      "ItemName": "Cracked Mana Opal \u002B4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352433",
+      "ItemName": "Cracked Mana Opal \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352434",
+      "ItemName": "Cracked Mana Opal \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1691570967",
+      "ItemName": "Dapper Frog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "400441911",
+      "ItemName": "Deathbane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1432098147",
+      "ItemName": "Deathblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2002710598",
+      "ItemName": "Deathspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "726534295",
+      "ItemName": "Doom and Gloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "169311564",
+      "ItemName": "DoomGloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350238",
+      "ItemName": "Draconium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "563889646",
+      "ItemName": "Drain Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358970936",
+      "ItemName": "Draw Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "406225536",
+      "ItemName": "Dream Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "228491667",
+      "ItemName": "Elemental Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "406082332",
+      "ItemName": "Elemental Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1974772770",
+      "ItemName": "Entangle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "432322239",
+      "ItemName": "Ether Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1070935258",
+      "ItemName": "ExitCombat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850164170",
+      "ItemName": "Fireblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1252606757",
+      "ItemName": "FireElfTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "196898529",
+      "ItemName": "Firespear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317930",
+      "ItemName": "Flawless Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317932",
+      "ItemName": "Flawless Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317935",
+      "ItemName": "Flawless Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317933",
+      "ItemName": "Flawless Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350076",
+      "ItemName": "Flawless Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317936",
+      "ItemName": "Flawless Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317931",
+      "ItemName": "Flawless Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317934",
+      "ItemName": "Flawless Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698635320",
+      "ItemName": "Glacial Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2039832976",
+      "ItemName": "Iceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "811458871",
+      "ItemName": "Icespear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "152469527",
+      "ItemName": "Infallible",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350232",
+      "ItemName": "Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106952",
+      "ItemName": "Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "460737973",
+      "ItemName": "Kraken",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1737184053",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "337647600",
+      "ItemName": "Legend Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1468932204",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850143684",
+      "ItemName": "Lifeblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "196886251",
+      "ItemName": "Lifespear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1163661757",
+      "ItemName": "Mass Death Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1313042323",
+      "ItemName": "Mass Fire Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2017171798",
+      "ItemName": "Mass Ice Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514368819",
+      "ItemName": "Mass Life Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480811175",
+      "ItemName": "Mass Myth Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "727496649",
+      "ItemName": "Mass Storm Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1527946154",
+      "ItemName": "Mend Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1473562491",
+      "ItemName": "Meteor Strike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350236",
+      "ItemName": "Mithril",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1882775670",
+      "ItemName": "Mythbane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850060227",
+      "ItemName": "Mythblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "196801772",
+      "ItemName": "Mythspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350014",
+      "ItemName": "Nickel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice\u0027s Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106951",
+      "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350074",
+      "ItemName": "Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350237",
+      "ItemName": "Orichalcum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258590",
+      "ItemName": "Perfect Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258591",
+      "ItemName": "Perfect Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258592",
+      "ItemName": "Perfect Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258593",
+      "ItemName": "Perfect Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350075",
+      "ItemName": "Perfect Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258594",
+      "ItemName": "Perfect Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258595",
+      "ItemName": "Perfect Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258596",
+      "ItemName": "Perfect Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789100222",
+      "ItemName": "Power Play",
+      "Notes": ""
+    },
+    {
+      "ItemId": "494395807",
+      "ItemName": "Purloin Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1280383022",
+      "ItemName": "Purloin Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1810482127",
+      "ItemName": "Quench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "405079011",
+      "ItemName": "Reshuffle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106946",
+      "ItemName": "Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106947",
+      "ItemName": "Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "30348397",
+      "ItemName": "Scarecrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470281264",
+      "ItemName": "Scorpion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1792941517",
+      "ItemName": "Shadow DPS",
+      "Notes": ""
+    },
+    {
+      "ItemId": "805237041",
+      "ItemName": "Sniper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1602678957",
+      "ItemName": "Snow Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "219828186",
+      "ItemName": "SnowShield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "252281618",
+      "ItemName": "Spectral Blast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1893708917",
+      "ItemName": "Spirit Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2068523261",
+      "ItemName": "Spirit Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "565728569",
+      "ItemName": "Steal Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1427058518",
+      "ItemName": "StormShark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "270649859",
+      "ItemName": "StormShield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1997392499",
+      "ItemName": "Stormspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1974779768",
+      "ItemName": "Strangle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1848606682",
+      "ItemName": "Stun Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598790014",
+      "ItemName": "Supernova",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1976982595",
+      "ItemName": "Take Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1250455896",
+      "ItemName": "Thermic Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350235",
+      "ItemName": "Tungsten",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82261857",
+      "ItemName": "TutorialClearBlade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "397526782",
+      "ItemName": "Unbalance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "395069992",
+      "ItemName": "Vaporize",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446852032",
+      "ItemName": "Volcanic Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1313738267",
+      "ItemName": "WoollyMammoth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "382318891",
+      "ItemName": "Wyldfire",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.438820Z",
+  "ModifiedAt": "2026-09-30T03:55:50.438821Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

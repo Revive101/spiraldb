@@ -1,0 +1,73 @@
+{
+  "Name": "HG-PackLT-Wildcard",
+  "Description": "BoosterPack-Set-124 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1507838",
+      "ItemName": "Dire Loch Monster (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507837",
+      "ItemName": "Dread Loch Monster (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507849",
+      "ItemName": "Dutiful Terrier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545070",
+      "ItemName": "Ettin Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545074",
+      "ItemName": "Ettin Fanatic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545071",
+      "ItemName": "Ettin Spectator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507842",
+      "ItemName": "Grim Loch Monster (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507850",
+      "ItemName": "Loyal Terrier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545077",
+      "ItemName": "Slugfest Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545076",
+      "ItemName": "Slugfest Spectator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507851",
+      "ItemName": "Trusty Terrier",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.426203Z",
+  "ModifiedAt": "2026-09-30T03:55:50.426204Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

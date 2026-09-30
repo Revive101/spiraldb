@@ -1,0 +1,293 @@
+{
+  "Name": "AQ2025PackLT-Rare-2",
+  "Description": "BoosterPack-Set-157 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473722",
+      "ItemName": "Agave Leaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212000",
+      "ItemName": "Aquila Atlantea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212004",
+      "ItemName": "Aquila Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672968",
+      "ItemName": "Aquila Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672974",
+      "ItemName": "Aquila Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672975",
+      "ItemName": "Aquila Pavilion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212002",
+      "ItemName": "Aquila Tartarus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696996",
+      "ItemName": "Armor of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696999",
+      "ItemName": "Armor of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698001",
+      "ItemName": "Armor of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739109",
+      "ItemName": "Basket of Spears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698006",
+      "ItemName": "Boots of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698008",
+      "ItemName": "Boots of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698004",
+      "ItemName": "Boots of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696512",
+      "ItemName": "Charm of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696517",
+      "ItemName": "Charm of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696515",
+      "ItemName": "Charm of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160845",
+      "ItemName": "Copper Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696993",
+      "ItemName": "Crown of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696991",
+      "ItemName": "Crown of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696989",
+      "ItemName": "Crown of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696994",
+      "ItemName": "Crown of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100407",
+      "ItemName": "Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696498",
+      "ItemName": "Dagger of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696503",
+      "ItemName": "Dagger of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696502",
+      "ItemName": "Dagger of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696500",
+      "ItemName": "Dagger of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220314",
+      "ItemName": "Fairy Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724071",
+      "ItemName": "Gallant Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350763",
+      "ItemName": "Golden Blossom Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220291",
+      "ItemName": "Golden Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206117",
+      "ItemName": "Large Clay Jar ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350012",
+      "ItemName": "Lead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225412",
+      "ItemName": "Nightwalker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350237",
+      "ItemName": "Orichalcum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473166",
+      "ItemName": "Purple Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696505",
+      "ItemName": "Ring of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696510",
+      "ItemName": "Ring of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696509",
+      "ItemName": "Ring of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696507",
+      "ItemName": "Ring of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258580",
+      "ItemName": "Shark Tooth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160884",
+      "ItemName": "Short Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643087",
+      "ItemName": "Short Woven Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160261",
+      "ItemName": "Small Purple Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160242",
+      "ItemName": "Snapped Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220205",
+      "ItemName": "Square Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220257",
+      "ItemName": "Stinky Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160256",
+      "ItemName": "Stitched Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160240",
+      "ItemName": "Stone Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248008",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317270",
+      "ItemName": "Tapestry to Aquila Gardens",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.432761Z",
+  "ModifiedAt": "2026-09-30T03:55:50.432762Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

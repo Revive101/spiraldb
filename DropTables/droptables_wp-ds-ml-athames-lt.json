@@ -1,0 +1,53 @@
+{
+  "Name": "WP-DS-ML-Athames-LT",
+  "Description": "BoosterPack-Set-118 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1548914",
+      "ItemName": "Gurtok Chillblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548912",
+      "ItemName": "Gurtok Ender\u0027s Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548915",
+      "ItemName": "Gurtok Everthorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548913",
+      "ItemName": "Gurtok Firetusk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548916",
+      "ItemName": "Gurtok Mythslayer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548911",
+      "ItemName": "Gurtok Scaleblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548917",
+      "ItemName": "Gurtok Telluric Steel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427041Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427041Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

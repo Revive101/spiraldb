@@ -1,0 +1,38 @@
+{
+  "Name": "2022YuletidePackLT-Wildcard",
+  "Description": "BoosterPack-Set-132 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1558242",
+      "ItemName": "Cobbler\u0027s Rocking Horse (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558244",
+      "ItemName": "Solstice Rocking Horse (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558241",
+      "ItemName": "Toymaker\u0027s Rocking Horse (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558243",
+      "ItemName": "Winter Rocking Horse (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.436652Z",
+  "ModifiedAt": "2026-09-30T03:55:50.436652Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

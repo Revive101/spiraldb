@@ -1,0 +1,43 @@
+{
+  "Name": "BoosterPack-Set-04-Uncommons-Commons",
+  "Description": "BoosterPack-Set-04 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106969",
+      "ItemName": "Frost Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412019Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412019Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "BLFurniture_Chair",
+  "Description": "Balance_Furniture_Set_01 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1204458",
+      "ItemName": "Alhazred\u0027s Cathedra",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439444Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439444Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

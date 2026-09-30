@@ -1,0 +1,483 @@
+{
+  "Name": "WP-DS-ML-Amulet-LT",
+  "Description": "BoosterPack-Set-118 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "765789422",
+      "ItemName": "Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357076",
+      "ItemName": "Blemished Accurate Amethyst \u002B5%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357112",
+      "ItemName": "Blemished Accurate Citrine \u002B5%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357094",
+      "ItemName": "Blemished Accurate Jade \u002B5%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357103",
+      "ItemName": "Blemished Accurate Onyx \u002B5%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357085",
+      "ItemName": "Blemished Accurate Peridot \u002B5%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357058",
+      "ItemName": "Blemished Accurate Ruby \u002B5%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357067",
+      "ItemName": "Blemished Accurate Sapphire \u002B5%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352636",
+      "ItemName": "Blemished Damage Amethyst \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352732",
+      "ItemName": "Blemished Damage Citrine \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352684",
+      "ItemName": "Blemished Damage Jade \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352708",
+      "ItemName": "Blemished Damage Onyx \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352754",
+      "ItemName": "Blemished Damage Opal \u002B6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352660",
+      "ItemName": "Blemished Damage Peridot \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352588",
+      "ItemName": "Blemished Damage Ruby \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352612",
+      "ItemName": "Blemished Damage Sapphire \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357349",
+      "ItemName": "Blemished Defense Amethyst \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357350",
+      "ItemName": "Blemished Defense Amethyst \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357529",
+      "ItemName": "Blemished Defense Citrine \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357530",
+      "ItemName": "Blemished Defense Citrine \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357574",
+      "ItemName": "Blemished Defense Hematite \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357575",
+      "ItemName": "Blemished Defense Hematite \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357439",
+      "ItemName": "Blemished Defense Jade \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357440",
+      "ItemName": "Blemished Defense Jade \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357484",
+      "ItemName": "Blemished Defense Onyx \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357485",
+      "ItemName": "Blemished Defense Onyx \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358577",
+      "ItemName": "Blemished Defense Opal \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357394",
+      "ItemName": "Blemished Defense Peridot \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357395",
+      "ItemName": "Blemished Defense Peridot \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357259",
+      "ItemName": "Blemished Defense Ruby \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357260",
+      "ItemName": "Blemished Defense Ruby \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357304",
+      "ItemName": "Blemished Defense Sapphire \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357305",
+      "ItemName": "Blemished Defense Sapphire \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352369",
+      "ItemName": "Blemished Health Opal \u002B43",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352370",
+      "ItemName": "Blemished Health Opal \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352371",
+      "ItemName": "Blemished Health Opal \u002B45",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352446",
+      "ItemName": "Blemished Mana Opal \u002B18",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352447",
+      "ItemName": "Blemished Mana Opal \u002B19",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352448",
+      "ItemName": "Blemished Mana Opal \u002B20",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357128",
+      "ItemName": "Blemished PIP Opal \u002B4%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1582290737",
+      "ItemName": "Blood Bat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181051",
+      "ItemName": "Brick Fire Pit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160889",
+      "ItemName": "Broken Rock Shard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160891",
+      "ItemName": "Broken Wall Segment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548923",
+      "ItemName": "Chronius\u0027 Continuum Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548922",
+      "ItemName": "Crystalline Queen\u0027s Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2015710230",
+      "ItemName": "Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "684997484",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126683",
+      "ItemName": "Deck of Last Departure",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126685",
+      "ItemName": "Deck of Nature\u0027s Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126682",
+      "ItemName": "Deck of Perfect Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126672",
+      "ItemName": "Deck of the Devouring Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126673",
+      "ItemName": "Deck of the Ice Wyrm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126662",
+      "ItemName": "Deck of the Sage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160897",
+      "ItemName": "Draconic Street Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160898",
+      "ItemName": "Draconic Street Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160813",
+      "ItemName": "Dragonspyre Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160851",
+      "ItemName": "Dragonspyre Statue Base",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359149",
+      "ItemName": "Drake Family Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1038926056",
+      "ItemName": "Evil Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1744133227",
+      "ItemName": "Fire Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "731208954",
+      "ItemName": "Fire Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528065072",
+      "ItemName": "Frost Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "995325515",
+      "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160856",
+      "ItemName": "Headmaster Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160854",
+      "ItemName": "Hydra Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "347166790",
+      "ItemName": "Imp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160887",
+      "ItemName": "Jagged Rock Shard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126684",
+      "ItemName": "Karuvian Deck of Eternity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160857",
+      "ItemName": "Kraken Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548919",
+      "ItemName": "Kraysys\u0027 Astral Carcanet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160822",
+      "ItemName": "Lectern with Singed Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1477357073",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350323",
+      "ItemName": "Lg. Keeper Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1593772229",
+      "ItemName": "Lightning Bats",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1998448702",
+      "ItemName": "Locust Swarm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82913",
+      "ItemName": "Looped Wall Chain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548924",
+      "ItemName": "Markmaker\u0027s Lightning Locket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160829",
+      "ItemName": "Memorial Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160858",
+      "ItemName": "Minotaur Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "917020150",
+      "ItemName": "Nature\u0027s Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160859",
+      "ItemName": "Oni Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479636",
+      "ItemName": "Orange Crystals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160903",
+      "ItemName": "Rock Chunk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160890",
+      "ItemName": "Ruined Arch Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126677",
+      "ItemName": "Sea Lord\u0027s Deck of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548918",
+      "ItemName": "Shadowmark\u0027s Charm of Making",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548920",
+      "ItemName": "Snowcrusher\u0027s Flame Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548921",
+      "ItemName": "Spiderkeeper\u0027s Frostcharm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160860",
+      "ItemName": "Stone Rose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82912",
+      "ItemName": "Wall Chains",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160853",
+      "ItemName": "Wyrmkin Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359245",
+      "ItemName": "Young Cyrus Drake Portrait",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427048Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427048Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

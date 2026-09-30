@@ -1,0 +1,403 @@
+{
+  "Name": "WyvernsHoardLT-Wildcard",
+  "Description": "BoosterPack-Set-85 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739178",
+      "ItemName": "Azteca Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739079",
+      "ItemName": "Azteca Fire Pit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512211",
+      "ItemName": "Azteca Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739087",
+      "ItemName": "Azteca Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512212",
+      "ItemName": "Azteca Swamp Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739100",
+      "ItemName": "Azteca Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739072",
+      "ItemName": "Aztecosaur Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739073",
+      "ItemName": "Aztecosaur Stela",
+      "Notes": ""
+    },
+    {
+      "ItemId": "6023375",
+      "ItemName": "Baby Sunbird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537593",
+      "ItemName": "Beetle Cream Soda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537586",
+      "ItemName": "Black Sun Seeds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225455",
+      "ItemName": "Blue Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470083",
+      "ItemName": "Blue Fairy Wings (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469781",
+      "ItemName": "Blue Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739101",
+      "ItemName": "Bundle of Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739074",
+      "ItemName": "Butterfly Shrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470119",
+      "ItemName": "Cloud Wyvern (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739076",
+      "ItemName": "Codex Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537595",
+      "ItemName": "Cranberry Frog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106958",
+      "ItemName": "Crystal Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469782",
+      "ItemName": "Cyan Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225407",
+      "ItemName": "Death Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126985",
+      "ItemName": "Earth Walker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739088",
+      "ItemName": "Engraved Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589097",
+      "ItemName": "Fire Passion Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470118",
+      "ItemName": "Fire Wyvern (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106955",
+      "ItemName": "Ghost Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739082",
+      "ItemName": "Gold Bars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470120",
+      "ItemName": "Gold Wyvern (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220308",
+      "ItemName": "Golden Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469783",
+      "ItemName": "Green Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473331",
+      "ItemName": "Greenwarden\u0027s Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473367",
+      "ItemName": "Greenwarden\u0027s Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473289",
+      "ItemName": "Greenwarden\u0027s Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473353",
+      "ItemName": "Greenwarden\u0027s Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473310",
+      "ItemName": "Greenwarden\u0027s Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473360",
+      "ItemName": "Greenwarden\u0027s Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537590",
+      "ItemName": "Hard Boiled Beetle Eggs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100462",
+      "ItemName": "Inferno Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106952",
+      "ItemName": "Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470117",
+      "ItemName": "Jade Wyvern (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739084",
+      "ItemName": "Jaguar Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258581",
+      "ItemName": "Kelp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240102",
+      "ItemName": "Killer Tomato",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739148",
+      "ItemName": "Lava Bulb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537597",
+      "ItemName": "Lemon Daisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225438",
+      "ItemName": "Life Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739083",
+      "ItemName": "Light Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430879895",
+      "ItemName": "Massive Pest Zapper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439085139",
+      "ItemName": "Miniature Bloodbats",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470116",
+      "ItemName": "Night Wyvern (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739185",
+      "ItemName": "Notch Leaf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106951",
+      "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470087",
+      "ItemName": "Orange Fairy Wings (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469784",
+      "ItemName": "Orange Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739149",
+      "ItemName": "Pink Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100444",
+      "ItemName": "Pixie Queen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470088",
+      "ItemName": "Purple Fairy Wings (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739080",
+      "ItemName": "Purple Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "531784977",
+      "ItemName": "Putrid Bug Spray",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100439",
+      "ItemName": "Rat Magician",
+      "Notes": ""
+    },
+    {
+      "ItemId": "914478210",
+      "ItemName": "Rebirth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739123",
+      "ItemName": "Ritual Codex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106946",
+      "ItemName": "Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106947",
+      "ItemName": "Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106954",
+      "ItemName": "Shadow Oil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225404",
+      "ItemName": "Silverback Wildclaw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733076",
+      "ItemName": "Skyvern (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739075",
+      "ItemName": "Small Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739077",
+      "ItemName": "Stone Azteca Head",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225436",
+      "ItemName": "Storm Snowman",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.421672Z",
+  "ModifiedAt": "2026-09-30T03:55:50.421672Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

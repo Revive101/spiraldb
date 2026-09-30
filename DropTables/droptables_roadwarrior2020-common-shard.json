@@ -1,0 +1,28 @@
+{
+  "Name": "RoadWarrior2020-Common-Shard",
+  "Description": "BoosterPack-Set-96 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1494692",
+      "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1494695",
+      "ItemName": "Imp",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.413457Z",
+  "ModifiedAt": "2026-09-30T03:55:50.413457Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

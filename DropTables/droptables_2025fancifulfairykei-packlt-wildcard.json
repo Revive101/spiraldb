@@ -1,0 +1,78 @@
+{
+  "Name": "2025FancifulFairyKei-PackLT-Wildcard",
+  "Description": "BoosterPack-Set-156 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1664869",
+      "ItemName": "Bright Moon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642075",
+      "ItemName": "Charming Moon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642073",
+      "ItemName": "Cutesy Moon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641691",
+      "ItemName": "Dragon Berries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642074",
+      "ItemName": "Fancy Moon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473525",
+      "ItemName": "Jolly Rancher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504013",
+      "ItemName": "Moochi Ice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473517",
+      "ItemName": "Pixie Stix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664868",
+      "ItemName": "Shrouded Moon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789222",
+      "ItemName": "Spritely Soda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350146",
+      "ItemName": "Ultra Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589105",
+      "ItemName": "Zen Poppers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.436410Z",
+  "ModifiedAt": "2026-09-30T03:55:50.436411Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

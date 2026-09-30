@@ -1,0 +1,48 @@
+{
+  "Name": "RATrainPackLT-Common",
+  "Description": "BoosterPack-Set-107 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522023",
+      "ItemName": "Coach Ticket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1494689",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1492248",
+      "ItemName": "Fire Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.428798Z",
+  "ModifiedAt": "2026-09-30T03:55:50.428799Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

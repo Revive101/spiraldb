@@ -1,0 +1,178 @@
+{
+  "Name": "PurreausPetsLT-Common",
+  "Description": "BoosterPack-Set-20 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220193",
+      "ItemName": "Blonde Strawberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220198",
+      "ItemName": "Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160623",
+      "ItemName": "Buried Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160627",
+      "ItemName": "Can of Tuna",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220191",
+      "ItemName": "Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342124",
+      "ItemName": "Cephalopod Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342161",
+      "ItemName": "Dog Biscuits",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342160",
+      "ItemName": "Dog House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220241",
+      "ItemName": "Dragon Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512191",
+      "ItemName": "Dragonspyre Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220234",
+      "ItemName": "Drumstick",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225465",
+      "ItemName": "Evil Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181041",
+      "ItemName": "Fish Bones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220200",
+      "ItemName": "Flaming Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220242",
+      "ItemName": "Frosted Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220253",
+      "ItemName": "Harvest Corn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220288",
+      "ItemName": "Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220199",
+      "ItemName": "MooShu Broccoli",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220201",
+      "ItemName": "Orange Jalapeno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220239",
+      "ItemName": "Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220247",
+      "ItemName": "Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220233",
+      "ItemName": "Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220271",
+      "ItemName": "Radioactive Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220207",
+      "ItemName": "Spicy Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220274",
+      "ItemName": "Star Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220194",
+      "ItemName": "Sweet Pineapple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220249",
+      "ItemName": "Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220230",
+      "ItemName": "Tiny Pretzel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220250",
+      "ItemName": "Truffle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220202",
+      "ItemName": "Wild Strawberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512187",
+      "ItemName": "Wizard City Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220232",
+      "ItemName": "Yogurt",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411854Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411855Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

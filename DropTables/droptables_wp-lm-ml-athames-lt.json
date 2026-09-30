@@ -1,0 +1,53 @@
+{
+  "Name": "WP-LM-ML-Athames-LT",
+  "Description": "BoosterPack-Set-126-Fix Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537396",
+      "ItemName": "Merciless Balance Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537395",
+      "ItemName": "Merciless Death Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537390",
+      "ItemName": "Merciless Fire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537391",
+      "ItemName": "Merciless Ice Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537394",
+      "ItemName": "Merciless Life Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537393",
+      "ItemName": "Merciless Myth Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537392",
+      "ItemName": "Merciless Storm Athame",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.405235Z",
+  "ModifiedAt": "2026-09-30T03:55:50.405235Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

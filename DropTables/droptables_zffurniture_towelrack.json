@@ -1,0 +1,23 @@
+{
+  "Name": "ZFFurniture_TowelRack",
+  "Description": "Zafaria_Furniture_Set_01 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "689335",
+      "ItemName": "Zafarian Towel Rack",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.433398Z",
+  "ModifiedAt": "2026-09-30T03:55:50.433398Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

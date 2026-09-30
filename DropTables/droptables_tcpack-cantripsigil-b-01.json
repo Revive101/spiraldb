@@ -1,0 +1,53 @@
+{
+  "Name": "TCPack-CantripSigil-B-01",
+  "Description": "BoosterPack-Set-150 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1402418920",
+      "ItemName": "Donate Power 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1526160404",
+      "ItemName": "Dual Strike 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1848050708",
+      "ItemName": "Fiery Explosion 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "80058898",
+      "ItemName": "Legion Shield 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "814116061",
+      "ItemName": "Restoring Rain 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1822905364",
+      "ItemName": "Sprite Swarm 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1453861665",
+      "ItemName": "Virulent Plague 2",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.436484Z",
+  "ModifiedAt": "2026-09-30T03:55:50.436485Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,328 @@
+{
+  "Name": "CelestianLorePackLT-Wildcard",
+  "Description": "BoosterPack-Set-98 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220255",
+      "ItemName": "Arrow Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537593",
+      "ItemName": "Beetle Cream Soda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220252",
+      "ItemName": "Big Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1730824457",
+      "ItemName": "Blast Off - A",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374571",
+      "ItemName": "Branching Coral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512134",
+      "ItemName": "Celestia Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512135",
+      "ItemName": "Celestia Finale Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512090",
+      "ItemName": "Celestia Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "119326653",
+      "ItemName": "Celestial Calendar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342074",
+      "ItemName": "Celestian Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545065",
+      "ItemName": "Celestian Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374577",
+      "ItemName": "Celestian Hut ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342098",
+      "ItemName": "Celestian Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "449686454",
+      "ItemName": "Cleanse Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1048477158",
+      "ItemName": "Cleanse Ward",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545057",
+      "ItemName": "Crab Senator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1235775452",
+      "ItemName": "Cycle of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545063",
+      "ItemName": "Digger Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "406225536",
+      "ItemName": "Dream Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545055",
+      "ItemName": "Eager Excavator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374572",
+      "ItemName": "Fan Coral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733120",
+      "ItemName": "Fern Jelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1887191866",
+      "ItemName": "Freeze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106969",
+      "ItemName": "Frost Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1039920830",
+      "ItemName": "Gaze of Fate TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220284",
+      "ItemName": "Glowing Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1034368915",
+      "ItemName": "Heck Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1161914504",
+      "ItemName": "Hex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2039726156",
+      "ItemName": "Immolate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374578",
+      "ItemName": "Island Gazebo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342141",
+      "ItemName": "Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350012",
+      "ItemName": "Lead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1473990396",
+      "ItemName": "Link",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1474088827",
+      "ItemName": "Mend",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374712",
+      "ItemName": "Naval Supply Crate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1911013456",
+      "ItemName": "Pierce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374573",
+      "ItemName": "Pink Coral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342117",
+      "ItemName": "Star Chalice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1974779768",
+      "ItemName": "Strangle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350011",
+      "ItemName": "Tin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374567",
+      "ItemName": "Water Mole Supplies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545051",
+      "ItemName": "Welder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342143",
+      "ItemName": "Wheelbarrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1313738267",
+      "ItemName": "WoollyMammoth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374569",
+      "ItemName": "Zoa Coral",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.413392Z",
+  "ModifiedAt": "2026-09-30T03:55:50.413392Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

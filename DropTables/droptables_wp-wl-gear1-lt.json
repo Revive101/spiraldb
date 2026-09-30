@@ -1,0 +1,418 @@
+{
+  "Name": "WP-WL-Gear1-LT",
+  "Description": "BoosterPack-Set-141 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1594238",
+      "ItemName": "Admiral\u0027s Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594300",
+      "ItemName": "Base Camp Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628233",
+      "ItemName": "Bold Dream Reaver Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628156",
+      "ItemName": "Bold Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628191",
+      "ItemName": "Bold Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628163",
+      "ItemName": "Bold Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628247",
+      "ItemName": "Bold Dream Reaver Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628149",
+      "ItemName": "Bold Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628205",
+      "ItemName": "Bold Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628212",
+      "ItemName": "Bold Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1621751",
+      "ItemName": "Bunyip\u0027s Rage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594232",
+      "ItemName": "Coiled Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1621745",
+      "ItemName": "Count Croakula",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628232",
+      "ItemName": "Cruel Dream Reaver Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628155",
+      "ItemName": "Cruel Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628190",
+      "ItemName": "Cruel Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628162",
+      "ItemName": "Cruel Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628246",
+      "ItemName": "Cruel Dream Reaver Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628148",
+      "ItemName": "Cruel Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628204",
+      "ItemName": "Cruel Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628211",
+      "ItemName": "Cruel Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628229",
+      "ItemName": "Deft Dream Reaver Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628152",
+      "ItemName": "Deft Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628187",
+      "ItemName": "Deft Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628159",
+      "ItemName": "Deft Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628243",
+      "ItemName": "Deft Dream Reaver Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628145",
+      "ItemName": "Deft Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628201",
+      "ItemName": "Deft Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628208",
+      "ItemName": "Deft Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594304",
+      "ItemName": "Display Pick",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1621541",
+      "ItemName": "Dream Water",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1621755",
+      "ItemName": "Drop Bear Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594283",
+      "ItemName": "Drover\u0027s Bedroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594297",
+      "ItemName": "Drover\u0027s Sleeping Bag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594242",
+      "ItemName": "Eucalyptus Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628234",
+      "ItemName": "Fabled Dream Reaver Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628157",
+      "ItemName": "Fabled Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628192",
+      "ItemName": "Fabled Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628164",
+      "ItemName": "Fabled Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628248",
+      "ItemName": "Fabled Dream Reaver Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628150",
+      "ItemName": "Fabled Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628206",
+      "ItemName": "Fabled Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628213",
+      "ItemName": "Fabled Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628230",
+      "ItemName": "Fell Dream Reaver Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628153",
+      "ItemName": "Fell Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628188",
+      "ItemName": "Fell Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628160",
+      "ItemName": "Fell Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628244",
+      "ItemName": "Fell Dream Reaver Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628146",
+      "ItemName": "Fell Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628202",
+      "ItemName": "Fell Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628209",
+      "ItemName": "Fell Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628231",
+      "ItemName": "Fervid Dream Reaver Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628154",
+      "ItemName": "Fervid Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628189",
+      "ItemName": "Fervid Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628161",
+      "ItemName": "Fervid Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628245",
+      "ItemName": "Fervid Dream Reaver Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628147",
+      "ItemName": "Fervid Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628203",
+      "ItemName": "Fervid Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628210",
+      "ItemName": "Fervid Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628235",
+      "ItemName": "Fierce Dream Reaver Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628158",
+      "ItemName": "Fierce Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628193",
+      "ItemName": "Fierce Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628165",
+      "ItemName": "Fierce Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628249",
+      "ItemName": "Fierce Dream Reaver Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628151",
+      "ItemName": "Fierce Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628207",
+      "ItemName": "Fierce Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628214",
+      "ItemName": "Fierce Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594231",
+      "ItemName": "Fine Lamppost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594239",
+      "ItemName": "Pedestal Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1621734",
+      "ItemName": "Phantasmania!",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1621727",
+      "ItemName": "Rainbow Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594233",
+      "ItemName": "Spare Tire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594285",
+      "ItemName": "Townie Bedroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594284",
+      "ItemName": "Walkabout Bedroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594227",
+      "ItemName": "Walkabout Canteen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594236",
+      "ItemName": "Walkabout Pack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594298",
+      "ItemName": "Walkabout Sleeping Bag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594237",
+      "ItemName": "Wallaru Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1621733",
+      "ItemName": "Wobbegong Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1621758",
+      "ItemName": "Zand the Bandit",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.432440Z",
+  "ModifiedAt": "2026-09-30T03:55:50.432441Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

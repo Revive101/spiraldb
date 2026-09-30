@@ -1,0 +1,23 @@
+{
+  "Name": "KRFurniture_BathSink",
+  "Description": "Khrysalis_Furniture_Set_01 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1374370",
+      "ItemName": "Mantis Basin",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.437684Z",
+  "ModifiedAt": "2026-09-30T03:55:50.437685Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

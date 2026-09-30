@@ -1,0 +1,23 @@
+{
+  "Name": "KaramelleHoardPackLT-Common",
+  "Description": "BoosterPack-Set-103 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1480288",
+      "ItemName": "Karamelle City Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412579Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412579Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,53 @@
+{
+  "Name": "WP-NV-ML-Rings-LT",
+  "Description": "BoosterPack-Set-136 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1588140",
+      "ItemName": "Abstract Aeon Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588143",
+      "ItemName": "Crystalline Aeon Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588145",
+      "ItemName": "Dreamscape Aeon Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588146",
+      "ItemName": "Fractal Aeon Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588144",
+      "ItemName": "Inspired Aeon Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588141",
+      "ItemName": "Macabre Aeon Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588142",
+      "ItemName": "Primordial Aeon Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406777Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406777Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

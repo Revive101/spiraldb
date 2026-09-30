@@ -1,0 +1,53 @@
+{
+  "Name": "WP-LM-ML-Rings-LT",
+  "Description": "BoosterPack-Set-126-Fix Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537412",
+      "ItemName": "Merciless Balance Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537411",
+      "ItemName": "Merciless Death Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537406",
+      "ItemName": "Merciless Fire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537407",
+      "ItemName": "Merciless Ice Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537410",
+      "ItemName": "Merciless Life Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537409",
+      "ItemName": "Merciless Myth Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537408",
+      "ItemName": "Merciless Storm Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.405209Z",
+  "ModifiedAt": "2026-09-30T03:55:50.405214Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

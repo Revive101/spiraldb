@@ -1,0 +1,173 @@
+{
+  "Name": "BoosterPack-Set05-Commons",
+  "Description": "BoosterPack-Set-05 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220255",
+      "ItemName": "Arrow Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220252",
+      "ItemName": "Big Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220226",
+      "ItemName": "Buttered Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220256",
+      "ItemName": "Caramel Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220211",
+      "ItemName": "Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220245",
+      "ItemName": "Cherry Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220213",
+      "ItemName": "Chocolate Strawberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220279",
+      "ItemName": "Cow Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220227",
+      "ItemName": "Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220209",
+      "ItemName": "Diamond Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220314",
+      "ItemName": "Fairy Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220210",
+      "ItemName": "Flaming Jalapeno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220212",
+      "ItemName": "Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220243",
+      "ItemName": "Funnel Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220240",
+      "ItemName": "Green Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220197",
+      "ItemName": "Green Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220270",
+      "ItemName": "Grilled Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220285",
+      "ItemName": "Gummy Bloodbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220219",
+      "ItemName": "Heavenly Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220244",
+      "ItemName": "Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220268",
+      "ItemName": "Medium Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220225",
+      "ItemName": "Nettle Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220238",
+      "ItemName": "PBJ Sandwich",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220259",
+      "ItemName": "Redskin Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220205",
+      "ItemName": "Square Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220257",
+      "ItemName": "Stinky Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220260",
+      "ItemName": "Tasty Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220273",
+      "ItemName": "Tiki Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220237",
+      "ItemName": "Tiny Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220258",
+      "ItemName": "Wheat Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220195",
+      "ItemName": "Wormy Apple",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424373Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424374Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

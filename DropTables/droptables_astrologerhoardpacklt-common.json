@@ -1,0 +1,113 @@
+{
+  "Name": "AstrologerHoardPackLT-Common",
+  "Description": "BoosterPack-Set-104 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220323",
+      "ItemName": "Bag of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537593",
+      "ItemName": "Beetle Cream Soda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356127",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220211",
+      "ItemName": "Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220208",
+      "ItemName": "Cheese Broccoli",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248255",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220212",
+      "ItemName": "Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220240",
+      "ItemName": "Green Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473638",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473523",
+      "ItemName": "Misfortune Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220231",
+      "ItemName": "Potato Chips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355108",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350198",
+      "ItemName": "Rotten Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220207",
+      "ItemName": "Spicy Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248001",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248008",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220237",
+      "ItemName": "Tiny Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473152",
+      "ItemName": "Yellow Bell Pepper",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412516Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412517Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

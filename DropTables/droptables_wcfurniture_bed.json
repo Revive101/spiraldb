@@ -1,0 +1,28 @@
+{
+  "Name": "WCFurniture_Bed",
+  "Description": "WizardCity_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1317819",
+      "ItemName": "Enchanted Wizard\u0027s Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317820",
+      "ItemName": "Ravenwood End Table",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423667Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423667Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

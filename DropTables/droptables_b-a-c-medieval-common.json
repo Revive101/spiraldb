@@ -1,0 +1,68 @@
+{
+  "Name": "B-A-C-Medieval-Common",
+  "Description": "BoosterPack-Set-28 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1233265",
+      "ItemName": "Archway Castle Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212034",
+      "ItemName": "Door Double Castle Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233266",
+      "ItemName": "Door Double Magic Castle Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212043",
+      "ItemName": "Door Single Castle Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233340",
+      "ItemName": "Door Single Magic Castle Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233286",
+      "ItemName": "Stairs Narrow Castle Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233267",
+      "ItemName": "Wall Corner Castle Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233311",
+      "ItemName": "Wall Lg Castle Block B",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233263",
+      "ItemName": "Wall Md Castle Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233277",
+      "ItemName": "Wall/Post Castle Block",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439385Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439386Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

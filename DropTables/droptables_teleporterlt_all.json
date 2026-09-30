@@ -1,0 +1,58 @@
+{
+  "Name": "TeleporterLT_All",
+  "Description": "BoosterPack-Set-12 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "469781",
+      "ItemName": "Blue Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469782",
+      "ItemName": "Cyan Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469783",
+      "ItemName": "Green Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469784",
+      "ItemName": "Orange Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469785",
+      "ItemName": "Purple Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469786",
+      "ItemName": "Red Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469787",
+      "ItemName": "White Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469788",
+      "ItemName": "Yellow Teleporter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.434246Z",
+  "ModifiedAt": "2026-09-30T03:55:50.434247Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

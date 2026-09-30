@@ -1,0 +1,53 @@
+{
+  "Name": "2026SCP-PackLT-Shard",
+  "Description": "BoosterPack-Set-164 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1721999",
+      "ItemName": "Clean Sweep",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1742018",
+      "ItemName": "Jackall \u0026 Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1721978",
+      "ItemName": "Jacques Scratches!",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1721988",
+      "ItemName": "Mark of Meowiarty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1721967",
+      "ItemName": "Pops\u0027 Knuckles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1721990",
+      "ItemName": "Ratstabber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1721977",
+      "ItemName": "Whiplash",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.429123Z",
+  "ModifiedAt": "2026-09-30T03:55:50.429124Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "Fishing_Aquarium_Reg_Keeper",
+  "Description": "Fishing_Aquarium_Set_05 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212073",
+      "ItemName": "Regular Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212076",
+      "ItemName": "Regular Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212068",
+      "ItemName": "Regular Whopper Aquarium",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439274Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439275Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

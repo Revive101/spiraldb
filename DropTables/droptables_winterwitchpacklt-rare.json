@@ -1,0 +1,458 @@
+{
+  "Name": "WinterWitchPackLT-Rare",
+  "Description": "BoosterPack-Set-146 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220255",
+      "ItemName": "Arrow Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248063",
+      "ItemName": "Assaulted Caramels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470429",
+      "ItemName": "Black Night Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641605",
+      "ItemName": "Bog Witch Beetroot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160203",
+      "ItemName": "Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470464",
+      "ItemName": "Candelabra",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160246",
+      "ItemName": "Candle and Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220248",
+      "ItemName": "Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160272",
+      "ItemName": "Carved Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "852065174",
+      "ItemName": "Centaur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248061",
+      "ItemName": "Chili Peppermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664674",
+      "ItemName": "Chilly Polar Bearer (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664673",
+      "ItemName": "Chilly Polar Bearer (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248062",
+      "ItemName": "Choco-Latkes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641698",
+      "ItemName": "Chocolate Crickets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641701",
+      "ItemName": "Crystal Bites",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106958",
+      "ItemName": "Crystal Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2015710230",
+      "ItemName": "Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1038926056",
+      "ItemName": "Evil Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1070935258",
+      "ItemName": "ExitCombat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664668",
+      "ItemName": "Freezing Polar Bearer (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664667",
+      "ItemName": "Freezing Polar Bearer (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664671",
+      "ItemName": "Frosty Polar Bearer (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664670",
+      "ItemName": "Frosty Polar Bearer (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664471",
+      "ItemName": "Frozen Gobbler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248064",
+      "ItemName": "Gingerbread House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220284",
+      "ItemName": "Glowing Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317767",
+      "ItemName": "Grand Winter Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392750",
+      "ItemName": "Green garland with lights",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220285",
+      "ItemName": "Gummy Bloodbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220331",
+      "ItemName": "Gummy Humongofrog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473718",
+      "ItemName": "Gummy Wyrms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160703",
+      "ItemName": "Jail Cell",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392756",
+      "ItemName": "Krampus Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160245",
+      "ItemName": "Large Candle Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181064",
+      "ItemName": "Large Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537496",
+      "ItemName": "Large Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537553",
+      "ItemName": "Large Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537547",
+      "ItemName": "Large Snowy Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470451",
+      "ItemName": "Magic Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724083",
+      "ItemName": "Market Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181065",
+      "ItemName": "Medium Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220225",
+      "ItemName": "Nettle Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537534",
+      "ItemName": "Night Snow Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220283",
+      "ItemName": "Nutty Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594252",
+      "ItemName": "Ornate Wardrobe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404101",
+      "ItemName": "Pitch-sealed Log Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724084",
+      "ItemName": "Posh Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392751",
+      "ItemName": "Potted Poinsettia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713161",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733129",
+      "ItemName": "Pyramints",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220333",
+      "ItemName": "Rock and Roll Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "84793606",
+      "ItemName": "Satyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507725",
+      "ItemName": "Shiver-Toothed Tiger (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470462",
+      "ItemName": "Single Candle Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160247",
+      "ItemName": "Small Candle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181066",
+      "ItemName": "Small Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537497",
+      "ItemName": "Small Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537554",
+      "ItemName": "Small Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537548",
+      "ItemName": "Small Snowy Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160386",
+      "ItemName": "Small Snowy Pine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507282",
+      "ItemName": "Snow Owl (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537552",
+      "ItemName": "Snow Pile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664450",
+      "ItemName": "Snowblin of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160385",
+      "ItemName": "Snowy Pine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392743",
+      "ItemName": "Sparkle Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220294",
+      "ItemName": "Square Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160207",
+      "ItemName": "Stack of 2 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160208",
+      "ItemName": "Stack of 3 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160209",
+      "ItemName": "Stack of 4 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160210",
+      "ItemName": "Stack of 5 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404106",
+      "ItemName": "Stitched Hide Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664448",
+      "ItemName": "Subzero Snowblin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643093",
+      "ItemName": "Tallow Candles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206114",
+      "ItemName": "Tea Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470738",
+      "ItemName": "Toboggan (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248065",
+      "ItemName": "Tuti-Fruiti Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350094",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470361",
+      "ItemName": "White Stag (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181034",
+      "ItemName": "Winter Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164283",
+      "ItemName": "Winterblue Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404102",
+      "ItemName": "Wood Plank Wallpaper",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.429610Z",
+  "ModifiedAt": "2026-09-30T03:55:50.429611Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

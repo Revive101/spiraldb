@@ -1,0 +1,38 @@
+{
+  "Name": "DoomKrockPackLT-Common",
+  "Description": "BoosterPack-Set-97 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1479714",
+      "ItemName": "Alternate Time Lime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.414631Z",
+  "ModifiedAt": "2026-09-30T03:55:50.414632Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

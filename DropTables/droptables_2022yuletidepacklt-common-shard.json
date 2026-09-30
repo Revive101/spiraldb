@@ -1,0 +1,33 @@
+{
+  "Name": "2022YuletidePackLT-Common-Shard",
+  "Description": "BoosterPack-Set-139 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1494693",
+      "ItemName": "Fire Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479641",
+      "ItemName": "Krampus ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1492250",
+      "ItemName": "Reindeer Knight",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.432966Z",
+  "ModifiedAt": "2026-09-30T03:55:50.432966Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

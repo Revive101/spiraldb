@@ -1,0 +1,88 @@
+{
+  "Name": "KeepersLorePackLT-Wildcard-BO-2",
+  "Description": "BoosterPack-Set-22-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "537974",
+      "ItemName": "Amber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "606072868",
+      "ItemName": "Brimstone Revenant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "630452750",
+      "ItemName": "Brimstone Revenant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690100",
+      "ItemName": "Emberstone Tiger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667435",
+      "ItemName": "Golden Dragon Fear Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667579",
+      "ItemName": "Golden Robes of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667552",
+      "ItemName": "Jade Robe of Mystery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "270921514",
+      "ItemName": "Keeper of the Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "564505194",
+      "ItemName": "Keeper of the Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1627174122",
+      "ItemName": "Luminous Weaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1688778738",
+      "ItemName": "Luminous Weaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667444",
+      "ItemName": "Order of High Glory Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667426",
+      "ItemName": "Silver Order of the Spiral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667606",
+      "ItemName": "Violet Robes of Bitter Truth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.419766Z",
+  "ModifiedAt": "2026-09-30T03:55:50.419767Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

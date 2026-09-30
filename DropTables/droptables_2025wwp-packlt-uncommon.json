@@ -1,0 +1,238 @@
+{
+  "Name": "2025WWP-PackLT-Uncommon",
+  "Description": "BoosterPack-Set-160 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1359625",
+      "ItemName": "Beast Wellington",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126817",
+      "ItemName": "Candle Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126816",
+      "ItemName": "Candy Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537499",
+      "ItemName": "Color Light Strand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448467",
+      "ItemName": "Festive Sundae",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706044",
+      "ItemName": "Fierce Polar Bearer (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706036",
+      "ItemName": "Friendly Polar Bearer (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706040",
+      "ItemName": "Fuchsia Polar Bearer (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126815",
+      "ItemName": "Gingerbread Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733177",
+      "ItemName": "Gingerbread Wizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448476",
+      "ItemName": "Gravy Boat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374586",
+      "ItemName": "Grizzleheim Game Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724297",
+      "ItemName": "Holiday Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589102",
+      "ItemName": "Hot Ginger Snaps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359605",
+      "ItemName": "Jiggy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1864620671",
+      "ItemName": "Krampus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1638002",
+      "ItemName": "Krampus Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617316",
+      "ItemName": "Krampus Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448470",
+      "ItemName": "Lobster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733185",
+      "ItemName": "Mince Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126820",
+      "ItemName": "Mint Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257589",
+      "ItemName": "Ninja Fig Bars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733179",
+      "ItemName": "Ninja Figgy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126814",
+      "ItemName": "Nutcracker Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126819",
+      "ItemName": "Ornamental Paper Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617994873",
+      "ItemName": "Reindeer Knight TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448471",
+      "ItemName": "Roasted Veggies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126808",
+      "ItemName": "Santa Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126806",
+      "ItemName": "Santa Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126807",
+      "ItemName": "Santa Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507726",
+      "ItemName": "Shiver-Toothed Tiger (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374596",
+      "ItemName": "Small Antlerwood Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713140",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507283",
+      "ItemName": "Snow Owl (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1623044",
+      "ItemName": "Snowflake Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617313",
+      "ItemName": "Snowflake Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374579",
+      "ItemName": "Splithoof Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126818",
+      "ItemName": "Star Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126821",
+      "ItemName": "Sweet Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706047",
+      "ItemName": "Tray of Lokum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511118",
+      "ItemName": "Winter Mint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617314",
+      "ItemName": "Yuletide Gift Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1638003",
+      "ItemName": "Yuletide Snowman Banner",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.434502Z",
+  "ModifiedAt": "2026-09-30T03:55:50.434503Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "2021YuletidePackLT-Wildcard",
+  "Description": "BoosterPack-Set-114 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1507710",
+      "ItemName": "Auld Lang Sphere (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507305",
+      "ItemName": "Blitzing Tricycle (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507306",
+      "ItemName": "Racing Tricycle (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507304",
+      "ItemName": "Scorching Tricycle (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427619Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427619Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

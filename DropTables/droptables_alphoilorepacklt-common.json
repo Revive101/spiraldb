@@ -1,0 +1,103 @@
+{
+  "Name": "AlphoiLorePackLT-Common",
+  "Description": "BoosterPack-Set-55-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220206",
+      "ItemName": "Ape Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220204",
+      "ItemName": "Crunch Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248255",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220296",
+      "ItemName": "Fire Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220297",
+      "ItemName": "Golden Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220291",
+      "ItemName": "Golden Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220306",
+      "ItemName": "Large Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220216",
+      "ItemName": "Large Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220199",
+      "ItemName": "MooShu Broccoli",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356120",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248248",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220294",
+      "ItemName": "Square Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248001",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220194",
+      "ItemName": "Sweet Pineapple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248008",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.425589Z",
+  "ModifiedAt": "2026-09-30T03:55:50.425589Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

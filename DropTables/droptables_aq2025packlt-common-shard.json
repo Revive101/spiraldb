@@ -1,0 +1,53 @@
+{
+  "Name": "AQ2025PackLT-Common-Shard",
+  "Description": "BoosterPack-Set-157 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1699143",
+      "ItemName": "Fires of Mars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1699138",
+      "ItemName": "Jupiter\u0027s Might",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1699141",
+      "ItemName": "Neptune\u0027s Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1699140",
+      "ItemName": "Phoebus\u0027 Will",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1699144",
+      "ItemName": "Pluto\u0027s Peril",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1699139",
+      "ItemName": "Saturn\u0027s Reaping",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1699147",
+      "ItemName": "Terminus\u0027 Strike",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.432731Z",
+  "ModifiedAt": "2026-09-30T03:55:50.432731Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

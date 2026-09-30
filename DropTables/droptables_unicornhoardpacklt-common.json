@@ -1,0 +1,108 @@
+{
+  "Name": "UnicornHoardPackLT-Common",
+  "Description": "BoosterPack-Set-57 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220193",
+      "ItemName": "Blonde Strawberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220198",
+      "ItemName": "Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220245",
+      "ItemName": "Cherry Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220242",
+      "ItemName": "Frosted Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220320",
+      "ItemName": "Golden Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220197",
+      "ItemName": "Green Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220288",
+      "ItemName": "Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589187",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220247",
+      "ItemName": "Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473145",
+      "ItemName": "Purple Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473166",
+      "ItemName": "Purple Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473173",
+      "ItemName": "Red Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220194",
+      "ItemName": "Sweet Pineapple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473152",
+      "ItemName": "Yellow Bell Pepper",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.433242Z",
+  "ModifiedAt": "2026-09-30T03:55:50.433243Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

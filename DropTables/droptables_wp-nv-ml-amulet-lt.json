@@ -1,0 +1,53 @@
+{
+  "Name": "WP-NV-ML-Amulet-LT",
+  "Description": "BoosterPack-Set-136 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1588147",
+      "ItemName": "Abstract Aeon Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588150",
+      "ItemName": "Crystalline Aeon Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588152",
+      "ItemName": "Dreamscape Aeon Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588153",
+      "ItemName": "Fractal Aeon Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588151",
+      "ItemName": "Inspired Aeon Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588148",
+      "ItemName": "Macabre Aeon Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588149",
+      "ItemName": "Primordial Aeon Charm",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406770Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406771Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "PandaHoardPackLT-Common",
+  "Description": "BoosterPack-Set-62 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "355108",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248008",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.410788Z",
+  "ModifiedAt": "2026-09-30T03:55:50.410789Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

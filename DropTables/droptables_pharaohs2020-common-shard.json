@@ -1,0 +1,28 @@
+{
+  "Name": "Pharaohs2020-Common-Shard",
+  "Description": "BoosterPack-Set-92 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1492248",
+      "ItemName": "Fire Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1494698",
+      "ItemName": "Lightning Bats",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.415537Z",
+  "ModifiedAt": "2026-09-30T03:55:50.415538Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

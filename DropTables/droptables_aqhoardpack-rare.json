@@ -1,0 +1,103 @@
+{
+  "Name": "AQHoardPack-Rare",
+  "Description": "BoosterPack-Set-116 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1202013",
+      "ItemName": "Atlantea Grand Monument",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540299",
+      "ItemName": "Cavalry Elephant (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540298",
+      "ItemName": "Cavalry Elephant (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359094",
+      "ItemName": "Crucible Banquet Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350295",
+      "ItemName": "Dragonspyre Tan Wall Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202020",
+      "ItemName": "Grand Statue of Zeus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473159",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507797",
+      "ItemName": "Malefic Strix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507798",
+      "ItemName": "Ominous Strix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350237",
+      "ItemName": "Orichalcum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540305",
+      "ItemName": "Siege Elephant (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540304",
+      "ItemName": "Siege Elephant (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507796",
+      "ItemName": "Sinister Strix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540302",
+      "ItemName": "War Elephant (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540301",
+      "ItemName": "War Elephant (7 Day)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427302Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427303Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

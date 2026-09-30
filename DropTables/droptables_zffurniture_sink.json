@@ -1,0 +1,33 @@
+{
+  "Name": "ZFFurniture_Sink",
+  "Description": "Zafaria_Furniture_Set_02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "689329",
+      "ItemName": "Zafarian Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689334",
+      "ItemName": "Zafarian Sink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689362",
+      "ItemName": "Zafarian Stone Floor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.433370Z",
+  "ModifiedAt": "2026-09-30T03:55:50.433371Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

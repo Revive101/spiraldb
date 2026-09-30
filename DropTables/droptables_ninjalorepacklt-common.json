@@ -1,0 +1,58 @@
+{
+  "Name": "NinjaLorePackLT-Common",
+  "Description": "BoosterPack-Set-16-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1659643",
+      "ItemName": "A-baahh-calypse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1607044",
+      "ItemName": "Catch of the Day",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528509",
+      "ItemName": "Goat Monk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1659645",
+      "ItemName": "Ice Elemental",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1607673",
+      "ItemName": "Monk of Mourning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528504",
+      "ItemName": "Ninja Pigs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258595",
+      "ItemName": "Perfect Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528514",
+      "ItemName": "Samoorai",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.413675Z",
+  "ModifiedAt": "2026-09-30T03:55:50.413676Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

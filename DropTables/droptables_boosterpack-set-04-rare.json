@@ -1,0 +1,48 @@
+{
+  "Name": "BoosterPack-Set-04-Rare",
+  "Description": "BoosterPack-Set-04 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106968",
+      "ItemName": "Fire Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106970",
+      "ItemName": "Grendelweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106964",
+      "ItemName": "Spring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412022Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412023Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

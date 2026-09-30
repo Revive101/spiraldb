@@ -1,0 +1,998 @@
+{
+  "Name": "PolarisPackLT-Wildcard",
+  "Description": "BoosterPack-Set-86 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82724",
+      "ItemName": "A Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537974",
+      "ItemName": "Amber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789362",
+      "ItemName": "Anubis\u0027 Astral Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220206",
+      "ItemName": "Ape Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335126",
+      "ItemName": "Arcanum Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473444",
+      "ItemName": "Arctic Ninja Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733118",
+      "ItemName": "Avocado Milkshake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82705",
+      "ItemName": "Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160989",
+      "ItemName": "Beetle Beanbag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220252",
+      "ItemName": "Big Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537586",
+      "ItemName": "Black Sun Seeds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82749",
+      "ItemName": "Blue Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82900",
+      "ItemName": "Blue Krok Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82717",
+      "ItemName": "Blue Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82727",
+      "ItemName": "Bowl of Dates",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82728",
+      "ItemName": "Bowl of Lettuce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82726",
+      "ItemName": "Bowl of Tomatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82870",
+      "ItemName": "Bricked Well",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "614732506",
+      "ItemName": "Bronze Helephant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82897",
+      "ItemName": "Bushy Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82766",
+      "ItemName": "Carved Podium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789272",
+      "ItemName": "Charred Nirini Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257595",
+      "ItemName": "Cold Snap Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220227",
+      "ItemName": "Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470141",
+      "ItemName": "Crokagator (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470132",
+      "ItemName": "Crokagator (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374168",
+      "ItemName": "Dancing Pingouin Laundress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240103",
+      "ItemName": "Dastardly Radish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233939883",
+      "ItemName": "Death Helephant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1090014480",
+      "ItemName": "Death Troll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220209",
+      "ItemName": "Diamond Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82758",
+      "ItemName": "Dim Scarab Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220282",
+      "ItemName": "Double Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82851",
+      "ItemName": "Doused Krok Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374161",
+      "ItemName": "Ecstatic Pingouin Dancer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374160",
+      "ItemName": "Elated Pingouin Seamstress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82723",
+      "ItemName": "Fang Harp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82729",
+      "ItemName": "Fat Pumpkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82846",
+      "ItemName": "Fire Chameleon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220296",
+      "ItemName": "Fire Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374158",
+      "ItemName": "Flag-Waving Pingouin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733119",
+      "ItemName": "Fried Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1784122260",
+      "ItemName": "Frostfang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374253",
+      "ItemName": "Frozen Fish Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641684",
+      "ItemName": "Frozen Perogies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537603",
+      "ItemName": "Frozen Snails",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220311",
+      "ItemName": "Glowing Star Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220326",
+      "ItemName": "Goat Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220215",
+      "ItemName": "Golden Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220298",
+      "ItemName": "Golden Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220217",
+      "ItemName": "Golden Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82752",
+      "ItemName": "Green Gem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220197",
+      "ItemName": "Green Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537590",
+      "ItemName": "Hard Boiled Beetle Eggs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220315",
+      "ItemName": "Huge Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191672",
+      "ItemName": "Ice Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82845",
+      "ItemName": "Ice Chameleon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191668",
+      "ItemName": "Ice Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359953",
+      "ItemName": "Ice Floe Siren",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225433",
+      "ItemName": "Icebat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789457",
+      "ItemName": "Iced Crab Claws",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100462",
+      "ItemName": "Inferno Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374164",
+      "ItemName": "Joyous Pingouin Dockworker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374155",
+      "ItemName": "Jubilant Pingouin Craftsman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82756",
+      "ItemName": "Krok Bird Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82842",
+      "ItemName": "Krok Bird Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82906",
+      "ItemName": "Krok Chalkboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82741",
+      "ItemName": "Krok Insect Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82841",
+      "ItemName": "Krok Insect Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82737",
+      "ItemName": "Krok Moon Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82833",
+      "ItemName": "Krok Moon Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82738",
+      "ItemName": "Krok Skull Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82837",
+      "ItemName": "Krok Skull Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82736",
+      "ItemName": "Krok Snake Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82824",
+      "ItemName": "Krok Snake Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82864",
+      "ItemName": "Krok Student Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82735",
+      "ItemName": "Krok Sun Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82830",
+      "ItemName": "Krok Sun Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82731",
+      "ItemName": "Krok Tree Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82829",
+      "ItemName": "Krok Tree Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "186739436",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "806760271",
+      "ItemName": "Krokotillian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160734",
+      "ItemName": "Krokotopian Houseboat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220306",
+      "ItemName": "Large Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220278",
+      "ItemName": "Large Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220216",
+      "ItemName": "Large Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374159",
+      "ItemName": "Liberated Pingouin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1880359940",
+      "ItemName": "Locust Swarm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82867",
+      "ItemName": "Long Narrow Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789352",
+      "ItemName": "Lunar Scepter of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789208",
+      "ItemName": "Mander Palanquin (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220268",
+      "ItemName": "Medium Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789138",
+      "ItemName": "Mummy Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "369193113",
+      "ItemName": "Nekhbet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220225",
+      "ItemName": "Nettle Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82828",
+      "ItemName": "Painted Bowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374287",
+      "ItemName": "Patri\u00F4te Graffiti",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258590",
+      "ItemName": "Perfect Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82883",
+      "ItemName": "Pile of Dirt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374156",
+      "ItemName": "Pingouin Newsie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374154",
+      "ItemName": "Pingouin Patri\u00F4te",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335144",
+      "ItemName": "Polarian Music Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335127",
+      "ItemName": "Polaris Baba Yaga Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335128",
+      "ItemName": "Polaris Frozen Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335138",
+      "ItemName": "Polaris Frozen Forest Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335129",
+      "ItemName": "Polaris Gulag Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335130",
+      "ItemName": "Polaris Gulag Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335131",
+      "ItemName": "Polaris Ice Block Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335132",
+      "ItemName": "Polaris Mine Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335133",
+      "ItemName": "Polaris Mine Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430798",
+      "ItemName": "Polaris Opera Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335134",
+      "ItemName": "Polaris Rasputin Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220247",
+      "ItemName": "Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82896",
+      "ItemName": "Potted Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "73995406",
+      "ItemName": "Punklops Death Fire - TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1197513917",
+      "ItemName": "Punklops Ice Myth - TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "937265375",
+      "ItemName": "Punklops Life Storm - TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473145",
+      "ItemName": "Purple Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82748",
+      "ItemName": "Purple Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82901",
+      "ItemName": "Purple Krok Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82722",
+      "ItemName": "Purple Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82750",
+      "ItemName": "Red Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82904",
+      "ItemName": "Red Krok Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82716",
+      "ItemName": "Red Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82765",
+      "ItemName": "Royal Krokotopian Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473520",
+      "ItemName": "Salmon Joy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "446071",
+      "ItemName": "Salmonberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1795674381",
+      "ItemName": "Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470281315",
+      "ItemName": "Scorpion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376207",
+      "ItemName": "Seal Team Assault Hammer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376049",
+      "ItemName": "Seal Team Assault Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376195",
+      "ItemName": "Seal Team Demolitions Hammer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376013",
+      "ItemName": "Seal Team Demolitions Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376219",
+      "ItemName": "Seal Team Recon Hammer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376085",
+      "ItemName": "Seal Team Recon Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160991",
+      "ItemName": "Serpent Seat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106954",
+      "ItemName": "Shadow Oil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82822",
+      "ItemName": "Short Krokotopian Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374276",
+      "ItemName": "Simple Walruskberg Lamp Post",
+      "Notes": ""
+    },
+    {
+      "ItemId": "877321028",
+      "ItemName": "Skeletal Dragon Fire TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82848",
+      "ItemName": "Sledgehammer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82743",
+      "ItemName": "Small Pillared Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374272",
+      "ItemName": "Small Walrusk Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653098",
+      "ItemName": "Snow Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374279",
+      "ItemName": "Snowy Walruskberg Guard Booth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789302",
+      "ItemName": "Sokkwi Frostbitten Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789342",
+      "ItemName": "Solar Pikestaff of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220205",
+      "ItemName": "Square Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374252",
+      "ItemName": "Stacked Ice Blocks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220317",
+      "ItemName": "Star Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82844",
+      "ItemName": "Storm Chameleon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82740",
+      "ItemName": "Tall Ladder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82898",
+      "ItemName": "Tall Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82755",
+      "ItemName": "Tall Pumpkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537115",
+      "ItemName": "Tapestry to School of Balance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537111",
+      "ItemName": "Tapestry to The Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220237",
+      "ItemName": "Tiny Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374255",
+      "ItemName": "Tip of the Polarian Iceberg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733127",
+      "ItemName": "Tricera-pops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359631",
+      "ItemName": "Troggy Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82754",
+      "ItemName": "Turkey Platter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789332",
+      "ItemName": "Vestment of Ominous Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359780",
+      "ItemName": "Waddling Witch Hut (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374271",
+      "ItemName": "Walrusk End Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374261",
+      "ItemName": "Walrusk Feasting Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374275",
+      "ItemName": "Walrusk Officer\u0027s Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374267",
+      "ItemName": "Walrusk Potted Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374262",
+      "ItemName": "Walrusk Round Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374265",
+      "ItemName": "Walrusk Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374273",
+      "ItemName": "Walrusk Travel Trunk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374274",
+      "ItemName": "Walrusk Wooden Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335135",
+      "ItemName": "Walruskberg Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335136",
+      "ItemName": "Walruskberg Liberated Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374278",
+      "ItemName": "Walruskberg Portrait",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335137",
+      "ItemName": "Walruskberg Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1361821430",
+      "ItemName": "War Helephant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359793",
+      "ItemName": "Wildwood Yeti",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82832",
+      "ItemName": "Worn Shovel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82853",
+      "ItemName": "Wrapped Long Bench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473152",
+      "ItemName": "Yellow Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "924454662",
+      "ItemName": "Yellow Troll",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.421209Z",
+  "ModifiedAt": "2026-09-30T03:55:50.421210Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

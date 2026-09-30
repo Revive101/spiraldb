@@ -1,0 +1,78 @@
+{
+  "Name": "AQHoardPack-UnCommon",
+  "Description": "BoosterPack-Set-116 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1528826",
+      "ItemName": "Gorgon Hunter\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528810",
+      "ItemName": "Gorgon Hunter\u0027s Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528842",
+      "ItemName": "Gorgon Hunter\u0027s Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528634",
+      "ItemName": "Gorgon Hunter\u0027s Xiphos",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528922",
+      "ItemName": "Gorgon Slayer\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528906",
+      "ItemName": "Gorgon Slayer\u0027s Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528938",
+      "ItemName": "Gorgon Slayer\u0027s Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528666",
+      "ItemName": "Gorgon Slayer\u0027s Xiphos",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528874",
+      "ItemName": "Gorgonsbane Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528858",
+      "ItemName": "Gorgonsbane Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528890",
+      "ItemName": "Gorgonsbane Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1528650",
+      "ItemName": "Gorgonsbane Xiphos",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427298Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427298Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

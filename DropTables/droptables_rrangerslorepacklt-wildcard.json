@@ -1,0 +1,368 @@
+{
+  "Name": "RRangersLorePackLT-Wildcard",
+  "Description": "BoosterPack-Set-111 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1530051",
+      "ItemName": "Able Ranger\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1530021",
+      "ItemName": "Able Ranger\u0027s Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1530036",
+      "ItemName": "Able Ranger\u0027s Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523916",
+      "ItemName": "Able Ranger\u0027s Wayfinder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523961",
+      "ItemName": "Adventurous Ranger\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523931",
+      "ItemName": "Adventurous Ranger\u0027s Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523946",
+      "ItemName": "Adventurous Ranger\u0027s Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523886",
+      "ItemName": "Adventurous Ranger\u0027s Wayfinder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220323",
+      "ItemName": "Bag of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "514203989",
+      "ItemName": "Balanceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "799474519",
+      "ItemName": "Beastmoon Weakness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220226",
+      "ItemName": "Buttered Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220248",
+      "ItemName": "Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220256",
+      "ItemName": "Caramel Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1164991014",
+      "ItemName": "Chain Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220211",
+      "ItemName": "Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160607",
+      "ItemName": "Cherry Blossom Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220228",
+      "ItemName": "Chocolate Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220204",
+      "ItemName": "Crunch Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1432098147",
+      "ItemName": "Deathblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220280",
+      "ItemName": "Delicious Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "406225536",
+      "ItemName": "Dream Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181060",
+      "ItemName": "Drinking Horn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "432322239",
+      "ItemName": "Ether Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733120",
+      "ItemName": "Fern Jelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850164170",
+      "ItemName": "Fireblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392777",
+      "ItemName": "Fortified Bread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698635320",
+      "ItemName": "Glacial Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220284",
+      "ItemName": "Glowing Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512114",
+      "ItemName": "Golem Tower Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335143",
+      "ItemName": "Graduation Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220240",
+      "ItemName": "Green Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220197",
+      "ItemName": "Green Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2039832976",
+      "ItemName": "Iceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1530006",
+      "ItemName": "Intrepid Ranger\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523976",
+      "ItemName": "Intrepid Ranger\u0027s Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523991",
+      "ItemName": "Intrepid Ranger\u0027s Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523901",
+      "ItemName": "Intrepid Ranger\u0027s Wayfinder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220288",
+      "ItemName": "Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220299",
+      "ItemName": "Large Pretzel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "337647600",
+      "ItemName": "Legend Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850143684",
+      "ItemName": "Lifeblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850060227",
+      "ItemName": "Mythblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202018",
+      "ItemName": "Olympian Herb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342102",
+      "ItemName": "Outrigger Canoe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220231",
+      "ItemName": "Potato Chips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220233",
+      "ItemName": "Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220196",
+      "ItemName": "Sliced Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "878423377",
+      "ItemName": "Spirit Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171386709",
+      "ItemName": "Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1427058518",
+      "ItemName": "StormShark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220249",
+      "ItemName": "Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643179",
+      "ItemName": "Talking Drum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1250455896",
+      "ItemName": "Thermic Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220230",
+      "ItemName": "Tiny Pretzel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374255",
+      "ItemName": "Tip of the Polarian Iceberg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "432327120",
+      "ItemName": "Tower Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446852032",
+      "ItemName": "Volcanic Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512119",
+      "ItemName": "Wizard City Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512115",
+      "ItemName": "Wizard City Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512087",
+      "ItemName": "Wizard City Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1457167",
+      "ItemName": "Wizard City Shop Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512116",
+      "ItemName": "Wizard City Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512117",
+      "ItemName": "Wizard City Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512118",
+      "ItemName": "Wizard City Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512113",
+      "ItemName": "Wizard101 Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220232",
+      "ItemName": "Yogurt",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.428327Z",
+  "ModifiedAt": "2026-09-30T03:55:50.428327Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "PrimevalHoard-Wildcard",
+  "Description": "BoosterPack-Set-99 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1499222",
+      "ItemName": "Chompy Bronto (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499219",
+      "ItemName": "Stompy Bronto (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499223",
+      "ItemName": "Trompy Bronto (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.413284Z",
+  "ModifiedAt": "2026-09-30T03:55:50.413285Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

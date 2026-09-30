@@ -1,0 +1,188 @@
+{
+  "Name": "Housing_FishingMulti_Random",
+  "Description": "FishingBoost_Aquarium_Pack Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1459000",
+      "ItemName": "Autumn Keeper Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1435180",
+      "ItemName": "Friendship Keeper Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212071",
+      "ItemName": "Large Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335026",
+      "ItemName": "Large Keeper Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212077",
+      "ItemName": "Large Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335024",
+      "ItemName": "Large Small Fry Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212060",
+      "ItemName": "Large Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350323",
+      "ItemName": "Lg. Keeper Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350324",
+      "ItemName": "Lg. Small Fry Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350325",
+      "ItemName": "Lg. Whopper Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350359",
+      "ItemName": "Reg. Keeper Beach Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374080",
+      "ItemName": "Reg. Keeper Icy Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350320",
+      "ItemName": "Reg. Keeper Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350321",
+      "ItemName": "Reg. Small Fry Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350322",
+      "ItemName": "Reg. Whopper Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212073",
+      "ItemName": "Regular Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335023",
+      "ItemName": "Regular Keeper Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212076",
+      "ItemName": "Regular Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335021",
+      "ItemName": "Regular Small Fry Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212068",
+      "ItemName": "Regular Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1416182",
+      "ItemName": "Spring Keeper Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212072",
+      "ItemName": "Tall Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350326",
+      "ItemName": "Tall Keeper Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335025",
+      "ItemName": "Tall Keeper Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212075",
+      "ItemName": "Tall Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350327",
+      "ItemName": "Tall Small Fry Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335022",
+      "ItemName": "Tall Small Fry Multi-Tank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212069",
+      "ItemName": "Tall Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350328",
+      "ItemName": "Tall Whopper Lava Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317762",
+      "ItemName": "Yuletide Reg. Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317763",
+      "ItemName": "Yuletide Reg. Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317757",
+      "ItemName": "Yuletide Tall Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317756",
+      "ItemName": "Yuletide Tall Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317758",
+      "ItemName": "Yuletide Tall Whopper Aquarium",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.428943Z",
+  "ModifiedAt": "2026-09-30T03:55:50.428944Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

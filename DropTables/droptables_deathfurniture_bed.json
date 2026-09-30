@@ -1,0 +1,28 @@
+{
+  "Name": "DeathFurniture_Bed",
+  "Description": "Death_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1359641",
+      "ItemName": "Dworgyn\u0027s Deathbed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359642",
+      "ItemName": "Dworgyn\u0027s Nightside Table",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411245Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411245Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

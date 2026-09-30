@@ -1,0 +1,228 @@
+{
+  "Name": "2026CTP-PackLT-Wildcard",
+  "Description": "BoosterPack-Set-165 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1763082",
+      "ItemName": "Blight Rabbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672986",
+      "ItemName": "Cobalt Kettle Krawler (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672985",
+      "ItemName": "Cobalt Kettle Krawler (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672982",
+      "ItemName": "Copper Kettle Krawler (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672981",
+      "ItemName": "Copper Kettle Krawler (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764021",
+      "ItemName": "Creepy Beige Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764014",
+      "ItemName": "Creepy Beige Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764017",
+      "ItemName": "Creepy Beige Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1770000",
+      "ItemName": "Creepy Cart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764020",
+      "ItemName": "Creepy Hallowe\u0027en Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764015",
+      "ItemName": "Creepy Hallowe\u0027en Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764016",
+      "ItemName": "Creepy Hallowe\u0027en Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672978",
+      "ItemName": "Creepy Kettle Krawler (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672977",
+      "ItemName": "Creepy Kettle Krawler (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764019",
+      "ItemName": "Creepy Purple Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764013",
+      "ItemName": "Creepy Purple Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1764018",
+      "ItemName": "Creepy Purple Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160361",
+      "ItemName": "Dark Stone Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1770003",
+      "ItemName": "Freaky Kettle Crawler (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1770002",
+      "ItemName": "Freaky Kettle Crawler (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1763081",
+      "ItemName": "Fright Rabbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470052",
+      "ItemName": "Ghoul Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1774000",
+      "ItemName": "Haunted Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1770017",
+      "ItemName": "Haunted Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473523",
+      "ItemName": "Misfortune Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1763083",
+      "ItemName": "Plight Rabbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473528",
+      "ItemName": "Sandy Corn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "883663540",
+      "ItemName": "Scarecrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470053",
+      "ItemName": "Scarecrow Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1770007",
+      "ItemName": "Scary Kettle Crawler (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1770006",
+      "ItemName": "Scary Kettle Crawler (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "152960551",
+      "ItemName": "Ship of Fools",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695075",
+      "ItemName": "Smite Rabbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1763013",
+      "ItemName": "Spooky Kettle Crawler (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1763015",
+      "ItemName": "Spooky Kettle Crawler (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359138",
+      "ItemName": "Tea Party Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359665",
+      "ItemName": "The Cat Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359662",
+      "ItemName": "The Goat Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695073",
+      "ItemName": "Twilight Rabbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470054",
+      "ItemName": "Vampire Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470055",
+      "ItemName": "Witch Doodle Stand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.429076Z",
+  "ModifiedAt": "2026-09-30T03:55:50.429077Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

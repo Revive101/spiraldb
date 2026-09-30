@@ -1,0 +1,113 @@
+{
+  "Name": "SinbadHoardLT-Wildcard",
+  "Description": "BoosterPack-Set-87 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489611",
+      "ItemName": "Admiral\u0027s Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489485",
+      "ItemName": "Fleet Kapudan\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489499",
+      "ItemName": "Fleet Kapudan\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489471",
+      "ItemName": "Fleet Kapudan\u0027s Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489527",
+      "ItemName": "Grand Admiral\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489541",
+      "ItemName": "Grand Admiral\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489513",
+      "ItemName": "Grand Admiral\u0027s Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489885",
+      "ItemName": "Kapudan\u0027s Grappling Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479419",
+      "ItemName": "Magnificent Clay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479420",
+      "ItemName": "Plucky Gryphon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470043",
+      "ItemName": "Roc (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470041",
+      "ItemName": "Roc (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470044",
+      "ItemName": "Scrappy Gryphon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "553652778",
+      "ItemName": "Sinbad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489569",
+      "ItemName": "Sky Captain\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489625",
+      "ItemName": "Sky Captain\u0027s Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489583",
+      "ItemName": "Sky Captain\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489555",
+      "ItemName": "Sky Captain\u0027s Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479421",
+      "ItemName": "Snappy Gryphon",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.421019Z",
+  "ModifiedAt": "2026-09-30T03:55:50.421020Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

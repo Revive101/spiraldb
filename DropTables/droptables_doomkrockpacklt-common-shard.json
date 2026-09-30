@@ -1,0 +1,33 @@
+{
+  "Name": "DoomKrockPackLT-Common-Shard",
+  "Description": "BoosterPack-Set-97 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1494696",
+      "ItemName": "Blood Bat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1494694",
+      "ItemName": "Snow Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479713",
+      "ItemName": "Time Lime",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.414629Z",
+  "ModifiedAt": "2026-09-30T03:55:50.414630Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

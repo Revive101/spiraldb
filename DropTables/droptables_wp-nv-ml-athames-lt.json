@@ -1,0 +1,53 @@
+{
+  "Name": "WP-NV-ML-Athames-LT",
+  "Description": "BoosterPack-Set-136 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1588133",
+      "ItemName": "Abstract Aeon Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588136",
+      "ItemName": "Crystalline Aeon Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588138",
+      "ItemName": "Dreamscape Aeon Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588139",
+      "ItemName": "Fractal Aeon Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588137",
+      "ItemName": "Inspired Aeon Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588134",
+      "ItemName": "Macabre Aeon Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588135",
+      "ItemName": "Primordial Aeon Athame",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406786Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406786Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

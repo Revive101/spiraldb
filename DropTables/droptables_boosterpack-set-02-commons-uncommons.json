@@ -1,0 +1,53 @@
+{
+  "Name": "BoosterPack-Set-02-Commons-Uncommons",
+  "Description": "BoosterPack-Set-02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1529973157",
+      "ItemName": "Buff Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1361211448",
+      "ItemName": "Draw Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "494333983",
+      "ItemName": "Purloin Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1030803361",
+      "ItemName": "Shield Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "637424953",
+      "ItemName": "Steal Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1977044419",
+      "ItemName": "Take Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "64289252",
+      "ItemName": "Unicorn",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424422Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424423Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

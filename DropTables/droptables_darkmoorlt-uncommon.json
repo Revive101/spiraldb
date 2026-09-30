@@ -1,0 +1,253 @@
+{
+  "Name": "DarkmoorLT-UnCommon",
+  "Description": "BoosterPack-Set-32-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "733115",
+      "ItemName": "Apatotatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641612",
+      "ItemName": "Black Cap Crisps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350022",
+      "ItemName": "Blinded Bear Melee Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317844",
+      "ItemName": "Boiled Spider Legs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350234",
+      "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641699",
+      "ItemName": "Butter Worms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317989",
+      "ItemName": "Carpathes \u0026 Castle Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317987",
+      "ItemName": "Carpathes Plaza Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317988",
+      "ItemName": "Carpathes Village Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317929",
+      "ItemName": "Castle Darkmoor Flooring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317928",
+      "ItemName": "Castle Darkmoor Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317991",
+      "ItemName": "Castle Observatory Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350233",
+      "ItemName": "Cobalt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "451786750",
+      "ItemName": "Cooldown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352750",
+      "ItemName": "Cracked Damage Opal \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352333",
+      "ItemName": "Cracked Health Opal \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352433",
+      "ItemName": "Cracked Mana Opal \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352934",
+      "ItemName": "Cracked Resilient Opal \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641702",
+      "ItemName": "Crystalweb Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317965",
+      "ItemName": "Darkmoor Ceremonial Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317945",
+      "ItemName": "Darkmoor Entrance Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317998",
+      "ItemName": "Darkmoor Mausoleum Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317962",
+      "ItemName": "Darkmoor Thornflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "994969729",
+      "ItemName": "Doom and Gloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317990",
+      "ItemName": "Dragon of Darkmoor Portrait",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248056",
+      "ItemName": "Hive Rinds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317986",
+      "ItemName": "Howling Chaney Portrait",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350021",
+      "ItemName": "Impaled Bear Melee Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317842",
+      "ItemName": "Kan Davasi Delight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789214",
+      "ItemName": "Manderdrake fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317995",
+      "ItemName": "Moon Over Castle Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350014",
+      "ItemName": "Nickel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350023",
+      "ItemName": "One-Armed Bear Melee Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317992",
+      "ItemName": "Painting of Castle Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317843",
+      "ItemName": "Poached Roach",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317994",
+      "ItemName": "Portrait of Tatyana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317996",
+      "ItemName": "Portrait of the Bone Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317993",
+      "ItemName": "Portrait of Vlad von Shane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "848340699",
+      "ItemName": "Shatter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350020",
+      "ItemName": "Speared Bear Melee Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317997",
+      "ItemName": "Standing Portrait of Tatyana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2047623746",
+      "ItemName": "Steal Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "286773324",
+      "ItemName": "Steal Ward",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1172979050",
+      "ItemName": "Storm Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1848516314",
+      "ItemName": "Stun Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317768",
+      "ItemName": "Terror Dog (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317970",
+      "ItemName": "Towering Darkmoor Column",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.422413Z",
+  "ModifiedAt": "2026-09-30T03:55:50.422414Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

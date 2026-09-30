@@ -1,0 +1,103 @@
+{
+  "Name": "BoosterPack-Set05-Uncommons",
+  "Description": "BoosterPack-Set-05 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220193",
+      "ItemName": "Blonde Strawberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220198",
+      "ItemName": "Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220191",
+      "ItemName": "Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220241",
+      "ItemName": "Dragon Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225465",
+      "ItemName": "Evil Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220200",
+      "ItemName": "Flaming Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220242",
+      "ItemName": "Frosted Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220192",
+      "ItemName": "Green Jalapeno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220199",
+      "ItemName": "MooShu Broccoli",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220201",
+      "ItemName": "Orange Jalapeno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220239",
+      "ItemName": "Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220207",
+      "ItemName": "Spicy Bubblegum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220218",
+      "ItemName": "Sugar Donut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220249",
+      "ItemName": "Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220230",
+      "ItemName": "Tiny Pretzel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220202",
+      "ItemName": "Wild Strawberry",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424388Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424388Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

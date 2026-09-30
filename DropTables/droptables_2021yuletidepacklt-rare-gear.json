@@ -1,0 +1,88 @@
+{
+  "Name": "2021YuletidePackLT-Rare-gear",
+  "Description": "BoosterPack-Set-114 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1507718",
+      "ItemName": "Auld Lang Sphere (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507310",
+      "ItemName": "Blitzing Tricycle (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511183",
+      "ItemName": "Blue and Red Opened Presents",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511181",
+      "ItemName": "Blue Unpacked Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448476",
+      "ItemName": "Gravy Boat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511185",
+      "ItemName": "Purple Unboxed Presents",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507308",
+      "ItemName": "Racing Tricycle (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507307",
+      "ItemName": "Racing Tricycle (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392754",
+      "ItemName": "Red Candy Canes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511180",
+      "ItemName": "Red Unpacked Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448471",
+      "ItemName": "Roasted Veggies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507312",
+      "ItemName": "Scorching Tricycle (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392743",
+      "ItemName": "Sparkle Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507315",
+      "ItemName": "Winter Prrresent",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427610Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427610Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

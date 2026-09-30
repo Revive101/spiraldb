@@ -1,10 +1,10 @@
 {
   "Name": "BoosterPack-Set-01-Commons",
-  "Description": "Eye of Bartleby Common Treasure Cards",
-  "RollChance": 1.0,
+  "Description": "BoosterPack-Set-01 Drops",
+  "RollChance": 1,
   "Weight": 100,
-  "NoneChance": 0.0,
-  "PityCounter": 0.0,
+  "NoneChance": 0,
+  "PityCounter": 0,
   "MinGold": 0,
   "MaxGold": 0,
   "ExperienceAmount": 0,
@@ -13,222 +13,186 @@
     {
       "ItemId": "1863565554",
       "ItemName": "Blood Bat",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1465484021",
       "ItemName": "Calm",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "590619589",
       "ItemName": "Dark Sprite",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1100681053",
       "ItemName": "Death Prism",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1716973408",
       "ItemName": "Death Shield",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "169246402",
       "ItemName": "Dissipate",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1453935530",
       "ItemName": "Fire Cat",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "447302457",
       "ItemName": "Fire Elf",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "905297640",
       "ItemName": "Fire Prism",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "590622233",
       "ItemName": "Fire Shield",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "655849966",
       "ItemName": "Frost Beetle",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "349377586",
       "ItemName": "Ghoul",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "84359043",
       "ItemName": "Guiding Light",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "162508727",
       "ItemName": "Ice Prism",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1162168225",
       "ItemName": "Imp",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1471041836",
       "ItemName": "Leprechaun",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "905309934",
       "ItemName": "Life Prism",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "590642707",
       "ItemName": "Life Shield",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1387269430",
       "ItemName": "Lightning Bats",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1465188987",
       "ItemName": "Melt",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "905127149",
       "ItemName": "Myth Prism",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "590525458",
       "ItemName": "Myth Shield",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1320048974",
       "ItemName": "Pacify",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "340609029",
       "ItemName": "Pixie",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1828570061",
       "ItemName": "Quench",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "2027147535",
       "ItemName": "Scarab",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "128106028",
       "ItemName": "Scorpion",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1931522086",
       "ItemName": "Snow Serpent",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "591223532",
       "ItemName": "Snow Shield",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "345216198",
       "ItemName": "Soothe",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1103639914",
       "ItemName": "Storm Prism",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1711658327",
       "ItemName": "Storm Shield",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "2006507471",
       "ItemName": "Subdue",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "358546689",
       "ItemName": "Taunt",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "1112193844",
       "ItemName": "Thunder Snake",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     },
     {
       "ItemId": "350197601",
       "ItemName": "Troll",
-      "Notes": "",
-      "Requirements": null
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-28T14:24:00.000000Z",
-  "ModifiedAt": "2026-09-28T14:24:00.000000Z",
-  "CreatedBy": "Phill030",
-  "ModifiedBy": "Phill030"
+  "CreatedAt": "2026-09-30T03:55:50.424454Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424455Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -1,0 +1,88 @@
+{
+  "Name": "HoardOfHydraLT-Wildcard-BO-1",
+  "Description": "BoosterPack-Set-18-2 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653096",
+      "ItemName": "Blaze Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653100",
+      "ItemName": "Desert Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635938",
+      "ItemName": "Faerie Court Steel Leaf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653099",
+      "ItemName": "Forest Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470418",
+      "ItemName": "Hydra (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636043",
+      "ItemName": "Levee Breaking Lute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636052",
+      "ItemName": "Mandolin of Evermore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636034",
+      "ItemName": "Misty Mountain Mandolin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653097",
+      "ItemName": "Mythic Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635965",
+      "ItemName": "Pixie\u0027s Armor of Encanta",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653101",
+      "ItemName": "Shadow Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653098",
+      "ItemName": "Snow Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653102",
+      "ItemName": "Spark Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635992",
+      "ItemName": "World\u0027s Fool Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.414181Z",
+  "ModifiedAt": "2026-09-30T03:55:50.414181Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

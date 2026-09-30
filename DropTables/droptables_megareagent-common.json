@@ -1,0 +1,73 @@
+{
+  "Name": "MegaReagent-Common",
+  "Description": "BoosterPack-Set-29 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106938",
+      "ItemName": "Diamond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106969",
+      "ItemName": "Frost Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106967",
+      "ItemName": "Lava Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439326Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439327Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

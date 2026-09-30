@@ -1,0 +1,268 @@
+{
+  "Name": "TreasureTower01-Attack",
+  "Description": "BoosterPack-Set-66 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "927785577",
+      "ItemName": "Amplify",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2136233780",
+      "ItemName": "Ash Bats",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1697441930",
+      "ItemName": "Bad Juju",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441824",
+      "ItemName": "Balance Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1048477158",
+      "ItemName": "Cleanse Ward",
+      "Notes": ""
+    },
+    {
+      "ItemId": "113647540",
+      "ItemName": "Elemental Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441825",
+      "ItemName": "Enhanced Balance Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441809",
+      "ItemName": "Enhanced Fire Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441813",
+      "ItemName": "Enhanced Ice Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441816",
+      "ItemName": "Enhanced Storm Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "73527153",
+      "ItemName": "Evil Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "779947345",
+      "ItemName": "Fairy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "90582419",
+      "ItemName": "Feint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1995283361",
+      "ItemName": "Fire Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441808",
+      "ItemName": "Fire Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "109866214",
+      "ItemName": "Fire Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "273866308",
+      "ItemName": "Fire Wyvern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "850164170",
+      "ItemName": "Fireblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "111756214",
+      "ItemName": "FireCatTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1252606757",
+      "ItemName": "FireElfTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "196898529",
+      "ItemName": "Firespear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2032958859",
+      "ItemName": "Firezilla",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1267213724",
+      "ItemName": "Helping Hands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466860",
+      "ItemName": "Ice Deckathlete\u0027s Deck 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441812",
+      "ItemName": "Ice Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "152469527",
+      "ItemName": "Infallible",
+      "Notes": ""
+    },
+    {
+      "ItemId": "186656492",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1473990396",
+      "ItemName": "Link",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1088567023",
+      "ItemName": "Minor Blessing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730015727",
+      "ItemName": "Monstrous",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1911013456",
+      "ItemName": "Pierce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1888309488",
+      "ItemName": "Plague",
+      "Notes": ""
+    },
+    {
+      "ItemId": "74835973",
+      "ItemName": "Quench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "617308812",
+      "ItemName": "Regenerate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "84793606",
+      "ItemName": "Satyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "73862470",
+      "ItemName": "Scald",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258955559",
+      "ItemName": "Shatter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "657683180",
+      "ItemName": "Snow Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2048942658",
+      "ItemName": "Steal Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "286699852",
+      "ItemName": "Steal Ward",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441815",
+      "ItemName": "Storm Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1889148781",
+      "ItemName": "Storm Shark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1848606682",
+      "ItemName": "Stun Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441826",
+      "ItemName": "Superior Balance Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441810",
+      "ItemName": "Superior Fire Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441814",
+      "ItemName": "Superior Ice Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441817",
+      "ItemName": "Superior Storm Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1907258156",
+      "ItemName": "Triage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446852032",
+      "ItemName": "Volcanic Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1313738267",
+      "ItemName": "WoollyMammoth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.410018Z",
+  "ModifiedAt": "2026-09-30T03:55:50.410018Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,98 @@
+{
+  "Name": "BoosterPack-Set-03-Commons",
+  "Description": "BoosterPack-Set-03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "283916106",
+      "ItemName": "Blood Bat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1571597547",
+      "ItemName": "Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "655778757",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "978857178",
+      "ItemName": "Evil Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "693550098",
+      "ItemName": "Fire Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1554023954",
+      "ItemName": "Frost Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "73012274",
+      "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1161913825",
+      "ItemName": "Imp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1469006636",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1924140837",
+      "ItemName": "Lightning Bats",
+      "Notes": ""
+    },
+    {
+      "ItemId": "451385876",
+      "ItemName": "Nature\u0027s Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "79972357",
+      "ItemName": "Pixie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1777586445",
+      "ItemName": "Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1722687341",
+      "ItemName": "Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1714710144",
+      "ItemName": "Sunbird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "72783713",
+      "ItemName": "Troll",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412038Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412039Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

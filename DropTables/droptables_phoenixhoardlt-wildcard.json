@@ -1,0 +1,63 @@
+{
+  "Name": "PhoenixHoardLT-Wildcard",
+  "Description": "BoosterPack-Set-21 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "537974",
+      "ItemName": "Amber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667388",
+      "ItemName": "Flashing Dragon Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690108",
+      "ItemName": "Gargoyle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667370",
+      "ItemName": "Glinting Dragon Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667471",
+      "ItemName": "Glorious Avenger\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470481",
+      "ItemName": "Phoenix (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667498",
+      "ItemName": "Royal Armor of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667379",
+      "ItemName": "Sinister Dragon Pike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667525",
+      "ItemName": "Smoldering Vengeance Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411821Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411822Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

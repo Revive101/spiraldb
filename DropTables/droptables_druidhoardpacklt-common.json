@@ -1,0 +1,178 @@
+{
+  "Name": "DruidHoardPackLT-Common",
+  "Description": "BoosterPack-Set-89 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350015",
+      "ItemName": "Brass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479623",
+      "ItemName": "Broken Vase with Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350234",
+      "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350013",
+      "ItemName": "Copper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479624",
+      "ItemName": "Drains Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220234",
+      "ItemName": "Drumstick",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220212",
+      "ItemName": "Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100325",
+      "ItemName": "Frog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220242",
+      "ItemName": "Frosted Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479644",
+      "ItemName": "Ghost Warden",
+      "Notes": ""
+    },
+    {
+      "ItemId": "175468",
+      "ItemName": "Grizzley Boar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350014",
+      "ItemName": "Nickel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479625",
+      "ItemName": "Notebook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220201",
+      "ItemName": "Orange Jalapeno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220271",
+      "ItemName": "Radioactive Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479626",
+      "ItemName": "Rolled Up Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479627",
+      "ItemName": "Ruined Forest Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100416",
+      "ItemName": "Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248001",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479628",
+      "ItemName": "Trash Pile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220250",
+      "ItemName": "Truffle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220229",
+      "ItemName": "Wafer Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220232",
+      "ItemName": "Yogurt",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.415955Z",
+  "ModifiedAt": "2026-09-30T03:55:50.415955Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

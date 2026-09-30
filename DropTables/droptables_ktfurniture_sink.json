@@ -1,0 +1,33 @@
+{
+  "Name": "KTFurniture_Sink",
+  "Description": "Krokotopia_Furniture_Set_02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "689350",
+      "ItemName": "Krokotopian Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689355",
+      "ItemName": "Krokotopian Sink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689361",
+      "ItemName": "Krokotopian Stone Floor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.433423Z",
+  "ModifiedAt": "2026-09-30T03:55:50.433424Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

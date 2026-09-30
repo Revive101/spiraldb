@@ -1,0 +1,718 @@
+{
+  "Name": "2014YuletidePackLT-Wildcard-BO-2",
+  "Description": "BoosterPack-DeciusTest-01 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1456218",
+      "ItemName": "Armor of Minty Freshness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418947",
+      "ItemName": "Armor of the Silent Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338614",
+      "ItemName": "Arund Vale Snowshoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338625",
+      "ItemName": "Arund Vale Winter Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338691",
+      "ItemName": "Auspice of Icewind Glade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338680",
+      "ItemName": "Beacon of the Arund Vale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359625",
+      "ItemName": "Beast Wellington",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1714607419",
+      "ItemName": "Big Bad Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418863",
+      "ItemName": "Blade of the Silent Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470181",
+      "ItemName": "Blue Candy-cane (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470166",
+      "ItemName": "Blue Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473654",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456232",
+      "ItemName": "Boots of Minty Freshness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418961",
+      "ItemName": "Boots of the Silent Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335013",
+      "ItemName": "Carol of the Bells Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126827",
+      "ItemName": "Christmas Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441338",
+      "ItemName": "Crumbles Gingerhorse (1-Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441337",
+      "ItemName": "Crumbles Gingerhorse (7-Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335012",
+      "ItemName": "Deck the Halls Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641603",
+      "ItemName": "Deepwater Toffee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359622",
+      "ItemName": "Eye Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447043",
+      "ItemName": "Feisty Gingerbreadman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733182",
+      "ItemName": "Feliz Romeritos",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374104",
+      "ItemName": "Festive Shrub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374125",
+      "ItemName": "Festive Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "350260039",
+      "ItemName": "Fiery Giant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126826",
+      "ItemName": "Frostman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724290",
+      "ItemName": "Gingerbread House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473518",
+      "ItemName": "Gobbler Stoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257301",
+      "ItemName": "Golden Goose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317767",
+      "ItemName": "Grand Winter Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470182",
+      "ItemName": "Green Candy-cane (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470167",
+      "ItemName": "Green Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713154",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374096",
+      "ItemName": "Green String Lights",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355087",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1008863650",
+      "ItemName": "Healing Current",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456204",
+      "ItemName": "Helm of Minty Freshness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418933",
+      "ItemName": "Helm of the Silent Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522156",
+      "ItemName": "Holiday Hoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338603",
+      "ItemName": "Hood of the Arund Vale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359619",
+      "ItemName": "Hot Cross Buns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536802418",
+      "ItemName": "Humongofrog Death TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2143991716",
+      "ItemName": "Ice Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338647",
+      "ItemName": "Icewind Glade Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338658",
+      "ItemName": "Icewind Glade Winterwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2119192896",
+      "ItemName": "Inferno Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335011",
+      "ItemName": "Jingle Bells Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473525",
+      "ItemName": "Jolly Rancher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456260",
+      "ItemName": "Karamelle Knight Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456274",
+      "ItemName": "Karamelle Knight Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456246",
+      "ItemName": "Karamelle Knight Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456317",
+      "ItemName": "Karamelle Knight Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1477902889",
+      "ItemName": "Lava Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374127",
+      "ItemName": "Lively Reindeer Decoration ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "297122760",
+      "ItemName": "Magma Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374126",
+      "ItemName": "Majestic Reindeer Decoration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317712",
+      "ItemName": "Maple Moose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733190",
+      "ItemName": "Missile Toe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470183",
+      "ItemName": "Mixed Candy-cane (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470168",
+      "ItemName": "Mixed Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359613",
+      "ItemName": "Mustachios",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1425853738",
+      "ItemName": "Myth Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice\u0027s Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724291",
+      "ItemName": "Nutcracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "198656403",
+      "ItemName": "Obsidian Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359626",
+      "ItemName": "Penne Dreadful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456176",
+      "ItemName": "Peppermintalist\u0027s Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456190",
+      "ItemName": "Peppermintalist\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456162",
+      "ItemName": "Peppermintalist\u0027s Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456289",
+      "ItemName": "Peppermintalist\u0027s Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374097",
+      "ItemName": "Pile o\u0027 Presents",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470184",
+      "ItemName": "Pink Candy-cane (7 day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470169",
+      "ItemName": "Pink Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473517",
+      "ItemName": "Pixie Stix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733197",
+      "ItemName": "Point Setta",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374135",
+      "ItemName": "Polarian Shipwreck Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359612",
+      "ItemName": "Polaris Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374137",
+      "ItemName": "Portrait of Frozen Tears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713161",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470180",
+      "ItemName": "Red Candy-cane (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470165",
+      "ItemName": "Red Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538219483",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374095",
+      "ItemName": "Red String Lights",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733183",
+      "ItemName": "Roast Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447044",
+      "ItemName": "Salty Gingerbreadman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1913080634",
+      "ItemName": "Sandstone Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359623",
+      "ItemName": "Satyr Chow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338636",
+      "ItemName": "Shroud of Icewind Glade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418849",
+      "ItemName": "Silent Knight Claymore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418919",
+      "ItemName": "Silent Knight Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418891",
+      "ItemName": "Silent Knight Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418905",
+      "ItemName": "Silent Knight Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418877",
+      "ItemName": "Silent Knight\u0027s Cold Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418975",
+      "ItemName": "Silent Knight\u0027s Headgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418989",
+      "ItemName": "Silent Knight\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430003",
+      "ItemName": "Silent Knight\u0027s Snowboots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392744",
+      "ItemName": "Skating Rink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713140",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407417",
+      "ItemName": "Snowdrifter\u0027s Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407378",
+      "ItemName": "Snowdrifter\u0027s Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407235",
+      "ItemName": "Snowdrifter\u0027s Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407209",
+      "ItemName": "Snowdrifter\u0027s Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407222",
+      "ItemName": "Snowdrifter\u0027s Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407456",
+      "ItemName": "Snowdrifter\u0027s Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724302",
+      "ItemName": "Snowglobe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392732",
+      "ItemName": "Snowhopper Sleigh (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392217",
+      "ItemName": "Snowhoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392743",
+      "ItemName": "Sparkle Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447042",
+      "ItemName": "Spicy Gingerbreadman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374106",
+      "ItemName": "Spiral Light Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "364579058",
+      "ItemName": "Steel Giant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374130",
+      "ItemName": "Stuffed Turkey Dinner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456303",
+      "ItemName": "Sword of Minty Freshness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374133",
+      "ItemName": "Tall Yuletide Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374078",
+      "ItemName": "The Fakie Ollie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374077",
+      "ItemName": "The Halfpipe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374076",
+      "ItemName": "The Snowfall Earmuffs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374075",
+      "ItemName": "The Winterland Earmuffs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359618",
+      "ItemName": "Veggie Juice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338669",
+      "ItemName": "Winter Solstice Augury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338570",
+      "ItemName": "Winter Solstice Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338581",
+      "ItemName": "Winter Solstice Snowboots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338592",
+      "ItemName": "Winter Solstice Vesture",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317754",
+      "ItemName": "WinterGlide Skates (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317753",
+      "ItemName": "WinterGlide Skates (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374136",
+      "ItemName": "Witch\u0027s Hut Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421916",
+      "ItemName": "Wolf of the Winter (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421915",
+      "ItemName": "Wolf of the Winter (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470185",
+      "ItemName": "Yellow Candy-cane (7 day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470170",
+      "ItemName": "Yellow Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335014",
+      "ItemName": "Yuletide Jingle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317759",
+      "ItemName": "Yuletide Lg. Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317751",
+      "ItemName": "Yuletide Present Giver\u0027s Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346190",
+      "ItemName": "Yuletide Spirit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359915",
+      "ItemName": "Yuletide Stag (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359914",
+      "ItemName": "Yuletide Stag (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317758",
+      "ItemName": "Yuletide Tall Whopper Aquarium",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.420789Z",
+  "ModifiedAt": "2026-09-30T03:55:50.420789Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

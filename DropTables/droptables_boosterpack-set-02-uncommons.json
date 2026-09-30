@@ -1,0 +1,48 @@
+{
+  "Name": "BoosterPack-Set-02-Uncommons",
+  "Description": "BoosterPack-Set-02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635061742",
+      "ItemName": "Drain Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1977509811",
+      "ItemName": "Draw Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1171433039",
+      "ItemName": "Helephant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1529916330",
+      "ItemName": "Mend Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1280381090",
+      "ItemName": "Purloin Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1154729897",
+      "ItemName": "Siphon Health",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424423Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424424Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

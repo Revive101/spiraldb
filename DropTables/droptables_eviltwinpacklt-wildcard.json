@@ -1,0 +1,108 @@
+{
+  "Name": "EvilTwinPackLT-Wildcard",
+  "Description": "BoosterPack-Set-58 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225484",
+      "ItemName": "Bat Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456415",
+      "ItemName": "Dark Elf Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456345",
+      "ItemName": "Dark Elf Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212171",
+      "ItemName": "Dark Imp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191226",
+      "ItemName": "Enchanted Broom (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225497",
+      "ItemName": "Ghost Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383174",
+      "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447062",
+      "ItemName": "Hart of Darkness (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447058",
+      "ItemName": "Hart of Darkness (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392007",
+      "ItemName": "Jack O Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456373",
+      "ItemName": "Light Elf Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456331",
+      "ItemName": "Light Elf Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447064",
+      "ItemName": "Light Hart (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447057",
+      "ItemName": "Light Hart (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383172",
+      "ItemName": "Scarecrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225479",
+      "ItemName": "Seraph Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383180",
+      "ItemName": "Wraith",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.404433Z",
+  "ModifiedAt": "2026-09-30T03:55:50.404433Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

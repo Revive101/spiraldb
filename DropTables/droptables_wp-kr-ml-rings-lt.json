@@ -1,0 +1,53 @@
+{
+  "Name": "WP-KR-ML-Rings-LT",
+  "Description": "BoosterPack-Set-125 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1557029",
+      "ItemName": "Band of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557026",
+      "ItemName": "Geometry of Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557024",
+      "ItemName": "Insignia of the Dark Woman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557027",
+      "ItemName": "Lady of Spiders\u0027 Royal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557023",
+      "ItemName": "Loop of the Umbra Legion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557025",
+      "ItemName": "Seal of the Shadow Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557028",
+      "ItemName": "Signet of the Shadow Queen",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.426016Z",
+  "ModifiedAt": "2026-09-30T03:55:50.426016Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

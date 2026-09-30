@@ -1,0 +1,53 @@
+{
+  "Name": "WP-LM-ML-Robe-LT",
+  "Description": "BoosterPack-Set-126-Fix Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537074",
+      "ItemName": "Merciless Balance Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537073",
+      "ItemName": "Merciless Death Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537068",
+      "ItemName": "Merciless Fire Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537069",
+      "ItemName": "Merciless Ice Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537072",
+      "ItemName": "Merciless Life Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537071",
+      "ItemName": "Merciless Myth Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537070",
+      "ItemName": "Merciless Storm Cloak",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.405277Z",
+  "ModifiedAt": "2026-09-30T03:55:50.405278Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

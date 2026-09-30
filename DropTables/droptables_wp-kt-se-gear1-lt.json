@@ -1,0 +1,413 @@
+{
+  "Name": "WP-KT-SE-Gear1-LT",
+  "Description": "BoosterPack-Set-147 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1669481",
+      "ItemName": "Ammut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1674177",
+      "ItemName": "Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673549",
+      "ItemName": "Avatar\u0027s Amulet of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673545",
+      "ItemName": "Avatar\u0027s Amulet of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673544",
+      "ItemName": "Avatar\u0027s Amulet of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673548",
+      "ItemName": "Avatar\u0027s Amulet of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673547",
+      "ItemName": "Avatar\u0027s Amulet of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673550",
+      "ItemName": "Avatar\u0027s Amulet of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673546",
+      "ItemName": "Avatar\u0027s Amulet of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673504",
+      "ItemName": "Avatar\u0027s Armor of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673500",
+      "ItemName": "Avatar\u0027s Armor of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673499",
+      "ItemName": "Avatar\u0027s Armor of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673503",
+      "ItemName": "Avatar\u0027s Armor of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673502",
+      "ItemName": "Avatar\u0027s Armor of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673505",
+      "ItemName": "Avatar\u0027s Armor of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673501",
+      "ItemName": "Avatar\u0027s Armor of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673542",
+      "ItemName": "Avatar\u0027s Blade of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673538",
+      "ItemName": "Avatar\u0027s Blade of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673537",
+      "ItemName": "Avatar\u0027s Blade of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673541",
+      "ItemName": "Avatar\u0027s Blade of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673540",
+      "ItemName": "Avatar\u0027s Blade of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673543",
+      "ItemName": "Avatar\u0027s Blade of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673539",
+      "ItemName": "Avatar\u0027s Blade of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673511",
+      "ItemName": "Avatar\u0027s Boots of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673507",
+      "ItemName": "Avatar\u0027s Boots of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673506",
+      "ItemName": "Avatar\u0027s Boots of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673510",
+      "ItemName": "Avatar\u0027s Boots of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673509",
+      "ItemName": "Avatar\u0027s Boots of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673512",
+      "ItemName": "Avatar\u0027s Boots of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673508",
+      "ItemName": "Avatar\u0027s Boots of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673584",
+      "ItemName": "Avatar\u0027s Cards of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673580",
+      "ItemName": "Avatar\u0027s Cards of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673579",
+      "ItemName": "Avatar\u0027s Cards of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673583",
+      "ItemName": "Avatar\u0027s Cards of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673582",
+      "ItemName": "Avatar\u0027s Cards of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673585",
+      "ItemName": "Avatar\u0027s Cards of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673581",
+      "ItemName": "Avatar\u0027s Cards of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673598",
+      "ItemName": "Avatar\u0027s Chakram of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673594",
+      "ItemName": "Avatar\u0027s Chakram of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673593",
+      "ItemName": "Avatar\u0027s Chakram of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673597",
+      "ItemName": "Avatar\u0027s Chakram of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673596",
+      "ItemName": "Avatar\u0027s Chakram of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673599",
+      "ItemName": "Avatar\u0027s Chakram of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673595",
+      "ItemName": "Avatar\u0027s Chakram of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673497",
+      "ItemName": "Avatar\u0027s Crown of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673493",
+      "ItemName": "Avatar\u0027s Crown of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673492",
+      "ItemName": "Avatar\u0027s Crown of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673496",
+      "ItemName": "Avatar\u0027s Crown of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673495",
+      "ItemName": "Avatar\u0027s Crown of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673498",
+      "ItemName": "Avatar\u0027s Crown of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673494",
+      "ItemName": "Avatar\u0027s Crown of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673556",
+      "ItemName": "Avatar\u0027s Seal of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673552",
+      "ItemName": "Avatar\u0027s Seal of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673551",
+      "ItemName": "Avatar\u0027s Seal of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673555",
+      "ItemName": "Avatar\u0027s Seal of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673554",
+      "ItemName": "Avatar\u0027s Seal of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673557",
+      "ItemName": "Avatar\u0027s Seal of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673553",
+      "ItemName": "Avatar\u0027s Seal of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160989",
+      "ItemName": "Beetle Beanbag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82897",
+      "ItemName": "Bushy Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1669485",
+      "ItemName": "Chameleon Clash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739173",
+      "ItemName": "Curving Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82747",
+      "ItemName": "Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82752",
+      "ItemName": "Green Gem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1674174",
+      "ItemName": "Heqet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82906",
+      "ItemName": "Krok Chalkboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82773",
+      "ItemName": "Krok Moon Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82833",
+      "ItemName": "Krok Moon Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82768",
+      "ItemName": "Krok Tree Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82829",
+      "ItemName": "Krok Tree Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82878",
+      "ItemName": "Krokotopia Grand Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392472",
+      "ItemName": "Large Palm Leaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160987",
+      "ItemName": "Lunar-Emblem Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1677350",
+      "ItemName": "Moon Dust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82896",
+      "ItemName": "Potted Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1674173",
+      "ItemName": "Shu",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1674176",
+      "ItemName": "Taweret",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1674175",
+      "ItemName": "Thoth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82745",
+      "ItemName": "Tomb Map",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.409512Z",
+  "ModifiedAt": "2026-09-30T03:55:50.409514Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

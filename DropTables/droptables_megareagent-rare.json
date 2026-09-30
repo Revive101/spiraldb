@@ -1,0 +1,63 @@
+{
+  "Name": "MegaReagent-Rare",
+  "Description": "BoosterPack-Set-29 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473723",
+      "ItemName": "Agave Nectar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258588",
+      "ItemName": "Aquamarine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1206360",
+      "ItemName": "Comet Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473724",
+      "ItemName": "Turquoise",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.439360Z",
+  "ModifiedAt": "2026-09-30T03:55:50.439361Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

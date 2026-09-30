@@ -1,0 +1,373 @@
+{
+  "Name": "2025SCH-PackLT-Uncommon",
+  "Description": "BoosterPack-Set-161 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733115",
+      "ItemName": "Apatotatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708232",
+      "ItemName": "Ascension Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220252",
+      "ItemName": "Big Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641612",
+      "ItemName": "Black Cap Crisps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317844",
+      "ItemName": "Boiled Spider Legs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317964",
+      "ItemName": "Broad Darkmoor Plinth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641699",
+      "ItemName": "Butter Worms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "239991804",
+      "ItemName": "Call of Khrulhu TC DM",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220248",
+      "ItemName": "Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317981",
+      "ItemName": "Castle Darkmoor Flambeau",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317929",
+      "ItemName": "Castle Darkmoor Flooring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317978",
+      "ItemName": "Castle Darkmoor Frieze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317928",
+      "ItemName": "Castle Darkmoor Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220228",
+      "ItemName": "Chocolate Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350233",
+      "ItemName": "Cobalt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2126311973",
+      "ItemName": "Colossus Mantis TC DM",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641702",
+      "ItemName": "Crystalweb Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "75023254",
+      "ItemName": "Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317965",
+      "ItemName": "Darkmoor Ceremonial Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317945",
+      "ItemName": "Darkmoor Entrance Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317941",
+      "ItemName": "Darkmoor Magical Tomes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317975",
+      "ItemName": "Darkmoor Orb Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317960",
+      "ItemName": "Darkmoor Parlor Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317971",
+      "ItemName": "Darkmoor Torch Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1754179174",
+      "ItemName": "Deer Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "994969729",
+      "ItemName": "Doom and Gloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706095",
+      "ItemName": "Feral Demox (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "638345920",
+      "ItemName": "Fire from Above TC DM",
+      "Notes": ""
+    },
+    {
+      "ItemId": "927001136",
+      "ItemName": "Fortify",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "947908286",
+      "ItemName": "Gaze of Fate TC DM",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82555954",
+      "ItemName": "Giant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1611266108",
+      "ItemName": "Glowbug_Squall TC DM",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317943",
+      "ItemName": "Grand Darkmoor Candelabrum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1161914504",
+      "ItemName": "Hex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1803680979",
+      "ItemName": "Hungry Caterpillar TC DM",
+      "Notes": ""
+    },
+    {
+      "ItemId": "812119108",
+      "ItemName": "Insane Bolt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317842",
+      "ItemName": "Kan Davasi Delight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473582",
+      "ItemName": "Kola Nuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2067225304",
+      "ItemName": "Lord of Night",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789214",
+      "ItemName": "Manderdrake fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733128",
+      "ItemName": "Marzipan Maize",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708231",
+      "ItemName": "Miranda Briar\u0027s Notes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1312985588",
+      "ItemName": "MonsterMash TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350014",
+      "ItemName": "Nickel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258591",
+      "ItemName": "Perfect Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258593",
+      "ItemName": "Perfect Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "836196963",
+      "ItemName": "Plague Mist",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317843",
+      "ItemName": "Poached Roach",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1730637968",
+      "ItemName": "Poison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1206309",
+      "ItemName": "Refined Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1206298",
+      "ItemName": "Refined Ectoplasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "405079011",
+      "ItemName": "Reshuffle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "639504339",
+      "ItemName": "Skeletal Pirate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "496480977",
+      "ItemName": "Smoke Screen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220222",
+      "ItemName": "Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1172979050",
+      "ItemName": "Storm Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641595",
+      "ItemName": "Toad in the Hole",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706087",
+      "ItemName": "Trained Demox (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "62163194",
+      "ItemName": "Vampire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "524457977",
+      "ItemName": "VJ_IncreaseRank1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317977",
+      "ItemName": "Weathered Darkmoor Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1787596956",
+      "ItemName": "Wild Bolt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1706091",
+      "ItemName": "Wild Demox (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "559384134",
+      "ItemName": "Winters Web TC DM",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1313738267",
+      "ItemName": "WoollyMammoth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.436011Z",
+  "ModifiedAt": "2026-09-30T03:55:50.436012Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

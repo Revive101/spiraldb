@@ -1,0 +1,78 @@
+{
+  "Name": "Pharaohs2020-Common",
+  "Description": "BoosterPack-Set-92 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "789362",
+      "ItemName": "Anubis\u0027 Astral Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789272",
+      "ItemName": "Charred Nirini Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789292",
+      "ItemName": "Frosted Sokkwi Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789322",
+      "ItemName": "Karanahn\u0027s Charged Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789352",
+      "ItemName": "Lunar Scepter of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789252",
+      "ItemName": "Nirini Helm of Scorching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789262",
+      "ItemName": "Singed Nirini Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789302",
+      "ItemName": "Sokkwi Frostbitten Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789282",
+      "ItemName": "Sokkwi Mantle of Blizzards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789342",
+      "ItemName": "Solar Pikestaff of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789312",
+      "ItemName": "Thunderous Karanahn Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789332",
+      "ItemName": "Vestment of Ominous Skies",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.415539Z",
+  "ModifiedAt": "2026-09-30T03:55:50.415540Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

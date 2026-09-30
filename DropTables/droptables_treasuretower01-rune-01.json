@@ -1,0 +1,113 @@
+{
+  "Name": "TreasureTower01-Rune-01",
+  "Description": "BoosterPack-Set-75 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1441824",
+      "ItemName": "Balance Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441821",
+      "ItemName": "Death Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441825",
+      "ItemName": "Enhanced Balance Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441809",
+      "ItemName": "Enhanced Fire Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441813",
+      "ItemName": "Enhanced Ice Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441816",
+      "ItemName": "Enhanced Storm Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441808",
+      "ItemName": "Fire Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466860",
+      "ItemName": "Ice Deckathlete\u0027s Deck 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441812",
+      "ItemName": "Ice Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441818",
+      "ItemName": "Life Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441827",
+      "ItemName": "Myth Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441815",
+      "ItemName": "Storm Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441826",
+      "ItemName": "Superior Balance Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441823",
+      "ItemName": "Superior Death Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441810",
+      "ItemName": "Superior Fire Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441814",
+      "ItemName": "Superior Ice Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441820",
+      "ItemName": "Superior Life Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441829",
+      "ItemName": "Superior Myth Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441817",
+      "ItemName": "Superior Storm Rune",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406047Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406049Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

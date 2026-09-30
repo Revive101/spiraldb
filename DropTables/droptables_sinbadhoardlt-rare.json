@@ -1,0 +1,428 @@
+{
+  "Name": "SinbadHoardLT-Rare",
+  "Description": "BoosterPack-Set-87 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789216",
+      "ItemName": "Ancient Date",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479428",
+      "ItemName": "Archer Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248063",
+      "ItemName": "Assaulted Caramels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "708781150",
+      "ItemName": "Black Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479443",
+      "ItemName": "Blue Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350015",
+      "ItemName": "Brass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350234",
+      "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733125",
+      "ItemName": "Cactus Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350233",
+      "ItemName": "Cobalt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350013",
+      "ItemName": "Copper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352750",
+      "ItemName": "Cracked Damage Opal \u002B2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352333",
+      "ItemName": "Cracked Health Opal \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352433",
+      "ItemName": "Cracked Mana Opal \u002B5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352934",
+      "ItemName": "Cracked Resilient Opal \u002B1%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "658115525",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1167402845",
+      "ItemName": "Death Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479433",
+      "ItemName": "Desert Forge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106938",
+      "ItemName": "Diamond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "905549356",
+      "ItemName": "Do-Daga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479439",
+      "ItemName": "Double Scroll Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "323590488",
+      "ItemName": "Earth Walker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589096",
+      "ItemName": "Eggplant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "73527153",
+      "ItemName": "Evil Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479432",
+      "ItemName": "Fence Post",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479431",
+      "ItemName": "Fence Segment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589097",
+      "ItemName": "Fire Passion Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "903204776",
+      "ItemName": "Fire Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "219364143",
+      "ItemName": "Fire Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537596",
+      "ItemName": "Fuzzy Peach Fizz",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479437",
+      "ItemName": "Gilded Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479435",
+      "ItemName": "Glass of Hours",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1171503055",
+      "ItemName": "Helephant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248054",
+      "ItemName": "Honey Bombs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248055",
+      "ItemName": "Honeycombs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "162442301",
+      "ItemName": "Ice Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "70785565",
+      "ItemName": "Ice Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350232",
+      "ItemName": "Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479440",
+      "ItemName": "Istanboa Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479441",
+      "ItemName": "Istanboa Platform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819802901",
+      "ItemName": "Judgement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1737184053",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350012",
+      "ItemName": "Lead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "903192494",
+      "ItemName": "Life Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479419",
+      "ItemName": "Magnificent Clay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479445",
+      "ItemName": "Map of Aggrobah",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2028226003",
+      "ItemName": "Medusa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "940821624",
+      "ItemName": "Minotaur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479434",
+      "ItemName": "Monkey Tail Goblet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "903042477",
+      "ItemName": "Myth Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350014",
+      "ItemName": "Nickel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice\u0027s Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1765285594",
+      "ItemName": "Pirate Captain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537591",
+      "ItemName": "Pollen Bombs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257590",
+      "ItemName": "Prickly Bear Punch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479430",
+      "ItemName": "Qhat Book Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479446",
+      "ItemName": "Qhat Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479442",
+      "ItemName": "Red Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "405079011",
+      "ItemName": "Reshuffle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473720",
+      "ItemName": "Roasted Chickpeas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470042",
+      "ItemName": "Roc (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470041",
+      "ItemName": "Roc (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789217",
+      "ItemName": "Salty Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479436",
+      "ItemName": "Sand Device",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1913080634",
+      "ItemName": "Sandstone Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473528",
+      "ItemName": "Sandy Corn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479438",
+      "ItemName": "Scroll Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248057",
+      "ItemName": "Spicy Stingers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350016",
+      "ItemName": "Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1170611562",
+      "ItemName": "Storm Prism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1568839551",
+      "ItemName": "Tempest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479429",
+      "ItemName": "The Boat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350011",
+      "ItemName": "Tin",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.420959Z",
+  "ModifiedAt": "2026-09-30T03:55:50.420959Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

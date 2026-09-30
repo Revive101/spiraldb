@@ -1,0 +1,103 @@
+{
+  "Name": "2015YuletidePackLT-Common",
+  "Description": "BoosterPack-Set-35 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338614",
+      "ItemName": "Arund Vale Snowshoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335013",
+      "ItemName": "Carol of the Bells Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335012",
+      "ItemName": "Deck the Halls Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317767",
+      "ItemName": "Grand Winter Globe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338603",
+      "ItemName": "Hood of the Arund Vale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338647",
+      "ItemName": "Icewind Glade Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335011",
+      "ItemName": "Jingle Bells Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338636",
+      "ItemName": "Shroud of Icewind Glade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374133",
+      "ItemName": "Tall Yuletide Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338570",
+      "ItemName": "Winter Solstice Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338581",
+      "ItemName": "Winter Solstice Snowboots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317754",
+      "ItemName": "WinterGlide Skates (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335014",
+      "ItemName": "Yuletide Jingle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317759",
+      "ItemName": "Yuletide Lg. Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317751",
+      "ItemName": "Yuletide Present Giver\u0027s Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359915",
+      "ItemName": "Yuletide Stag (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317758",
+      "ItemName": "Yuletide Tall Whopper Aquarium",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411123Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411123Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

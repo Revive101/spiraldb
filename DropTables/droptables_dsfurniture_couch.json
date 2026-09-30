@@ -1,0 +1,28 @@
+{
+  "Name": "DSFurniture_Couch",
+  "Description": "Dragonspyre_Furniture_Set_02 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350294",
+      "ItemName": "Dragonspyre Tile Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359092",
+      "ItemName": "Labyrinth Reclining Sofa",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.410583Z",
+  "ModifiedAt": "2026-09-30T03:55:50.410584Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

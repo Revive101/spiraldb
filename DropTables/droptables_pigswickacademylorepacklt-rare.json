@@ -1,0 +1,603 @@
+{
+  "Name": "PigswickAcademyLorePackLT-Rare",
+  "Description": "BoosterPack-Set-52 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1871467111",
+      "ItemName": "Angry Snowpig TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733118",
+      "ItemName": "Avocado Milkshake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "587216065",
+      "ItemName": "Bad Juju",
+      "Notes": ""
+    },
+    {
+      "ItemId": "725630735",
+      "ItemName": "Beguile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257587",
+      "ItemName": "Bell Pepper Steak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1675018794",
+      "ItemName": "Blaze Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350015",
+      "ItemName": "Brass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257599",
+      "ItemName": "Bread Fruit Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350234",
+      "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204306",
+      "ItemName": "Bumble Bee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240118",
+      "ItemName": "Cauliflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "907593661",
+      "ItemName": "Celestial Calendar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1731351634",
+      "ItemName": "Cleanse Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "93422106",
+      "ItemName": "Cleanse Ward",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350233",
+      "ItemName": "Cobalt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350013",
+      "ItemName": "Copper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257594",
+      "ItemName": "Cornbread Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350762",
+      "ItemName": "Cornflower Wysterian Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106938",
+      "ItemName": "Diamond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257588",
+      "ItemName": "Discord Grape Jelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1199688693",
+      "ItemName": "Distract",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683120",
+      "ItemName": "Dragonship Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350754",
+      "ItemName": "Elephantine Ottoman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683119",
+      "ItemName": "Estate Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220264",
+      "ItemName": "Fancy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350751",
+      "ItemName": "Filigreed Wysterian Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106968",
+      "ItemName": "Fire Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "196994753",
+      "ItemName": "Firespear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421678",
+      "ItemName": "Fizzing Fertilizer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "801539596",
+      "ItemName": "Frostbite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350763",
+      "ItemName": "Golden Blossom Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254254",
+      "ItemName": "Greenman Sapling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220331",
+      "ItemName": "Gummy Humongofrog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248060",
+      "ItemName": "Honeycrisp Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "910652484",
+      "ItemName": "Insane Bolt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350232",
+      "ItemName": "Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350012",
+      "ItemName": "Lead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350014",
+      "ItemName": "Nickel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317673",
+      "ItemName": "Ninja Piggle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "522772815",
+      "ItemName": "Ninja Piglets TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733124",
+      "ItemName": "Papaya",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421677",
+      "ItemName": "Pegasus Patties",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473721",
+      "ItemName": "Pigeon Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1900496976",
+      "ItemName": "Pigsie TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350299",
+      "ItemName": "Pigswick Floor Tiles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317197",
+      "ItemName": "Pigswick Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359101",
+      "ItemName": "Pigswick Student\u0027s Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350752",
+      "ItemName": "Pigswick Student\u0027s Seat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350298",
+      "ItemName": "Pigswick Wall Stucco",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356099",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683118",
+      "ItemName": "Proud Pegasus Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257598",
+      "ItemName": "Rye Bread Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "484773190",
+      "ItemName": "Scald",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1298561362",
+      "ItemName": "Shift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350760",
+      "ItemName": "Short Wysterian Potted Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683121",
+      "ItemName": "Small Wooden Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683117",
+      "ItemName": "Spiral Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350755",
+      "ItemName": "Splendid Wysterian Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106964",
+      "ItemName": "Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220313",
+      "ItemName": "Sprinkle Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220317",
+      "ItemName": "Star Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350756",
+      "ItemName": "Stately Wysterian Wooden Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350016",
+      "ItemName": "Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1847491546",
+      "ItemName": "Stun Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350758",
+      "ItemName": "Tall Wysterian Potted Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421679",
+      "ItemName": "Teachers Lunch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1213333776",
+      "ItemName": "Tentacular Doom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350018",
+      "ItemName": "Titanium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100441",
+      "ItemName": "Treant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473717",
+      "ItemName": "Treant Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473724",
+      "ItemName": "Turquoise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "395069033",
+      "ItemName": "Vaporize",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257596",
+      "ItemName": "Wrath\u0027s Grape Juice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421680",
+      "ItemName": "Wysterberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512153",
+      "ItemName": "Wysteria Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317848",
+      "ItemName": "Wysteria Cupboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512093",
+      "ItemName": "Wysteria Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512151",
+      "ItemName": "Wysteria Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512152",
+      "ItemName": "Wysteria Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317847",
+      "ItemName": "Wysteria Throw Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317849",
+      "ItemName": "Wysteria Towel Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418363",
+      "ItemName": "Wysteria Warrior\u0027s Armet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418391",
+      "ItemName": "Wysteria Warrior\u0027s Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418405",
+      "ItemName": "Wysteria Warrior\u0027s Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418433",
+      "ItemName": "Wysteria Warrior\u0027s Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418475",
+      "ItemName": "Wysteria Warrior\u0027s Sollerets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418447",
+      "ItemName": "Wysteria Warrior\u0027s Warhelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350753",
+      "ItemName": "Wysterian Artist\u0027s Easel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733112",
+      "ItemName": "Yucca",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406565Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406565Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

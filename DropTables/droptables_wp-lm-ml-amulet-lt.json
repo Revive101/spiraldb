@@ -1,0 +1,53 @@
+{
+  "Name": "WP-LM-ML-Amulet-LT",
+  "Description": "BoosterPack-Set-126-Fix Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537404",
+      "ItemName": "Merciless Balance Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537403",
+      "ItemName": "Merciless Death Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537398",
+      "ItemName": "Merciless Fire Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537399",
+      "ItemName": "Merciless Ice Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537402",
+      "ItemName": "Merciless Life Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537401",
+      "ItemName": "Merciless Myth Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537400",
+      "ItemName": "Merciless Storm Talisman",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.405226Z",
+  "ModifiedAt": "2026-09-30T03:55:50.405226Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

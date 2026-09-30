@@ -1,0 +1,108 @@
+{
+  "Name": "AstrologerHoardPackLT-Uncommon",
+  "Description": "BoosterPack-Set-104 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1335126",
+      "ItemName": "Arcanum Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350015",
+      "ItemName": "Brass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350234",
+      "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512090",
+      "ItemName": "Celestia Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512136",
+      "ItemName": "Celestia Mysterious Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512139",
+      "ItemName": "Celestia Mysterious Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350013",
+      "ItemName": "Copper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439017",
+      "ItemName": "Empyrea Brain Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441527",
+      "ItemName": "Empyrea Nexus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335263",
+      "ItemName": "Mirage Chronoverge Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350014",
+      "ItemName": "Nickel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212038",
+      "ItemName": "Wizard City Dreamworld Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412524Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412524Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

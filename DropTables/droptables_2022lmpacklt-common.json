@@ -1,0 +1,33 @@
+{
+  "Name": "2022LMPackLT-Common",
+  "Description": "BoosterPack-Set-115 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1161906569",
+      "ItemName": "Jinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522157",
+      "ItemName": "Old One Artifacts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522158",
+      "ItemName": "Synthonium",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427328Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427329Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,298 @@
+{
+  "Name": "HG-PackLT-Uncommon",
+  "Description": "BoosterPack-Set-124 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "724089",
+      "ItemName": "Adult Birch Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537982",
+      "ItemName": "Amber Dust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392187",
+      "ItemName": "Antique Chalice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220255",
+      "ItemName": "Arrow Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257597",
+      "ItemName": "Boom Stroganoff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359629",
+      "ItemName": "Breakfast Tacos",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789452",
+      "ItemName": "Candlenut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220277",
+      "ItemName": "Chocolate Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537595",
+      "ItemName": "Cranberry Frog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160382",
+      "ItemName": "Dead Briar Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220280",
+      "ItemName": "Delicious Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470420",
+      "ItemName": "Dreadkeep Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220314",
+      "ItemName": "Fairy Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317838",
+      "ItemName": "Fetid Legumes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220270",
+      "ItemName": "Grilled Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538055",
+      "ItemName": "Halls of Avalon Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2126805835",
+      "ItemName": "Harvest Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522479",
+      "ItemName": "Large Autumnal Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724095",
+      "ItemName": "Large Swirl Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538026",
+      "ItemName": "Lord\u0027s Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220266",
+      "ItemName": "Meat Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538024",
+      "ItemName": "Medium Berry Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473523",
+      "ItemName": "Misfortune Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522485",
+      "ItemName": "Modest Autumnal Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538044",
+      "ItemName": "Mushroom Cottage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470424",
+      "ItemName": "Nameless Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220283",
+      "ItemName": "Nutty Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1911013456",
+      "ItemName": "Pierce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1888309488",
+      "ItemName": "Plague",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538046",
+      "ItemName": "Purple Shaded Mushroom House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538045",
+      "ItemName": "Red Shaded Mushroom House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522486",
+      "ItemName": "Short Autumnal Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538043",
+      "ItemName": "Skinny Mushroom House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522478",
+      "ItemName": "Small Autumnal Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522481",
+      "ItemName": "Small Wintry Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220295",
+      "ItemName": "Spicy Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538042",
+      "ItemName": "Squat Mushroom House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "286699852",
+      "ItemName": "Steal Ward",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538041",
+      "ItemName": "Tall Mushroom House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220260",
+      "ItemName": "Tasty Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538021",
+      "ItemName": "Tattered Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1907258156",
+      "ItemName": "Triage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538040",
+      "ItemName": "Two Story Mushroom House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1787596956",
+      "ItemName": "Wild Bolt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1313738267",
+      "ItemName": "WoollyMammoth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.426147Z",
+  "ModifiedAt": "2026-09-30T03:55:50.426148Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

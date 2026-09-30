@@ -1,0 +1,568 @@
+{
+  "Name": "PharaohsHoardLT-UnCommon",
+  "Description": "BoosterPack-Set-26 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1897977286",
+      "ItemName": "Aka Karanahn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456396459",
+      "ItemName": "Akori Nirini",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789216",
+      "ItemName": "Ancient Date",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100419",
+      "ItemName": "Arctic Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "536837522",
+      "ItemName": "Astraphobia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "462823765",
+      "ItemName": "Balanceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359625",
+      "ItemName": "Beast Wellington",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82893",
+      "ItemName": "Blue Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82719",
+      "ItemName": "Blue Facetted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82902",
+      "ItemName": "Blue Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82879",
+      "ItemName": "Boat Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359628",
+      "ItemName": "Chilly Con Queso",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1991238308",
+      "ItemName": "Combustion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470140",
+      "ItemName": "Crokagator (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "881761500",
+      "ItemName": "Elemental Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "228494323",
+      "ItemName": "Elemental Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "406082377",
+      "ItemName": "Elemental Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359622",
+      "ItemName": "Eye Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100463",
+      "ItemName": "Fire Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82826",
+      "ItemName": "Fire Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589159",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374264",
+      "ItemName": "Grand Walruskberg Lamp Post",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164144",
+      "ItemName": "Hieroglyph Wall Decor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374254",
+      "ItemName": "Ice Patch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100464",
+      "ItemName": "Ice Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82825",
+      "ItemName": "Ice Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789220",
+      "ItemName": "Kountry-Krok Butter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82764",
+      "ItemName": "Krok Bird Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82849",
+      "ItemName": "Krok Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82730",
+      "ItemName": "Krok Hourglass Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82763",
+      "ItemName": "Krok Insect Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82762",
+      "ItemName": "Krok Moon Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82739",
+      "ItemName": "Krok Scarab Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82761",
+      "ItemName": "Krok Skull Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82760",
+      "ItemName": "Krok Snake Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82759",
+      "ItemName": "Krok Sun Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82779",
+      "ItemName": "Krok Tree Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789218",
+      "ItemName": "Krokodill Pickles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100437",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82877",
+      "ItemName": "Krokotopia Camping Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82746",
+      "ItemName": "Krokotopia Map",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82856",
+      "ItemName": "Krokotopian Counter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82869",
+      "ItemName": "Large Archway",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87150",
+      "ItemName": "Mander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359202",
+      "ItemName": "Md Wood Wall Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1231689652",
+      "ItemName": "Namaste",
+      "Notes": ""
+    },
+    {
+      "ItemId": "937367301",
+      "ItemName": "Nested Fury TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789219",
+      "ItemName": "Neti Krokker Cookies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82782",
+      "ItemName": "Open Fire Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82783",
+      "ItemName": "Open Ice Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82814",
+      "ItemName": "Open Storm Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82850",
+      "ItemName": "Painted Wardrobe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82708",
+      "ItemName": "Pair of Scrolls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359612",
+      "ItemName": "Polaris Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374137",
+      "ItemName": "Portrait of Frozen Tears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82892",
+      "ItemName": "Purple Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82721",
+      "ItemName": "Purple Facetted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82903",
+      "ItemName": "Purple Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713161",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733129",
+      "ItemName": "Pyramints",
+      "Notes": ""
+    },
+    {
+      "ItemId": "36309342",
+      "ItemName": "Ra",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82823",
+      "ItemName": "Raised Fire Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82836",
+      "ItemName": "Raised Ice Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82835",
+      "ItemName": "Raised Storm Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82891",
+      "ItemName": "Red Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82718",
+      "ItemName": "Red Facetted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82899",
+      "ItemName": "Red Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82706",
+      "ItemName": "Row of Scrolls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1869206605",
+      "ItemName": "Rusalka\u0027s Wrath TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789217",
+      "ItemName": "Salty Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82780",
+      "ItemName": "Sand Celebration Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100416",
+      "ItemName": "Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376001",
+      "ItemName": "Seal Team Demolitions Fins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376097",
+      "ItemName": "Seal Team Demolitions Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376121",
+      "ItemName": "Seal Team Recon Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713140",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "75670967",
+      "ItemName": "Snowball Barrage TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164279",
+      "ItemName": "Solar Pattern Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1978643573",
+      "ItemName": "Spirit Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2122000637",
+      "ItemName": "Spirit Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "304489002",
+      "ItemName": "Spirit Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82707",
+      "ItemName": "Stack of Scrolls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100465",
+      "ItemName": "Storm Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82834",
+      "ItemName": "Storm Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1921239878",
+      "ItemName": "Suten Sokkwi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82745",
+      "ItemName": "Tomb Map",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473724",
+      "ItemName": "Turquoise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359618",
+      "ItemName": "Veggie Juice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374288",
+      "ItemName": "Walrusk Empress Caricature",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374291",
+      "ItemName": "Walrusk Vanity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374280",
+      "ItemName": "Walruskberg Guard Booth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82734",
+      "ItemName": "Wide Blue Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82757",
+      "ItemName": "Wide Purple Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82733",
+      "ItemName": "Wide Red Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374136",
+      "ItemName": "Witch\u0027s Hut Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359194",
+      "ItemName": "Wood Arch Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359198",
+      "ItemName": "Wood Corner Block",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411583Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411583Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

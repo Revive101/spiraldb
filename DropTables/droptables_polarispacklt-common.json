@@ -1,0 +1,328 @@
+{
+  "Name": "PolarisPackLT-Common",
+  "Description": "BoosterPack-Set-44 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335126",
+      "ItemName": "Arcanum Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733118",
+      "ItemName": "Avocado Milkshake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "614732506",
+      "ItemName": "Bronze Helephant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257595",
+      "ItemName": "Cold Snap Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1233939883",
+      "ItemName": "Death Helephant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1090014480",
+      "ItemName": "Death Troll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220282",
+      "ItemName": "Double Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733119",
+      "ItemName": "Fried Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1784122260",
+      "ItemName": "Frostfang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374253",
+      "ItemName": "Frozen Fish Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641684",
+      "ItemName": "Frozen Perogies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537603",
+      "ItemName": "Frozen Snails",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220315",
+      "ItemName": "Huge Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191672",
+      "ItemName": "Ice Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191668",
+      "ItemName": "Ice Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789457",
+      "ItemName": "Iced Crab Claws",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220278",
+      "ItemName": "Large Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374287",
+      "ItemName": "Patri\u00F4te Graffiti",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335144",
+      "ItemName": "Polarian Music Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335127",
+      "ItemName": "Polaris Baba Yaga Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335128",
+      "ItemName": "Polaris Frozen Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335138",
+      "ItemName": "Polaris Frozen Forest Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335129",
+      "ItemName": "Polaris Gulag Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335130",
+      "ItemName": "Polaris Gulag Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335131",
+      "ItemName": "Polaris Ice Block Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335132",
+      "ItemName": "Polaris Mine Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335133",
+      "ItemName": "Polaris Mine Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430798",
+      "ItemName": "Polaris Opera Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335134",
+      "ItemName": "Polaris Rasputin Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220247",
+      "ItemName": "Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "73995406",
+      "ItemName": "Punklops Death Fire - TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1197513917",
+      "ItemName": "Punklops Ice Myth - TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "937265375",
+      "ItemName": "Punklops Life Storm - TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473145",
+      "ItemName": "Purple Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374276",
+      "ItemName": "Simple Walruskberg Lamp Post",
+      "Notes": ""
+    },
+    {
+      "ItemId": "877321028",
+      "ItemName": "Skeletal Dragon Fire TC WTH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374272",
+      "ItemName": "Small Walrusk Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374279",
+      "ItemName": "Snowy Walruskberg Guard Booth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374252",
+      "ItemName": "Stacked Ice Blocks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374255",
+      "ItemName": "Tip of the Polarian Iceberg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733127",
+      "ItemName": "Tricera-pops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359631",
+      "ItemName": "Troggy Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374271",
+      "ItemName": "Walrusk End Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374261",
+      "ItemName": "Walrusk Feasting Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374275",
+      "ItemName": "Walrusk Officer\u0027s Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374267",
+      "ItemName": "Walrusk Potted Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374262",
+      "ItemName": "Walrusk Round Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374265",
+      "ItemName": "Walrusk Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374273",
+      "ItemName": "Walrusk Travel Trunk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374274",
+      "ItemName": "Walrusk Wooden Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335135",
+      "ItemName": "Walruskberg Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335136",
+      "ItemName": "Walruskberg Liberated Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374278",
+      "ItemName": "Walruskberg Portrait",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335137",
+      "ItemName": "Walruskberg Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1361821430",
+      "ItemName": "War Helephant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473152",
+      "ItemName": "Yellow Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "924454662",
+      "ItemName": "Yellow Troll",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.437772Z",
+  "ModifiedAt": "2026-09-30T03:55:50.437772Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

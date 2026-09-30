@@ -1,0 +1,103 @@
+{
+  "Name": "NimbariHoardPackLT-Wildcard",
+  "Description": "BoosterPack-Set-61 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1441346",
+      "ItemName": "Hurricanine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441600",
+      "ItemName": "Kalamar Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466121",
+      "ItemName": "Nimbari Centurion Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466178",
+      "ItemName": "Nimbari Centurion Scimitar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441347",
+      "ItemName": "Nimbari Chariot (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441345",
+      "ItemName": "Nimbari Chariot (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441601",
+      "ItemName": "Nimbari Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466037",
+      "ItemName": "Nimbari Justicar Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466150",
+      "ItemName": "Nimbari Justicar Scimitar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466079",
+      "ItemName": "Nimbari Praetor Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466164",
+      "ItemName": "Nimbari Praetor Scimitar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441624",
+      "ItemName": "Port Aero Super Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441687",
+      "ItemName": "Sitting Port Aero Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441695",
+      "ItemName": "Sitting\u00A0Velo City Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441696",
+      "ItemName": "Sitting Wheatsville Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441628",
+      "ItemName": "Velo City Super Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441632",
+      "ItemName": "Wheatsville Super Fan",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423476Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423477Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

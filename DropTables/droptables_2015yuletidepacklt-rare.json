@@ -1,0 +1,503 @@
+{
+  "Name": "2015YuletidePackLT-Rare",
+  "Description": "BoosterPack-Set-35 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248063",
+      "ItemName": "Assaulted Caramels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1714607419",
+      "ItemName": "Big Bad Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537487",
+      "ItemName": "Big Holiday Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106953",
+      "ItemName": "Black Coal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724295",
+      "ItemName": "Blue Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160246",
+      "ItemName": "Candle and Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220248",
+      "ItemName": "Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733180",
+      "ItemName": "Candy-Caned Yams",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733181",
+      "ItemName": "Cheese Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248061",
+      "ItemName": "Chili Peppermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248062",
+      "ItemName": "Choco-Latkes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641698",
+      "ItemName": "Chocolate Crickets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317748",
+      "ItemName": "Cream of Chicken Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641701",
+      "ItemName": "Crystal Bites",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317735",
+      "ItemName": "Dancing Reindeer Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733178",
+      "ItemName": "Egg Nog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100449",
+      "ItemName": "Evil Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1070935258",
+      "ItemName": "ExitCombat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374104",
+      "ItemName": "Festive Shrub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374125",
+      "ItemName": "Festive Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317733",
+      "ItemName": "Festive Yuletree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "350260039",
+      "ItemName": "Fiery Giant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317736",
+      "ItemName": "Galloping Reindeer Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248064",
+      "ItemName": "Gingerbread House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317728",
+      "ItemName": "Gingerbread Wall Icing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733177",
+      "ItemName": "Gingerbread Wizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220284",
+      "ItemName": "Glowing Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724294",
+      "ItemName": "Green Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374096",
+      "ItemName": "Green String Lights",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220285",
+      "ItemName": "Gummy Bloodbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220331",
+      "ItemName": "Gummy Humongofrog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473718",
+      "ItemName": "Gummy Wyrms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1008863650",
+      "ItemName": "Healing Current",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317747",
+      "ItemName": "Holiday Cranberry Sauce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537533",
+      "ItemName": "Holiday Striped Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537611",
+      "ItemName": "Holiday Wreath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536802418",
+      "ItemName": "Humongofrog Death TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2143991716",
+      "ItemName": "Ice Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2119192896",
+      "ItemName": "Inferno Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1148438838",
+      "ItemName": "Jolted Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160245",
+      "ItemName": "Large Candle Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181064",
+      "ItemName": "Large Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537496",
+      "ItemName": "Large Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537553",
+      "ItemName": "Large Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537547",
+      "ItemName": "Large Snowy Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1477902889",
+      "ItemName": "Lava Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "297122760",
+      "ItemName": "Magma Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1432868878",
+      "ItemName": "Magma Man",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181065",
+      "ItemName": "Medium Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1425853738",
+      "ItemName": "Myth Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537534",
+      "ItemName": "Night Snow Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733179",
+      "ItemName": "Ninja Figgy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220283",
+      "ItemName": "Nutty Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "198656403",
+      "ItemName": "Obsidian Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374097",
+      "ItemName": "Pile o\u0027 Presents",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537491",
+      "ItemName": "Polka Dot Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537492",
+      "ItemName": "Polka Dot Wrapped Long Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733129",
+      "ItemName": "Pyramints",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538219483",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724293",
+      "ItemName": "Red Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374095",
+      "ItemName": "Red String Lights",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220333",
+      "ItemName": "Rock and Roll Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1913080634",
+      "ItemName": "Sandstone Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160247",
+      "ItemName": "Small Candle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181066",
+      "ItemName": "Small Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537497",
+      "ItemName": "Small Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537554",
+      "ItemName": "Small Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537548",
+      "ItemName": "Small Snowy Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160386",
+      "ItemName": "Small Snowy Pine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733176",
+      "ItemName": "Snow Apple Cider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537552",
+      "ItemName": "Snow Pile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317726",
+      "ItemName": "Snowbound Yuletide Decor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317738",
+      "ItemName": "Snowflake Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537493",
+      "ItemName": "Snowflake Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537498",
+      "ItemName": "Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537490",
+      "ItemName": "Snowman Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160385",
+      "ItemName": "Snowy Pine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733184",
+      "ItemName": "Sourpuss Stovies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724298",
+      "ItemName": "Spiral Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220287",
+      "ItemName": "Star Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537489",
+      "ItemName": "Star Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "364579058",
+      "ItemName": "Steel Giant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374130",
+      "ItemName": "Stuffed Turkey Dinner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643093",
+      "ItemName": "Tallow Candles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537488",
+      "ItemName": "Tree Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248065",
+      "ItemName": "Tuti-Fruiti Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181034",
+      "ItemName": "Winter Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164283",
+      "ItemName": "Winterblue Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724292",
+      "ItemName": "Yellow Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317746",
+      "ItemName": "Yuletide Candy Canes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317749",
+      "ItemName": "Yuletide Peppermints",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411153Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411154Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "BoosterPack-Set6-Common",
+  "Description": "BoosterPack-Set-06 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "240082",
+      "ItemName": "Baby Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240080",
+      "ItemName": "Captain Canteloupe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220221",
+      "ItemName": "Cherry Tomato",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240081",
+      "ItemName": "Crab Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220190",
+      "ItemName": "Cubby Broccoli",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240083",
+      "ItemName": "Dragonhorned Melon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220263",
+      "ItemName": "Fancy Yogurt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220203",
+      "ItemName": "Flowering Pineapple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220267",
+      "ItemName": "Golden Wheat Bread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220290",
+      "ItemName": "Green Tomato",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240079",
+      "ItemName": "Hambrosia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220312",
+      "ItemName": "Mystic Dragon Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220329",
+      "ItemName": "Sun Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220223",
+      "ItemName": "Yellow Corn",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.410735Z",
+  "ModifiedAt": "2026-09-30T03:55:50.410735Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,143 @@
+{
+  "Name": "BoosterPack-Set-07-Epic",
+  "Description": "BoosterPack-Set-07 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "240101",
+      "ItemName": "Birthday Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220248",
+      "ItemName": "Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220277",
+      "ItemName": "Chocolate Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220282",
+      "ItemName": "Double Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220314",
+      "ItemName": "Fairy Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733119",
+      "ItemName": "Fried Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220242",
+      "ItemName": "Frosted Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220243",
+      "ItemName": "Funnel Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220315",
+      "ItemName": "Huge Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220244",
+      "ItemName": "Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220288",
+      "ItemName": "Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220278",
+      "ItemName": "Large Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220283",
+      "ItemName": "Nutty Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220247",
+      "ItemName": "Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220233",
+      "ItemName": "Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220333",
+      "ItemName": "Rock and Roll Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220313",
+      "ItemName": "Sprinkle Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220276",
+      "ItemName": "Strawberry Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220318",
+      "ItemName": "Super Cold Popsicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220249",
+      "ItemName": "Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248065",
+      "ItemName": "Tuti-Fruiti Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641601",
+      "ItemName": "Weirwood Cake",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.410713Z",
+  "ModifiedAt": "2026-09-30T03:55:50.410714Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

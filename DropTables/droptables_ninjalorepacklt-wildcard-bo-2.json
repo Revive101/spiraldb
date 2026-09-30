@@ -1,0 +1,423 @@
+{
+  "Name": "NinjaLorePackLT-Wildcard-BO-2",
+  "Description": "BoosterPack-Set-16-3 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589083",
+      "ItemName": "Amber Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276461",
+      "ItemName": "Ancient Koi (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532868",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532884",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532876",
+      "ItemName": "August Sage Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589219",
+      "ItemName": "Bengal Tiger (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "708783628",
+      "ItemName": "Black Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2005158131",
+      "ItemName": "Bladestorm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532728",
+      "ItemName": "Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1894528832",
+      "ItemName": "Bloodbat TC KH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240118",
+      "ItemName": "Cauliflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532852",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532860",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532844",
+      "ItemName": "Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240103",
+      "ItemName": "Dastardly Radish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106938",
+      "ItemName": "Diamond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537636",
+      "ItemName": "Falmea Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106968",
+      "ItemName": "Fire Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "89570441",
+      "ItemName": "FireElfTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220304",
+      "ItemName": "Flaming Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1543931410",
+      "ItemName": "FrostBeetleTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220275",
+      "ItemName": "Glowing Dragon Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220311",
+      "ItemName": "Glowing Star Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1954853134",
+      "ItemName": "Goat Monk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708440412",
+      "ItemName": "Goat Monk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106970",
+      "ItemName": "Grendelweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537637",
+      "ItemName": "Greyrose Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77429277",
+      "ItemName": "Ice Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532820",
+      "ItemName": "Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532828",
+      "ItemName": "Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532836",
+      "ItemName": "Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589082",
+      "ItemName": "Ivory Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1856576003",
+      "ItemName": "Jade Oni",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589080",
+      "ItemName": "Jade Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1161912529",
+      "ItemName": "Jinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1931957045",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1469016748",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "357560537",
+      "ItemName": "Lord of the Jungle - A",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2098750954",
+      "ItemName": "Nature\u0027s Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "70546506",
+      "ItemName": "Ninja Pigs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589079",
+      "ItemName": "Onyx Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258591",
+      "ItemName": "Perfect Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258596",
+      "ItemName": "Perfect Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "55042340",
+      "ItemName": "Pirate Captain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537639",
+      "ItemName": "Plague Oni Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589081",
+      "ItemName": "Ruby Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1348222489",
+      "ItemName": "Samoorai",
+      "Notes": ""
+    },
+    {
+      "ItemId": "522797493",
+      "ItemName": "Samoorai",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537638",
+      "ItemName": "Samoorai Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1802227981",
+      "ItemName": "Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276464",
+      "ItemName": "Sea Turtle (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "137449434",
+      "ItemName": "SnowShield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106964",
+      "ItemName": "Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "270565571",
+      "ItemName": "StormShield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "621735421",
+      "ItemName": "Strong",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "892626560",
+      "ItemName": "Supernova",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532736",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532744",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "544556252",
+      "ItemName": "ThunderSnakeTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "71456609",
+      "ItemName": "TutorialClearBlade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537640",
+      "ItemName": "War Oni Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.413734Z",
+  "ModifiedAt": "2026-09-30T03:55:50.413735Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

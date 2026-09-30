@@ -1,0 +1,408 @@
+{
+  "Name": "KeepersLorePackLT-UnCommon",
+  "Description": "BoosterPack-Set-22 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "861769382",
+      "ItemName": "Aftershock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "197920269",
+      "ItemName": "Animate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2055314538",
+      "ItemName": "Blade Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1955522725",
+      "ItemName": "Blight Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191272",
+      "ItemName": "Blue Dragon (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248809568",
+      "ItemName": "Blue Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470471",
+      "ItemName": "Boris Blackrock Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "910124180",
+      "ItemName": "Centaur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470690",
+      "ItemName": "Cipactli Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "378689972",
+      "ItemName": "Clanker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "794531456",
+      "ItemName": "Cloud Demon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730683",
+      "ItemName": "Crown of the Night Jaguar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730723",
+      "ItemName": "Dawn Jaguar\u0027s Silent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "17225717",
+      "ItemName": "Death Soldier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106938",
+      "ItemName": "Diamond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470473",
+      "ItemName": "Draconian Knight Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1901910339",
+      "ItemName": "Ember Everburn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191271",
+      "ItemName": "Faithful Dragoness (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355101",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106968",
+      "ItemName": "Fire Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "637912712",
+      "ItemName": "Fire Elemental",
+      "Notes": ""
+    },
+    {
+      "ItemId": "109863464",
+      "ItemName": "Fire Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "78114673",
+      "ItemName": "Flowering Dryad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "734466396",
+      "ItemName": "Frost Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1147277570",
+      "ItemName": "Frost Demon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667561",
+      "ItemName": "Golden Hood of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2047562846",
+      "ItemName": "Green Widow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1294147769",
+      "ItemName": "Ice Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "45886655",
+      "ItemName": "Infection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1917125636",
+      "ItemName": "Locust Swarm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1325060491",
+      "ItemName": "Mander Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1649709412",
+      "ItemName": "Minotaur Minion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667543",
+      "ItemName": "Mysterious Jade Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1778290536",
+      "ItemName": "Nekhbet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730693",
+      "ItemName": "Night Jaguar\u0027s Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730663",
+      "ItemName": "Pads of the Proud Jaguar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258594",
+      "ItemName": "Perfect Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258595",
+      "ItemName": "Perfect Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258596",
+      "ItemName": "Perfect Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258589",
+      "ItemName": "Pristine Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730653",
+      "ItemName": "Proud Jaguar\u0027s Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1208882854",
+      "ItemName": "Sand Stalker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "708782752",
+      "ItemName": "Shadow Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "621685565",
+      "ItemName": "Sparking Stormzilla",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "638011096",
+      "ItemName": "Sprite Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1623842252",
+      "ItemName": "Thunderbird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667588",
+      "ItemName": "Violet Hood of Bitter Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1188819907",
+      "ItemName": "Water Elemental",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411738Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411738Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

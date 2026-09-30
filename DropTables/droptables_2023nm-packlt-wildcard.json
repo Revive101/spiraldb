@@ -1,0 +1,553 @@
+{
+  "Name": "2023NM-PackLT-Wildcard",
+  "Description": "BoosterPack-Set-134 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596314",
+      "ItemName": "Balanced Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599350",
+      "ItemName": "Balanced Night Mire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599112",
+      "ItemName": "Balanced Night Mire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598769",
+      "ItemName": "Balanced Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598762",
+      "ItemName": "Balanced Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599469",
+      "ItemName": "Balanced Night Mire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599231",
+      "ItemName": "Balanced Night Mire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598636",
+      "ItemName": "Balanced Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598755",
+      "ItemName": "Balanced Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592261",
+      "ItemName": "Bayou Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100429",
+      "ItemName": "Black Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473716",
+      "ItemName": "Bogwich",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355192",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733122",
+      "ItemName": "Chili Peppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599351",
+      "ItemName": "Deadly Night Mire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599113",
+      "ItemName": "Deadly Night Mire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598770",
+      "ItemName": "Deadly Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598763",
+      "ItemName": "Deadly Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599470",
+      "ItemName": "Deadly Night Mire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599232",
+      "ItemName": "Deadly Night Mire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598637",
+      "ItemName": "Deadly Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598756",
+      "ItemName": "Deadly Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596311",
+      "ItemName": "Deathly Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "609429695",
+      "ItemName": "Downpour",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1503028560",
+      "ItemName": "Dragonflies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "257072529",
+      "ItemName": "Empower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254235",
+      "ItemName": "Fairyfly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87801",
+      "ItemName": "Fang Bat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317838",
+      "ItemName": "Fetid Legumes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596308",
+      "ItemName": "Fiery Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599352",
+      "ItemName": "Fiery Night Mire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599114",
+      "ItemName": "Fiery Night Mire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598771",
+      "ItemName": "Fiery Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598764",
+      "ItemName": "Fiery Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599471",
+      "ItemName": "Fiery Night Mire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599233",
+      "ItemName": "Fiery Night Mire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598638",
+      "ItemName": "Fiery Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598757",
+      "ItemName": "Fiery Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "73839795",
+      "ItemName": "Flood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1473831282",
+      "ItemName": "Fuel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560213",
+      "ItemName": "Gator Glider (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560212",
+      "ItemName": "Gator Glider (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560211",
+      "ItemName": "Gator Glider (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "749808883",
+      "ItemName": "Gearhead Destroyer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383143",
+      "ItemName": "Hero Sandwich",
+      "Notes": ""
+    },
+    {
+      "ItemId": "351797773",
+      "ItemName": "Ice Wyvern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596309",
+      "ItemName": "Icy Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599353",
+      "ItemName": "Icy Night Mire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599115",
+      "ItemName": "Icy Night Mire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598772",
+      "ItemName": "Icy Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598765",
+      "ItemName": "Icy Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599472",
+      "ItemName": "Icy Night Mire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599234",
+      "ItemName": "Icy Night Mire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598639",
+      "ItemName": "Icy Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598758",
+      "ItemName": "Icy Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "414179223",
+      "ItemName": "Immolate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1308003997",
+      "ItemName": "Itsy Bitsy Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470209",
+      "ItemName": "Koi Pond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220216",
+      "ItemName": "Large Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225421",
+      "ItemName": "Lifebat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596310",
+      "ItemName": "Lively Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599354",
+      "ItemName": "Lively Night Mire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599116",
+      "ItemName": "Lively Night Mire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598773",
+      "ItemName": "Lively Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598766",
+      "ItemName": "Lively Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599473",
+      "ItemName": "Lively Night Mire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599235",
+      "ItemName": "Lively Night Mire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598640",
+      "ItemName": "Lively Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598759",
+      "ItemName": "Lively Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392464",
+      "ItemName": "Living Log",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1998448702",
+      "ItemName": "Locust Swarm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1473559291",
+      "ItemName": "Mist",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220316",
+      "ItemName": "Moon Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596312",
+      "ItemName": "Mythic Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599355",
+      "ItemName": "Mythic Night Mire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599117",
+      "ItemName": "Mythic Night Mire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598774",
+      "ItemName": "Mythic Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598767",
+      "ItemName": "Mythic Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599474",
+      "ItemName": "Mythic Night Mire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599236",
+      "ItemName": "Mythic Night Mire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598641",
+      "ItemName": "Mythic Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598760",
+      "ItemName": "Mythic Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "917020150",
+      "ItemName": "Nature\u0027s Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603000",
+      "ItemName": "Night Mire Swamp Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603001",
+      "ItemName": "Night Mire Swamp Eerie Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603002",
+      "ItemName": "Night Mire Swamp Jamboree Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1900496976",
+      "ItemName": "Pigsie TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160619",
+      "ItemName": "Potted Flower Arrangement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363616246",
+      "ItemName": "Storm Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599356",
+      "ItemName": "Stormy Night Mire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599118",
+      "ItemName": "Stormy Night Mire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598775",
+      "ItemName": "Stormy Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598768",
+      "ItemName": "Stormy Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599475",
+      "ItemName": "Stormy Night Mire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1599237",
+      "ItemName": "Stormy Night Mire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598642",
+      "ItemName": "Stormy Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598761",
+      "ItemName": "Stormy Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596299",
+      "ItemName": "Stormy Ringtail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257585",
+      "ItemName": "Stuffed Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "432327120",
+      "ItemName": "Tower Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355073",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683107",
+      "ItemName": "Water-Mole Tribal Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1313738267",
+      "ItemName": "WoollyMammoth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596313",
+      "ItemName": "Zappy Glowbug",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.424939Z",
+  "ModifiedAt": "2026-09-30T03:55:50.424939Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

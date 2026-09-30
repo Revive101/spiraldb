@@ -1,0 +1,23 @@
+{
+  "Name": "MBFurniture_Bookshelf",
+  "Description": "Marleybone_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1359133",
+      "ItemName": "Regent\u0027s Library Shelf",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411306Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411307Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

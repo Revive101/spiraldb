@@ -1,0 +1,78 @@
+{
+  "Name": "2025MBMotorHoardPackLT-Common",
+  "Description": "BoosterPack-Set-158 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1523142",
+      "ItemName": "Autoist\u0027s Goggles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523157",
+      "ItemName": "Autoist\u0027s Overcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523172",
+      "ItemName": "Autoist\u0027s Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523247",
+      "ItemName": "Autoist\u0027s Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523097",
+      "ItemName": "Motorist\u0027s Goggles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523112",
+      "ItemName": "Motorist\u0027s Overcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523127",
+      "ItemName": "Motorist\u0027s Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523232",
+      "ItemName": "Motorist\u0027s Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523187",
+      "ItemName": "Traveler\u0027s Goggles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523202",
+      "ItemName": "Traveler\u0027s Overcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523217",
+      "ItemName": "Traveler\u0027s Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523262",
+      "ItemName": "Traveler\u0027s Wrench",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.429247Z",
+  "ModifiedAt": "2026-09-30T03:55:50.429248Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

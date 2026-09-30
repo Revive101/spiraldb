@@ -1,0 +1,418 @@
+{
+  "Name": "PurreausPetsLT-UnCommon",
+  "Description": "BoosterPack-Set-20 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220309",
+      "ItemName": "7 Layer Taco",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220206",
+      "ItemName": "Ape Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220255",
+      "ItemName": "Arrow Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212311",
+      "ItemName": "Beastmaster\u0027s Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212309",
+      "ItemName": "Beastmaster\u0027s Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220252",
+      "ItemName": "Big Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641679",
+      "ItemName": "Bubble and Squeak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690106",
+      "ItemName": "Burlap Boy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641688",
+      "ItemName": "Cantajackalope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220256",
+      "ItemName": "Caramel Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220269",
+      "ItemName": "Chili Cheese Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220277",
+      "ItemName": "Chocolate Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220281",
+      "ItemName": "Chocolate Donut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220279",
+      "ItemName": "Cow Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220204",
+      "ItemName": "Crunch Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220307",
+      "ItemName": "Dagwood Sandwich",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220330",
+      "ItemName": "Double Donut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641707",
+      "ItemName": "Draconionions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641691",
+      "ItemName": "Dragon Berries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641708",
+      "ItemName": "Dragon Head Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641685",
+      "ItemName": "Dragon Scale Nachos",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641683",
+      "ItemName": "Dressed Herring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220314",
+      "ItemName": "Fairy Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641705",
+      "ItemName": "Fiddleheads",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220296",
+      "ItemName": "Fire Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220304",
+      "ItemName": "Flaming Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220327",
+      "ItemName": "French Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641684",
+      "ItemName": "Frozen Perogies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220326",
+      "ItemName": "Goat Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220215",
+      "ItemName": "Golden Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220298",
+      "ItemName": "Golden Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220319",
+      "ItemName": "Golden Candy Bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220217",
+      "ItemName": "Golden Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220297",
+      "ItemName": "Golden Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220291",
+      "ItemName": "Golden Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220270",
+      "ItemName": "Grilled Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220285",
+      "ItemName": "Gummy Bloodbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220331",
+      "ItemName": "Gummy Humongofrog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220315",
+      "ItemName": "Huge Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641687",
+      "ItemName": "Killer Kumquat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220310",
+      "ItemName": "King Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641689",
+      "ItemName": "Kiwi Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690105",
+      "ItemName": "Ladybug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220306",
+      "ItemName": "Large Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220278",
+      "ItemName": "Large Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220216",
+      "ItemName": "Large Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641686",
+      "ItemName": "Lava Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641711",
+      "ItemName": "Locust Kabob",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220266",
+      "ItemName": "Meat Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220268",
+      "ItemName": "Medium Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220316",
+      "ItemName": "Moon Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220283",
+      "ItemName": "Nutty Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532625",
+      "ItemName": "Oyoroi Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532633",
+      "ItemName": "Oyoroi Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220300",
+      "ItemName": "Poncherello Chips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713161",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641680",
+      "ItemName": "Queasy Quiche",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220259",
+      "ItemName": "Redskin Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641690",
+      "ItemName": "Rhubarbed Wire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220333",
+      "ItemName": "Rock and Roll Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690110",
+      "ItemName": "Scorpion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641682",
+      "ItemName": "Snake Bite Sliders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713147",
+      "ItemName": "Sour Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220262",
+      "ItemName": "Spicy Chips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220295",
+      "ItemName": "Spicy Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220294",
+      "ItemName": "Square Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220205",
+      "ItemName": "Square Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220287",
+      "ItemName": "Star Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220257",
+      "ItemName": "Stinky Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641681",
+      "ItemName": "Street Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220322",
+      "ItemName": "Swirled Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220328",
+      "ItemName": "Taco Town Special",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690098",
+      "ItemName": "Tailstorm Pantera",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220260",
+      "ItemName": "Tasty Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220273",
+      "ItemName": "Tiki Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641709",
+      "ItemName": "Villainous Vegemite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220258",
+      "ItemName": "Wheat Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220195",
+      "ItemName": "Wormy Apple",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.411869Z",
+  "ModifiedAt": "2026-09-30T03:55:50.411869Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

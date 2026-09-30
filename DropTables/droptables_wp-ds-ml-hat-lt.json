@@ -1,0 +1,53 @@
+{
+  "Name": "WP-DS-ML-Hat-LT",
+  "Description": "BoosterPack-Set-118 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1548890",
+      "ItemName": "Kraysys\u0027 Hood of the Hidden",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548894",
+      "ItemName": "Kraysys\u0027 Unfaithful Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548896",
+      "ItemName": "Snowcrusher\u0027s Galvanic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548892",
+      "ItemName": "Snowcrusher\u0027s Mantle of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548891",
+      "ItemName": "Spiderkeeper\u0027s Darkshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548893",
+      "ItemName": "Spiderkeeper\u0027s Icemantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548895",
+      "ItemName": "Spiderkeeper\u0027s Storyveil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.427052Z",
+  "ModifiedAt": "2026-09-30T03:55:50.427052Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

@@ -1,0 +1,683 @@
+{
+  "Name": "ImmortalsLorePackLT-Rare",
+  "Description": "BoosterPack-Set-105 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589083",
+      "ItemName": "Amber Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383273",
+      "ItemName": "Aquilan Centurion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384127",
+      "ItemName": "Aquilan Charioteer Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384115",
+      "ItemName": "Aquilan Charioteer Hamata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384103",
+      "ItemName": "Aquilan Charioteer Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383271",
+      "ItemName": "Aquilan Gladiator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384163",
+      "ItemName": "Aquilan Secutor Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384139",
+      "ItemName": "Aquilan Secutor Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384223",
+      "ItemName": "Aquilan Secutor Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384199",
+      "ItemName": "Aquilan Velite Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384175",
+      "ItemName": "Aquilan Velite Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384235",
+      "ItemName": "Aquilan Velite Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446433116",
+      "ItemName": "Athena Battle Sight - TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202013",
+      "ItemName": "Atlantea Grand Monument",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202012",
+      "ItemName": "Atlantean Arch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532884",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733118",
+      "ItemName": "Avocado Milkshake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202010",
+      "ItemName": "Banner of Apollo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257587",
+      "ItemName": "Bell Pepper Steak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1733858619",
+      "ItemName": "Big Bad Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1112006948",
+      "ItemName": "Blazing Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "277801131",
+      "ItemName": "Blight Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82719",
+      "ItemName": "Blue Facetted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1218925152",
+      "ItemName": "Blue Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469722",
+      "ItemName": "Blue Vine Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257599",
+      "ItemName": "Bread Fruit Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "399623117",
+      "ItemName": "Bronze Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240118",
+      "ItemName": "Cauliflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532860",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643143",
+      "ItemName": "Clay Pot Collection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643180",
+      "ItemName": "Clay Teapot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383283",
+      "ItemName": "Contemplative Aquilan Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257594",
+      "ItemName": "Cornbread Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537536",
+      "ItemName": "Craggy Apple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469719",
+      "ItemName": "Cross Section Floor Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257588",
+      "ItemName": "Discord Grape Jelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206099",
+      "ItemName": "Egg Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202014",
+      "ItemName": "Ember Stone of Tartarus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220264",
+      "ItemName": "Fancy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220321",
+      "ItemName": "Fancy Truffle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106968",
+      "ItemName": "Fire Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789125",
+      "ItemName": "Firestorm Quetzal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191657",
+      "ItemName": "Fog Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383139",
+      "ItemName": "Frojan Mousse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220311",
+      "ItemName": "Glowing Star Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220215",
+      "ItemName": "Golden Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220217",
+      "ItemName": "Golden Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789434",
+      "ItemName": "Golden Ram",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220301",
+      "ItemName": "Gourmet Yogurt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202020",
+      "ItemName": "Grand Statue of Zeus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537777",
+      "ItemName": "Gritty Stone Floor Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212287",
+      "ItemName": "Grove Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202017",
+      "ItemName": "Hades the Unseen Mural",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1847077257",
+      "ItemName": "Hephaestus Coppersmith - TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383143",
+      "ItemName": "Hero Sandwich",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392078",
+      "ItemName": "Hespermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248060",
+      "ItemName": "Honeycrisp Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350232",
+      "ItemName": "Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392079",
+      "ItemName": "Krakamari",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350012",
+      "ItemName": "Lead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789433",
+      "ItemName": "Li\u0027l Siren",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383140",
+      "ItemName": "Manticoreos",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469720",
+      "ItemName": "Marble Diner Floor Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469725",
+      "ItemName": "Marble Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383141",
+      "ItemName": "Minotarts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473448",
+      "ItemName": "Night Hawk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202011",
+      "ItemName": "Nine Fathoms Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202018",
+      "ItemName": "Olympian Herb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589079",
+      "ItemName": "Onyx Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383278",
+      "ItemName": "Oracle of Atlantea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383277",
+      "ItemName": "Oracle of Hesperides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383275",
+      "ItemName": "Oracle of Olympus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383279",
+      "ItemName": "Oracle of Tartarus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733124",
+      "ItemName": "Papaya",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257611",
+      "ItemName": "Pegasus Pony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473721",
+      "ItemName": "Pigeon Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82721",
+      "ItemName": "Purple Facetted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "408744917",
+      "ItemName": "Queen Calypso - TC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469718",
+      "ItemName": "Red Brick Floor Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317620",
+      "ItemName": "Royal Ibis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589081",
+      "ItemName": "Ruby Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257598",
+      "ItemName": "Rye Bread Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789217",
+      "ItemName": "Salty Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643119",
+      "ItemName": "Slender Clay Jar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160377",
+      "ItemName": "Small Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164279",
+      "ItemName": "Solar Pattern Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220313",
+      "ItemName": "Sprinkle Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220317",
+      "ItemName": "Star Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470228",
+      "ItemName": "Stone Base",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469727",
+      "ItemName": "Stucco Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383282",
+      "ItemName": "Studious Aquilan Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "211109",
+      "ItemName": "Stuffed Owl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383142",
+      "ItemName": "Stymphalian Birdseed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532736",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532744",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350018",
+      "ItemName": "Titanium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473717",
+      "ItemName": "Treant Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "576799235",
+      "ItemName": "Tri All Shield TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1197901162",
+      "ItemName": "Tri Balance Shield TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "166785574",
+      "ItemName": "Tri Death Shield TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "510435584",
+      "ItemName": "Tri Fire Shield TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2095137281",
+      "ItemName": "Tri Ice Shield TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "516727035",
+      "ItemName": "Tri Life Shield TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1092837225",
+      "ItemName": "Tri Myth Shield TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1434388713",
+      "ItemName": "Tri Storm Shield TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473724",
+      "ItemName": "Turquoise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202016",
+      "ItemName": "Underworld Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469726",
+      "ItemName": "Wavy Stalk Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643118",
+      "ItemName": "Widemouth Clay Jar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789460",
+      "ItemName": "Winged Bean",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257596",
+      "ItemName": "Wrath\u0027s Grape Juice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363836215",
+      "ItemName": "Wyrm Hunter TC IL",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469724",
+      "ItemName": "Yellow Flowers Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733112",
+      "ItemName": "Yucca",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.412337Z",
+  "ModifiedAt": "2026-09-30T03:55:50.412338Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

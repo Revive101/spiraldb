@@ -1,0 +1,2683 @@
+{
+  "Name": "WP-KT-SE-Wildcard-LT",
+  "Description": "BoosterPack-Set-147 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1587352",
+      "ItemName": "Balance Accurate Pin (100)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578618",
+      "ItemName": "Balance Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578600",
+      "ItemName": "Balance Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578603",
+      "ItemName": "Balance Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578608",
+      "ItemName": "Balance Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578611",
+      "ItemName": "Balance Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578615",
+      "ItemName": "Balance Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587388",
+      "ItemName": "Balance Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587383",
+      "ItemName": "Balance Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587380",
+      "ItemName": "Balance Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587375",
+      "ItemName": "Balance Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587372",
+      "ItemName": "Balance Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587368",
+      "ItemName": "Balance Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587394",
+      "ItemName": "Balance Conversion Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626034",
+      "ItemName": "Balance Conversion Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587330",
+      "ItemName": "Balance Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587312",
+      "ItemName": "Balance Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587294",
+      "ItemName": "Balance Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587258",
+      "ItemName": "Balance Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587240",
+      "ItemName": "Balance Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587276",
+      "ItemName": "Balance Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626071",
+      "ItemName": "Balance Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626131",
+      "ItemName": "Balance Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626149",
+      "ItemName": "Balance Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626089",
+      "ItemName": "Balance Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626113",
+      "ItemName": "Balance Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626101",
+      "ItemName": "Balance Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587318",
+      "ItemName": "Balance Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587228",
+      "ItemName": "Balance Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587246",
+      "ItemName": "Balance Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587300",
+      "ItemName": "Balance Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587282",
+      "ItemName": "Balance Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587264",
+      "ItemName": "Balance Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626059",
+      "ItemName": "Balance Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626137",
+      "ItemName": "Balance Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626119",
+      "ItemName": "Balance Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626077",
+      "ItemName": "Balance Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626107",
+      "ItemName": "Balance Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626095",
+      "ItemName": "Balance Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587391",
+      "ItemName": "Balance Mending Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713127",
+      "ItemName": "Balance Mending Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587324",
+      "ItemName": "Balance Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587252",
+      "ItemName": "Balance Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587306",
+      "ItemName": "Balance Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587234",
+      "ItemName": "Balance Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587270",
+      "ItemName": "Balance Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587288",
+      "ItemName": "Balance Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626065",
+      "ItemName": "Balance Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626125",
+      "ItemName": "Balance Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626143",
+      "ItemName": "Balance Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626083",
+      "ItemName": "Balance Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587350",
+      "ItemName": "Balance Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587348",
+      "ItemName": "Balance Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587347",
+      "ItemName": "Balance Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587346",
+      "ItemName": "Balance Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587344",
+      "ItemName": "Balance Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587343",
+      "ItemName": "Balance Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654203",
+      "ItemName": "Cleanse Charm Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654202",
+      "ItemName": "Cleanse Ward Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587353",
+      "ItemName": "Death Accurate Pin (100)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578593",
+      "ItemName": "Death Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578616",
+      "ItemName": "Death Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578610",
+      "ItemName": "Death Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587361",
+      "ItemName": "Death Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587384",
+      "ItemName": "Death Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587377",
+      "ItemName": "Death Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587395",
+      "ItemName": "Death Conversion Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626035",
+      "ItemName": "Death Conversion Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587331",
+      "ItemName": "Death Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587313",
+      "ItemName": "Death Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587295",
+      "ItemName": "Death Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587222",
+      "ItemName": "Death Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587259",
+      "ItemName": "Death Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587277",
+      "ItemName": "Death Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626053",
+      "ItemName": "Death Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626132",
+      "ItemName": "Death Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626150",
+      "ItemName": "Death Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626114",
+      "ItemName": "Death Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626090",
+      "ItemName": "Death Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626102",
+      "ItemName": "Death Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587319",
+      "ItemName": "Death Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587247",
+      "ItemName": "Death Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587210",
+      "ItemName": "Death Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587301",
+      "ItemName": "Death Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587283",
+      "ItemName": "Death Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587265",
+      "ItemName": "Death Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626041",
+      "ItemName": "Death Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626138",
+      "ItemName": "Death Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626120",
+      "ItemName": "Death Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626078",
+      "ItemName": "Death Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626108",
+      "ItemName": "Death Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626096",
+      "ItemName": "Death Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713134",
+      "ItemName": "Death Mending Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713128",
+      "ItemName": "Death Mending Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587325",
+      "ItemName": "Death Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587253",
+      "ItemName": "Death Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587307",
+      "ItemName": "Death Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587271",
+      "ItemName": "Death Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587289",
+      "ItemName": "Death Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587216",
+      "ItemName": "Death Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626126",
+      "ItemName": "Death Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626144",
+      "ItemName": "Death Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626084",
+      "ItemName": "Death Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587336",
+      "ItemName": "Death Resist Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587341",
+      "ItemName": "Death Resist Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587340",
+      "ItemName": "Death Resist Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1681005",
+      "ItemName": "Death Trap Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654201",
+      "ItemName": "Disarm Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1681003",
+      "ItemName": "Elemental Trap Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587354",
+      "ItemName": "Fire Accurate Pin (100)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578594",
+      "ItemName": "Fire Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578619",
+      "ItemName": "Fire Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578613",
+      "ItemName": "Fire Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587362",
+      "ItemName": "Fire Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587389",
+      "ItemName": "Fire Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587382",
+      "ItemName": "Fire Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587396",
+      "ItemName": "Fire Conversion Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626036",
+      "ItemName": "Fire Conversion Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587314",
+      "ItemName": "Fire Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587296",
+      "ItemName": "Fire Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587223",
+      "ItemName": "Fire Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587332",
+      "ItemName": "Fire Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587241",
+      "ItemName": "Fire Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587278",
+      "ItemName": "Fire Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626054",
+      "ItemName": "Fire Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626133",
+      "ItemName": "Fire Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626151",
+      "ItemName": "Fire Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626072",
+      "ItemName": "Fire Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626115",
+      "ItemName": "Fire Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626103",
+      "ItemName": "Fire Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587320",
+      "ItemName": "Fire Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587229",
+      "ItemName": "Fire Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587211",
+      "ItemName": "Fire Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587302",
+      "ItemName": "Fire Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587284",
+      "ItemName": "Fire Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587266",
+      "ItemName": "Fire Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626060",
+      "ItemName": "Fire Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626042",
+      "ItemName": "Fire Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626121",
+      "ItemName": "Fire Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626139",
+      "ItemName": "Fire Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626109",
+      "ItemName": "Fire Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626097",
+      "ItemName": "Fire Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587392",
+      "ItemName": "Fire Mending Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713129",
+      "ItemName": "Fire Mending Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587326",
+      "ItemName": "Fire Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587235",
+      "ItemName": "Fire Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587217",
+      "ItemName": "Fire Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587272",
+      "ItemName": "Fire Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587308",
+      "ItemName": "Fire Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587290",
+      "ItemName": "Fire Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626048",
+      "ItemName": "Fire Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626066",
+      "ItemName": "Fire Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626145",
+      "ItemName": "Fire Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578285",
+      "ItemName": "Fire Resist Pin (120)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587414",
+      "ItemName": "Fire Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587421",
+      "ItemName": "Fire Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587420",
+      "ItemName": "Fire Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1681006",
+      "ItemName": "Fire Trap Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578819",
+      "ItemName": "Flawless Accurate Amethyst \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578813",
+      "ItemName": "Flawless Accurate Citrine \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578817",
+      "ItemName": "Flawless Accurate Jade \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578814",
+      "ItemName": "Flawless Accurate Onyx \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578818",
+      "ItemName": "Flawless Accurate Peridot \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578815",
+      "ItemName": "Flawless Accurate Ruby \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578816",
+      "ItemName": "Flawless Accurate Sapphire \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578885",
+      "ItemName": "Flawless Blocking Amethyst \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578886",
+      "ItemName": "Flawless Blocking Amethyst \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578873",
+      "ItemName": "Flawless Blocking Citrine \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578874",
+      "ItemName": "Flawless Blocking Citrine \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578881",
+      "ItemName": "Flawless Blocking Jade \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578882",
+      "ItemName": "Flawless Blocking Jade \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578875",
+      "ItemName": "Flawless Blocking Onyx \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578876",
+      "ItemName": "Flawless Blocking Onyx \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578858",
+      "ItemName": "Flawless Blocking Opal \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578883",
+      "ItemName": "Flawless Blocking Peridot \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578884",
+      "ItemName": "Flawless Blocking Peridot \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578877",
+      "ItemName": "Flawless Blocking Ruby \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578878",
+      "ItemName": "Flawless Blocking Ruby \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578879",
+      "ItemName": "Flawless Blocking Sapphire \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578880",
+      "ItemName": "Flawless Blocking Sapphire \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578840",
+      "ItemName": "Flawless Critical Amethyst \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578841",
+      "ItemName": "Flawless Critical Amethyst \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578828",
+      "ItemName": "Flawless Critical Citrine \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578829",
+      "ItemName": "Flawless Critical Citrine \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578836",
+      "ItemName": "Flawless Critical Jade \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578837",
+      "ItemName": "Flawless Critical Jade \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578830",
+      "ItemName": "Flawless Critical Onyx \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578831",
+      "ItemName": "Flawless Critical Onyx \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578838",
+      "ItemName": "Flawless Critical Peridot \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578839",
+      "ItemName": "Flawless Critical Peridot \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578832",
+      "ItemName": "Flawless Critical Ruby \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578833",
+      "ItemName": "Flawless Critical Ruby \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578834",
+      "ItemName": "Flawless Critical Sapphire \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578835",
+      "ItemName": "Flawless Critical Sapphire \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578809",
+      "ItemName": "Flawless Mana Opal \u002B61",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578810",
+      "ItemName": "Flawless Mana Opal \u002B62",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578811",
+      "ItemName": "Flawless Mana Opal \u002B63",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578812",
+      "ItemName": "Flawless Mana Opal \u002B64",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587351",
+      "ItemName": "Ice Accurate Pin (110)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578595",
+      "ItemName": "Ice Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578617",
+      "ItemName": "Ice Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578604",
+      "ItemName": "Ice Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587363",
+      "ItemName": "Ice Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587385",
+      "ItemName": "Ice Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587373",
+      "ItemName": "Ice Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587397",
+      "ItemName": "Ice Conversion Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626037",
+      "ItemName": "Ice Conversion Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587315",
+      "ItemName": "Ice Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587297",
+      "ItemName": "Ice Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587260",
+      "ItemName": "Ice Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587224",
+      "ItemName": "Ice Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587333",
+      "ItemName": "Ice Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587242",
+      "ItemName": "Ice Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626055",
+      "ItemName": "Ice Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626134",
+      "ItemName": "Ice Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626152",
+      "ItemName": "Ice Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626073",
+      "ItemName": "Ice Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626116",
+      "ItemName": "Ice Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626091",
+      "ItemName": "Ice Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587321",
+      "ItemName": "Ice Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587230",
+      "ItemName": "Ice Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587248",
+      "ItemName": "Ice Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587212",
+      "ItemName": "Ice Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587303",
+      "ItemName": "Ice Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587285",
+      "ItemName": "Ice Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626043",
+      "ItemName": "Ice Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626122",
+      "ItemName": "Ice Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626140",
+      "ItemName": "Ice Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626079",
+      "ItemName": "Ice Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626110",
+      "ItemName": "Ice Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626061",
+      "ItemName": "Ice Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713135",
+      "ItemName": "Ice Mending Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713130",
+      "ItemName": "Ice Mending Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587327",
+      "ItemName": "Ice Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587236",
+      "ItemName": "Ice Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587254",
+      "ItemName": "Ice Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587309",
+      "ItemName": "Ice Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587291",
+      "ItemName": "Ice Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587218",
+      "ItemName": "Ice Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626067",
+      "ItemName": "Ice Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626128",
+      "ItemName": "Ice Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626146",
+      "ItemName": "Ice Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626085",
+      "ItemName": "Ice Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587342",
+      "ItemName": "Ice Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587349",
+      "ItemName": "Ice Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587345",
+      "ItemName": "Ice Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1681007",
+      "ItemName": "Ice Trap Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654206",
+      "ItemName": "Incapacitate Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587355",
+      "ItemName": "Life Accurate Pin (100)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578596",
+      "ItemName": "Life Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578620",
+      "ItemName": "Life Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578601",
+      "ItemName": "Life Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587364",
+      "ItemName": "Life Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587390",
+      "ItemName": "Life Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587369",
+      "ItemName": "Life Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587398",
+      "ItemName": "Life Conversion Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626038",
+      "ItemName": "Life Conversion Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587316",
+      "ItemName": "Life Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587334",
+      "ItemName": "Life Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587261",
+      "ItemName": "Life Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587225",
+      "ItemName": "Life Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587243",
+      "ItemName": "Life Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587279",
+      "ItemName": "Life Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626056",
+      "ItemName": "Life Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626135",
+      "ItemName": "Life Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626153",
+      "ItemName": "Life Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626074",
+      "ItemName": "Life Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626092",
+      "ItemName": "Life Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626104",
+      "ItemName": "Life Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587322",
+      "ItemName": "Life Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587231",
+      "ItemName": "Life Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587249",
+      "ItemName": "Life Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587213",
+      "ItemName": "Life Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587304",
+      "ItemName": "Life Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587267",
+      "ItemName": "Life Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626044",
+      "ItemName": "Life Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626062",
+      "ItemName": "Life Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626123",
+      "ItemName": "Life Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626141",
+      "ItemName": "Life Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626080",
+      "ItemName": "Life Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626098",
+      "ItemName": "Life Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587644",
+      "ItemName": "Life Mending Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713131",
+      "ItemName": "Life Mending Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587310",
+      "ItemName": "Life Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587328",
+      "ItemName": "Life Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587255",
+      "ItemName": "Life Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587237",
+      "ItemName": "Life Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587273",
+      "ItemName": "Life Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587219",
+      "ItemName": "Life Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626068",
+      "ItemName": "Life Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626129",
+      "ItemName": "Life Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626147",
+      "ItemName": "Life Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626086",
+      "ItemName": "Life Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587415",
+      "ItemName": "Life Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587422",
+      "ItemName": "Life Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587417",
+      "ItemName": "Life Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1681008",
+      "ItemName": "Life Trap Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357134",
+      "ItemName": "Lustrous PIP Opal \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587356",
+      "ItemName": "Myth Accurate Pin (100)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578597",
+      "ItemName": "Myth Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578605",
+      "ItemName": "Myth Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578612",
+      "ItemName": "Myth Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587365",
+      "ItemName": "Myth Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587381",
+      "ItemName": "Myth Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587374",
+      "ItemName": "Myth Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587399",
+      "ItemName": "Myth Conversion Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626039",
+      "ItemName": "Myth Conversion Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587335",
+      "ItemName": "Myth Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587298",
+      "ItemName": "Myth Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587262",
+      "ItemName": "Myth Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587226",
+      "ItemName": "Myth Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587244",
+      "ItemName": "Myth Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587280",
+      "ItemName": "Myth Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626057",
+      "ItemName": "Myth Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626154",
+      "ItemName": "Myth Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626075",
+      "ItemName": "Myth Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626117",
+      "ItemName": "Myth Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626093",
+      "ItemName": "Myth Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626105",
+      "ItemName": "Myth Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587323",
+      "ItemName": "Myth Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587232",
+      "ItemName": "Myth Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587250",
+      "ItemName": "Myth Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587214",
+      "ItemName": "Myth Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587286",
+      "ItemName": "Myth Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587268",
+      "ItemName": "Myth Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626045",
+      "ItemName": "Myth Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626063",
+      "ItemName": "Myth Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626081",
+      "ItemName": "Myth Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626142",
+      "ItemName": "Myth Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626111",
+      "ItemName": "Myth Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626099",
+      "ItemName": "Myth Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713136",
+      "ItemName": "Myth Mending Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713132",
+      "ItemName": "Myth Mending Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587329",
+      "ItemName": "Myth Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587220",
+      "ItemName": "Myth Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587256",
+      "ItemName": "Myth Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587238",
+      "ItemName": "Myth Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587274",
+      "ItemName": "Myth Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587292",
+      "ItemName": "Myth Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626051",
+      "ItemName": "Myth Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626069",
+      "ItemName": "Myth Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626148",
+      "ItemName": "Myth Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626087",
+      "ItemName": "Myth Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587416",
+      "ItemName": "Myth Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587419",
+      "ItemName": "Myth Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587418",
+      "ItemName": "Myth Resist Pin (140)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1681009",
+      "ItemName": "Myth Trap Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654205",
+      "ItemName": "Pierce Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352780",
+      "ItemName": "Polished Piercing Amethyst \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352808",
+      "ItemName": "Polished Piercing Citrine \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352794",
+      "ItemName": "Polished Piercing Jade \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352801",
+      "ItemName": "Polished Piercing Onyx \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352787",
+      "ItemName": "Polished Piercing Peridot \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352766",
+      "ItemName": "Polished Piercing Ruby \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352773",
+      "ItemName": "Polished Piercing Sapphire \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654199",
+      "ItemName": "Potent Trap Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654198",
+      "ItemName": "Sharpened Blade Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1681004",
+      "ItemName": "Spirit Trap Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587357",
+      "ItemName": "Storm Accurate Pin (80)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578598",
+      "ItemName": "Storm Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578602",
+      "ItemName": "Storm Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578609",
+      "ItemName": "Storm Blocking Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587366",
+      "ItemName": "Storm Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587376",
+      "ItemName": "Storm Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587370",
+      "ItemName": "Storm Blocking Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587400",
+      "ItemName": "Storm Conversion Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626040",
+      "ItemName": "Storm Conversion Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587317",
+      "ItemName": "Storm Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587227",
+      "ItemName": "Storm Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587263",
+      "ItemName": "Storm Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587299",
+      "ItemName": "Storm Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587245",
+      "ItemName": "Storm Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587281",
+      "ItemName": "Storm Crushing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626058",
+      "ItemName": "Storm Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626136",
+      "ItemName": "Storm Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626076",
+      "ItemName": "Storm Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626118",
+      "ItemName": "Storm Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626094",
+      "ItemName": "Storm Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626106",
+      "ItemName": "Storm Crushing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587233",
+      "ItemName": "Storm Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587251",
+      "ItemName": "Storm Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587215",
+      "ItemName": "Storm Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587305",
+      "ItemName": "Storm Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587287",
+      "ItemName": "Storm Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587269",
+      "ItemName": "Storm Disabling Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626046",
+      "ItemName": "Storm Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626064",
+      "ItemName": "Storm Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626124",
+      "ItemName": "Storm Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626082",
+      "ItemName": "Storm Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626112",
+      "ItemName": "Storm Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626100",
+      "ItemName": "Storm Disabling Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587006",
+      "ItemName": "Storm Mending Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1713133",
+      "ItemName": "Storm Mending Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578469",
+      "ItemName": "Storm Punishing Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578541",
+      "ItemName": "Storm Punishing Pin (150)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587311",
+      "ItemName": "Storm Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587257",
+      "ItemName": "Storm Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587275",
+      "ItemName": "Storm Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587239",
+      "ItemName": "Storm Punishing Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626130",
+      "ItemName": "Storm Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626088",
+      "ItemName": "Storm Punishing Pin (170)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587423",
+      "ItemName": "Storm Resist Pin (130)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587425",
+      "ItemName": "Storm Resist Pin (130)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587424",
+      "ItemName": "Storm Resist Pin (130)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587411",
+      "ItemName": "Storm Resist Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587413",
+      "ItemName": "Storm Resist Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1587412",
+      "ItemName": "Storm Resist Pin (160)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1681010",
+      "ItemName": "Storm Trap Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654196",
+      "ItemName": "Sun Trap Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654204",
+      "ItemName": "Triage Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626163",
+      "ItemName": "Unearthly Archmastery Opal \u002B45",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626193",
+      "ItemName": "Unearthly Blocking Amethyst \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626187",
+      "ItemName": "Unearthly Blocking Citrine \u002B53",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626191",
+      "ItemName": "Unearthly Blocking Jade \u002B57",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626188",
+      "ItemName": "Unearthly Blocking Onyx \u002B56",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626192",
+      "ItemName": "Unearthly Blocking Peridot \u002B49",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626189",
+      "ItemName": "Unearthly Blocking Ruby \u002B52",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626190",
+      "ItemName": "Unearthly Blocking Sapphire \u002B61",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626162",
+      "ItemName": "Unearthly Conversion Amethyst \u002B60",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626156",
+      "ItemName": "Unearthly Conversion Citrine \u002B62",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626160",
+      "ItemName": "Unearthly Conversion Jade \u002B62",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626157",
+      "ItemName": "Unearthly Conversion Onyx \u002B62",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626161",
+      "ItemName": "Unearthly Conversion Peridot \u002B61",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626158",
+      "ItemName": "Unearthly Conversion Ruby \u002B60",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626159",
+      "ItemName": "Unearthly Conversion Sapphire \u002B61",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626528",
+      "ItemName": "Unearthly Critical Amethyst \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626535",
+      "ItemName": "Unearthly Critical Amethyst \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626514",
+      "ItemName": "Unearthly Critical Amethyst \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626507",
+      "ItemName": "Unearthly Critical Amethyst \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626521",
+      "ItemName": "Unearthly Critical Amethyst \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626542",
+      "ItemName": "Unearthly Critical Amethyst \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626549",
+      "ItemName": "Unearthly Critical Amethyst \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626522",
+      "ItemName": "Unearthly Critical Citrine \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626529",
+      "ItemName": "Unearthly Critical Citrine \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626508",
+      "ItemName": "Unearthly Critical Citrine \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626501",
+      "ItemName": "Unearthly Critical Citrine \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626515",
+      "ItemName": "Unearthly Critical Citrine \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626536",
+      "ItemName": "Unearthly Critical Citrine \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626543",
+      "ItemName": "Unearthly Critical Citrine \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626526",
+      "ItemName": "Unearthly Critical Jade \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626533",
+      "ItemName": "Unearthly Critical Jade \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626512",
+      "ItemName": "Unearthly Critical Jade \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626505",
+      "ItemName": "Unearthly Critical Jade \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626519",
+      "ItemName": "Unearthly Critical Jade \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626540",
+      "ItemName": "Unearthly Critical Jade \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626547",
+      "ItemName": "Unearthly Critical Jade \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626523",
+      "ItemName": "Unearthly Critical Onyx \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626530",
+      "ItemName": "Unearthly Critical Onyx \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626509",
+      "ItemName": "Unearthly Critical Onyx \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626502",
+      "ItemName": "Unearthly Critical Onyx \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626516",
+      "ItemName": "Unearthly Critical Onyx \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626537",
+      "ItemName": "Unearthly Critical Onyx \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626544",
+      "ItemName": "Unearthly Critical Onyx \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626527",
+      "ItemName": "Unearthly Critical Peridot \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626534",
+      "ItemName": "Unearthly Critical Peridot \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626513",
+      "ItemName": "Unearthly Critical Peridot \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626506",
+      "ItemName": "Unearthly Critical Peridot \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626520",
+      "ItemName": "Unearthly Critical Peridot \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626541",
+      "ItemName": "Unearthly Critical Peridot \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626548",
+      "ItemName": "Unearthly Critical Peridot \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626524",
+      "ItemName": "Unearthly Critical Ruby \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626531",
+      "ItemName": "Unearthly Critical Ruby \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626510",
+      "ItemName": "Unearthly Critical Ruby \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626503",
+      "ItemName": "Unearthly Critical Ruby \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626517",
+      "ItemName": "Unearthly Critical Ruby \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626538",
+      "ItemName": "Unearthly Critical Ruby \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626545",
+      "ItemName": "Unearthly Critical Ruby \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626525",
+      "ItemName": "Unearthly Critical Sapphire \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626532",
+      "ItemName": "Unearthly Critical Sapphire \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626511",
+      "ItemName": "Unearthly Critical Sapphire \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626504",
+      "ItemName": "Unearthly Critical Sapphire \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626518",
+      "ItemName": "Unearthly Critical Sapphire \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626539",
+      "ItemName": "Unearthly Critical Sapphire \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626546",
+      "ItemName": "Unearthly Critical Sapphire \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626591",
+      "ItemName": "Unearthly Damage Amethyst \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626570",
+      "ItemName": "Unearthly Damage Amethyst \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626556",
+      "ItemName": "Unearthly Damage Amethyst \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626563",
+      "ItemName": "Unearthly Damage Amethyst \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626598",
+      "ItemName": "Unearthly Damage Amethyst \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626577",
+      "ItemName": "Unearthly Damage Amethyst \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626584",
+      "ItemName": "Unearthly Damage Amethyst \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626550",
+      "ItemName": "Unearthly Damage Citrine \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626564",
+      "ItemName": "Unearthly Damage Citrine \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626585",
+      "ItemName": "Unearthly Damage Citrine \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626592",
+      "ItemName": "Unearthly Damage Citrine \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626557",
+      "ItemName": "Unearthly Damage Citrine \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626571",
+      "ItemName": "Unearthly Damage Citrine \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626578",
+      "ItemName": "Unearthly Damage Citrine \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626589",
+      "ItemName": "Unearthly Damage Jade \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626554",
+      "ItemName": "Unearthly Damage Jade \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626568",
+      "ItemName": "Unearthly Damage Jade \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626561",
+      "ItemName": "Unearthly Damage Jade \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626596",
+      "ItemName": "Unearthly Damage Jade \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626575",
+      "ItemName": "Unearthly Damage Jade \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626582",
+      "ItemName": "Unearthly Damage Jade \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626551",
+      "ItemName": "Unearthly Damage Onyx \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626565",
+      "ItemName": "Unearthly Damage Onyx \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626586",
+      "ItemName": "Unearthly Damage Onyx \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626593",
+      "ItemName": "Unearthly Damage Onyx \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626558",
+      "ItemName": "Unearthly Damage Onyx \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626572",
+      "ItemName": "Unearthly Damage Onyx \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626579",
+      "ItemName": "Unearthly Damage Onyx \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626590",
+      "ItemName": "Unearthly Damage Peridot \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626555",
+      "ItemName": "Unearthly Damage Peridot \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626569",
+      "ItemName": "Unearthly Damage Peridot \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626562",
+      "ItemName": "Unearthly Damage Peridot \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626597",
+      "ItemName": "Unearthly Damage Peridot \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626576",
+      "ItemName": "Unearthly Damage Peridot \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626583",
+      "ItemName": "Unearthly Damage Peridot \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626552",
+      "ItemName": "Unearthly Damage Ruby \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626587",
+      "ItemName": "Unearthly Damage Ruby \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626566",
+      "ItemName": "Unearthly Damage Ruby \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626594",
+      "ItemName": "Unearthly Damage Ruby \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626559",
+      "ItemName": "Unearthly Damage Ruby \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626573",
+      "ItemName": "Unearthly Damage Ruby \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626580",
+      "ItemName": "Unearthly Damage Ruby \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626588",
+      "ItemName": "Unearthly Damage Sapphire \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626553",
+      "ItemName": "Unearthly Damage Sapphire \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626567",
+      "ItemName": "Unearthly Damage Sapphire \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626560",
+      "ItemName": "Unearthly Damage Sapphire \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626595",
+      "ItemName": "Unearthly Damage Sapphire \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626574",
+      "ItemName": "Unearthly Damage Sapphire \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626581",
+      "ItemName": "Unearthly Damage Sapphire \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626185",
+      "ItemName": "Unearthly Health Amethyst \u002B525",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626179",
+      "ItemName": "Unearthly Health Citrine \u002B670",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626183",
+      "ItemName": "Unearthly Health Jade \u002B775",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626180",
+      "ItemName": "Unearthly Health Onyx \u002B650",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626184",
+      "ItemName": "Unearthly Health Peridot \u002B595",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626181",
+      "ItemName": "Unearthly Health Ruby \u002B595",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626182",
+      "ItemName": "Unearthly Health Sapphire \u002B735",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626155",
+      "ItemName": "Unearthly Mana Opal \u002B68",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626186",
+      "ItemName": "Unearthly Mending Opal \u002B8%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626164",
+      "ItemName": "Unearthly Shadow Hematite \u002B10",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.406990Z",
+  "ModifiedAt": "2026-09-30T03:55:50.406991Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

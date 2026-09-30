@@ -1,0 +1,328 @@
+{
+  "Name": "NightmarePackLT-Rare",
+  "Description": "BoosterPack-Set-13 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "80479757",
+      "ItemName": "Animate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470049",
+      "ItemName": "Apple Tub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2121575888",
+      "ItemName": "Clockwork Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240081",
+      "ItemName": "Crab Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1943512790",
+      "ItemName": "Crow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512080",
+      "ItemName": "Customizable Gravestone Sign",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512079",
+      "ItemName": "Customizable Grizzleheim Sign",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713315",
+      "ItemName": "Darkwraith\u0027s Atonement Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713306",
+      "ItemName": "Darkwraith\u0027s Atonement Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "526584",
+      "ItemName": "Darkwraith\u0027s Boots of Penance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "526542",
+      "ItemName": "Darkwraith\u0027s Compelling Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "526528",
+      "ItemName": "Darkwraith\u0027s Compelling Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "526570",
+      "ItemName": "Darkwraith\u0027s Cowl of Penance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "526563",
+      "ItemName": "Darkwraith\u0027s Umbral Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "526549",
+      "ItemName": "Darkwraith\u0027s Umbral Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713133",
+      "ItemName": "Dead Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404123",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164422",
+      "ItemName": "Death Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204341",
+      "ItemName": "Dragon\u0027s Eye Guard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204351",
+      "ItemName": "Dragon\u0027s Eye Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204381",
+      "ItemName": "Dragonbone Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204371",
+      "ItemName": "Dragonbone Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204321",
+      "ItemName": "Dragontooth Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204311",
+      "ItemName": "Dragontooth Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470051",
+      "ItemName": "Ghost Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225497",
+      "ItemName": "Ghost Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470052",
+      "ItemName": "Ghoul Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346763741",
+      "ItemName": "Giant Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473535",
+      "ItemName": "Gob-O-Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473518",
+      "ItemName": "Gobbler Stoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1112279666",
+      "ItemName": "Gold Skeleton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225427",
+      "ItemName": "Golden Armored Skeleton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2047583326",
+      "ItemName": "Green Widow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225495",
+      "ItemName": "Grim Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126398",
+      "ItemName": "Hallowe\u0027en Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470050",
+      "ItemName": "Halloween Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212075",
+      "ItemName": "Ianthine Spectre",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473525",
+      "ItemName": "Jolly Rancher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "350767941",
+      "ItemName": "Life Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100332",
+      "ItemName": "Lightningbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126411",
+      "ItemName": "Lollipop Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126409",
+      "ItemName": "Mean Pumpkin Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292808787",
+      "ItemName": "Miniature Bloodbats",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225410",
+      "ItemName": "Pale Maiden",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470056",
+      "ItemName": "Pirate Jack-O-Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473517",
+      "ItemName": "Pixie Stix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100434",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470053",
+      "ItemName": "Scarecrow Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470057",
+      "ItemName": "Scary Jack-O-Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "321410403",
+      "ItemName": "Seraph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470058",
+      "ItemName": "Silly Jack-O-Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1175482578",
+      "ItemName": "Skeletal Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "805237288",
+      "ItemName": "Skeletal Pirate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "296075031",
+      "ItemName": "Spirit Defuse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470046",
+      "ItemName": "Tapestry to Nightside",
+      "Notes": ""
+    },
+    {
+      "ItemId": "585149257",
+      "ItemName": "The Bonekeeper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "138582012",
+      "ItemName": "Vampire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470054",
+      "ItemName": "Vampire Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470055",
+      "ItemName": "Witch Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126410",
+      "ItemName": "Witch\u0027s Broom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220223",
+      "ItemName": "Yellow Corn",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.434188Z",
+  "ModifiedAt": "2026-09-30T03:55:50.434188Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

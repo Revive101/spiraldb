@@ -1,0 +1,668 @@
+{
+  "Name": "SkyvernHoardLT-UnCommon",
+  "Description": "BoosterPack-Set-85 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733126",
+      "ItemName": "Allocados",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276461",
+      "ItemName": "Ancient Koi (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733115",
+      "ItemName": "Apatotatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1133363322",
+      "ItemName": "Arcticzilla",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532868",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733118",
+      "ItemName": "Avocado Milkshake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739178",
+      "ItemName": "Azteca Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739079",
+      "ItemName": "Azteca Fire Pit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512211",
+      "ItemName": "Azteca Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739087",
+      "ItemName": "Azteca Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512212",
+      "ItemName": "Azteca Swamp Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739100",
+      "ItemName": "Azteca Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739072",
+      "ItemName": "Aztecosaur Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739073",
+      "ItemName": "Aztecosaur Stela",
+      "Notes": ""
+    },
+    {
+      "ItemId": "432480597",
+      "ItemName": "Balanceblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537593",
+      "ItemName": "Beetle Cream Soda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589219",
+      "ItemName": "Bengal Tiger (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730603",
+      "ItemName": "Black Star Eagle\u0027s Claws",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730593",
+      "ItemName": "Black Star Eagle\u0027s Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537586",
+      "ItemName": "Black Sun Seeds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1894528832",
+      "ItemName": "Bloodbat TC KH",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225455",
+      "ItemName": "Blue Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733138",
+      "ItemName": "Bronto Burger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739101",
+      "ItemName": "Bundle of Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739074",
+      "ItemName": "Butterfly Shrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733125",
+      "ItemName": "Cactus Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240118",
+      "ItemName": "Cauliflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532852",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469721",
+      "ItemName": "Cobblestone Flooring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739076",
+      "ItemName": "Codex Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537595",
+      "ItemName": "Cranberry Frog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469719",
+      "ItemName": "Cross Section Floor Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106958",
+      "ItemName": "Crystal Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225407",
+      "ItemName": "Death Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "525828736",
+      "ItemName": "Dream Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739088",
+      "ItemName": "Engraved Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355101",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589097",
+      "ItemName": "Fire Passion Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1277897054",
+      "ItemName": "Fire Shark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2032956233",
+      "ItemName": "Firezilla",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "142523647",
+      "ItemName": "Flamesnake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220304",
+      "ItemName": "Flaming Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733119",
+      "ItemName": "Fried Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106969",
+      "ItemName": "Frost Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106955",
+      "ItemName": "Ghost Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220275",
+      "ItemName": "Glowing Dragon Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739082",
+      "ItemName": "Gold Bars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220308",
+      "ItemName": "Golden Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106970",
+      "ItemName": "Grendelweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537637",
+      "ItemName": "Greyrose Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537590",
+      "ItemName": "Hard Boiled Beetle Eggs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "199755502",
+      "ItemName": "Hydra",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100462",
+      "ItemName": "Inferno Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106952",
+      "ItemName": "Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1856576003",
+      "ItemName": "Jade Oni",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739084",
+      "ItemName": "Jaguar Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1161912529",
+      "ItemName": "Jinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258581",
+      "ItemName": "Kelp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240102",
+      "ItemName": "Killer Tomato",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470685",
+      "ItemName": "King Acampi Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470684",
+      "ItemName": "King Axaya Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739148",
+      "ItemName": "Lava Bulb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537597",
+      "ItemName": "Lemon Daisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1469017516",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1469016748",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739083",
+      "ItemName": "Light Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733114",
+      "ItemName": "Maize",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469725",
+      "ItemName": "Marble Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730623",
+      "ItemName": "Mask of the Sun Eagle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "2098750954",
+      "ItemName": "Nature\u0027s Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739185",
+      "ItemName": "Notch Leaf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106951",
+      "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473138",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739149",
+      "ItemName": "Pink Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "55042340",
+      "ItemName": "Pirate Captain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225414",
+      "ItemName": "Plague Ninja",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537639",
+      "ItemName": "Plague Oni Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739080",
+      "ItemName": "Purple Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733129",
+      "ItemName": "Pyramints",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100439",
+      "ItemName": "Rat Magician",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739123",
+      "ItemName": "Ritual Codex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106946",
+      "ItemName": "Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106947",
+      "ItemName": "Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276464",
+      "ItemName": "Sea Turtle (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106954",
+      "ItemName": "Shadow Oil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225404",
+      "ItemName": "Silverback Wildclaw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739075",
+      "ItemName": "Small Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "137449434",
+      "ItemName": "SnowShield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739077",
+      "ItemName": "Stone Azteca Head",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225436",
+      "ItemName": "Storm Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "270565571",
+      "ItemName": "StormShield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469727",
+      "ItemName": "Stucco Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730633",
+      "ItemName": "Sun Eagle Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "892626560",
+      "ItemName": "Supernova",
+      "Notes": ""
+    },
+    {
+      "ItemId": "544556252",
+      "ItemName": "ThunderSnakeTC",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733136",
+      "ItemName": "Tortilla Chips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100441",
+      "ItemName": "Treant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730563",
+      "ItemName": "Turquoise Eagle\u0027s Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730573",
+      "ItemName": "Turquoise Eagle\u0027s Sky Tracks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "71456609",
+      "ItemName": "TutorialClearBlade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100333",
+      "ItemName": "Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469724",
+      "ItemName": "Yellow Flowers Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470683",
+      "ItemName": "Zaylin Reedwalker Bobblehead",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.421579Z",
+  "ModifiedAt": "2026-09-30T03:55:50.421583Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

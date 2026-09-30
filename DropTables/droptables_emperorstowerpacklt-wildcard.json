@@ -1,0 +1,28 @@
+{
+  "Name": "EmperorsTowerPackLT-Wildcard",
+  "Description": "BoosterPack-Set-17 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "537777",
+      "ItemName": "Gritty Stone Floor Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512098",
+      "ItemName": "Tag Game",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.433670Z",
+  "ModifiedAt": "2026-09-30T03:55:50.433671Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

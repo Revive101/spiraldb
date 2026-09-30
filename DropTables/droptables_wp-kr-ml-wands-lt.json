@@ -1,0 +1,53 @@
+{
+  "Name": "WP-KR-ML-Wands-LT",
+  "Description": "BoosterPack-Set-125 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1557042",
+      "ItemName": "Dreamscape Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557037",
+      "ItemName": "Elder\u0027s Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557040",
+      "ItemName": "Frostbound Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557043",
+      "ItemName": "Sandstorm Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557039",
+      "ItemName": "Sword and Shield of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557038",
+      "ItemName": "Sword and Shield of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557041",
+      "ItemName": "Sword and Shield of Vigor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.426006Z",
+  "ModifiedAt": "2026-09-30T03:55:50.426006Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

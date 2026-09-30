@@ -1,0 +1,28 @@
+{
+  "Name": "IceFurniture_Bed",
+  "Description": "Ice_Furniture_Set_03 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1374195",
+      "ItemName": "Lydia\u0027s Frosty Night Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374196",
+      "ItemName": "Lydia\u0027s Frozen Waterbed",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T03:55:50.423629Z",
+  "ModifiedAt": "2026-09-30T03:55:50.423629Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}
