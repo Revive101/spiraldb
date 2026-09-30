@@ -3,6 +3,17 @@
   "Events": [],
   "Teleports": [
     {
+      "TriggerName": "DS_TeleporterToCathedral",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromLibrary",
+        "m_destinationZone": "DragonSpire/DS_Hub_Cathedral"
+      }
+    },
+    {
       "TriggerName": "ToLibrary",
       "Teleport": {
         "m_exitTeleporter": 0,
