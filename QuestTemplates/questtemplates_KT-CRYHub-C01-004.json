@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Kill"
+    "Goal 2"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Kill",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_Kill",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "WizardMobs_00000091",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_77401",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Krok_Tut_Storm.dds",
       "m_displayImage2": "",
@@ -34,7 +42,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "Krokotopia/KT_Tomb/KT_TempleOfStorms",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -42,11 +50,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "KrokTut-Storm-KTBoss-L05.AdjRef"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -66,7 +77,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "Krokotopia/KT_Tomb/KT_WellOfSpirits",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -272,6 +283,118 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "KT-CRYHub-C01-004",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 92296,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Balance",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 591686509,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Death",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 74757411,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Fire",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 1050086956,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Ice",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 1479748799,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Life",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 1048474958,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Myth",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResLearnSpell, Imcodec.ObjectProperty",
+        "m_templateID": 449625782,
+        "m_requirements": {
+          "m_requirements": [
+            {
+              "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+              "m_magicSchool": "Storm",
+              "m_applyNOT": false,
+              "m_operator": "ROP_AND"
+            }
+          ],
+          "m_applyNOT": false,
+          "m_operator": "ROP_AND"
+        }
       }
     ]
   },
@@ -298,18 +421,18 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Kill"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -336,9 +459,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst99C8_00000017",
+            "m_dialog": "WizQst99CB_00000022",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Krok_Tut_Ice_Ghost.dds",
-            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/GhostOfKrokhotep_QST_03.mp3",
+            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/GhostOfKrokhotep_QST_20.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39345,
@@ -404,9 +527,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst99C8_00000018",
+            "m_dialog": "WizQst99CB_00000023",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Krok_Tut_Ice_Ghost.dds",
-            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/GhostOfKrokhotep_QST_04.mp3",
+            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/GhostOfKrokhotep_QST_21.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39345,
@@ -472,9 +595,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst99C8_00000019",
+            "m_dialog": "WizQst99CB_00000024",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Krok_Tut_Ice_Ghost.dds",
-            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/GhostOfKrokhotep_QST_05.mp3",
+            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/GhostOfKrokhotep_QST_22.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39345,
