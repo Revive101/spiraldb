@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_TalkNPC"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -267,7 +267,7 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_TalkNPC"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -294,9 +294,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst99C2_00000020",
+            "m_dialog": "WizQst99C3_00000009",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Seargent_Major.dds",
-            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/SegeantMajorTalbot_QST_16.mp3",
+            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/SegeantMajorTalbot_QST_21.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 38224,
@@ -362,9 +362,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst99C2_00000021",
+            "m_dialog": "WizQst99C3_00000010",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Seargent_Major.dds",
-            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/SegeantMajorTalbot_QST_17.mp3",
+            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/SegeantMajorTalbot_QST_22.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 38224,
@@ -430,9 +430,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst99C2_00000022",
+            "m_dialog": "WizQst99C3_00000011",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Seargent_Major.dds",
-            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/SegeantMajorTalbot_QST_18.mp3",
+            "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/SegeantMajorTalbot_QST_23.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 38224,
