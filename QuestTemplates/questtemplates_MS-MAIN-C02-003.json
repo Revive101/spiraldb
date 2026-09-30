@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Explore"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Explore",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -47,14 +47,22 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
+            "m_entryName": "QT-MS-MAIN-C02-003",
+            "m_isQuestRegistry": false,
+            "m_value": 1,
+            "m_questName": ""
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": null,
@@ -333,7 +341,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -354,7 +362,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "MooShu/Interiors/MS_Emperor_Palace",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -503,10 +511,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
         "m_applyNOT": false,
         "m_operator": "ROP_AND",
-        "m_questName": "MS-MAIN-C06-002"
+        "m_questName": "MS-MAIN-C02-002"
       }
     ]
   },
@@ -517,29 +528,29 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Explore"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -566,9 +577,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9C21_00000003",
+            "m_dialog": "WizQst9C26_00000005",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Red.dds",
-            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/NoboruAkitame_QST_05.mp3",
+            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/NoboruAkitame_QST_13.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39949,
@@ -634,9 +645,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9C21_00000004",
+            "m_dialog": "WizQst9C26_00000006",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Red.dds",
-            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/NoboruAkitame_QST_06.mp3",
+            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/NoboruAkitame_QST_14.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39949,
@@ -702,28 +713,28 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9C21_00000005",
+            "m_dialog": "WizQst9C26_00000007",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Red.dds",
-            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/NoboruAkitame_QST_07.mp3",
+            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/NoboruAkitame_QST_15.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39949,
-            "m_cameraName": "LOCATION",
-            "m_interpolationDuration": 1.0,
-            "m_cameraOffsetX": 18314.39,
-            "m_cameraOffsetY": 159.0864,
-            "m_cameraOffsetZ": 1083.863,
-            "m_pitch": -0.01276591,
-            "m_yaw": 1.705658,
+            "m_cameraName": "",
+            "m_interpolationDuration": 0.0,
+            "m_cameraOffsetX": 0.0,
+            "m_cameraOffsetY": 0.0,
+            "m_cameraOffsetZ": 0.0,
+            "m_pitch": 0.0,
+            "m_yaw": 0.0,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
             "m_cameraShakeDuration": 0.0,
             "m_cameraShakeAmplitude": 0.0,
             "m_bypassCameraOnReview": true,
-            "m_cameraZoneName": "MooShu/MS_Hub",
+            "m_cameraZoneName": "",
             "m_duration": 0.0,
             "m_delay": 0.0,
-            "m_cameraHidePlayers": 2,
+            "m_cameraHidePlayers": 0,
             "m_walkAwayNpcTemplateID": 0,
             "m_walkAwayExitDirectionInDegrees": 0.0,
             "m_walkAwayFadeTime": 0.0,
