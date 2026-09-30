@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_TalkNPC"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -162,7 +162,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -182,7 +182,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -331,10 +331,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "DS-ACAD1-C04-003",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "DS-ACAD1-C04-003"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -345,18 +348,18 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_TalkNPC"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
