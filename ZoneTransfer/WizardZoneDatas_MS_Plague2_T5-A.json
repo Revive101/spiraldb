@@ -1,0 +1,17 @@
+{
+  "ZoneName": "MooShu/MS_Plague/Interiors/MS_Plague2_T5",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToPlague2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromTower5",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone2_RiverVillage"
+      }
+    }
+  ]
+}
