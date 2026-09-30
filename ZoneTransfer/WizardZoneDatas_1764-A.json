@@ -3,6 +3,17 @@
   "Events": [],
   "Teleports": [
     {
+      "TriggerName": "Teleport to Tower 2 From KnightsCourt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "0.8372092,-994.7338,0.09382915,-3.141593",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T2"
+      }
+    },
+    {
       "TriggerName": "ToScotYardHub",
       "Teleport": {
         "m_exitTeleporter": 0,
@@ -22,6 +33,61 @@
         "m_transitionID": 0,
         "m_destinationLoc": "-6800.614,-474.3359,-239.4884,-1.570796",
         "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Roof"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Tower 3 From KnightsCourt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Zone 3",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T3"
+      }
+    },
+    {
+      "TriggerName": "TeleporttoTower9FromKC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Zone 3",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T9"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Tower 4 From KnightsCourt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Zone 3",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T4"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Tower 6 From KnightsCourt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Zone 3",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T6"
+      }
+    },
+    {
+      "TriggerName": "Teleport to Tower 8 From KnightsCourt",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Zone 3",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T8"
       }
     }
   ]

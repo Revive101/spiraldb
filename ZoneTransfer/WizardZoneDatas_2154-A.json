@@ -25,6 +25,17 @@
       }
     },
     {
+      "TriggerName": "ToPlague3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlagueHub",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone3_CliffsidePalace"
+      }
+    },
+    {
       "TriggerName": "Teleport location 2",
       "Teleport": {
         "m_exitTeleporter": 0,

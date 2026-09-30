@@ -12,6 +12,61 @@
         "m_destinationLoc": "3763.2,2419.222,0.0002441406,1.570796",
         "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy"
       }
+    },
+    {
+      "TriggerName": "ToTower1FromDS_Amphitheatre",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T1 from Amphitheatre)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T1"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 from Amphitheatre)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T7"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 from Amphitheatre)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T8"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 from Amphitheatre)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T6"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromDS_Amphitheatre",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_Gauntlet_7Room"
+      }
     }
   ]
 }

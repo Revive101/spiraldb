@@ -12,6 +12,61 @@
         "m_destinationLoc": "11649.41,7072.283,480.0125,1.570796",
         "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Hub_FarmVillage"
       }
+    },
+    {
+      "TriggerName": "ToTower3FromCOS",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlague1",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague1_T3"
+      }
+    },
+    {
+      "TriggerName": "ToTower5FromCOS",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlague1",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague1_T5"
+      }
+    },
+    {
+      "TriggerName": "ToTower7FromCOS",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlague1",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague1_T7"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromCOS",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlague1",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague1_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower1FromCOS",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague1_T1"
+      }
     }
   ]
 }

@@ -3,6 +3,17 @@
   "Events": [],
   "Teleports": [
     {
+      "TriggerName": "ClocktowertoTower8",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.412567,-1987.453,-724.993,-3.110907",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_T8"
+      }
+    },
+    {
       "TriggerName": "ToAirportHub",
       "Teleport": {
         "m_exitTeleporter": 0,
@@ -55,6 +66,28 @@
         "m_transitionID": 0,
         "m_destinationLoc": "-36.34936,-1369.338,-724.9929,-3.141593",
         "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T1"
+      }
+    },
+    {
+      "TriggerName": "ClocktowertoTower6",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "ClocktowertoTower6",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_T6"
+      }
+    },
+    {
+      "TriggerName": "ClocktowertoTower3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "ClocktowertoTower3",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_T3"
       }
     }
   ]

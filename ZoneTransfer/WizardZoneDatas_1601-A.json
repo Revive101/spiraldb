@@ -45,6 +45,17 @@
         "m_destinationLoc": "-15283.25,3722.49,0.00976558,-2.835561",
         "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
       }
+    },
+    {
+      "TriggerName": "ToIronworks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Marleybone/MB_Station/MB_FlightToIronworks"
+      }
     }
   ]
 }

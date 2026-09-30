@@ -3,6 +3,17 @@
   "Events": [],
   "Teleports": [
     {
+      "TriggerName": "DS_TeleporterToCathedral",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromNecropolis",
+        "m_destinationZone": "DragonSpire/DS_Hub_Cathedral"
+      }
+    },
+    {
       "TriggerName": "Teleport-Conquest",
       "Teleport": {
         "m_exitTeleporter": 0,
@@ -33,6 +44,50 @@
         "m_transitionID": 0,
         "m_destinationLoc": "-11119.08,-20026.02,80.50897,1.570796",
         "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z2_Arena"
+      }
+    },
+    {
+      "TriggerName": "ToDS-MAIN-C01-002",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_Gauntlet_5Room"
+      }
+    },
+    {
+      "TriggerName": "ToDS-NEC2-C01-009",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_Gauntlet_5Room3"
+      }
+    },
+    {
+      "TriggerName": "TeleportertoDetention",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start-FromNecropolis",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z3_Detention"
+      }
+    },
+    {
+      "TriggerName": "ToDS-MAIN-C01-04",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_Gauntlet_5Room2"
       }
     }
   ]

@@ -3,6 +3,50 @@
   "Events": [],
   "Teleports": [
     {
+      "TriggerName": "ToTower7FromDS_Chasm",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Chasm_Gauntlet_4Room2"
+      }
+    },
+    {
+      "TriggerName": "ToTower10FromDS_Chasm",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Chasm_Gauntlet_8Room"
+      }
+    },
+    {
+      "TriggerName": "ToTower15FromDS_Chasm",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T15 from Chasm)",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_GrandChasm_T15"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromDS_Chasm",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 from Chasm)",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_GrandChasm_T2"
+      }
+    },
+    {
       "TriggerName": "Teleport-ToLibrary",
       "Teleport": {
         "m_exitTeleporter": 0,
@@ -22,6 +66,17 @@
         "m_transitionID": 0,
         "m_destinationLoc": "-20.08151,-1177.774,-1.602905,-3.141593",
         "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Chasm_Gauntlet_3Room"
+      }
+    },
+    {
+      "TriggerName": "ToChasmPast",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T13 from Chasm)",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Chasm_HallOfTime"
       }
     }
   ]
