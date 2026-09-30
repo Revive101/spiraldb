@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_TalkNPC"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -181,10 +181,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MS-DTH2-C02-001",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MS-DTH2-C01-002"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -195,7 +198,7 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_TalkNPC"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -222,9 +225,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst12E40_00000006",
+            "m_dialog": "WizQst12E41_00000004",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Cow_Peasant_Brown_Ghost.dds",
-            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/XihongBi_QST_05.mp3",
+            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/XihongBi_QST_09.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 77342,
@@ -290,9 +293,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst12E40_00000007",
+            "m_dialog": "WizQst12E41_00000005",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Cow_Peasant_Brown_Ghost.dds",
-            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/XihongBi_QST_06.mp3",
+            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/XihongBi_QST_10.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 77342,
