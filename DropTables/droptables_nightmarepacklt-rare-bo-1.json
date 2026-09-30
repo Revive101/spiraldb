@@ -21,13 +21,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "2121575888",
-      "ItemName": "Clockwork Spider",
+      "ItemId": "160444",
+      "ItemName": "Bubbling Cauldron",
       "Notes": ""
     },
     {
-      "ItemId": "240081",
-      "ItemName": "Crab Apples",
+      "ItemId": "2121575888",
+      "ItemName": "Clockwork Spider",
       "Notes": ""
     },
     {
@@ -136,6 +136,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "82784",
+      "ItemName": "Fire Mummy",
+      "Notes": ""
+    },
+    {
       "ItemId": "470051",
       "ItemName": "Ghost Doodle Stand",
       "Notes": ""
@@ -206,6 +211,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "160640",
+      "ItemName": "Krokotopian Mummy",
+      "Notes": ""
+    },
+    {
       "ItemId": "350767941",
       "ItemName": "Life Banshee",
       "Notes": ""
@@ -231,8 +241,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "160336",
+      "ItemName": "Obsidian Firecat Statue",
+      "Notes": ""
+    },
+    {
       "ItemId": "225410",
       "ItemName": "Pale Maiden",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82911",
+      "ItemName": "Pilloried Skeleton",
       "Notes": ""
     },
     {
@@ -296,6 +316,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "164419",
+      "ItemName": "Theater Masks",
+      "Notes": ""
+    },
+    {
       "ItemId": "138582012",
       "ItemName": "Vampire",
       "Notes": ""
@@ -314,15 +339,10 @@
       "ItemId": "126410",
       "ItemName": "Witch\u0027s Broom",
       "Notes": ""
-    },
-    {
-      "ItemId": "220223",
-      "ItemName": "Yellow Corn",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.422313Z",
-  "ModifiedAt": "2026-09-30T03:55:50.422314Z",
+  "CreatedAt": "2026-09-30T13:39:01.586168Z",
+  "ModifiedAt": "2026-09-30T13:39:01.586169Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

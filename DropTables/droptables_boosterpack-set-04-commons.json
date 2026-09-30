@@ -11,6 +11,31 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
       "ItemId": "106941",
       "ItemName": "Bone",
       "Notes": ""
@@ -36,6 +61,21 @@
       "Notes": ""
     },
     {
+      "ItemId": "106968",
+      "ItemName": "Fire Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106967",
+      "ItemName": "Lava Lily",
+      "Notes": ""
+    },
+    {
       "ItemId": "106942",
       "ItemName": "Leather Straps",
       "Notes": ""
@@ -46,8 +86,28 @@
       "Notes": ""
     },
     {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
       "ItemId": "106937",
       "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
       "Notes": ""
     },
     {
@@ -56,13 +116,23 @@
       "Notes": ""
     },
     {
+      "ItemId": "106964",
+      "ItemName": "Spring",
+      "Notes": ""
+    },
+    {
       "ItemId": "106933",
       "ItemName": "Stone Block",
       "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.412013Z",
-  "ModifiedAt": "2026-09-30T03:55:50.412014Z",
+  "CreatedAt": "2026-09-30T13:39:01.572888Z",
+  "ModifiedAt": "2026-09-30T13:39:01.572888Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -11,11 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1688124",
-      "ItemName": "3rd Ed. Rulebook",
-      "Notes": ""
-    },
-    {
       "ItemId": "1686913",
       "ItemName": "Array of Avernal Fury",
       "Notes": ""
@@ -66,11 +61,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "470470",
-      "ItemName": "Blacksmith Hut",
-      "Notes": ""
-    },
-    {
       "ItemId": "58333646",
       "ItemName": "Chimera",
       "Notes": ""
@@ -111,11 +101,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "1664885",
-      "ItemName": "Couch Potato Chips",
-      "Notes": ""
-    },
-    {
       "ItemId": "419269624",
       "ItemName": "Death Seraph",
       "Notes": ""
@@ -151,16 +136,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "160219",
-      "ItemName": "Dragon Skull",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1672911",
-      "ItemName": "Dragon Steed (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1672910",
       "ItemName": "Dragon Steed (PERM)",
       "Notes": ""
@@ -181,13 +156,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "653146",
-      "ItemName": "Fish on a Vine",
+      "ItemId": "10291099",
+      "ItemName": "Grok Hit",
       "Notes": ""
     },
     {
-      "ItemId": "10291099",
-      "ItemName": "Grok Hit",
+      "ItemId": "1664926",
+      "ItemName": "Grr-Owl",
       "Notes": ""
     },
     {
@@ -241,16 +216,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "473078",
-      "ItemName": "Key Limes",
-      "Notes": ""
-    },
-    {
-      "ItemId": "789213",
-      "ItemName": "Kroklava",
-      "Notes": ""
-    },
-    {
       "ItemId": "1664884",
       "ItemName": "Legendopia Map",
       "Notes": ""
@@ -293,26 +258,6 @@
     {
       "ItemId": "2028226003",
       "ItemName": "Medusa",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1664887",
-      "ItemName": "Pile-o-Skulls",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1350275",
-      "ItemName": "Playable Electric Violin",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1350278",
-      "ItemName": "Playable Keytar",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1664889",
-      "ItemName": "Prop Torch",
       "Notes": ""
     },
     {
@@ -426,43 +371,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "789222",
-      "ItemName": "Spritely Soda",
-      "Notes": ""
-    },
-    {
-      "ItemId": "356160",
-      "ItemName": "Stinkweed",
-      "Notes": ""
-    },
-    {
       "ItemId": "1407657699",
       "ItemName": "Tick\u0027s Wrath",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1664886",
-      "ItemName": "Various Dice",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1664888",
-      "ItemName": "Wiz Bolt Cola Can",
       "Notes": ""
     },
     {
       "ItemId": "1630189155",
       "ItemName": "Womp",
       "Notes": ""
-    },
-    {
-      "ItemId": "641599",
-      "ItemName": "Wyrmy Apple",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.429360Z",
-  "ModifiedAt": "2026-09-30T03:55:50.429361Z",
+  "CreatedAt": "2026-09-30T13:39:01.601467Z",
+  "ModifiedAt": "2026-09-30T13:39:01.601467Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

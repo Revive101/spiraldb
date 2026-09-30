@@ -21,6 +21,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "220252",
+      "ItemName": "Big Squash",
+      "Notes": ""
+    },
+    {
       "ItemId": "1350015",
       "ItemName": "Brass",
       "Notes": ""
@@ -28,6 +33,11 @@
     {
       "ItemId": "1350234",
       "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545065",
+      "ItemName": "Celestian Ghost",
       "Notes": ""
     },
     {
@@ -51,6 +61,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1545057",
+      "ItemName": "Crab Senator",
+      "Notes": ""
+    },
+    {
       "ItemId": "355150",
       "ItemName": "Dandelion",
       "Notes": ""
@@ -61,13 +76,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1248255",
-      "ItemName": "Face Palm",
+      "ItemId": "1545063",
+      "ItemName": "Digger Golem",
       "Notes": ""
     },
     {
-      "ItemId": "106934",
-      "ItemName": "Fossil",
+      "ItemId": "1545055",
+      "ItemName": "Eager Excavator",
       "Notes": ""
     },
     {
@@ -76,18 +91,23 @@
       "Notes": ""
     },
     {
+      "ItemId": "106969",
+      "ItemName": "Frost Flower",
+      "Notes": ""
+    },
+    {
       "ItemId": "1504026",
       "ItemName": "Galleon Painting",
       "Notes": ""
     },
     {
-      "ItemId": "1504025",
-      "ItemName": "Hound Painting",
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
       "Notes": ""
     },
     {
-      "ItemId": "473638",
-      "ItemName": "Ivy League",
+      "ItemId": "1504025",
+      "ItemName": "Hound Painting",
       "Notes": ""
     },
     {
@@ -126,33 +146,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "355108",
-      "ItemName": "Prickly Bear Cactus",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1248268",
-      "ItemName": "Queen Crape Myrtle",
-      "Notes": ""
-    },
-    {
-      "ItemId": "356120",
-      "ItemName": "Rye Bread Fruit Bush",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1248248",
-      "ItemName": "Saw Palmetto",
-      "Notes": ""
-    },
-    {
       "ItemId": "1504020",
       "ItemName": "Serpent Painting",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106964",
-      "ItemName": "Spring",
       "Notes": ""
     },
     {
@@ -171,21 +166,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "1248001",
-      "ItemName": "Sunion",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1545049",
-      "ItemName": "Underwater Worker",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1350206",
-      "ItemName": "Vampire Carrots",
-      "Notes": ""
-    },
-    {
       "ItemId": "355073",
       "ItemName": "Venus Fly Trap",
       "Notes": ""
@@ -196,23 +176,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "1545059",
-      "ItemName": "Water Mole Warrior",
+      "ItemId": "1545051",
+      "ItemName": "Welder",
       "Notes": ""
     },
     {
       "ItemId": "346052",
       "ItemName": "White Desparagus",
       "Notes": ""
-    },
-    {
-      "ItemId": "1522450",
-      "ItemName": "Worker Golem",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.413346Z",
-  "ModifiedAt": "2026-09-30T03:55:50.413347Z",
+  "CreatedAt": "2026-09-30T13:39:01.574748Z",
+  "ModifiedAt": "2026-09-30T13:39:01.574749Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

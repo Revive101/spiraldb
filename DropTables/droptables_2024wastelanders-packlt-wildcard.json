@@ -11,28 +11,13 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "653111",
-      "ItemName": "Alligator Pear Tree",
-      "Notes": ""
-    },
-    {
       "ItemId": "1594300",
       "ItemName": "Base Camp Tent",
       "Notes": ""
     },
     {
-      "ItemId": "1642021",
-      "ItemName": "Chill Wasteland Emu (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1642015",
       "ItemName": "Chill Wasteland Emu (PERM)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1625860",
-      "ItemName": "Chilling Shark",
       "Notes": ""
     },
     {
@@ -43,11 +28,6 @@
     {
       "ItemId": "1464615780",
       "ItemName": "Conviction",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1642011",
-      "ItemName": "Dusty Wasteland Emu (7 Day)",
       "Notes": ""
     },
     {
@@ -81,11 +61,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "1642023",
-      "ItemName": "Furious Wasteland Emu (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1642017",
       "ItemName": "Furious Wasteland Emu (PERM)",
       "Notes": ""
@@ -96,43 +71,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1625858",
-      "ItemName": "Gloomy Shark",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473159",
-      "ItemName": "Grapes of Wrath",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1642019",
-      "ItemName": "Grim Wasteland Emu (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1642013",
       "ItemName": "Grim Wasteland Emu (PERM)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "589166",
-      "ItemName": "Honey Bee Plant",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1248059",
-      "ItemName": "HoneyDon\u0027t Melon",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641689",
-      "ItemName": "Kiwi Fruit",
-      "Notes": ""
-    },
-    {
-      "ItemId": "789218",
-      "ItemName": "Krokodill Pickles",
       "Notes": ""
     },
     {
@@ -141,43 +81,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1625862",
-      "ItemName": "Legendary Shark",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1625861",
-      "ItemName": "Lively Shark",
-      "Notes": ""
-    },
-    {
       "ItemId": "1882775670",
       "ItemName": "Mythbane",
       "Notes": ""
     },
     {
-      "ItemId": "346031",
-      "ItemName": "Ninja Fig",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1594239",
-      "ItemName": "Pedestal Bust",
-      "Notes": ""
-    },
-    {
       "ItemId": "1358192223",
       "ItemName": "Power Nova",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1625859",
-      "ItemName": "Raging Shark",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1642020",
-      "ItemName": "Scorched Wasteland Emu (7 Day)",
       "Notes": ""
     },
     {
@@ -191,16 +101,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "641596",
-      "ItemName": "Shepherd\u0027s Crook Pie",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1642024",
-      "ItemName": "Shocked Wasteland Emu (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1642018",
       "ItemName": "Shocked Wasteland Emu (PERM)",
       "Notes": ""
@@ -211,18 +111,283 @@
       "Notes": ""
     },
     {
-      "ItemId": "1594233",
-      "ItemName": "Spare Tire",
+      "ItemId": "1628670",
+      "ItemName": "Wastelander\u0027s Chill Armor",
       "Notes": ""
     },
     {
-      "ItemId": "1594237",
-      "ItemName": "Wallaru Banner",
+      "ItemId": "1628677",
+      "ItemName": "Wastelander\u0027s Chill Boots",
       "Notes": ""
     },
     {
-      "ItemId": "1642022",
-      "ItemName": "Wild Wasteland Emu (7 Day)",
+      "ItemId": "1643545",
+      "ItemName": "Wastelander\u0027s Chill Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643419",
+      "ItemName": "Wastelander\u0027s Chill Crusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643041",
+      "ItemName": "Wastelander\u0027s Chill Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628663",
+      "ItemName": "Wastelander\u0027s Chill Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643048",
+      "ItemName": "Wastelander\u0027s Chill Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643055",
+      "ItemName": "Wastelander\u0027s Chill Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628667",
+      "ItemName": "Wastelander\u0027s Dusty Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628674",
+      "ItemName": "Wastelander\u0027s Dusty Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643542",
+      "ItemName": "Wastelander\u0027s Dusty Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643416",
+      "ItemName": "Wastelander\u0027s Dusty Crusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643038",
+      "ItemName": "Wastelander\u0027s Dusty Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628660",
+      "ItemName": "Wastelander\u0027s Dusty Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643045",
+      "ItemName": "Wastelander\u0027s Dusty Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643052",
+      "ItemName": "Wastelander\u0027s Dusty Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628672",
+      "ItemName": "Wastelander\u0027s Furious Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628679",
+      "ItemName": "Wastelander\u0027s Furious Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643547",
+      "ItemName": "Wastelander\u0027s Furious Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643421",
+      "ItemName": "Wastelander\u0027s Furious Crusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643043",
+      "ItemName": "Wastelander\u0027s Furious Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628665",
+      "ItemName": "Wastelander\u0027s Furious Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643050",
+      "ItemName": "Wastelander\u0027s Furious Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643057",
+      "ItemName": "Wastelander\u0027s Furious Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628668",
+      "ItemName": "Wastelander\u0027s Grim Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628675",
+      "ItemName": "Wastelander\u0027s Grim Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643543",
+      "ItemName": "Wastelander\u0027s Grim Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643417",
+      "ItemName": "Wastelander\u0027s Grim Crusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643039",
+      "ItemName": "Wastelander\u0027s Grim Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628661",
+      "ItemName": "Wastelander\u0027s Grim Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643046",
+      "ItemName": "Wastelander\u0027s Grim Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643053",
+      "ItemName": "Wastelander\u0027s Grim Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628669",
+      "ItemName": "Wastelander\u0027s Scorched Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628676",
+      "ItemName": "Wastelander\u0027s Scorched Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643544",
+      "ItemName": "Wastelander\u0027s Scorched Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643418",
+      "ItemName": "Wastelander\u0027s Scorched Crusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643040",
+      "ItemName": "Wastelander\u0027s Scorched Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628662",
+      "ItemName": "Wastelander\u0027s Scorched Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643047",
+      "ItemName": "Wastelander\u0027s Scorched Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643054",
+      "ItemName": "Wastelander\u0027s Scorched Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628673",
+      "ItemName": "Wastelander\u0027s Shocked Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628680",
+      "ItemName": "Wastelander\u0027s Shocked Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643548",
+      "ItemName": "Wastelander\u0027s Shocked Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643422",
+      "ItemName": "Wastelander\u0027s Shocked Crusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643044",
+      "ItemName": "Wastelander\u0027s Shocked Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628666",
+      "ItemName": "Wastelander\u0027s Shocked Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643051",
+      "ItemName": "Wastelander\u0027s Shocked Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643058",
+      "ItemName": "Wastelander\u0027s Shocked Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628671",
+      "ItemName": "Wastelander\u0027s Wild Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628678",
+      "ItemName": "Wastelander\u0027s Wild Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643546",
+      "ItemName": "Wastelander\u0027s Wild Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643420",
+      "ItemName": "Wastelander\u0027s Wild Crusher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643042",
+      "ItemName": "Wastelander\u0027s Wild Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628664",
+      "ItemName": "Wastelander\u0027s Wild Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643049",
+      "ItemName": "Wastelander\u0027s Wild Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1643056",
+      "ItemName": "Wastelander\u0027s Wild Totem",
       "Notes": ""
     },
     {
@@ -231,8 +396,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.432682Z",
-  "ModifiedAt": "2026-09-30T03:55:50.432683Z",
+  "CreatedAt": "2026-09-30T13:39:01.605708Z",
+  "ModifiedAt": "2026-09-30T13:39:01.605708Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

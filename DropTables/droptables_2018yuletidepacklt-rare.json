@@ -1,6 +1,6 @@
 {
   "Name": "2018YuletidePackLT-Rare",
-  "Description": "BoosterPack-Set-60 Drops",
+  "Description": "BoosterPack-Set-60-3 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -101,6 +101,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1392743",
+      "ItemName": "Sparkle Globe",
+      "Notes": ""
+    },
+    {
       "ItemId": "1392741",
       "ItemName": "The Frosted Tips",
       "Notes": ""
@@ -116,18 +121,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1421916",
-      "ItemName": "Wolf of the Winter (1 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1392753",
       "ItemName": "Yule Presents",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.406483Z",
-  "ModifiedAt": "2026-09-30T03:55:50.406483Z",
+  "CreatedAt": "2026-09-30T13:39:01.578447Z",
+  "ModifiedAt": "2026-09-30T13:39:01.578448Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

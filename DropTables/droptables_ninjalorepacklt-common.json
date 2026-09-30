@@ -1,6 +1,6 @@
 {
   "Name": "NinjaLorePackLT-Common",
-  "Description": "BoosterPack-Set-16-3 Drops",
+  "Description": "BoosterPack-Set-16 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -16,8 +16,133 @@
       "Notes": ""
     },
     {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106953",
+      "ItemName": "Black Coal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160590",
+      "ItemName": "Blue Sword Display",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
       "ItemId": "1607044",
       "ItemName": "Catch of the Day",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240118",
+      "ItemName": "Cauliflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106958",
+      "ItemName": "Crystal Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240103",
+      "ItemName": "Dastardly Radish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106968",
+      "ItemName": "Fire Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220296",
+      "ItemName": "Fire Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82922",
+      "ItemName": "Futon Cushion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106957",
+      "ItemName": "Glass Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220311",
+      "ItemName": "Glowing Star Fruit",
       "Notes": ""
     },
     {
@@ -26,8 +151,63 @@
       "Notes": ""
     },
     {
+      "ItemId": "220297",
+      "ItemName": "Golden Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537590",
+      "ItemName": "Hard Boiled Beetle Eggs",
+      "Notes": ""
+    },
+    {
       "ItemId": "1659645",
       "ItemName": "Ice Elemental",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106952",
+      "ItemName": "Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258581",
+      "ItemName": "Kelp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220306",
+      "ItemName": "Large Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220216",
+      "ItemName": "Large Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106967",
+      "ItemName": "Lava Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473523",
+      "ItemName": "Misfortune Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
       "Notes": ""
     },
     {
@@ -36,8 +216,53 @@
       "Notes": ""
     },
     {
+      "ItemId": "512100",
+      "ItemName": "MooShu Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512088",
+      "ItemName": "MooShu Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
       "ItemId": "1528504",
       "ItemName": "Ninja Pigs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106951",
+      "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160512",
+      "ItemName": "Ornate Round Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258583",
+      "ItemName": "Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258591",
+      "ItemName": "Perfect Citrine",
       "Notes": ""
     },
     {
@@ -46,13 +271,143 @@
       "Notes": ""
     },
     {
+      "ItemId": "258596",
+      "ItemName": "Perfect Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160544",
+      "ItemName": "Pointed Boulder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258589",
+      "ItemName": "Pristine Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473521",
+      "ItemName": "Rotten Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106946",
+      "ItemName": "Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473520",
+      "ItemName": "Salmon Joy",
+      "Notes": ""
+    },
+    {
       "ItemId": "1528514",
       "ItemName": "Samoorai",
       "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106947",
+      "ItemName": "Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160480",
+      "ItemName": "Serpent Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106954",
+      "ItemName": "Shadow Oil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258587",
+      "ItemName": "Shell",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106956",
+      "ItemName": "Simple Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160482",
+      "ItemName": "Solar Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106964",
+      "ItemName": "Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160559",
+      "ItemName": "Stepping Stones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160437",
+      "ItemName": "Stone Cairn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537599",
+      "ItemName": "Sweet Mango",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160465",
+      "ItemName": "Tea Ladle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160596",
+      "ItemName": "Tea Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.413675Z",
-  "ModifiedAt": "2026-09-30T03:55:50.413676Z",
+  "CreatedAt": "2026-09-30T13:39:01.571116Z",
+  "ModifiedAt": "2026-09-30T13:39:01.571117Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

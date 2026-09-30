@@ -11,13 +11,8 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1212009",
-      "ItemName": "Doodle Doug Theme",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1335015",
-      "ItemName": "Dragonspyre Dance Theme",
+      "ItemId": "1447030",
+      "ItemName": "Fantastic Plushie",
       "Notes": ""
     },
     {
@@ -36,6 +31,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1447031",
+      "ItemName": "Majestic Plushie",
+      "Notes": ""
+    },
+    {
       "ItemId": "1447022",
       "ItemName": "Majestic Unicorn (1 Day)",
       "Notes": ""
@@ -46,48 +46,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "1447029",
+      "ItemName": "Mystic Plushie",
+      "Notes": ""
+    },
+    {
       "ItemId": "1447025",
       "ItemName": "Mystic Unicorn (1 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "346193",
-      "ItemName": "Nightmare",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160258",
-      "ItemName": "Small Blue Trim Rug",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160249",
-      "ItemName": "Small Lunar Rug",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160259",
-      "ItemName": "Small Orange Symbol Rug",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160261",
-      "ItemName": "Small Purple Rug",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160260",
-      "ItemName": "Spotted Half Rug",
-      "Notes": ""
-    },
-    {
       "ItemId": "1421675",
       "ItemName": "The Unicorn\u0027s Mane",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1374597",
-      "ItemName": "Toy Tower",
       "Notes": ""
     },
     {
@@ -129,25 +99,10 @@
       "ItemId": "160339",
       "ItemName": "Unicorn Statue",
       "Notes": ""
-    },
-    {
-      "ItemId": "1335055",
-      "ItemName": "Valencia Skyway Theme",
-      "Notes": ""
-    },
-    {
-      "ItemId": "512087",
-      "ItemName": "Wizard City Main Theme",
-      "Notes": ""
-    },
-    {
-      "ItemId": "512093",
-      "ItemName": "Wysteria Main Theme",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.433269Z",
-  "ModifiedAt": "2026-09-30T03:55:50.433269Z",
+  "CreatedAt": "2026-09-30T13:39:01.587865Z",
+  "ModifiedAt": "2026-09-30T13:39:01.587865Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

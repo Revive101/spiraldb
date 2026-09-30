@@ -1,6 +1,6 @@
 {
   "Name": "GrizzleheimLorePackLT-Common",
-  "Description": "BoosterPack-Set-74 Drops",
+  "Description": "BoosterPack-Set-93 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -141,6 +141,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
       "ItemId": "713175",
       "ItemName": "Golden Couch Potatoes",
       "Notes": ""
@@ -271,6 +276,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "589089",
+      "ItemName": "Raven",
+      "Notes": ""
+    },
+    {
       "ItemId": "713168",
       "ItemName": "Red Couch Potatoes",
       "Notes": ""
@@ -298,6 +308,11 @@
     {
       "ItemId": "106944",
       "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106964",
+      "ItemName": "Spring",
       "Notes": ""
     },
     {
@@ -356,8 +371,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.406266Z",
-  "ModifiedAt": "2026-09-30T03:55:50.406269Z",
+  "CreatedAt": "2026-09-30T13:39:01.577268Z",
+  "ModifiedAt": "2026-09-30T13:39:01.577269Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -11,11 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1664520",
-      "ItemName": "Arboreal Atrocity (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1664516",
       "ItemName": "Arboreal Atrocity (PERM)",
       "Notes": ""
@@ -26,13 +21,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1623013",
-      "ItemName": "Botanical Beast (7 Day)",
+      "ItemId": "1623008",
+      "ItemName": "Botanical Beast (PERM)",
       "Notes": ""
     },
     {
-      "ItemId": "1623008",
-      "ItemName": "Botanical Beast (PERM)",
+      "ItemId": "1623004",
+      "ItemName": "Carnivore Flytrap",
       "Notes": ""
     },
     {
@@ -41,28 +36,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "713126",
-      "ItemName": "Clockwork Flower",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1617665",
-      "ItemName": "Creepy Clown Standard",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1317963",
-      "ItemName": "Darkmoor Skeletal Tree",
-      "Notes": ""
-    },
-    {
       "ItemId": "1754179174",
       "ItemName": "Deer Knight",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1664522",
-      "ItemName": "Dendritic Devil (7 Day)",
       "Notes": ""
     },
     {
@@ -76,23 +51,288 @@
       "Notes": ""
     },
     {
-      "ItemId": "1558492",
-      "ItemName": "Evil Watering Can",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1623010",
-      "ItemName": "Floral Fiend (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1623007",
       "ItemName": "Floral Fiend (PERM)",
       "Notes": ""
     },
     {
-      "ItemId": "220203",
-      "ItemName": "Flowering Pineapple",
+      "ItemId": "1617796",
+      "ItemName": "Floramancer Amulet of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617794",
+      "ItemName": "Floramancer Amulet of Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617791",
+      "ItemName": "Floramancer Amulet of Cycles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617792",
+      "ItemName": "Floramancer Amulet of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617795",
+      "ItemName": "Floramancer Amulet of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617793",
+      "ItemName": "Floramancer Amulet of Rashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617797",
+      "ItemName": "Floramancer Amulet of Thorns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625279",
+      "ItemName": "Floramancer Armor of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625277",
+      "ItemName": "Floramancer Armor of Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625274",
+      "ItemName": "Floramancer Armor of Cycles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625275",
+      "ItemName": "Floramancer Armor of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625278",
+      "ItemName": "Floramancer Armor of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625276",
+      "ItemName": "Floramancer Armor of Rashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625280",
+      "ItemName": "Floramancer Armor of Thorns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617915",
+      "ItemName": "Floramancer Blade of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617913",
+      "ItemName": "Floramancer Blade of Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617910",
+      "ItemName": "Floramancer Blade of Cycles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617911",
+      "ItemName": "Floramancer Blade of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617914",
+      "ItemName": "Floramancer Blade of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617912",
+      "ItemName": "Floramancer Blade of Rashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617916",
+      "ItemName": "Floramancer Blade of Thorns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617677",
+      "ItemName": "Floramancer Deck of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617675",
+      "ItemName": "Floramancer Deck of Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617672",
+      "ItemName": "Floramancer Deck of Cycles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617673",
+      "ItemName": "Floramancer Deck of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617676",
+      "ItemName": "Floramancer Deck of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617674",
+      "ItemName": "Floramancer Deck of Rashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617678",
+      "ItemName": "Floramancer Deck of Thorns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625286",
+      "ItemName": "Floramancer Greaves of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625284",
+      "ItemName": "Floramancer Greaves of Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625281",
+      "ItemName": "Floramancer Greaves of Cycles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625282",
+      "ItemName": "Floramancer Greaves of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625285",
+      "ItemName": "Floramancer Greaves of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625283",
+      "ItemName": "Floramancer Greaves of Rashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625287",
+      "ItemName": "Floramancer Greaves of Thorns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625272",
+      "ItemName": "Floramancer Helm of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625270",
+      "ItemName": "Floramancer Helm of Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625267",
+      "ItemName": "Floramancer Helm of Cycles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625268",
+      "ItemName": "Floramancer Helm of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625271",
+      "ItemName": "Floramancer Helm of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625269",
+      "ItemName": "Floramancer Helm of Rashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625273",
+      "ItemName": "Floramancer Helm of Thorns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625153",
+      "ItemName": "Floramancer Relic of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625151",
+      "ItemName": "Floramancer Relic of Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625148",
+      "ItemName": "Floramancer Relic of Cycles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625149",
+      "ItemName": "Floramancer Relic of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625152",
+      "ItemName": "Floramancer Relic of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625150",
+      "ItemName": "Floramancer Relic of Rashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625154",
+      "ItemName": "Floramancer Relic of Thorns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625034",
+      "ItemName": "Floramancer Ring of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625032",
+      "ItemName": "Floramancer Ring of Bark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625029",
+      "ItemName": "Floramancer Ring of Cycles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625030",
+      "ItemName": "Floramancer Ring of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625033",
+      "ItemName": "Floramancer Ring of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625031",
+      "ItemName": "Floramancer Ring of Rashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1625035",
+      "ItemName": "Floramancer Ring of Thorns",
       "Notes": ""
     },
     {
@@ -103,11 +343,6 @@
     {
       "ItemId": "150986963",
       "ItemName": "Handsome Fomori",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1623016",
-      "ItemName": "Herbal Horror (7 Day)",
       "Notes": ""
     },
     {
@@ -126,6 +361,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1664525",
+      "ItemName": "Leafy Leviathan (1 Day)",
+      "Notes": ""
+    },
+    {
       "ItemId": "1664521",
       "ItemName": "Leafy Leviathan (7 Day)",
       "Notes": ""
@@ -141,31 +381,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "473194",
-      "ItemName": "Maltese Tiger Lily",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473647",
-      "ItemName": "Moon Flower",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537591",
-      "ItemName": "Pollen Bombs",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160619",
-      "ItemName": "Potted Flower Arrangement",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1664523",
-      "ItemName": "Rooted Wretch (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1664517",
       "ItemName": "Rooted Wretch (PERM)",
       "Notes": ""
@@ -176,38 +391,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "1248052",
-      "ItemName": "Sugar Khrystals",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160617",
-      "ItemName": "Sunflower",
-      "Notes": ""
-    },
-    {
-      "ItemId": "82898",
-      "ItemName": "Tall Palm Tree",
-      "Notes": ""
-    },
-    {
       "ItemId": "90594561",
       "ItemName": "Taunt",
       "Notes": ""
     },
     {
-      "ItemId": "1617666",
-      "ItemName": "Vampire Bat Standard",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473187",
-      "ItemName": "White Tiger Lily",
+      "ItemId": "1558490",
+      "ItemName": "Terrible Experiment",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.429808Z",
-  "ModifiedAt": "2026-09-30T03:55:50.429809Z",
+  "CreatedAt": "2026-09-30T13:39:01.602052Z",
+  "ModifiedAt": "2026-09-30T13:39:01.602052Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

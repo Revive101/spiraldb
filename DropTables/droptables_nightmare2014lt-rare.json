@@ -11,88 +11,248 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1317238",
-      "ItemName": "False Dawn Harrowings (7 Day)",
+      "ItemId": "470049",
+      "ItemName": "Apple Tub",
       "Notes": ""
     },
     {
-      "ItemId": "1317183",
-      "ItemName": "Harrowed Bones",
+      "ItemId": "1201302",
+      "ItemName": "Boots of Midnight Torment",
       "Notes": ""
     },
     {
-      "ItemId": "1201214",
-      "ItemName": "Jack Hallow\u0027s Blues",
+      "ItemId": "1201335",
+      "ItemName": "Boots of Nightfall Torment",
       "Notes": ""
     },
     {
-      "ItemId": "1201236",
-      "ItemName": "Jack Hallow\u0027s Gourdtar",
+      "ItemId": "1201269",
+      "ItemName": "Boots of Nighttide Torment",
       "Notes": ""
     },
     {
-      "ItemId": "1201247",
-      "ItemName": "Jack Hallow\u0027s Guitar",
+      "ItemId": "160444",
+      "ItemName": "Bubbling Cauldron",
       "Notes": ""
     },
     {
-      "ItemId": "1201225",
-      "ItemName": "Jack Hallow\u0027s Wailer",
+      "ItemId": "512080",
+      "ItemName": "Customizable Gravestone Sign",
       "Notes": ""
     },
     {
-      "ItemId": "1317240",
-      "ItemName": "Midnight Harrowings (7 Day)",
+      "ItemId": "512079",
+      "ItemName": "Customizable Grizzleheim Sign",
       "Notes": ""
     },
     {
-      "ItemId": "1359782",
-      "ItemName": "Midnight Owl (7 Day)",
+      "ItemId": "713133",
+      "ItemName": "Dead Beets",
       "Notes": ""
     },
     {
-      "ItemId": "1201313",
-      "ItemName": "Midnight Torment Guise",
+      "ItemId": "404123",
+      "ItemName": "Deadly Helephant Ears",
       "Notes": ""
     },
     {
-      "ItemId": "1317242",
-      "ItemName": "Nightfall Harrowings (7 Day)",
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
       "Notes": ""
     },
     {
-      "ItemId": "1201346",
-      "ItemName": "Nightfall Torment Guise",
+      "ItemId": "164422",
+      "ItemName": "Death Scarab",
       "Notes": ""
     },
     {
-      "ItemId": "1201280",
-      "ItemName": "Nighttide Torment Guise",
+      "ItemId": "82784",
+      "ItemName": "Fire Mummy",
       "Notes": ""
     },
     {
-      "ItemId": "1201368",
-      "ItemName": "Tormentor\u0027s Bonerattler",
+      "ItemId": "470051",
+      "ItemName": "Ghost Doodle Stand",
       "Notes": ""
     },
     {
-      "ItemId": "1201357",
-      "ItemName": "Tormentor\u0027s Shredder",
+      "ItemId": "225497",
+      "ItemName": "Ghost Hound",
       "Notes": ""
     },
     {
-      "ItemId": "1201379",
-      "ItemName": "Tormentor\u0027s Skullsplitter",
+      "ItemId": "470052",
+      "ItemName": "Ghoul Doodle Stand",
       "Notes": ""
     },
     {
-      "ItemId": "1359632",
-      "ItemName": "Winged Catastrophe",
+      "ItemId": "473535",
+      "ItemName": "Gob-O-Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473518",
+      "ItemName": "Gobbler Stoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225427",
+      "ItemName": "Golden Armored Skeleton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225495",
+      "ItemName": "Grim Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126398",
+      "ItemName": "Hallowe\u0027en Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470050",
+      "ItemName": "Halloween Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212075",
+      "ItemName": "Ianthine Spectre",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473525",
+      "ItemName": "Jolly Rancher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160640",
+      "ItemName": "Krokotopian Mummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100332",
+      "ItemName": "Lightningbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126411",
+      "ItemName": "Lollipop Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126409",
+      "ItemName": "Mean Pumpkin Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1201291",
+      "ItemName": "Midnight Torment Top Hat ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317243",
+      "ItemName": "Nightfall Harrowings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1201324",
+      "ItemName": "Nightfall Torment Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1201258",
+      "ItemName": "Nighttide Torment Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160336",
+      "ItemName": "Obsidian Firecat Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225410",
+      "ItemName": "Pale Maiden",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82911",
+      "ItemName": "Pilloried Skeleton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470056",
+      "ItemName": "Pirate Jack-O-Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473517",
+      "ItemName": "Pixie Stix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100434",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470053",
+      "ItemName": "Scarecrow Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470057",
+      "ItemName": "Scary Jack-O-Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470058",
+      "ItemName": "Silly Jack-O-Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470046",
+      "ItemName": "Tapestry to Nightside",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359665",
+      "ItemName": "The Cat Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359662",
+      "ItemName": "The Goat Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359664",
+      "ItemName": "The Halo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164419",
+      "ItemName": "Theater Masks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470054",
+      "ItemName": "Vampire Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470055",
+      "ItemName": "Witch Doodle Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126410",
+      "ItemName": "Witch\u0027s Broom",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.439688Z",
-  "ModifiedAt": "2026-09-30T03:55:50.439688Z",
+  "CreatedAt": "2026-09-30T13:39:01.613786Z",
+  "ModifiedAt": "2026-09-30T13:39:01.613787Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

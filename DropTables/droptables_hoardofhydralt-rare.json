@@ -1,6 +1,6 @@
 {
   "Name": "HoardOfHydraLT-Rare",
-  "Description": "BoosterPack-Set-18-3 Drops",
+  "Description": "BoosterPack-Set-18 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,13 +11,8 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "641597",
-      "ItemName": "Bearberry",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641605",
-      "ItemName": "Bog Witch Beetroot",
+      "ItemId": "206090",
+      "ItemName": "Birdcage",
       "Notes": ""
     },
     {
@@ -36,28 +31,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "641610",
-      "ItemName": "Crab Knight Cakes",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641603",
-      "ItemName": "Deepwater Toffee",
-      "Notes": ""
-    },
-    {
       "ItemId": "635929",
       "ItemName": "Faerie Court Boots",
       "Notes": ""
     },
     {
-      "ItemId": "641594",
-      "ItemName": "High Road Haggis",
-      "Notes": ""
-    },
-    {
-      "ItemId": "470418",
-      "ItemName": "Hydra (PERM)",
+      "ItemId": "106970",
+      "ItemName": "Grendelweed",
       "Notes": ""
     },
     {
@@ -71,23 +51,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "641602",
-      "ItemName": "Lemon Harts",
-      "Notes": ""
-    },
-    {
       "ItemId": "635920",
       "ItemName": "Mask of the Faerie Court",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641606",
-      "ItemName": "Muscle Sprouts",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641611",
-      "ItemName": "Ogre Meanies",
       "Notes": ""
     },
     {
@@ -98,11 +63,6 @@
     {
       "ItemId": "635947",
       "ItemName": "Pixie\u0027s Mask of Encanta",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641598",
-      "ItemName": "Pomegranite",
       "Notes": ""
     },
     {
@@ -121,11 +81,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "641595",
-      "ItemName": "Toad in the Hole",
-      "Notes": ""
-    },
-    {
       "ItemId": "635983",
       "ItemName": "World\u0027s Fool Boots",
       "Notes": ""
@@ -136,8 +91,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.414115Z",
-  "ModifiedAt": "2026-09-30T03:55:50.414115Z",
+  "CreatedAt": "2026-09-30T13:39:01.572755Z",
+  "ModifiedAt": "2026-09-30T13:39:01.572756Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

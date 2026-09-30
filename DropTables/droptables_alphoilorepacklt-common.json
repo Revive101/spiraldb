@@ -1,6 +1,6 @@
 {
   "Name": "AlphoiLorePackLT-Common",
-  "Description": "BoosterPack-Set-55-3 Drops",
+  "Description": "BoosterPack-Set-55 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,8 +11,28 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
       "ItemId": "220206",
       "ItemName": "Ape Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421951",
+      "ItemName": "Beastman Hut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421952",
+      "ItemName": "Big Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
       "Notes": ""
     },
     {
@@ -26,6 +46,41 @@
       "Notes": ""
     },
     {
+      "ItemId": "106958",
+      "ItemName": "Crystal Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421945",
+      "ItemName": "Dwarven Scroll Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439000",
+      "ItemName": "Empyrea Aeriel Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439001",
+      "ItemName": "Empyrea Athanor Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439004",
+      "ItemName": "Empyrea Finale Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439002",
+      "ItemName": "Empyrea Inner Athanor Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439003",
+      "ItemName": "Empyrea Outer Athanor Theme",
+      "Notes": ""
+    },
+    {
       "ItemId": "1248255",
       "ItemName": "Face Palm",
       "Notes": ""
@@ -36,6 +91,16 @@
       "Notes": ""
     },
     {
+      "ItemId": "1421936",
+      "ItemName": "Fire Dwarf Sofa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106955",
+      "ItemName": "Ghost Fire",
+      "Notes": ""
+    },
+    {
       "ItemId": "220297",
       "ItemName": "Golden Peanut",
       "Notes": ""
@@ -43,6 +108,16 @@
     {
       "ItemId": "220291",
       "ItemName": "Golden Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421937",
+      "ItemName": "Ice Dwarf Sofa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106952",
+      "ItemName": "Jade",
       "Notes": ""
     },
     {
@@ -61,8 +136,23 @@
       "Notes": ""
     },
     {
+      "ItemId": "106951",
+      "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
+      "Notes": ""
+    },
+    {
       "ItemId": "473131",
       "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106946",
+      "ItemName": "Ruby",
       "Notes": ""
     },
     {
@@ -71,8 +161,23 @@
       "Notes": ""
     },
     {
+      "ItemId": "1433025",
+      "ItemName": "Sail Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106947",
+      "ItemName": "Sapphire",
+      "Notes": ""
+    },
+    {
       "ItemId": "1248248",
       "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106954",
+      "ItemName": "Shadow Oil",
       "Notes": ""
     },
     {
@@ -96,8 +201,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.425589Z",
-  "ModifiedAt": "2026-09-30T03:55:50.425589Z",
+  "CreatedAt": "2026-09-30T13:39:01.569542Z",
+  "ModifiedAt": "2026-09-30T13:39:01.569545Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -11,68 +11,263 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "789362",
-      "ItemName": "Anubis\u0027 Astral Staff",
+      "ItemId": "473527",
+      "ItemName": "Atomic Fireball",
       "Notes": ""
     },
     {
-      "ItemId": "789272",
-      "ItemName": "Charred Nirini Robe",
+      "ItemId": "220252",
+      "ItemName": "Big Squash",
       "Notes": ""
     },
     {
-      "ItemId": "789292",
-      "ItemName": "Frosted Sokkwi Footwraps",
+      "ItemId": "82893",
+      "ItemName": "Blue Ancient Statue",
       "Notes": ""
     },
     {
-      "ItemId": "789322",
-      "ItemName": "Karanahn\u0027s Charged Greaves",
+      "ItemId": "82719",
+      "ItemName": "Blue Facetted Column",
       "Notes": ""
     },
     {
-      "ItemId": "789352",
-      "ItemName": "Lunar Scepter of Anubis",
+      "ItemId": "82902",
+      "ItemName": "Blue Krok Bust",
       "Notes": ""
     },
     {
-      "ItemId": "789252",
-      "ItemName": "Nirini Helm of Scorching",
+      "ItemId": "82879",
+      "ItemName": "Boat Tent",
       "Notes": ""
     },
     {
-      "ItemId": "789262",
-      "ItemName": "Singed Nirini Walkers",
+      "ItemId": "470140",
+      "ItemName": "Crokagator (7 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "789302",
-      "ItemName": "Sokkwi Frostbitten Armor",
+      "ItemId": "100463",
+      "ItemName": "Fire Salamander",
       "Notes": ""
     },
     {
-      "ItemId": "789282",
-      "ItemName": "Sokkwi Mantle of Blizzards",
+      "ItemId": "82826",
+      "ItemName": "Fire Sarcophagus",
       "Notes": ""
     },
     {
-      "ItemId": "789342",
-      "ItemName": "Solar Pikestaff of Anubis",
+      "ItemId": "220326",
+      "ItemName": "Goat Cheese",
       "Notes": ""
     },
     {
-      "ItemId": "789312",
-      "ItemName": "Thunderous Karanahn Veil",
+      "ItemId": "164144",
+      "ItemName": "Hieroglyph Wall Decor",
       "Notes": ""
     },
     {
-      "ItemId": "789332",
-      "ItemName": "Vestment of Ominous Skies",
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100464",
+      "ItemName": "Ice Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82825",
+      "ItemName": "Ice Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82764",
+      "ItemName": "Krok Bird Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82730",
+      "ItemName": "Krok Hourglass Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82763",
+      "ItemName": "Krok Insect Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82762",
+      "ItemName": "Krok Moon Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82739",
+      "ItemName": "Krok Scarab Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82761",
+      "ItemName": "Krok Skull Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82760",
+      "ItemName": "Krok Snake Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82759",
+      "ItemName": "Krok Sun Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82779",
+      "ItemName": "Krok Tree Pressure Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100437",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82877",
+      "ItemName": "Krokotopia Camping Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82746",
+      "ItemName": "Krokotopia Map",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82869",
+      "ItemName": "Large Archway",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87150",
+      "ItemName": "Mander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82782",
+      "ItemName": "Open Fire Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82783",
+      "ItemName": "Open Ice Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82814",
+      "ItemName": "Open Storm Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82850",
+      "ItemName": "Painted Wardrobe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82708",
+      "ItemName": "Pair of Scrolls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82892",
+      "ItemName": "Purple Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82721",
+      "ItemName": "Purple Facetted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82903",
+      "ItemName": "Purple Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82823",
+      "ItemName": "Raised Fire Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82836",
+      "ItemName": "Raised Ice Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82835",
+      "ItemName": "Raised Storm Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82891",
+      "ItemName": "Red Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82899",
+      "ItemName": "Red Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82706",
+      "ItemName": "Row of Scrolls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82780",
+      "ItemName": "Sand Celebration Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164279",
+      "ItemName": "Solar Pattern Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82707",
+      "ItemName": "Stack of Scrolls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100465",
+      "ItemName": "Storm Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82834",
+      "ItemName": "Storm Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82745",
+      "ItemName": "Tomb Map",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82734",
+      "ItemName": "Wide Blue Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82757",
+      "ItemName": "Wide Purple Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82733",
+      "ItemName": "Wide Red Pedestal",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.415539Z",
-  "ModifiedAt": "2026-09-30T03:55:50.415540Z",
+  "CreatedAt": "2026-09-30T13:39:01.577748Z",
+  "ModifiedAt": "2026-09-30T13:39:01.577749Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -11,21 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "258582",
-      "ItemName": "Aether",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258588",
-      "ItemName": "Aquamarine",
-      "Notes": ""
-    },
-    {
-      "ItemId": "225451",
-      "ItemName": "Ash Spider",
-      "Notes": ""
-    },
-    {
       "ItemId": "667453",
       "ItemName": "Avenging Helm of Glory",
       "Notes": ""
@@ -51,6 +36,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "537556",
+      "ItemName": "Broken Viking Statue",
+      "Notes": ""
+    },
+    {
       "ItemId": "206091",
       "ItemName": "Chicken Coop",
       "Notes": ""
@@ -61,38 +51,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1013171411",
-      "ItemName": "Curse",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106935",
-      "ItemName": "Deep Mushroom",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220321",
-      "ItemName": "Fancy Truffle",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537602",
-      "ItemName": "Fried Worms",
+      "ItemId": "206102",
+      "ItemName": "Cuckoo Clock",
       "Notes": ""
     },
     {
       "ItemId": "2080332446",
       "ItemName": "Ghoul",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220275",
-      "ItemName": "Glowing Dragon Fruit",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106970",
-      "ItemName": "Grendelweed",
       "Notes": ""
     },
     {
@@ -106,6 +71,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "225453",
+      "ItemName": "Ice Bird",
+      "Notes": ""
+    },
+    {
       "ItemId": "225433",
       "ItemName": "Icebat",
       "Notes": ""
@@ -113,21 +83,6 @@
     {
       "ItemId": "126987",
       "ItemName": "Jade Oni",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473583",
-      "ItemName": "Jelly Baby",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160857",
-      "ItemName": "Kraken Statue",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537594",
-      "ItemName": "Lime Peel Rickey",
       "Notes": ""
     },
     {
@@ -146,11 +101,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "106931",
-      "ItemName": "Mist Wood",
-      "Notes": ""
-    },
-    {
       "ItemId": "473647",
       "ItemName": "Moon Flower",
       "Notes": ""
@@ -158,21 +108,6 @@
     {
       "ItemId": "225410",
       "ItemName": "Pale Maiden",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537585",
-      "ItemName": "Peppercorn",
-      "Notes": ""
-    },
-    {
-      "ItemId": "82910",
-      "ItemName": "Pillory",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258585",
-      "ItemName": "Sandstone",
       "Notes": ""
     },
     {
@@ -191,23 +126,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "106933",
-      "ItemName": "Stone Block",
-      "Notes": ""
-    },
-    {
-      "ItemId": "225445",
-      "ItemName": "Storm Bird",
-      "Notes": ""
-    },
-    {
-      "ItemId": "100458",
-      "ItemName": "Sun Bird",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537555",
-      "ItemName": "Sword Tree",
+      "ItemId": "100457",
+      "ItemName": "Snow Serpent",
       "Notes": ""
     },
     {
@@ -216,33 +136,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "220292",
-      "ItemName": "Uni-corn",
-      "Notes": ""
-    },
-    {
       "ItemId": "532410",
       "ItemName": "Unkind Winter Boots",
       "Notes": ""
     },
     {
-      "ItemId": "537557",
-      "ItemName": "Viking Sword Statue",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160893",
-      "ItemName": "Volcanic Steam Vent",
+      "ItemId": "537558",
+      "ItemName": "Viking Axe Statue",
       "Notes": ""
     },
     {
       "ItemId": "473187",
       "ItemName": "White Tiger Lily",
-      "Notes": ""
-    },
-    {
-      "ItemId": "161015",
-      "ItemName": "Wyrm-footed Bookshelf",
       "Notes": ""
     },
     {
@@ -256,8 +161,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.411815Z",
-  "ModifiedAt": "2026-09-30T03:55:50.411815Z",
+  "CreatedAt": "2026-09-30T13:39:01.572145Z",
+  "ModifiedAt": "2026-09-30T13:39:01.572146Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

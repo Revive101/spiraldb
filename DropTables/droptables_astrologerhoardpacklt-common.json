@@ -11,6 +11,11 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "1335126",
+      "ItemName": "Arcanum Theme",
+      "Notes": ""
+    },
+    {
       "ItemId": "220323",
       "ItemName": "Bag of Jelly Beans",
       "Notes": ""
@@ -21,8 +26,33 @@
       "Notes": ""
     },
     {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
       "ItemId": "356127",
       "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512090",
+      "ItemName": "Celestia Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512136",
+      "ItemName": "Celestia Mysterious Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512139",
+      "ItemName": "Celestia Mysterious Theme 2",
       "Notes": ""
     },
     {
@@ -36,8 +66,28 @@
       "Notes": ""
     },
     {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257591",
+      "ItemName": "Desparagus Quiche",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441527",
+      "ItemName": "Empyrea Nexus Theme",
+      "Notes": ""
+    },
+    {
       "ItemId": "1248255",
       "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
       "Notes": ""
     },
     {
@@ -46,8 +96,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "220215",
+      "ItemName": "Golden Apple",
+      "Notes": ""
+    },
+    {
       "ItemId": "220240",
       "ItemName": "Green Banana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733123",
+      "ItemName": "Guava",
       "Notes": ""
     },
     {
@@ -56,8 +116,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "1335263",
+      "ItemName": "Mirage Chronoverge Theme",
+      "Notes": ""
+    },
+    {
       "ItemId": "473523",
       "ItemName": "Misfortune Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
       "Notes": ""
     },
     {
@@ -86,6 +156,26 @@
       "Notes": ""
     },
     {
+      "ItemId": "220313",
+      "ItemName": "Sprinkle Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220294",
+      "ItemName": "Square Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220276",
+      "ItemName": "Strawberry Cupcake",
+      "Notes": ""
+    },
+    {
       "ItemId": "1248001",
       "ItemName": "Sunion",
       "Notes": ""
@@ -96,8 +186,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "220260",
+      "ItemName": "Tasty Biscuit",
+      "Notes": ""
+    },
+    {
       "ItemId": "220237",
       "ItemName": "Tiny Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212038",
+      "ItemName": "Wizard City Dreamworld Theme",
       "Notes": ""
     },
     {
@@ -106,8 +206,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.412516Z",
-  "ModifiedAt": "2026-09-30T03:55:50.412517Z",
+  "CreatedAt": "2026-09-30T13:39:01.573236Z",
+  "ModifiedAt": "2026-09-30T13:39:01.573237Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

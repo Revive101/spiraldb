@@ -1,6 +1,6 @@
 {
   "Name": "GrimNightmarePLT-UnCommon",
-  "Description": "BoosterPack-Set-112 Drops",
+  "Description": "BoosterPack-Set-131 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,18 +11,8 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "160708",
-      "ItemName": "Altar with Candles",
-      "Notes": ""
-    },
-    {
       "ItemId": "160731",
       "ItemName": "Angled Gravemarker",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473526",
-      "ItemName": "Athame Pop",
       "Notes": ""
     },
     {
@@ -36,11 +26,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "82705",
-      "ItemName": "Axe",
-      "Notes": ""
-    },
-    {
       "ItemId": "225480",
       "ItemName": "Bat Wings (1 Day)",
       "Notes": ""
@@ -51,43 +36,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "106965",
-      "ItemName": "Black Lotus",
-      "Notes": ""
-    },
-    {
       "ItemId": "191233",
       "ItemName": "Black Stallion (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160622",
-      "ItemName": "Bone",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106941",
-      "ItemName": "Bone",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160235",
-      "ItemName": "Brain Jar",
-      "Notes": ""
-    },
-    {
-      "ItemId": "181052",
-      "ItemName": "Broom",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160444",
-      "ItemName": "Bubbling Cauldron",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220248",
-      "ItemName": "Candy bar",
       "Notes": ""
     },
     {
@@ -96,18 +46,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "160221",
-      "ItemName": "Carved Skull",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220228",
-      "ItemName": "Chocolate Peanut",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106949",
-      "ItemName": "Citrine",
+      "ItemId": "1524591",
+      "ItemName": "Charon\u0027s Ferry (1 Day)",
       "Notes": ""
     },
     {
@@ -126,26 +66,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "160361",
-      "ItemName": "Dark Stone Tower",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160381",
-      "ItemName": "Dead Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160420",
-      "ItemName": "Death Banner",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160408",
-      "ItemName": "Death Shield",
-      "Notes": ""
-    },
-    {
       "ItemId": "1374387",
       "ItemName": "Dutiful Bloodbat",
       "Notes": ""
@@ -156,13 +76,33 @@
       "Notes": ""
     },
     {
-      "ItemId": "181084",
-      "ItemName": "Foul Cauldron",
+      "ItemId": "1553759",
+      "ItemName": "Ghostly Cerberus (1 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "106955",
-      "ItemName": "Ghost Fire",
+      "ItemId": "1553758",
+      "ItemName": "Ghostly Cerberus (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553754",
+      "ItemName": "Ghostly Cerberus (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553761",
+      "ItemName": "Ghoulish Cerberus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553760",
+      "ItemName": "Ghoulish Cerberus (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553755",
+      "ItemName": "Ghoulish Cerberus (PERM)",
       "Notes": ""
     },
     {
@@ -176,6 +116,16 @@
       "Notes": ""
     },
     {
+      "ItemId": "1553757",
+      "ItemName": "Grim Cerberus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1553756",
+      "ItemName": "Grim Cerberus (7 Day)",
+      "Notes": ""
+    },
+    {
       "ItemId": "1522123",
       "ItemName": "Grim Tree",
       "Notes": ""
@@ -183,11 +133,6 @@
     {
       "ItemId": "220285",
       "ItemName": "Gummy Bloodbat",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220220",
-      "ItemName": "Gummy Firecat",
       "Notes": ""
     },
     {
@@ -201,6 +146,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1524588",
+      "ItemName": "Haros\u0027 Ferry (1 Day)",
+      "Notes": ""
+    },
+    {
       "ItemId": "191225",
       "ItemName": "Horned Sweeper (1 Day)",
       "Notes": ""
@@ -211,48 +161,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "160640",
-      "ItemName": "Krokotopian Mummy",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160245",
-      "ItemName": "Large Candle Holder",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160701",
-      "ItemName": "Lit Furnace",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220251",
-      "ItemName": "Lollipop",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473523",
-      "ItemName": "Misfortune Cookie",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106936",
-      "ItemName": "Nightshade",
-      "Notes": ""
-    },
-    {
       "ItemId": "220283",
       "ItemName": "Nutty Candy bar",
-      "Notes": ""
-    },
-    {
-      "ItemId": "82866",
-      "ItemName": "Obsidian Chest",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106951",
-      "ItemName": "Onyx",
       "Notes": ""
     },
     {
@@ -261,28 +171,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "258591",
-      "ItemName": "Perfect Citrine",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258593",
-      "ItemName": "Perfect Onyx",
-      "Notes": ""
-    },
-    {
       "ItemId": "191221",
       "ItemName": "Purple Glider (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160227",
-      "ItemName": "Rattlebones\u0027 Feet",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106959",
-      "ItemName": "Red Mandrake",
       "Notes": ""
     },
     {
@@ -296,28 +186,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "473521",
-      "ItemName": "Rotten Candy",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473528",
-      "ItemName": "Sandy Corn",
-      "Notes": ""
-    },
-    {
       "ItemId": "473519",
       "ItemName": "Senior Mint",
       "Notes": ""
     },
     {
-      "ItemId": "160315",
-      "ItemName": "Slanted Grave",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106944",
-      "ItemName": "Spider Silk",
+      "ItemId": "225478",
+      "ItemName": "Seraph Wings (1 Day)",
       "Notes": ""
     },
     {
@@ -341,8 +216,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1522126",
-      "ItemName": "Stygian Leaves",
+      "ItemId": "1524592",
+      "ItemName": "Stygian Ferry (1 Day)",
       "Notes": ""
     },
     {
@@ -351,23 +226,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "82755",
-      "ItemName": "Tall Pumpkin",
-      "Notes": ""
-    },
-    {
       "ItemId": "220195",
       "ItemName": "Wormy Apple",
       "Notes": ""
     },
     {
-      "ItemId": "82832",
-      "ItemName": "Worn Shovel",
+      "ItemId": "100433",
+      "ItemName": "Yellow Ghost",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.428204Z",
-  "ModifiedAt": "2026-09-30T03:55:50.428204Z",
+  "CreatedAt": "2026-09-30T13:39:01.589965Z",
+  "ModifiedAt": "2026-09-30T13:39:01.589965Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

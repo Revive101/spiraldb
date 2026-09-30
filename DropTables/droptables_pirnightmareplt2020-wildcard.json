@@ -11,11 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1481488",
-      "ItemName": "Blighted Captain\u0027s Boots",
-      "Notes": ""
-    },
-    {
       "ItemId": "1481474",
       "ItemName": "Blighted Captain\u0027s Coat",
       "Notes": ""
@@ -23,16 +18,6 @@
     {
       "ItemId": "1481586",
       "ItemName": "Blighted Captain\u0027s Steel",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1481460",
-      "ItemName": "Blighted Captain\u0027s Tricorne",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1481530",
-      "ItemName": "Cursed Captain\u0027s Boots",
       "Notes": ""
     },
     {
@@ -46,18 +31,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1481502",
-      "ItemName": "Cursed Captain\u0027s Tricorne",
-      "Notes": ""
-    },
-    {
-      "ItemId": "404116",
-      "ItemName": "Evil Magma Peas",
-      "Notes": ""
-    },
-    {
       "ItemId": "1451779",
       "ItemName": "Flying Dutchman (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507169",
+      "ItemName": "Ghost Host (7 Day)",
       "Notes": ""
     },
     {
@@ -66,18 +46,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1505480",
-      "ItemName": "Ghost Hunter Boots",
-      "Notes": ""
-    },
-    {
       "ItemId": "1505550",
       "ItemName": "Ghost Hunter Geistbox",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1505452",
-      "ItemName": "Ghost Hunter Hat",
       "Notes": ""
     },
     {
@@ -86,18 +56,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1451788",
-      "ItemName": "Ghoulish Macawbre",
-      "Notes": ""
-    },
-    {
       "ItemId": "1383176",
       "ItemName": "Gravedigger",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1481572",
-      "ItemName": "Haunted Captain\u0027s Boots",
       "Notes": ""
     },
     {
@@ -111,23 +71,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1481544",
-      "ItemName": "Haunted Captain\u0027s Tricorne",
+      "ItemId": "1392007",
+      "ItemName": "Jack O Lantern",
       "Notes": ""
     },
     {
-      "ItemId": "1451790",
-      "ItemName": "Morbid Macawbre",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1505522",
-      "ItemName": "Phantom Catcher Boots",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1505494",
-      "ItemName": "Phantom Catcher Hat",
+      "ItemId": "160630",
+      "ItemName": "Jaques\u0027 Saw",
       "Notes": ""
     },
     {
@@ -146,13 +96,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1507167",
-      "ItemName": "Spirit Lifter (PERM) ",
+      "ItemId": "1507171",
+      "ItemName": "Spirit Lifter (7 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "1505438",
-      "ItemName": "Spirit Tracker Boots",
+      "ItemId": "1507167",
+      "ItemName": "Spirit Lifter (PERM) ",
       "Notes": ""
     },
     {
@@ -161,13 +111,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1505410",
-      "ItemName": "Spirit Tracker Hat",
+      "ItemId": "1505424",
+      "ItemName": "Spirit Tracker Vestment",
       "Notes": ""
     },
     {
-      "ItemId": "1505424",
-      "ItemName": "Spirit Tracker Vestment",
+      "ItemId": "1507059",
+      "ItemName": "Spirited Away (7 Day)",
       "Notes": ""
     },
     {
@@ -176,18 +126,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1451789",
-      "ItemName": "Spooky Macawbre",
-      "Notes": ""
-    },
-    {
       "ItemId": "1383180",
       "ItemName": "Wraith",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.413160Z",
-  "ModifiedAt": "2026-09-30T03:55:50.413160Z",
+  "CreatedAt": "2026-09-30T13:39:01.574056Z",
+  "ModifiedAt": "2026-09-30T13:39:01.574056Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

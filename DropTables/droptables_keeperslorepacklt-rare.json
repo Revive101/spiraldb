@@ -1,6 +1,6 @@
 {
   "Name": "KeepersLorePackLT-Rare",
-  "Description": "BoosterPack-Set-22 Drops",
+  "Description": "BoosterPack-Set-109 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -26,11 +26,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "469781",
-      "ItemName": "Blue Teleporter",
-      "Notes": ""
-    },
-    {
       "ItemId": "470471",
       "ItemName": "Boris Blackrock Bobblehead",
       "Notes": ""
@@ -41,8 +36,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "106949",
-      "ItemName": "Citrine",
+      "ItemId": "730683",
+      "ItemName": "Crown of the Night Jaguar",
       "Notes": ""
     },
     {
@@ -51,8 +46,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "730713",
+      "ItemName": "Dawn Jaguar\u0027s Helm",
+      "Notes": ""
+    },
+    {
       "ItemId": "470473",
       "ItemName": "Draconian Knight Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240083",
+      "ItemName": "Dragonhorned Melon",
       "Notes": ""
     },
     {
@@ -61,13 +66,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "191271",
-      "ItemName": "Faithful Dragoness (7 Day)",
+      "ItemId": "160813",
+      "ItemName": "Dragonspyre Sarcophagus",
       "Notes": ""
     },
     {
-      "ItemId": "730830",
-      "ItemName": "Fire Serpent\u0027s Obsidian Fang",
+      "ItemId": "191271",
+      "ItemName": "Faithful Dragoness (7 Day)",
       "Notes": ""
     },
     {
@@ -81,18 +86,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "106957",
-      "ItemName": "Glass Vial",
-      "Notes": ""
-    },
-    {
       "ItemId": "667570",
       "ItemName": "Golden Boots of Serenity",
-      "Notes": ""
-    },
-    {
-      "ItemId": "667435",
-      "ItemName": "Golden Dragon Fear Banner",
       "Notes": ""
     },
     {
@@ -101,43 +96,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "469783",
-      "ItemName": "Green Teleporter",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106952",
-      "ItemName": "Jade",
+      "ItemId": "106970",
+      "ItemName": "Grendelweed",
       "Notes": ""
     },
     {
       "ItemId": "667534",
       "ItemName": "Jade Hood of Mystery",
-      "Notes": ""
-    },
-    {
-      "ItemId": "667552",
-      "ItemName": "Jade Robe of Mystery",
-      "Notes": ""
-    },
-    {
-      "ItemId": "270921514",
-      "ItemName": "Keeper of the Flame",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258581",
-      "ItemName": "Kelp",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106967",
-      "ItemName": "Lava Lily",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733072",
-      "ItemName": "Leaf Foot",
       "Notes": ""
     },
     {
@@ -156,28 +121,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "730703",
-      "ItemName": "Night Jaguar\u0027s Cloak",
+      "ItemId": "730693",
+      "ItemName": "Night Jaguar\u0027s Stalkers",
       "Notes": ""
     },
     {
-      "ItemId": "258585",
-      "ItemName": "Sandstone",
+      "ItemId": "730663",
+      "ItemName": "Pads of the Proud Jaguar",
       "Notes": ""
     },
     {
       "ItemId": "1537562415",
       "ItemName": "Savage Paw",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106963",
-      "ItemName": "Scrap Iron",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106954",
-      "ItemName": "Shadow Oil",
       "Notes": ""
     },
     {
@@ -206,13 +161,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "667606",
-      "ItemName": "Violet Robes of Bitter Truth",
+      "ItemId": "470689",
+      "ItemName": "Zenzen Seven Star Bobblehead",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.411762Z",
-  "ModifiedAt": "2026-09-30T03:55:50.411763Z",
+  "CreatedAt": "2026-09-30T13:39:01.567496Z",
+  "ModifiedAt": "2026-09-30T13:39:01.567497Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

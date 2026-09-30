@@ -11,323 +11,58 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1360486",
-      "ItemName": "Add Health Opal",
+      "ItemId": "212311",
+      "ItemName": "Beastmaster\u0027s Footwraps",
       "Notes": ""
     },
     {
-      "ItemId": "1360479",
-      "ItemName": "Balance-Boon Citrine",
+      "ItemId": "212309",
+      "ItemName": "Beastmaster\u0027s Hood",
       "Notes": ""
     },
     {
-      "ItemId": "1360472",
-      "ItemName": "Balance-Eye Citrine",
+      "ItemId": "690106",
+      "ItemName": "Burlap Boy",
       "Notes": ""
     },
     {
-      "ItemId": "1360488",
-      "ItemName": "Balance-Off Citrine",
+      "ItemId": "690105",
+      "ItemName": "Ladybug",
       "Notes": ""
     },
     {
-      "ItemId": "1360624",
-      "ItemName": "Banana Peel Opal",
+      "ItemId": "532625",
+      "ItemName": "Oyoroi Helmet",
       "Notes": ""
     },
     {
-      "ItemId": "212308",
-      "ItemName": "Beastmaster\u0027s Jerkin",
+      "ItemId": "532633",
+      "ItemName": "Oyoroi Sandals",
       "Notes": ""
     },
     {
-      "ItemId": "1360637",
-      "ItemName": "Big Downer Opal",
+      "ItemId": "713161",
+      "ItemName": "Purple Snow Apples",
       "Notes": ""
     },
     {
-      "ItemId": "1360778",
-      "ItemName": "Big Energy Opal",
+      "ItemId": "690110",
+      "ItemName": "Scorpion",
       "Notes": ""
     },
     {
-      "ItemId": "1360625",
-      "ItemName": "Bomber Opal",
+      "ItemId": "713147",
+      "ItemName": "Sour Fickle Pickle",
       "Notes": ""
     },
     {
-      "ItemId": "1360641",
-      "ItemName": "Boost Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360496",
-      "ItemName": "Calculating Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "690109",
-      "ItemName": "Chameleon",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360638",
-      "ItemName": "Charge Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360636",
-      "ItemName": "Check Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360497",
-      "ItemName": "Cheeky Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360642",
-      "ItemName": "Clear Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360632",
-      "ItemName": "Dawdle Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360489",
-      "ItemName": "Death-Away Onyx",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360480",
-      "ItemName": "Death-Boon Onyx",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360473",
-      "ItemName": "Death-Eye Onyx",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360495",
-      "ItemName": "Dogged Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360634",
-      "ItemName": "Downer Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360627",
-      "ItemName": "Drain Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360777",
-      "ItemName": "Energy Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360635",
-      "ItemName": "Exhaust Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360487",
-      "ItemName": "Extra Mana Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360490",
-      "ItemName": "Fire-Away Ruby",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360481",
-      "ItemName": "Fire-Boon Ruby",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360474",
-      "ItemName": "Fire-Eye Ruby",
-      "Notes": ""
-    },
-    {
-      "ItemId": "690101",
-      "ItemName": "Frosty Fish",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360781",
-      "ItemName": "Gold Miner Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360498",
-      "ItemName": "Hearty Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360779",
-      "ItemName": "Huge Energy Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360491",
-      "ItemName": "Ice-Away Sapphire",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360482",
-      "ItemName": "Ice-Boon Sapphire",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360475",
-      "ItemName": "Ice-Eye Sapphire",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360492",
-      "ItemName": "Life-Away Jade",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360483",
-      "ItemName": "Life-Boon Jade",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360476",
-      "ItemName": "Life-Eye Jade",
-      "Notes": ""
-    },
-    {
-      "ItemId": "690103",
-      "ItemName": "Meow Wing",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360630",
-      "ItemName": "Move It! Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360493",
-      "ItemName": "Myth-Away Peridot",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360484",
-      "ItemName": "Myth-Boon Peridot",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360477",
-      "ItemName": "Myth-Eye Peridot",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360633",
-      "ItemName": "Overtake Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "532641",
-      "ItemName": "Oyoroi Breastplate",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360826",
-      "ItemName": "Pip o\u0027Plenty Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "690104",
-      "ItemName": "Ram Warrior",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360639",
-      "ItemName": "Recovery Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360640",
-      "ItemName": "Restore Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360626",
-      "ItemName": "Scoot Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360631",
-      "ItemName": "Siphon Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360628",
-      "ItemName": "Slow Motion Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "690102",
-      "ItemName": "Smith",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360629",
-      "ItemName": "Stall Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360494",
-      "ItemName": "Storm-Away Amethyst",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360485",
-      "ItemName": "Storm-Boon Amethyst",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360478",
-      "ItemName": "Storm-Eye Amethyst",
-      "Notes": ""
-    },
-    {
-      "ItemId": "690097",
-      "ItemName": "Toaddle",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360780",
-      "ItemName": "Ultra Energy Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "690099",
-      "ItemName": "Wildfire Treant",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360499",
-      "ItemName": "Wise Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360825",
-      "ItemName": "Wisp Bonus Opal",
+      "ItemId": "690098",
+      "ItemName": "Tailstorm Pantera",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.411922Z",
-  "ModifiedAt": "2026-09-30T03:55:50.411923Z",
+  "CreatedAt": "2026-09-30T13:39:01.572577Z",
+  "ModifiedAt": "2026-09-30T13:39:01.572577Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

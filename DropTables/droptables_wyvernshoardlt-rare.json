@@ -1,6 +1,6 @@
 {
   "Name": "WyvernsHoardLT-Rare",
-  "Description": "BoosterPack-Set-11-2 Drops",
+  "Description": "BoosterPack-Set-85 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -10,11 +10,6 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
-    {
-      "ItemId": "537974",
-      "ItemName": "Amber",
-      "Notes": ""
-    },
     {
       "ItemId": "211108",
       "ItemName": "Aquarium",
@@ -31,6 +26,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "160542",
+      "ItemName": "Bamboo Grove",
+      "Notes": ""
+    },
+    {
       "ItemId": "206095",
       "ItemName": "Birdbath",
       "Notes": ""
@@ -41,53 +41,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "470093",
-      "ItemName": "Blue Fairy Wings (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "470083",
-      "ItemName": "Blue Fairy Wings (PERM)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469781",
-      "ItemName": "Blue Teleporter",
-      "Notes": ""
-    },
-    {
-      "ItemId": "342151",
-      "ItemName": "Broken Palm Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "181106",
-      "ItemName": "Broken Stump",
-      "Notes": ""
-    },
-    {
-      "ItemId": "82897",
-      "ItemName": "Bushy Palm Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "342148",
-      "ItemName": "Celestian Tree Sprig",
+      "ItemId": "730593",
+      "ItemName": "Black Star Eagle\u0027s Helm",
       "Notes": ""
     },
     {
       "ItemId": "206091",
       "ItemName": "Chicken Coop",
-      "Notes": ""
-    },
-    {
-      "ItemId": "730613",
-      "ItemName": "Cloak of the Black Star Eagle",
-      "Notes": ""
-    },
-    {
-      "ItemId": "181113",
-      "ItemName": "Coniferous Tree",
       "Notes": ""
     },
     {
@@ -101,11 +61,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "469782",
-      "ItemName": "Cyan Teleporter",
-      "Notes": ""
-    },
-    {
       "ItemId": "404123",
       "ItemName": "Deadly Helephant Ears",
       "Notes": ""
@@ -116,23 +71,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "126985",
-      "ItemName": "Earth Walker",
-      "Notes": ""
-    },
-    {
-      "ItemId": "730810",
-      "ItemName": "Emerald Caiman\u0027s Scepter",
-      "Notes": ""
-    },
-    {
       "ItemId": "404116",
       "ItemName": "Evil Magma Peas",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160370",
-      "ItemName": "Fire Bush",
       "Notes": ""
     },
     {
@@ -151,16 +91,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "181111",
-      "ItemName": "Great Pine Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469783",
-      "ItemName": "Green Teleporter",
-      "Notes": ""
-    },
-    {
       "ItemId": "473338",
       "ItemName": "Greenwarden\u0027s Brilliant Boots",
       "Notes": ""
@@ -168,16 +98,6 @@
     {
       "ItemId": "473324",
       "ItemName": "Greenwarden\u0027s Brilliant Mask",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473331",
-      "ItemName": "Greenwarden\u0027s Brilliant Shroud",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473367",
-      "ItemName": "Greenwarden\u0027s Brilliant Staff",
       "Notes": ""
     },
     {
@@ -191,16 +111,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "473289",
-      "ItemName": "Greenwarden\u0027s Energetic Shroud",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473353",
-      "ItemName": "Greenwarden\u0027s Energetic Staff",
-      "Notes": ""
-    },
-    {
       "ItemId": "473317",
       "ItemName": "Greenwarden\u0027s Peaceful Boots",
       "Notes": ""
@@ -211,18 +121,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "473310",
-      "ItemName": "Greenwarden\u0027s Peaceful Shroud",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473360",
-      "ItemName": "Greenwarden\u0027s Peaceful Staff",
-      "Notes": ""
-    },
-    {
-      "ItemId": "730790",
-      "ItemName": "Hungry Caiman\u0027s Staff",
+      "ItemId": "225453",
+      "ItemName": "Ice Bird",
       "Notes": ""
     },
     {
@@ -241,28 +141,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "181061",
-      "ItemName": "Large Evergreen Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "225438",
-      "ItemName": "Life Ghoul",
+      "ItemId": "730623",
+      "ItemName": "Mask of the Sun Eagle",
       "Notes": ""
     },
     {
       "ItemId": "1430879895",
       "ItemName": "Massive Pest Zapper",
-      "Notes": ""
-    },
-    {
-      "ItemId": "181062",
-      "ItemName": "Medium Evergreen Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "181065",
-      "ItemName": "Medium Fir Tree",
       "Notes": ""
     },
     {
@@ -276,28 +161,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "470094",
-      "ItemName": "Orange Fairy Wings (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "470087",
-      "ItemName": "Orange Fairy Wings (PERM)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469784",
-      "ItemName": "Orange Teleporter",
-      "Notes": ""
-    },
-    {
       "ItemId": "1967263301",
       "ItemName": "Pest Zapper",
-      "Notes": ""
-    },
-    {
-      "ItemId": "100444",
-      "ItemName": "Pixie Queen",
       "Notes": ""
     },
     {
@@ -306,23 +171,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "470095",
-      "ItemName": "Purple Fairy Wings (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "470088",
-      "ItemName": "Purple Fairy Wings (PERM)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469785",
-      "ItemName": "Purple Teleporter",
-      "Notes": ""
-    },
-    {
       "ItemId": "531784977",
       "ItemName": "Putrid Bug Spray",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470686",
+      "ItemName": "Queen Chasca Bobblehead",
       "Notes": ""
     },
     {
@@ -331,13 +186,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "160608",
-      "ItemName": "Red Leaf Tree",
+      "ItemId": "100434",
+      "ItemName": "Red Ghost",
       "Notes": ""
     },
     {
-      "ItemId": "469786",
-      "ItemName": "Red Teleporter",
+      "ItemId": "160608",
+      "ItemName": "Red Leaf Tree",
       "Notes": ""
     },
     {
@@ -356,23 +211,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "160380",
-      "ItemName": "Small Cypress Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "181063",
-      "ItemName": "Small Evergreen Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160384",
-      "ItemName": "Small Maple Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160376",
-      "ItemName": "Square Hedge",
+      "ItemId": "100457",
+      "ItemName": "Snow Serpent",
       "Notes": ""
     },
     {
@@ -386,6 +226,16 @@
       "Notes": ""
     },
     {
+      "ItemId": "82898",
+      "ItemName": "Tall Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470682",
+      "ItemName": "Tezcat Threestar Bobblehead",
+      "Notes": ""
+    },
+    {
       "ItemId": "100441",
       "ItemName": "Treant",
       "Notes": ""
@@ -393,6 +243,11 @@
     {
       "ItemId": "1701999404",
       "ItemName": "Triage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730563",
+      "ItemName": "Turquoise Eagle\u0027s Mantle",
       "Notes": ""
     },
     {
@@ -411,18 +266,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "469787",
-      "ItemName": "White Teleporter",
-      "Notes": ""
-    },
-    {
       "ItemId": "160586",
       "ItemName": "Wooden Well",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469788",
-      "ItemName": "Yellow Teleporter",
       "Notes": ""
     },
     {
@@ -431,8 +276,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.409809Z",
-  "ModifiedAt": "2026-09-30T03:55:50.409810Z",
+  "CreatedAt": "2026-09-30T13:39:01.585553Z",
+  "ModifiedAt": "2026-09-30T13:39:01.585553Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

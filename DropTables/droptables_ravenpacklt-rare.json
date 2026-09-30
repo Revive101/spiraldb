@@ -11,11 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "106932",
-      "ItemName": "Acorn",
-      "Notes": ""
-    },
-    {
       "ItemId": "206095",
       "ItemName": "Birdbath",
       "Notes": ""
@@ -26,8 +21,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "713119",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
       "ItemId": "532434",
       "ItemName": "Boots of Steel Wings",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667489",
+      "ItemName": "Boots of Walking Retribution",
       "Notes": ""
     },
     {
@@ -38,11 +43,6 @@
     {
       "ItemId": "537556",
       "ItemName": "Broken Viking Statue",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220305",
-      "ItemName": "Buttered Bread",
       "Notes": ""
     },
     {
@@ -61,58 +61,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "126979",
-      "ItemName": "Death Leprechaun",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220282",
-      "ItemName": "Double Popsicle",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160847",
-      "ItemName": "Dragonspyre Standard",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220264",
-      "ItemName": "Fancy Pudding",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106934",
-      "ItemName": "Fossil",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537602",
-      "ItemName": "Fried Worms",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537596",
-      "ItemName": "Fuzzy Peach Fizz",
-      "Notes": ""
-    },
-    {
       "ItemId": "2080332446",
       "ItemName": "Ghoul",
       "Notes": ""
     },
     {
-      "ItemId": "258584",
-      "ItemName": "Golden Pearl",
-      "Notes": ""
-    },
-    {
       "ItemId": "106970",
       "ItemName": "Grendelweed",
-      "Notes": ""
-    },
-    {
-      "ItemId": "512192",
-      "ItemName": "Grizzleheim Pet Derby Theme",
       "Notes": ""
     },
     {
@@ -131,23 +86,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "473582",
-      "ItemName": "Kola Nuts",
+      "ItemId": "126987",
+      "ItemName": "Jade Oni",
       "Notes": ""
     },
     {
-      "ItemId": "512188",
-      "ItemName": "Krokotopia Pet Derby Theme",
+      "ItemId": "667462",
+      "ItemName": "Marvelous Avenging Boots",
       "Notes": ""
     },
     {
-      "ItemId": "537594",
-      "ItemName": "Lime Peel Rickey",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160875",
-      "ItemName": "Magma Blister",
+      "ItemId": "653153",
+      "ItemName": "Melting Cheese Tree",
       "Notes": ""
     },
     {
@@ -156,48 +106,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "537585",
-      "ItemName": "Peppercorn",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537591",
-      "ItemName": "Pollen Bombs",
-      "Notes": ""
-    },
-    {
-      "ItemId": "470159",
-      "ItemName": "Raven (PERM)",
-      "Notes": ""
-    },
-    {
       "ItemId": "532402",
       "ItemName": "Raven Helm of Unkindness",
       "Notes": ""
     },
     {
-      "ItemId": "446071",
-      "ItemName": "Salmonberry",
+      "ItemId": "667507",
+      "ItemName": "Smoldering Vengeance Helm",
       "Notes": ""
     },
     {
-      "ItemId": "220325",
-      "ItemName": "Shiny Tomato",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537588",
-      "ItemName": "Simple Sugar Pop",
+      "ItemId": "713140",
+      "ItemName": "Snow Apples",
       "Notes": ""
     },
     {
       "ItemId": "100457",
       "ItemName": "Snow Serpent",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220265",
-      "ItemName": "Spicy Drumstick",
       "Notes": ""
     },
     {
@@ -216,18 +141,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "258586",
-      "ItemName": "Sunstone",
-      "Notes": ""
-    },
-    {
       "ItemId": "537555",
       "ItemName": "Sword Tree",
       "Notes": ""
     },
     {
+      "ItemId": "470476",
+      "ItemName": "Sylvia Drake Bobblehead",
+      "Notes": ""
+    },
+    {
       "ItemId": "532450",
       "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82754",
+      "ItemName": "Turkey Platter",
       "Notes": ""
     },
     {
@@ -256,23 +186,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "161017",
-      "ItemName": "Wyrm-crowned Bed",
-      "Notes": ""
-    },
-    {
-      "ItemId": "161009",
-      "ItemName": "Wyrm-footed Dresser",
-      "Notes": ""
-    },
-    {
       "ItemId": "181097",
       "ItemName": "Yardbird",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.414302Z",
-  "ModifiedAt": "2026-09-30T03:55:50.414303Z",
+  "CreatedAt": "2026-09-30T13:39:01.575892Z",
+  "ModifiedAt": "2026-09-30T13:39:01.575892Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

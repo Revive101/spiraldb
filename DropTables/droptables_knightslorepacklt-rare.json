@@ -1,6 +1,6 @@
 {
   "Name": "KnightsLorePackLT-Rare",
-  "Description": "BoosterPack-Set-19-3 Drops",
+  "Description": "BoosterPack-Set-19 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -10,11 +10,6 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
-    {
-      "ItemId": "440150",
-      "ItemName": "Bruin Ram (1 Day)",
-      "Notes": ""
-    },
     {
       "ItemId": "207864867",
       "ItemName": "Colossal",
@@ -46,6 +41,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "106970",
+      "ItemName": "Grendelweed",
+      "Notes": ""
+    },
+    {
       "ItemId": "470415",
       "ItemName": "Gwendolyn Bobblehead",
       "Notes": ""
@@ -66,8 +66,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "160336",
+      "ItemName": "Obsidian Firecat Statue",
+      "Notes": ""
+    },
+    {
       "ItemId": "641548",
       "ItemName": "Old Green Beard Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160982",
+      "ItemName": "Professor Ambrose",
       "Notes": ""
     },
     {
@@ -91,13 +101,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "276451",
-      "ItemName": "Swift Gryphon (1 Day)",
+      "ItemId": "160339",
+      "ItemName": "Unicorn Statue",
       "Notes": ""
     },
     {
-      "ItemId": "470361",
-      "ItemName": "White Stag (1 Day)",
+      "ItemId": "160405",
+      "ItemName": "Wand Rack",
       "Notes": ""
     },
     {
@@ -106,8 +116,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.419565Z",
-  "ModifiedAt": "2026-09-30T03:55:50.419565Z",
+  "CreatedAt": "2026-09-30T13:39:01.572685Z",
+  "ModifiedAt": "2026-09-30T13:39:01.572685Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

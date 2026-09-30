@@ -11,18 +11,293 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "641700",
+      "ItemName": "Antheneum Delight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220255",
+      "ItemName": "Arrow Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248063",
+      "ItemName": "Assaulted Caramels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641605",
+      "ItemName": "Bog Witch Beetroot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160203",
+      "ItemName": "Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160246",
+      "ItemName": "Candle and Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160272",
+      "ItemName": "Carved Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248061",
+      "ItemName": "Chili Peppermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248062",
+      "ItemName": "Choco-Latkes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641698",
+      "ItemName": "Chocolate Crickets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537499",
+      "ItemName": "Color Light Strand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106958",
+      "ItemName": "Crystal Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248064",
+      "ItemName": "Gingerbread House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733177",
+      "ItemName": "Gingerbread Wizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220284",
+      "ItemName": "Glowing Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374586",
+      "ItemName": "Grizzleheim Game Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473718",
+      "ItemName": "Gummy Wyrms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504144",
+      "ItemName": "Ice Throne",
+      "Notes": ""
+    },
+    {
       "ItemId": "1479641",
       "ItemName": "Krampus ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160245",
+      "ItemName": "Large Candle Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181064",
+      "ItemName": "Large Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537496",
+      "ItemName": "Large Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537553",
+      "ItemName": "Large Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537547",
+      "ItemName": "Large Snowy Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724083",
+      "ItemName": "Market Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181065",
+      "ItemName": "Medium Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733185",
+      "ItemName": "Mince Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220225",
+      "ItemName": "Nettle Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537534",
+      "ItemName": "Night Snow Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257589",
+      "ItemName": "Ninja Fig Bars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733179",
+      "ItemName": "Ninja Figgy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1594252",
+      "ItemName": "Ornate Wardrobe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404101",
+      "ItemName": "Pitch-sealed Log Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724084",
+      "ItemName": "Posh Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733129",
+      "ItemName": "Pyramints",
       "Notes": ""
     },
     {
       "ItemId": "1492250",
       "ItemName": "Reindeer Knight",
       "Notes": ""
+    },
+    {
+      "ItemId": "160247",
+      "ItemName": "Small Candle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181066",
+      "ItemName": "Small Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537497",
+      "ItemName": "Small Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537554",
+      "ItemName": "Small Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537548",
+      "ItemName": "Small Snowy Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160386",
+      "ItemName": "Small Snowy Pine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733176",
+      "ItemName": "Snow Apple Cider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537552",
+      "ItemName": "Snow Pile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160385",
+      "ItemName": "Snowy Pine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220294",
+      "ItemName": "Square Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160207",
+      "ItemName": "Stack of 2 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160209",
+      "ItemName": "Stack of 4 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160210",
+      "ItemName": "Stack of 5 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404106",
+      "ItemName": "Stitched Hide Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643093",
+      "ItemName": "Tallow Candles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206114",
+      "ItemName": "Tea Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248065",
+      "ItemName": "Tuti-Fruiti Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181034",
+      "ItemName": "Winter Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404102",
+      "ItemName": "Wood Plank Wallpaper",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.434497Z",
-  "ModifiedAt": "2026-09-30T03:55:50.434498Z",
+  "CreatedAt": "2026-09-30T13:39:01.606602Z",
+  "ModifiedAt": "2026-09-30T13:39:01.606603Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

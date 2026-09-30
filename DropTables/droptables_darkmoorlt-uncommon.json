@@ -1,6 +1,6 @@
 {
   "Name": "DarkmoorLT-UnCommon",
-  "Description": "BoosterPack-Set-32-3 Drops",
+  "Description": "BoosterPack-Set-32 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,33 +11,13 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "733115",
-      "ItemName": "Apatotatoes",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641612",
-      "ItemName": "Black Cap Crisps",
-      "Notes": ""
-    },
-    {
       "ItemId": "1350022",
       "ItemName": "Blinded Bear Melee Dummy",
       "Notes": ""
     },
     {
-      "ItemId": "1317844",
-      "ItemName": "Boiled Spider Legs",
-      "Notes": ""
-    },
-    {
       "ItemId": "1350234",
       "ItemName": "Bronze",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641699",
-      "ItemName": "Butter Worms",
       "Notes": ""
     },
     {
@@ -81,13 +61,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1352750",
-      "ItemName": "Cracked Damage Opal \u002B2",
+      "ItemId": "1350013",
+      "ItemName": "Copper",
       "Notes": ""
     },
     {
-      "ItemId": "1352333",
-      "ItemName": "Cracked Health Opal \u002B7",
+      "ItemId": "1352750",
+      "ItemName": "Cracked Damage Opal \u002B2",
       "Notes": ""
     },
     {
@@ -98,11 +78,6 @@
     {
       "ItemId": "1352934",
       "ItemName": "Cracked Resilient Opal \u002B1%",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641702",
-      "ItemName": "Crystalweb Candy",
       "Notes": ""
     },
     {
@@ -126,6 +101,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "106938",
+      "ItemName": "Diamond",
+      "Notes": ""
+    },
+    {
       "ItemId": "994969729",
       "ItemName": "Doom and Gloom",
       "Notes": ""
@@ -133,11 +113,6 @@
     {
       "ItemId": "1317990",
       "ItemName": "Dragon of Darkmoor Portrait",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1248056",
-      "ItemName": "Hive Rinds",
       "Notes": ""
     },
     {
@@ -153,11 +128,6 @@
     {
       "ItemId": "1317842",
       "ItemName": "Kan Davasi Delight",
-      "Notes": ""
-    },
-    {
-      "ItemId": "789214",
-      "ItemName": "Manderdrake fruit",
       "Notes": ""
     },
     {
@@ -178,11 +148,6 @@
     {
       "ItemId": "1317992",
       "ItemName": "Painting of Castle Darkmoor",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1317843",
-      "ItemName": "Poached Roach",
       "Notes": ""
     },
     {
@@ -236,18 +201,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "1317768",
-      "ItemName": "Terror Dog (PERM)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1317970",
       "ItemName": "Towering Darkmoor Column",
       "Notes": ""
+    },
+    {
+      "ItemId": "1317840",
+      "ItemName": "Wampyrnickel Bread",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.422413Z",
-  "ModifiedAt": "2026-09-30T03:55:50.422414Z",
+  "CreatedAt": "2026-09-30T13:39:01.570799Z",
+  "ModifiedAt": "2026-09-30T13:39:01.570800Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -11,6 +11,26 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "1202013",
+      "ItemName": "Atlantea Grand Monument",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359094",
+      "ItemName": "Crucible Banquet Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350295",
+      "ItemName": "Dragonspyre Tan Wall Tile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
       "ItemId": "1528826",
       "ItemName": "Gorgon Hunter\u0027s Armor",
       "Notes": ""
@@ -23,11 +43,6 @@
     {
       "ItemId": "1528842",
       "ItemName": "Gorgon Hunter\u0027s Shoes ",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1528634",
-      "ItemName": "Gorgon Hunter\u0027s Xiphos",
       "Notes": ""
     },
     {
@@ -46,11 +61,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "1528666",
-      "ItemName": "Gorgon Slayer\u0027s Xiphos",
-      "Notes": ""
-    },
-    {
       "ItemId": "1528874",
       "ItemName": "Gorgonsbane Armor",
       "Notes": ""
@@ -66,13 +76,53 @@
       "Notes": ""
     },
     {
-      "ItemId": "1528650",
-      "ItemName": "Gorgonsbane Xiphos",
+      "ItemId": "1202020",
+      "ItemName": "Grand Statue of Zeus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473159",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350236",
+      "ItemName": "Mithril",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350237",
+      "ItemName": "Orichalcum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350017",
+      "ItemName": "Silver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350018",
+      "ItemName": "Titanium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350235",
+      "ItemName": "Tungsten",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359607",
+      "ItemName": "Zeus Newton",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.427298Z",
-  "ModifiedAt": "2026-09-30T03:55:50.427298Z",
+  "CreatedAt": "2026-09-30T13:39:01.594381Z",
+  "ModifiedAt": "2026-09-30T13:39:01.594382Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

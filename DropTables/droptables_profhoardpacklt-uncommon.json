@@ -1,6 +1,6 @@
 {
   "Name": "ProfHoardPackLT-UnCommon",
-  "Description": "BoosterPack-Set-51 Drops",
+  "Description": "BoosterPack-Set-51-2 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -10,21 +10,6 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
-    {
-      "ItemId": "473526",
-      "ItemName": "Athame Pop",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537593",
-      "ItemName": "Beetle Cream Soda",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106965",
-      "ItemName": "Black Lotus",
-      "Notes": ""
-    },
     {
       "ItemId": "191233",
       "ItemName": "Black Stallion (1 Day)",
@@ -41,53 +26,43 @@
       "Notes": ""
     },
     {
-      "ItemId": "160980",
-      "ItemName": "Bluebonnets",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106941",
-      "ItemName": "Bone",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160372",
-      "ItemName": "Brown Blooms",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220248",
-      "ItemName": "Candy bar",
-      "Notes": ""
-    },
-    {
       "ItemId": "220256",
       "ItemName": "Caramel Popcorn",
       "Notes": ""
     },
     {
-      "ItemId": "220191",
-      "ItemName": "Carrot",
+      "ItemId": "1254230",
+      "ItemName": "Cast Symbol Balance (1 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "240118",
-      "ItemName": "Cauliflowers",
+      "ItemId": "1254223",
+      "ItemName": "Cast Symbol Death (1 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "220211",
-      "ItemName": "Cheese",
+      "ItemId": "1254217",
+      "ItemName": "Cast Symbol Fire (1 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "220228",
-      "ItemName": "Chocolate Peanut",
+      "ItemId": "1254219",
+      "ItemName": "Cast Symbol Ice (1 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "106949",
-      "ItemName": "Citrine",
+      "ItemId": "1254222",
+      "ItemName": "Cast Symbol Life (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254226",
+      "ItemName": "Cast Symbol Myth (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254227",
+      "ItemName": "Cast Symbol Storm (1 Day)",
       "Notes": ""
     },
     {
@@ -106,31 +81,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "160292",
-      "ItemName": "Crate of Hot Dogs",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160294",
-      "ItemName": "Crate of Jellybeans",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160295",
-      "ItemName": "Crate of Pies",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160296",
-      "ItemName": "Crate of Pudding",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160297",
-      "ItemName": "Crate of Pumpkins",
-      "Notes": ""
-    },
-    {
       "ItemId": "288801686",
       "ItemName": "Curse",
       "Notes": ""
@@ -138,11 +88,6 @@
     {
       "ItemId": "1557353282",
       "ItemName": "Cyclops",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1374540",
-      "ItemName": "Death Sconce",
       "Notes": ""
     },
     {
@@ -181,48 +126,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "160374",
-      "ItemName": "Fire Flowers",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1374541",
-      "ItemName": "Fire Sconce",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220212",
-      "ItemName": "Fries",
-      "Notes": ""
-    },
-    {
       "ItemId": "211974638",
       "ItemName": "Frost Beetle",
       "Notes": ""
     },
     {
-      "ItemId": "641684",
-      "ItemName": "Frozen Perogies",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106955",
-      "ItemName": "Ghost Fire",
-      "Notes": ""
-    },
-    {
       "ItemId": "296072242",
       "ItemName": "Ghoul",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1374560",
-      "ItemName": "Ginormous Apple",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160233",
-      "ItemName": "Globe",
       "Notes": ""
     },
     {
@@ -233,21 +143,6 @@
     {
       "ItemId": "220319",
       "ItemName": "Golden Candy Bar",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220240",
-      "ItemName": "Green Banana",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220220",
-      "ItemName": "Gummy Firecat",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220253",
-      "ItemName": "Harvest Corn",
       "Notes": ""
     },
     {
@@ -266,11 +161,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "1374542",
-      "ItemName": "Ice Sconce",
-      "Notes": ""
-    },
-    {
       "ItemId": "1162091017",
       "ItemName": "Jinx",
       "Notes": ""
@@ -278,56 +168,6 @@
     {
       "ItemId": "819750901",
       "ItemName": "Judgement",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1374543",
-      "ItemName": "Life Sconce",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220251",
-      "ItemName": "Lollipop",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473523",
-      "ItemName": "Misfortune Cookie",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1374544",
-      "ItemName": "Myth Sconce",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106936",
-      "ItemName": "Nightshade",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106951",
-      "ItemName": "Onyx",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160200",
-      "ItemName": "Open Book",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733124",
-      "ItemName": "Papaya",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258591",
-      "ItemName": "Perfect Citrine",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258593",
-      "ItemName": "Perfect Onyx",
       "Notes": ""
     },
     {
@@ -346,33 +186,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "181129",
-      "ItemName": "Pot-bellied Stove",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160398",
-      "ItemName": "Professor Drake",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160396",
-      "ItemName": "Professor Greyrose",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160397",
-      "ItemName": "Professor Wu",
-      "Notes": ""
-    },
-    {
       "ItemId": "191221",
       "ItemName": "Purple Glider (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160373",
-      "ItemName": "Purple Posies",
       "Notes": ""
     },
     {
@@ -381,33 +196,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "106959",
-      "ItemName": "Red Mandrake",
-      "Notes": ""
-    },
-    {
       "ItemId": "220289",
       "ItemName": "Rock Candy",
       "Notes": ""
     },
     {
-      "ItemId": "473521",
-      "ItemName": "Rotten Candy",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473520",
-      "ItemName": "Salmon Joy",
-      "Notes": ""
-    },
-    {
       "ItemId": "530828052",
       "ItemName": "Samoorai",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473528",
-      "ItemName": "Sandy Corn",
       "Notes": ""
     },
     {
@@ -431,23 +226,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "160981",
-      "ItemName": "Snapdragons",
-      "Notes": ""
-    },
-    {
       "ItemId": "1486204966",
       "ItemName": "Snow Serpent",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220207",
-      "ItemName": "Spicy Bubblegum",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106944",
-      "ItemName": "Spider Silk",
       "Notes": ""
     },
     {
@@ -461,21 +241,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "160207",
-      "ItemName": "Stack of 2 Books",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160209",
-      "ItemName": "Stack of 4 Books",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160210",
-      "ItemName": "Stack of 5 Books",
-      "Notes": ""
-    },
-    {
       "ItemId": "220287",
       "ItemName": "Star Lollipop",
       "Notes": ""
@@ -486,18 +251,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1374539",
-      "ItemName": "Storm Sconce",
-      "Notes": ""
-    },
-    {
       "ItemId": "1733007657",
       "ItemName": "Sunbird",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537599",
-      "ItemName": "Sweet Mango",
       "Notes": ""
     },
     {
@@ -506,8 +261,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.423512Z",
-  "ModifiedAt": "2026-09-30T03:55:50.423513Z",
+  "CreatedAt": "2026-09-30T13:39:01.595174Z",
+  "ModifiedAt": "2026-09-30T13:39:01.595175Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

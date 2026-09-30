@@ -16,11 +16,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "789456",
-      "ItemName": "Big Papa Paya",
-      "Notes": ""
-    },
-    {
       "ItemId": "1623014",
       "ItemName": "Botanical Beast (1 Day)",
       "Notes": ""
@@ -33,21 +28,6 @@
     {
       "ItemId": "630452260",
       "ItemName": "Brimstone Revenant",
-      "Notes": ""
-    },
-    {
-      "ItemId": "538025",
-      "ItemName": "Cauldron and Hay Bales",
-      "Notes": ""
-    },
-    {
-      "ItemId": "240118",
-      "ItemName": "Cauliflowers",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733122",
-      "ItemName": "Chili Peppers",
       "Notes": ""
     },
     {
@@ -101,23 +81,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "220311",
-      "ItemName": "Glowing Star Fruit",
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
       "Notes": ""
     },
     {
-      "ItemId": "733123",
-      "ItemName": "Guava",
+      "ItemId": "220285",
+      "ItemName": "Gummy Bloodbat",
       "Notes": ""
     },
     {
       "ItemId": "1623017",
       "ItemName": "Herbal Horror (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1248059",
-      "ItemName": "HoneyDon\u0027t Melon",
       "Notes": ""
     },
     {
@@ -171,6 +146,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
+      "Notes": ""
+    },
+    {
       "ItemId": "1616032",
       "ItemName": "Scary Spider Banner",
       "Notes": ""
@@ -191,8 +171,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1257593",
-      "ItemName": "Sweet Baby Carrots",
+      "ItemId": "220322",
+      "ItemName": "Swirled Lollipop",
       "Notes": ""
     },
     {
@@ -214,10 +194,15 @@
       "ItemId": "355073",
       "ItemName": "Venus Fly Trap",
       "Notes": ""
+    },
+    {
+      "ItemId": "220195",
+      "ItemName": "Wormy Apple",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.406640Z",
-  "ModifiedAt": "2026-09-30T03:55:50.406641Z",
+  "CreatedAt": "2026-09-30T13:39:01.596663Z",
+  "ModifiedAt": "2026-09-30T13:39:01.596664Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

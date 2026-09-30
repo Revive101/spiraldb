@@ -11,6 +11,11 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
       "ItemId": "258582",
       "ItemName": "Aether",
       "Notes": ""
@@ -46,8 +51,28 @@
       "Notes": ""
     },
     {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
       "ItemId": "1528497",
       "ItemName": "Brimstone Revenant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
       "Notes": ""
     },
     {
@@ -76,6 +101,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
       "ItemId": "220280",
       "ItemName": "Delicious Cookie",
       "Notes": ""
@@ -91,8 +121,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "160813",
-      "ItemName": "Dragonspyre Sarcophagus",
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
       "Notes": ""
     },
     {
@@ -101,8 +131,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "106969",
-      "ItemName": "Frost Flower",
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
       "Notes": ""
     },
     {
@@ -136,16 +171,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "106970",
-      "ItemName": "Grendelweed",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220331",
-      "ItemName": "Gummy Humongofrog",
-      "Notes": ""
-    },
-    {
       "ItemId": "106952",
       "ItemName": "Jade",
       "Notes": ""
@@ -161,13 +186,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "220310",
-      "ItemName": "King Banana",
+      "ItemId": "106967",
+      "ItemName": "Lava Lily",
       "Notes": ""
     },
     {
-      "ItemId": "106967",
-      "ItemName": "Lava Lily",
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
       "Notes": ""
     },
     {
@@ -186,13 +211,33 @@
       "Notes": ""
     },
     {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
       "ItemId": "512190",
       "ItemName": "MooShu Pet Derby Theme",
       "Notes": ""
     },
     {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
       "ItemId": "106951",
       "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
       "Notes": ""
     },
     {
@@ -221,6 +266,26 @@
       "Notes": ""
     },
     {
+      "ItemId": "258594",
+      "ItemName": "Perfect Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258595",
+      "ItemName": "Perfect Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258596",
+      "ItemName": "Perfect Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
+      "Notes": ""
+    },
+    {
       "ItemId": "160819",
       "ItemName": "Plundered Crystal Rack",
       "Notes": ""
@@ -231,13 +296,28 @@
       "Notes": ""
     },
     {
+      "ItemId": "258589",
+      "ItemName": "Pristine Vial",
+      "Notes": ""
+    },
+    {
       "ItemId": "473131",
       "ItemName": "Red Bell Pepper",
       "Notes": ""
     },
     {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
       "ItemId": "258585",
       "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
       "Notes": ""
     },
     {
@@ -261,8 +341,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
       "ItemId": "106964",
       "ItemName": "Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
       "Notes": ""
     },
     {
@@ -279,10 +369,15 @@
       "ItemId": "258586",
       "ItemName": "Sunstone",
       "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.411712Z",
-  "ModifiedAt": "2026-09-30T03:55:50.411712Z",
+  "CreatedAt": "2026-09-30T13:39:01.571967Z",
+  "ModifiedAt": "2026-09-30T13:39:01.571968Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

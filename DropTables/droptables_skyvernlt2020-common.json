@@ -11,38 +11,13 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "733126",
-      "ItemName": "Allocados",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733115",
-      "ItemName": "Apatotatoes",
-      "Notes": ""
-    },
-    {
       "ItemId": "1133363322",
       "ItemName": "Arcticzilla",
       "Notes": ""
     },
     {
-      "ItemId": "733118",
-      "ItemName": "Avocado Milkshake",
-      "Notes": ""
-    },
-    {
       "ItemId": "432480597",
       "ItemName": "Balanceblade",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733138",
-      "ItemName": "Bronto Burger",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733125",
-      "ItemName": "Cactus Fruit",
       "Notes": ""
     },
     {
@@ -71,6 +46,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "589097",
+      "ItemName": "Fire Passion Fruit",
+      "Notes": ""
+    },
+    {
       "ItemId": "1277897054",
       "ItemName": "Fire Shark",
       "Notes": ""
@@ -86,8 +66,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "733119",
-      "ItemName": "Fried Ice Cream",
+      "ItemId": "220308",
+      "ItemName": "Golden Pizza",
       "Notes": ""
     },
     {
@@ -106,8 +86,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "733114",
-      "ItemName": "Maize",
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240102",
+      "ItemName": "Killer Tomato",
       "Notes": ""
     },
     {
@@ -121,28 +106,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "733129",
-      "ItemName": "Pyramints",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733135",
-      "ItemName": "Saursa",
-      "Notes": ""
-    },
-    {
       "ItemId": "473180",
       "ItemName": "Tiger Lily",
       "Notes": ""
-    },
-    {
-      "ItemId": "733136",
-      "ItemName": "Tortilla Chips",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.414558Z",
-  "ModifiedAt": "2026-09-30T03:55:50.414559Z",
+  "CreatedAt": "2026-09-30T13:39:01.576264Z",
+  "ModifiedAt": "2026-09-30T13:39:01.576265Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

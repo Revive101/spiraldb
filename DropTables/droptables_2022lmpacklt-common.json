@@ -11,8 +11,193 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733130",
+      "ItemName": "Caramel Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220208",
+      "ItemName": "Cheese Broccoli",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733181",
+      "ItemName": "Cheese Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248062",
+      "ItemName": "Choco-Latkes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220213",
+      "ItemName": "Chocolate Strawberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257595",
+      "ItemName": "Cold Snap Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257594",
+      "ItemName": "Cornbread Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212076",
+      "ItemName": "Crabling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240103",
+      "ItemName": "Dastardly Radish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473719",
+      "ItemName": "Deviled Eggs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220209",
+      "ItemName": "Diamond Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220210",
+      "ItemName": "Flaming Jalapeno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220214",
+      "ItemName": "Flaming Pineapple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220320",
+      "ItemName": "Golden Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220219",
+      "ItemName": "Heavenly Bubblegum",
+      "Notes": ""
+    },
+    {
       "ItemId": "1161906569",
       "ItemName": "Jinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220299",
+      "ItemName": "Large Pretzel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536025",
+      "ItemName": "Lemuria Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536032",
+      "ItemName": "Lemuria Forest Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536026",
+      "ItemName": "Lemuria Jungle Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536029",
+      "ItemName": "Lemuria Mandoria Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536034",
+      "ItemName": "Lemuria Sky City Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536047",
+      "ItemName": "Lemuria Telos Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536048",
+      "ItemName": "Lemuria Telos Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536049",
+      "ItemName": "Lemuria Telos Theme 4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536050",
+      "ItemName": "Lemuria Telos Theme 5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536051",
+      "ItemName": "Lemuria Telos Theme 6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536052",
+      "ItemName": "Lemuria Telos Theme 7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534097",
+      "ItemName": "Lemurian Merchant Pavilion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1540227",
+      "ItemName": "Mandar the Barbarian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534101",
+      "ItemName": "Night Forest Coffee Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534107",
+      "ItemName": "Night Forest Well",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522402",
+      "ItemName": "Noir Coffee Machine",
       "Notes": ""
     },
     {
@@ -21,13 +206,78 @@
       "Notes": ""
     },
     {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534073",
+      "ItemName": "Sky City Benches",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534075",
+      "ItemName": "Sky City Cabinet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534079",
+      "ItemName": "Sky City Coffee Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534082",
+      "ItemName": "Sky City Computer Tall Grey",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534085",
+      "ItemName": "Sky City Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522405",
+      "ItemName": "Sky City Hover Car Apple Green",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534091",
+      "ItemName": "Sky City Hover Car Magenta",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534093",
+      "ItemName": "Sky City Rocket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248001",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
       "ItemId": "1522158",
       "ItemName": "Synthonium",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.427328Z",
-  "ModifiedAt": "2026-09-30T03:55:50.427329Z",
+  "CreatedAt": "2026-09-30T13:39:01.594432Z",
+  "ModifiedAt": "2026-09-30T13:39:01.594432Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

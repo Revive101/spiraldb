@@ -1,6 +1,6 @@
 {
   "Name": "WyvernsHoardLT-Common",
-  "Description": "BoosterPack-Set-11-2 Drops",
+  "Description": "BoosterPack-Set-11 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,33 +11,8 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "355136",
-      "ItemName": "Baby Carrots",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160542",
-      "ItemName": "Bamboo Grove",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473124",
-      "ItemName": "Bell Pepper",
-      "Notes": ""
-    },
-    {
       "ItemId": "106965",
       "ItemName": "Black Lotus",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469722",
-      "ItemName": "Blue Vine Wallpaper",
-      "Notes": ""
-    },
-    {
-      "ItemId": "355192",
-      "ItemName": "Boom Shroom",
       "Notes": ""
     },
     {
@@ -81,23 +56,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "469721",
-      "ItemName": "Cobblestone Flooring",
-      "Notes": ""
-    },
-    {
       "ItemId": "181113",
       "ItemName": "Coniferous Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469719",
-      "ItemName": "Cross Section Floor Tile",
-      "Notes": ""
-    },
-    {
-      "ItemId": "355150",
-      "ItemName": "Dandelion",
       "Notes": ""
     },
     {
@@ -106,23 +66,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "355171",
-      "ItemName": "Desparagus",
-      "Notes": ""
-    },
-    {
       "ItemId": "160378",
       "ItemName": "Elm Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "355185",
-      "ItemName": "Evil Snow Peas",
-      "Notes": ""
-    },
-    {
-      "ItemId": "355101",
-      "ItemName": "Fickle Pickle",
       "Notes": ""
     },
     {
@@ -131,18 +76,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "342095",
-      "ItemName": "Fish Fountain",
-      "Notes": ""
-    },
-    {
       "ItemId": "342147",
       "ItemName": "Flowering Celestian Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106969",
-      "ItemName": "Frost Flower",
       "Notes": ""
     },
     {
@@ -158,16 +93,6 @@
     {
       "ItemId": "160375",
       "ItemName": "Hedge Row",
-      "Notes": ""
-    },
-    {
-      "ItemId": "355143",
-      "ItemName": "Helephant Ears",
-      "Notes": ""
-    },
-    {
-      "ItemId": "355199",
-      "ItemName": "Honey Sickle",
       "Notes": ""
     },
     {
@@ -191,11 +116,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "356106",
-      "ItemName": "Laugh-o-dil",
-      "Notes": ""
-    },
-    {
       "ItemId": "106967",
       "ItemName": "Lava Lily",
       "Notes": ""
@@ -216,16 +136,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "469720",
-      "ItemName": "Marble Diner Floor Tile",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469725",
-      "ItemName": "Marble Wallpaper",
-      "Notes": ""
-    },
-    {
       "ItemId": "181062",
       "ItemName": "Medium Evergreen Tree",
       "Notes": ""
@@ -243,26 +153,6 @@
     {
       "ItemId": "106931",
       "ItemName": "Mist Wood",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473138",
-      "ItemName": "Orange Bell Pepper",
-      "Notes": ""
-    },
-    {
-      "ItemId": "346038",
-      "ItemName": "Pink Dandelion",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469718",
-      "ItemName": "Red Brick Floor Tile",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160608",
-      "ItemName": "Red Leaf Tree",
       "Notes": ""
     },
     {
@@ -296,11 +186,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "355157",
-      "ItemName": "Snap Dragon",
-      "Notes": ""
-    },
-    {
       "ItemId": "1682317165",
       "ItemName": "Sprite",
       "Notes": ""
@@ -311,68 +196,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "356160",
-      "ItemName": "Stinkweed",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469723",
-      "ItemName": "Stone Block Wallpaper",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469727",
-      "ItemName": "Stucco Wallpaper",
-      "Notes": ""
-    },
-    {
       "ItemId": "160605",
       "ItemName": "Summer Tree",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160617",
-      "ItemName": "Sunflower",
-      "Notes": ""
-    },
-    {
-      "ItemId": "82898",
-      "ItemName": "Tall Palm Tree",
       "Notes": ""
     },
     {
       "ItemId": "82755",
       "ItemName": "Tall Pumpkin",
       "Notes": ""
-    },
-    {
-      "ItemId": "473180",
-      "ItemName": "Tiger Lily",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469726",
-      "ItemName": "Wavy Stalk Wallpaper",
-      "Notes": ""
-    },
-    {
-      "ItemId": "240100",
-      "ItemName": "Wheel of Cheese",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160586",
-      "ItemName": "Wooden Well",
-      "Notes": ""
-    },
-    {
-      "ItemId": "469724",
-      "ItemName": "Yellow Flowers Wallpaper",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.409776Z",
-  "ModifiedAt": "2026-09-30T03:55:50.409776Z",
+  "CreatedAt": "2026-09-30T13:39:01.598118Z",
+  "ModifiedAt": "2026-09-30T13:39:01.598119Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

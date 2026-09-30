@@ -1,6 +1,6 @@
 {
   "Name": "PharaohsHoardLT-Rare",
-  "Description": "BoosterPack-Set-26 Drops",
+  "Description": "BoosterPack-Set-86 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -16,23 +16,33 @@
       "Notes": ""
     },
     {
-      "ItemId": "473527",
-      "ItemName": "Atomic Fireball",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537601",
-      "ItemName": "Bad Honeyed Dates",
-      "Notes": ""
-    },
-    {
       "ItemId": "82710",
       "ItemName": "Blue Urn",
       "Notes": ""
     },
     {
+      "ItemId": "82870",
+      "ItemName": "Bricked Well",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
       "ItemId": "164422",
       "ItemName": "Death Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374251",
+      "ItemName": "Extra Large Fish Cart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82729",
+      "ItemName": "Fat Pumpkin",
       "Notes": ""
     },
     {
@@ -46,8 +56,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "789215",
-      "ItemName": "Gator Tots",
+      "ItemId": "589159",
+      "ItemName": "Goose Tree",
       "Notes": ""
     },
     {
@@ -71,6 +81,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1359953",
+      "ItemName": "Ice Floe Siren",
+      "Notes": ""
+    },
+    {
       "ItemId": "82785",
       "ItemName": "Ice Mummy",
       "Notes": ""
@@ -86,6 +101,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "82906",
+      "ItemName": "Krok Chalkboard",
+      "Notes": ""
+    },
+    {
       "ItemId": "980395802",
       "ItemName": "Krokenkahmen",
       "Notes": ""
@@ -93,16 +113,6 @@
     {
       "ItemId": "2128899164",
       "ItemName": "Krokhotep",
-      "Notes": ""
-    },
-    {
-      "ItemId": "789212",
-      "ItemName": "Krokkish coffee",
-      "Notes": ""
-    },
-    {
-      "ItemId": "789213",
-      "ItemName": "Kroklava",
       "Notes": ""
     },
     {
@@ -121,6 +131,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "82856",
+      "ItemName": "Krokotopian Counter",
+      "Notes": ""
+    },
+    {
       "ItemId": "82859",
       "ItemName": "Krokotopian Hammock",
       "Notes": ""
@@ -136,11 +151,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "641711",
-      "ItemName": "Locust Kabob",
-      "Notes": ""
-    },
-    {
       "ItemId": "160987",
       "ItemName": "Lunar-Emblem Bed",
       "Notes": ""
@@ -151,28 +161,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "789214",
-      "ItemName": "Manderdrake fruit",
+      "ItemId": "789208",
+      "ItemName": "Mander Palanquin (PERM)",
       "Notes": ""
     },
     {
       "ItemId": "789252",
       "ItemName": "Nirini Helm of Scorching",
-      "Notes": ""
-    },
-    {
-      "ItemId": "789211",
-      "ItemName": "Pharaoh Taro",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537591",
-      "ItemName": "Pollen Bombs",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641598",
-      "ItemName": "Pomegranite",
       "Notes": ""
     },
     {
@@ -201,8 +196,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "713161",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
       "ItemId": "82711",
       "ItemName": "Purple Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82718",
+      "ItemName": "Red Facetted Column",
       "Notes": ""
     },
     {
@@ -211,8 +216,38 @@
       "Notes": ""
     },
     {
+      "ItemId": "82765",
+      "ItemName": "Royal Krokotopian Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376037",
+      "ItemName": "Seal Team Assault Fins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376073",
+      "ItemName": "Seal Team Recon Fins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376121",
+      "ItemName": "Seal Team Recon Helmet",
+      "Notes": ""
+    },
+    {
       "ItemId": "789262",
       "ItemName": "Singed Nirini Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713140",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
       "Notes": ""
     },
     {
@@ -226,18 +261,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "220329",
-      "ItemName": "Sun Fruit",
+      "ItemId": "82898",
+      "ItemName": "Tall Palm Tree",
       "Notes": ""
     },
     {
       "ItemId": "789312",
       "ItemName": "Thunderous Karanahn Veil",
       "Notes": ""
+    },
+    {
+      "ItemId": "82754",
+      "ItemName": "Turkey Platter",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.411641Z",
-  "ModifiedAt": "2026-09-30T03:55:50.411642Z",
+  "CreatedAt": "2026-09-30T13:39:01.585375Z",
+  "ModifiedAt": "2026-09-30T13:39:01.585376Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

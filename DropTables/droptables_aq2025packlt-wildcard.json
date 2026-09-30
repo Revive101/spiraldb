@@ -11,43 +11,258 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1695038",
-      "ItemName": "Faun of Balance",
+      "ItemId": "1672976",
+      "ItemName": "Aquila Overgrown Ruins",
       "Notes": ""
     },
     {
-      "ItemId": "1695040",
-      "ItemName": "Faun of Fury",
+      "ItemId": "1696995",
+      "ItemName": "Armor of Gorgon Imprisonment",
       "Notes": ""
     },
     {
-      "ItemId": "1695042",
-      "ItemName": "Faun of Omens",
+      "ItemId": "1698000",
+      "ItemName": "Armor of Gorgon Infamy",
       "Notes": ""
     },
     {
-      "ItemId": "1695043",
-      "ItemName": "Faun of Spring",
+      "ItemId": "1696998",
+      "ItemName": "Armor of Gorgon Petrification",
       "Notes": ""
     },
     {
-      "ItemId": "1695044",
-      "ItemName": "Faun of Stories",
+      "ItemId": "1696996",
+      "ItemName": "Armor of Gorgon Suffering",
       "Notes": ""
     },
     {
-      "ItemId": "1695041",
-      "ItemName": "Faun of Weather",
+      "ItemId": "1696999",
+      "ItemName": "Armor of Gorgon Venom",
       "Notes": ""
     },
     {
-      "ItemId": "1695039",
-      "ItemName": "Faun of Winter",
+      "ItemId": "1698001",
+      "ItemName": "Armor of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696997",
+      "ItemName": "Armor of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698002",
+      "ItemName": "Boots of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698007",
+      "ItemName": "Boots of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698005",
+      "ItemName": "Boots of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698003",
+      "ItemName": "Boots of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698006",
+      "ItemName": "Boots of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698008",
+      "ItemName": "Boots of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1698004",
+      "ItemName": "Boots of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696246",
+      "ItemName": "Bow of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696251",
+      "ItemName": "Bow of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696249",
+      "ItemName": "Bow of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696247",
+      "ItemName": "Bow of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696250",
+      "ItemName": "Bow of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696252",
+      "ItemName": "Bow of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696248",
+      "ItemName": "Bow of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696512",
+      "ItemName": "Charm of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696517",
+      "ItemName": "Charm of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696515",
+      "ItemName": "Charm of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696513",
+      "ItemName": "Charm of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696516",
+      "ItemName": "Charm of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696518",
+      "ItemName": "Charm of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696514",
+      "ItemName": "Charm of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696988",
+      "ItemName": "Crown of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696993",
+      "ItemName": "Crown of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696991",
+      "ItemName": "Crown of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696989",
+      "ItemName": "Crown of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696992",
+      "ItemName": "Crown of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696994",
+      "ItemName": "Crown of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696990",
+      "ItemName": "Crown of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696498",
+      "ItemName": "Dagger of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696503",
+      "ItemName": "Dagger of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696501",
+      "ItemName": "Dagger of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696499",
+      "ItemName": "Dagger of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696502",
+      "ItemName": "Dagger of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696504",
+      "ItemName": "Dagger of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696500",
+      "ItemName": "Dagger of Gorgon\u0027s Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696505",
+      "ItemName": "Ring of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696510",
+      "ItemName": "Ring of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696508",
+      "ItemName": "Ring of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696506",
+      "ItemName": "Ring of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696509",
+      "ItemName": "Ring of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696511",
+      "ItemName": "Ring of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696507",
+      "ItemName": "Ring of Gorgon\u0027s Gaze",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.432824Z",
-  "ModifiedAt": "2026-09-30T03:55:50.432824Z",
+  "CreatedAt": "2026-09-30T13:39:01.605951Z",
+  "ModifiedAt": "2026-09-30T13:39:01.605951Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -11,8 +11,103 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257603",
+      "ItemName": "Berry Poundcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160680",
+      "ItemName": "Blocked Wooden Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257597",
+      "ItemName": "Boom Stroganoff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220305",
+      "ItemName": "Buttered Bread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160681",
+      "ItemName": "Carved Stone Bench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220277",
+      "ItemName": "Chocolate Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
+      "Notes": ""
+    },
+    {
       "ItemId": "1721999",
       "ItemName": "Clean Sweep",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641610",
+      "ItemName": "Crab Knight Cakes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220280",
+      "ItemName": "Delicious Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473719",
+      "ItemName": "Deviled Eggs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160713",
+      "ItemName": "Dining Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160631",
+      "ItemName": "Dogfish Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160714",
+      "ItemName": "End Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383143",
+      "ItemName": "Hero Sandwich",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257601",
+      "ItemName": "Huckleberry Pie",
       "Notes": ""
     },
     {
@@ -26,8 +121,88 @@
       "Notes": ""
     },
     {
+      "ItemId": "160651",
+      "ItemName": "Large Maroon Rug",
+      "Notes": ""
+    },
+    {
       "ItemId": "1721988",
       "ItemName": "Mark of Meowiarty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160653",
+      "ItemName": "Medium Magenta Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160652",
+      "ItemName": "Medium Purple Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106951",
+      "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350074",
+      "ItemName": "Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220246",
+      "ItemName": "PB Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220238",
+      "ItemName": "PBJ Sandwich",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258590",
+      "ItemName": "Perfect Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258591",
+      "ItemName": "Perfect Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258592",
+      "ItemName": "Perfect Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258593",
+      "ItemName": "Perfect Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258595",
+      "ItemName": "Perfect Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258596",
+      "ItemName": "Perfect Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106950",
+      "ItemName": "Peridot",
       "Notes": ""
     },
     {
@@ -36,18 +211,58 @@
       "Notes": ""
     },
     {
+      "ItemId": "220231",
+      "ItemName": "Potato Chips",
+      "Notes": ""
+    },
+    {
       "ItemId": "1721990",
       "ItemName": "Ratstabber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106946",
+      "ItemName": "Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106947",
+      "ItemName": "Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220325",
+      "ItemName": "Shiny Tomato",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
       "Notes": ""
     },
     {
       "ItemId": "1721977",
       "ItemName": "Whiplash",
       "Notes": ""
+    },
+    {
+      "ItemId": "160683",
+      "ItemName": "Worn Padded Chair",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.429123Z",
-  "ModifiedAt": "2026-09-30T03:55:50.429124Z",
+  "CreatedAt": "2026-09-30T13:39:01.606430Z",
+  "ModifiedAt": "2026-09-30T13:39:01.606431Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

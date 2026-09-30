@@ -1,6 +1,6 @@
 {
   "Name": "DarkmoorLT-Common",
-  "Description": "BoosterPack-Set-32-3 Drops",
+  "Description": "BoosterPack-Set-32 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -31,8 +31,23 @@
       "Notes": ""
     },
     {
+      "ItemId": "733115",
+      "ItemName": "Apatotatoes",
+      "Notes": ""
+    },
+    {
       "ItemId": "1317983",
       "ItemName": "Arms of Castle Darkmoor ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641597",
+      "ItemName": "Bearberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641612",
+      "ItemName": "Black Cap Crisps",
       "Notes": ""
     },
     {
@@ -46,6 +61,16 @@
       "Notes": ""
     },
     {
+      "ItemId": "733138",
+      "ItemName": "Bronto Burger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641699",
+      "ItemName": "Butter Worms",
+      "Notes": ""
+    },
+    {
       "ItemId": "1317981",
       "ItemName": "Castle Darkmoor Flambeau",
       "Notes": ""
@@ -56,8 +81,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1350013",
-      "ItemName": "Copper",
+      "ItemId": "1352333",
+      "ItemName": "Cracked Health Opal \u002B7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641702",
+      "ItemName": "Crystalweb Candy",
       "Notes": ""
     },
     {
@@ -131,11 +161,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "106938",
-      "ItemName": "Diamond",
-      "Notes": ""
-    },
-    {
       "ItemId": "1317838",
       "ItemName": "Fetid Legumes",
       "Notes": ""
@@ -156,13 +181,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1317845",
-      "ItemName": "Hors d\u0027oeuvre of Flies",
+      "ItemId": "1248056",
+      "ItemName": "Hive Rinds",
       "Notes": ""
     },
     {
-      "ItemId": "589101",
-      "ItemName": "Hot and Sour Bits",
+      "ItemId": "1317845",
+      "ItemName": "Hors d\u0027oeuvre of Flies",
       "Notes": ""
     },
     {
@@ -178,6 +203,11 @@
     {
       "ItemId": "1317952",
       "ItemName": "Lich Knight\u0027s Tombstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789214",
+      "ItemName": "Manderdrake fruit",
       "Notes": ""
     },
     {
@@ -201,13 +231,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1317953",
-      "ItemName": "Von Shane Sepulcher",
+      "ItemId": "641595",
+      "ItemName": "Toad in the Hole",
       "Notes": ""
     },
     {
-      "ItemId": "1317840",
-      "ItemName": "Wampyrnickel Bread",
+      "ItemId": "1317953",
+      "ItemName": "Von Shane Sepulcher",
       "Notes": ""
     },
     {
@@ -226,8 +256,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.422389Z",
-  "ModifiedAt": "2026-09-30T03:55:50.422390Z",
+  "CreatedAt": "2026-09-30T13:39:01.570771Z",
+  "ModifiedAt": "2026-09-30T13:39:01.570773Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -1,6 +1,6 @@
 {
   "Name": "PigswickAcademyLorePackLT-Common",
-  "Description": "BoosterPack-Set-52 Drops",
+  "Description": "BoosterPack-Set-52-3 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -10,6 +10,16 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
     {
       "ItemId": "589145",
       "ItemName": "Angora Bunny Ears",
@@ -21,8 +31,53 @@
       "Notes": ""
     },
     {
+      "ItemId": "733118",
+      "ItemName": "Avocado Milkshake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257587",
+      "ItemName": "Bell Pepper Steak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106966",
+      "ItemName": "Black Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
       "ItemId": "589194",
       "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257599",
+      "ItemName": "Bread Fruit Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240118",
+      "ItemName": "Cauliflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257594",
+      "ItemName": "Cornbread Fruit",
       "Notes": ""
     },
     {
@@ -31,8 +86,43 @@
       "Notes": ""
     },
     {
+      "ItemId": "1350762",
+      "ItemName": "Cornflower Wysterian Settee",
+      "Notes": ""
+    },
+    {
       "ItemId": "220280",
       "ItemName": "Delicious Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257588",
+      "ItemName": "Discord Grape Jelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683120",
+      "ItemName": "Dragonship Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350754",
+      "ItemName": "Elephantine Ottoman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683119",
+      "ItemName": "Estate Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220264",
+      "ItemName": "Fancy Pudding",
       "Notes": ""
     },
     {
@@ -41,8 +131,68 @@
       "Notes": ""
     },
     {
+      "ItemId": "1350751",
+      "ItemName": "Filigreed Wysterian Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106968",
+      "ItemName": "Fire Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421678",
+      "ItemName": "Fizzing Fertilizer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350763",
+      "ItemName": "Golden Blossom Rug",
+      "Notes": ""
+    },
+    {
       "ItemId": "713175",
       "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248060",
+      "ItemName": "Honeycrisp Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350232",
+      "ItemName": "Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350012",
+      "ItemName": "Lead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
       "Notes": ""
     },
     {
@@ -51,13 +201,58 @@
       "Notes": ""
     },
     {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733124",
+      "ItemName": "Papaya",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421677",
+      "ItemName": "Pegasus Patties",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473721",
+      "ItemName": "Pigeon Pie",
+      "Notes": ""
+    },
+    {
       "ItemId": "1507388",
       "ItemName": "Pigsie",
       "Notes": ""
     },
     {
+      "ItemId": "1317197",
+      "ItemName": "Pigswick Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359101",
+      "ItemName": "Pigswick Student\u0027s Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350752",
+      "ItemName": "Pigswick Student\u0027s Seat",
+      "Notes": ""
+    },
+    {
       "ItemId": "589187",
       "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683118",
+      "ItemName": "Proud Pegasus Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
       "Notes": ""
     },
     {
@@ -71,18 +266,143 @@
       "Notes": ""
     },
     {
+      "ItemId": "1257598",
+      "ItemName": "Rye Bread Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350760",
+      "ItemName": "Short Wysterian Potted Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683121",
+      "ItemName": "Small Wooden Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683117",
+      "ItemName": "Spiral Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350755",
+      "ItemName": "Splendid Wysterian Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106964",
+      "ItemName": "Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220313",
+      "ItemName": "Sprinkle Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220317",
+      "ItemName": "Star Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350756",
+      "ItemName": "Stately Wysterian Wooden Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350758",
+      "ItemName": "Tall Wysterian Potted Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473717",
+      "ItemName": "Treant Bark",
+      "Notes": ""
+    },
+    {
       "ItemId": "346045",
       "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473724",
+      "ItemName": "Turquoise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
       "Notes": ""
     },
     {
       "ItemId": "789460",
       "ItemName": "Winged Bean",
       "Notes": ""
+    },
+    {
+      "ItemId": "1257596",
+      "ItemName": "Wrath\u0027s Grape Juice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512153",
+      "ItemName": "Wysteria Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512093",
+      "ItemName": "Wysteria Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512151",
+      "ItemName": "Wysteria Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512152",
+      "ItemName": "Wysteria Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350753",
+      "ItemName": "Wysterian Artist\u0027s Easel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733112",
+      "ItemName": "Yucca",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.406525Z",
-  "ModifiedAt": "2026-09-30T03:55:50.406525Z",
+  "CreatedAt": "2026-09-30T13:39:01.584424Z",
+  "ModifiedAt": "2026-09-30T13:39:01.584424Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

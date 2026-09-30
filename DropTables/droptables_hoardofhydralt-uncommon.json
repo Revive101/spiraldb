@@ -1,6 +1,6 @@
 {
   "Name": "HoardOfHydraLT-UnCommon",
-  "Description": "BoosterPack-Set-18-3 Drops",
+  "Description": "BoosterPack-Set-18 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,18 +11,13 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "641608",
-      "ItemName": "Asparagus Spears",
-      "Notes": ""
-    },
-    {
       "ItemId": "1181697568",
       "ItemName": "Basilisk",
       "Notes": ""
     },
     {
-      "ItemId": "641612",
-      "ItemName": "Black Cap Crisps",
+      "ItemId": "220252",
+      "ItemName": "Big Squash",
       "Notes": ""
     },
     {
@@ -36,23 +31,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "641613",
-      "ItemName": "Caliburnt Toast",
-      "Notes": ""
-    },
-    {
       "ItemId": "1863059152",
       "ItemName": "Chimera",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641604",
-      "ItemName": "Chocolate Comet",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641600",
-      "ItemName": "Crystal Custard",
       "Notes": ""
     },
     {
@@ -81,6 +61,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "106969",
+      "ItemName": "Frost Flower",
+      "Notes": ""
+    },
+    {
       "ItemId": "346059",
       "ItemName": "Frozen Fly Trap",
       "Notes": ""
@@ -88,6 +73,11 @@
     {
       "ItemId": "2079965854",
       "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
       "Notes": ""
     },
     {
@@ -101,38 +91,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "641607",
-      "ItemName": "Pixie Parsnips",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641609",
-      "ItemName": "Seraph Food Cake",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641596",
-      "ItemName": "Shepherd\u0027s Crook Pie",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641601",
-      "ItemName": "Weirwood Cake",
-      "Notes": ""
-    },
-    {
       "ItemId": "346052",
       "ItemName": "White Desparagus",
       "Notes": ""
     },
     {
-      "ItemId": "641599",
-      "ItemName": "Wyrmy Apple",
+      "ItemId": "220195",
+      "ItemName": "Wormy Apple",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.414105Z",
-  "ModifiedAt": "2026-09-30T03:55:50.414106Z",
+  "CreatedAt": "2026-09-30T13:39:01.572749Z",
+  "ModifiedAt": "2026-09-30T13:39:01.572749Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

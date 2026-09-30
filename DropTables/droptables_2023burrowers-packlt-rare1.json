@@ -11,16 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "258582",
-      "ItemName": "Aether",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473722",
-      "ItemName": "Agave Leaves",
-      "Notes": ""
-    },
-    {
       "ItemId": "1206362",
       "ItemName": "Astral Shard",
       "Notes": ""
@@ -31,28 +21,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "537586",
-      "ItemName": "Black Sun Seeds",
-      "Notes": ""
-    },
-    {
-      "ItemId": "225458",
-      "ItemName": "Brown Rat Magician",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1292133",
-      "ItemName": "Bumbler Bed",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1292130",
-      "ItemName": "Burrower Heavy Weapon Rack",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1617026",
-      "ItemName": "Burrower\u0027s Conjuration Amulet",
+      "ItemId": "206095",
+      "ItemName": "Birdbath",
       "Notes": ""
     },
     {
@@ -66,18 +36,38 @@
       "Notes": ""
     },
     {
-      "ItemId": "1614312",
-      "ItemName": "Burrower\u0027s Conjuration Hood",
+      "ItemId": "1617145",
+      "ItemName": "Burrower\u0027s Conjuration Deck",
       "Notes": ""
     },
     {
-      "ItemId": "1617146",
-      "ItemName": "Burrower\u0027s Divination Deck",
+      "ItemId": "1614319",
+      "ItemName": "Burrower\u0027s Conjuration Robe",
       "Notes": ""
     },
     {
-      "ItemId": "1617022",
-      "ItemName": "Burrower\u0027s Necromancy Amulet",
+      "ItemId": "1617027",
+      "ItemName": "Burrower\u0027s Divination Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614313",
+      "ItemName": "Burrower\u0027s Divination Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614789",
+      "ItemName": "Burrower\u0027s Divination Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614320",
+      "ItemName": "Burrower\u0027s Divination Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614665",
+      "ItemName": "Burrower\u0027s Necromancy Athame",
       "Notes": ""
     },
     {
@@ -86,18 +76,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "1614308",
-      "ItemName": "Burrower\u0027s Necromancy Hood",
+      "ItemId": "1617141",
+      "ItemName": "Burrower\u0027s Necromancy Deck",
       "Notes": ""
     },
     {
-      "ItemId": "1614666",
-      "ItemName": "Burrower\u0027s Pyromancy Athame",
+      "ItemId": "1614315",
+      "ItemName": "Burrower\u0027s Necromancy Robe",
       "Notes": ""
     },
     {
-      "ItemId": "1617142",
-      "ItemName": "Burrower\u0027s Pyromancy Deck",
+      "ItemId": "1617023",
+      "ItemName": "Burrower\u0027s Pyromancy Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614309",
+      "ItemName": "Burrower\u0027s Pyromancy Hood",
       "Notes": ""
     },
     {
@@ -106,33 +101,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "1614316",
-      "ItemName": "Burrower\u0027s Pyromancy Robe",
+      "ItemId": "1617021",
+      "ItemName": "Burrower\u0027s Sorcery Amulet",
       "Notes": ""
     },
     {
-      "ItemId": "1614664",
-      "ItemName": "Burrower\u0027s Sorcery Athame",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1617140",
-      "ItemName": "Burrower\u0027s Sorcery Deck",
+      "ItemId": "1614307",
+      "ItemName": "Burrower\u0027s Sorcery Hood",
       "Notes": ""
     },
     {
       "ItemId": "1614783",
       "ItemName": "Burrower\u0027s Sorcery Ring",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1614314",
-      "ItemName": "Burrower\u0027s Sorcery Robe",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1617024",
-      "ItemName": "Burrower\u0027s Thaumaturgy Amulet",
       "Notes": ""
     },
     {
@@ -146,18 +126,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "1617143",
-      "ItemName": "Burrower\u0027s Thaumaturgy Deck",
+      "ItemId": "1614317",
+      "ItemName": "Burrower\u0027s Thaumaturgy Robe",
       "Notes": ""
     },
     {
-      "ItemId": "1614310",
-      "ItemName": "Burrower\u0027s Thaumaturgy Hood",
+      "ItemId": "1617025",
+      "ItemName": "Burrower\u0027s Theurgy Amulet",
       "Notes": ""
     },
     {
-      "ItemId": "1617144",
-      "ItemName": "Burrower\u0027s Theurgy Deck",
+      "ItemId": "1614311",
+      "ItemName": "Burrower\u0027s Theurgy Hood",
       "Notes": ""
     },
     {
@@ -166,18 +146,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1614318",
-      "ItemName": "Burrower\u0027s Theurgy Robe",
+      "ItemId": "1614907",
+      "ItemName": "Conjuror\u0027s Mystic Sphere",
       "Notes": ""
     },
     {
-      "ItemId": "106939",
-      "ItemName": "Cat Tail",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1206360",
-      "ItemName": "Comet Tail",
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
       "Notes": ""
     },
     {
@@ -186,23 +161,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1614908",
-      "ItemName": "Diviner\u0027s Mystic Sphere",
-      "Notes": ""
-    },
-    {
-      "ItemId": "169311564",
-      "ItemName": "DoomGloom",
-      "Notes": ""
-    },
-    {
       "ItemId": "228491667",
       "ItemName": "Elemental Spear",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1252606757",
-      "ItemName": "FireElfTC",
       "Notes": ""
     },
     {
@@ -211,33 +171,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "258584",
-      "ItemName": "Golden Pearl",
-      "Notes": ""
-    },
-    {
       "ItemId": "473078",
       "ItemName": "Key Limes",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1212015",
-      "ItemName": "Khrysalis Bastion Theme",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1212018",
-      "ItemName": "Khrysalis Combat Theme",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1212020",
-      "ItemName": "Khrysalis Last Wood Theme",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1212021",
-      "ItemName": "Khrysalis Moon Cliffs Theme",
       "Notes": ""
     },
     {
@@ -251,58 +186,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "106936",
-      "ItemName": "Nightshade",
+      "ItemId": "1614903",
+      "ItemName": "Necromancer\u0027s Mystic Sphere",
       "Notes": ""
     },
     {
-      "ItemId": "346031",
-      "ItemName": "Ninja Fig",
+      "ItemId": "1534336",
+      "ItemName": "RoilyPoly",
       "Notes": ""
     },
     {
-      "ItemId": "258592",
-      "ItemName": "Perfect Jade",
+      "ItemId": "2143801613",
+      "ItemName": "Scarab",
       "Notes": ""
     },
     {
-      "ItemId": "1292151",
-      "ItemName": "Plain Burrower Urn",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1614904",
-      "ItemName": "Pyromancer\u0027s Mystic Sphere",
-      "Notes": ""
-    },
-    {
-      "ItemId": "739194",
-      "ItemName": "Quetzal Cage",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1534337",
-      "ItemName": "RainyPoly",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1534335",
-      "ItemName": "RimyPoly",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220325",
-      "ItemName": "Shiny Tomato",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160809",
-      "ItemName": "Singed Book",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1614902",
-      "ItemName": "Sorcerer\u0027s Mystic Sphere",
+      "ItemId": "1470281264",
+      "ItemName": "Scorpion",
       "Notes": ""
     },
     {
@@ -316,28 +216,18 @@
       "Notes": ""
     },
     {
-      "ItemId": "258586",
-      "ItemName": "Sunstone",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1614906",
-      "ItemName": "Theurgist\u0027s Mystic Sphere",
+      "ItemId": "1614905",
+      "ItemName": "Thaumaturge\u0027s Mystic Sphere",
       "Notes": ""
     },
     {
       "ItemId": "1374384",
       "ItemName": "Tyrian Gorge Rockwall",
       "Notes": ""
-    },
-    {
-      "ItemId": "220229",
-      "ItemName": "Wafer Biscuit",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.424675Z",
-  "ModifiedAt": "2026-09-30T03:55:50.424675Z",
+  "CreatedAt": "2026-09-30T13:39:01.590694Z",
+  "ModifiedAt": "2026-09-30T13:39:01.590695Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

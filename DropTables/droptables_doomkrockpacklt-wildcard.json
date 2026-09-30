@@ -11,8 +11,28 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "1499146",
+      "ItemName": "Apophis\u0027 Krokosphinx (7 Day)",
+      "Notes": ""
+    },
+    {
       "ItemId": "1499141",
       "ItemName": "Apophis\u0027 Krokosphinx (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479715",
+      "ItemName": "Parallel Time Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499145",
+      "ItemName": "Setesh\u0027s Krokosphinx (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499144",
+      "ItemName": "Setesh\u0027s Krokosphinx (7 Day)",
       "Notes": ""
     },
     {
@@ -21,13 +41,23 @@
       "Notes": ""
     },
     {
+      "ItemId": "1499143",
+      "ItemName": "Sokar\u0027s Krokosphinx (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499142",
+      "ItemName": "Sokar\u0027s Krokosphinx (7 Day)",
+      "Notes": ""
+    },
+    {
       "ItemId": "1499140",
       "ItemName": "Sokar\u0027s Krokosphinx (PERM)",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.414702Z",
-  "ModifiedAt": "2026-09-30T03:55:50.414702Z",
+  "CreatedAt": "2026-09-30T13:39:01.576412Z",
+  "ModifiedAt": "2026-09-30T13:39:01.576412Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

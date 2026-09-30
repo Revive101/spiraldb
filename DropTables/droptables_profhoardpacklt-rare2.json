@@ -1,6 +1,6 @@
 {
   "Name": "ProfHoardPackLT-Rare2",
-  "Description": "BoosterPack-Set-51 Drops",
+  "Description": "BoosterPack-Set-51-2 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,48 +11,13 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1414633",
-      "ItemName": "Alhazred\u0027s Resolute Raiment",
+      "ItemId": "1414647",
+      "ItemName": "Alhazred\u0027s Consistent Clogs",
       "Notes": ""
     },
     {
-      "ItemId": "106965",
-      "ItemName": "Black Lotus",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1058259531",
-      "ItemName": "Bloodbat TC PrH",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160980",
-      "ItemName": "Bluebonnets",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160372",
-      "ItemName": "Brown Blooms",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220191",
-      "ItemName": "Carrot",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1254217",
-      "ItemName": "Cast Symbol Fire (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1254222",
-      "ItemName": "Cast Symbol Life (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1254226",
-      "ItemName": "Cast Symbol Myth (1 Day)",
+      "ItemId": "1414619",
+      "ItemName": "Alhazred\u0027s Karmic Fez",
       "Notes": ""
     },
     {
@@ -61,48 +26,38 @@
       "Notes": ""
     },
     {
-      "ItemId": "160292",
-      "ItemName": "Crate of Hot Dogs",
-      "Notes": ""
-    },
-    {
       "ItemId": "160293",
       "ItemName": "Crate of Ice Cream",
       "Notes": ""
     },
     {
-      "ItemId": "160295",
-      "ItemName": "Crate of Pies",
+      "ItemId": "1557353282",
+      "ItemName": "Cyclops",
       "Notes": ""
     },
     {
-      "ItemId": "160297",
-      "ItemName": "Crate of Pumpkins",
+      "ItemId": "1414521",
+      "ItemName": "Cyrus\u0027s Scholarly Striders",
       "Notes": ""
     },
     {
-      "ItemId": "288801686",
-      "ItemName": "Curse",
+      "ItemId": "1414493",
+      "ItemName": "Cyrus\u0027s Secret Skullcap",
       "Notes": ""
     },
     {
-      "ItemId": "1414381",
-      "ItemName": "Dalia\u0027s Blazing Suit",
+      "ItemId": "1414367",
+      "ItemName": "Dalia\u0027s Smoldering Hairdo",
       "Notes": ""
     },
     {
-      "ItemId": "1374540",
-      "ItemName": "Death Sconce",
+      "ItemId": "1414577",
+      "ItemName": "Dworgyn\u0027s Havoc Hood",
       "Notes": ""
     },
     {
-      "ItemId": "1414591",
-      "ItemName": "Dworgyn\u0027s Sinister Smock",
-      "Notes": ""
-    },
-    {
-      "ItemId": "288354161",
-      "ItemName": "Evil Snowman",
+      "ItemId": "863423206",
+      "ItemName": "Earthquake",
       "Notes": ""
     },
     {
@@ -111,8 +66,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "160374",
-      "ItemName": "Fire Flowers",
+      "ItemId": "1252608386",
+      "ItemName": "Fire Elf",
       "Notes": ""
     },
     {
@@ -121,78 +76,48 @@
       "Notes": ""
     },
     {
-      "ItemId": "220212",
-      "ItemName": "Fries",
-      "Notes": ""
-    },
-    {
       "ItemId": "211974638",
       "ItemName": "Frost Beetle",
       "Notes": ""
     },
     {
-      "ItemId": "641684",
-      "ItemName": "Frozen Perogies",
+      "ItemId": "296072242",
+      "ItemName": "Ghoul",
       "Notes": ""
     },
     {
-      "ItemId": "220324",
-      "ItemName": "Glowing Rock Candy",
+      "ItemId": "1414451",
+      "ItemName": "Halston\u0027s Eureka Hat",
       "Notes": ""
     },
     {
-      "ItemId": "220319",
-      "ItemName": "Golden Candy Bar",
+      "ItemId": "1162091017",
+      "ItemName": "Jinx",
       "Notes": ""
     },
     {
-      "ItemId": "220240",
-      "ItemName": "Green Banana",
+      "ItemId": "1414409",
+      "ItemName": "Lydia\u0027s Frigid Hat",
       "Notes": ""
     },
     {
-      "ItemId": "1414675",
-      "ItemName": "Headmaster\u0027s Crystal Staff",
+      "ItemId": "1414535",
+      "ItemName": "Moolinda\u0027s Hardy Headwrap",
       "Notes": ""
     },
     {
-      "ItemId": "1414703",
-      "ItemName": "Headmaster\u0027s Dream Staff",
+      "ItemId": "1421298",
+      "ItemName": "Owl Protege",
       "Notes": ""
     },
     {
-      "ItemId": "1414689",
-      "ItemName": "Headmaster\u0027s Sky Staff",
+      "ItemId": "160229",
+      "ItemName": "Pie",
       "Notes": ""
     },
     {
-      "ItemId": "1173957583",
-      "ItemName": "Heck Hound",
-      "Notes": ""
-    },
-    {
-      "ItemId": "576014349",
-      "ItemName": "Ice Elf",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1374542",
-      "ItemName": "Ice Sconce",
-      "Notes": ""
-    },
-    {
-      "ItemId": "819750901",
-      "ItemName": "Judgement",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1374544",
-      "ItemName": "Myth Sconce",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160982",
-      "ItemName": "Professor Ambrose",
+      "ItemId": "160983",
+      "ItemName": "Portrait of Lydia Greyrose",
       "Notes": ""
     },
     {
@@ -204,45 +129,10 @@
       "ItemId": "160395",
       "ItemName": "Professor Falmea",
       "Notes": ""
-    },
-    {
-      "ItemId": "160397",
-      "ItemName": "Professor Wu",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160207",
-      "ItemName": "Stack of 2 Books",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160210",
-      "ItemName": "Stack of 5 Books",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220287",
-      "ItemName": "Star Lollipop",
-      "Notes": ""
-    },
-    {
-      "ItemId": "537599",
-      "ItemName": "Sweet Mango",
-      "Notes": ""
-    },
-    {
-      "ItemId": "164419",
-      "ItemName": "Theater Masks",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1414549",
-      "ItemName": "Wu\u0027s Wild Kimono",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.423595Z",
-  "ModifiedAt": "2026-09-30T03:55:50.423595Z",
+  "CreatedAt": "2026-09-30T13:39:01.595198Z",
+  "ModifiedAt": "2026-09-30T13:39:01.595199Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

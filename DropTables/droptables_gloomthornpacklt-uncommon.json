@@ -11,6 +11,16 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "1254286",
+      "ItemName": "All Souls Pegasus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160731",
+      "ItemName": "Angled Gravemarker",
+      "Notes": ""
+    },
+    {
       "ItemId": "473527",
       "ItemName": "Atomic Fireball",
       "Notes": ""
@@ -21,6 +31,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1383357",
+      "ItemName": "Bat Swarm (1 Day)",
+      "Notes": ""
+    },
+    {
       "ItemId": "225480",
       "ItemName": "Bat Wings (1 Day)",
       "Notes": ""
@@ -28,11 +43,6 @@
     {
       "ItemId": "220252",
       "ItemName": "Big Squash",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106965",
-      "ItemName": "Black Lotus",
       "Notes": ""
     },
     {
@@ -48,6 +58,11 @@
     {
       "ItemId": "2138991221",
       "ItemName": "Brown Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160623",
+      "ItemName": "Buried Bone",
       "Notes": ""
     },
     {
@@ -71,6 +86,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1374387",
+      "ItemName": "Dutiful Bloodbat",
+      "Notes": ""
+    },
+    {
       "ItemId": "191154",
       "ItemName": "Enchanted Broom (1 Day)",
       "Notes": ""
@@ -88,6 +108,11 @@
     {
       "ItemId": "71259186",
       "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383354",
+      "ItemName": "Gloomthorn Vine (1 Day)",
       "Notes": ""
     },
     {
@@ -241,8 +266,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.410969Z",
-  "ModifiedAt": "2026-09-30T03:55:50.410969Z",
+  "CreatedAt": "2026-09-30T13:39:01.588419Z",
+  "ModifiedAt": "2026-09-30T13:39:01.588419Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

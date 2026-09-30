@@ -11,8 +11,248 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789216",
+      "ItemName": "Ancient Date",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537586",
+      "ItemName": "Black Sun Seeds",
+      "Notes": ""
+    },
+    {
       "ItemId": "1494696",
       "ItemName": "Blood Bat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220226",
+      "ItemName": "Buttered Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733125",
+      "ItemName": "Cactus Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248061",
+      "ItemName": "Chili Peppermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220227",
+      "ItemName": "Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643176",
+      "ItemName": "Desert Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643189",
+      "ItemName": "Elephant GraveStone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220212",
+      "ItemName": "Fries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789215",
+      "ItemName": "Gator Tots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220197",
+      "ItemName": "Green Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "175468",
+      "ItemName": "Grizzley Boar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350232",
+      "ItemName": "Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82778",
+      "ItemName": "Krok Balance Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82777",
+      "ItemName": "Krok Bird Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82775",
+      "ItemName": "Krok Fire Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82774",
+      "ItemName": "Krok Ice Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82776",
+      "ItemName": "Krok Insect Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82773",
+      "ItemName": "Krok Moon Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82772",
+      "ItemName": "Krok Skull Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82770",
+      "ItemName": "Krok Snake Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82769",
+      "ItemName": "Krok Storm Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82767",
+      "ItemName": "Krok Sun Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82768",
+      "ItemName": "Krok Tree Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350012",
+      "ItemName": "Lead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260024",
+      "ItemName": "Lion\u0027s Paw Print Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789455",
+      "ItemName": "Loco Nut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220268",
+      "ItemName": "Medium Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374427",
+      "ItemName": "Mythdactyl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220201",
+      "ItemName": "Orange Jalapeno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257590",
+      "ItemName": "Prickly Bear Punch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643135",
+      "ItemName": "Primitive Snake Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220339",
+      "ItemName": "Raising Bran Cereal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643101",
+      "ItemName": "Red Top Drum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473528",
+      "ItemName": "Sandy Corn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
       "Notes": ""
     },
     {
@@ -21,13 +261,78 @@
       "Notes": ""
     },
     {
+      "ItemId": "220294",
+      "ItemName": "Square Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220274",
+      "ItemName": "Star Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643181",
+      "ItemName": "Stone Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248001",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317097",
+      "ItemName": "Surfin\u0027 Turf",
+      "Notes": ""
+    },
+    {
       "ItemId": "1479713",
       "ItemName": "Time Lime",
       "Notes": ""
+    },
+    {
+      "ItemId": "1350011",
+      "ItemName": "Tin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733127",
+      "ItemName": "Tricera-pops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589628",
+      "ItemName": "Void Basilisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499101",
+      "ItemName": "Zebra Warrior",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733139",
+      "ItemName": "Zocalo Wings",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.414629Z",
-  "ModifiedAt": "2026-09-30T03:55:50.414630Z",
+  "CreatedAt": "2026-09-30T13:39:01.576328Z",
+  "ModifiedAt": "2026-09-30T13:39:01.576329Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

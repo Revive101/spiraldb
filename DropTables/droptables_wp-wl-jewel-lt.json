@@ -1,0 +1,978 @@
+{
+  "Name": "WP-WL-Jewel-LT",
+  "Description": "BoosterPack-Set-141 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1654186",
+      "ItemName": "Balance Blade Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654203",
+      "ItemName": "Cleanse Charm Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654202",
+      "ItemName": "Cleanse Ward Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654187",
+      "ItemName": "Death Blade Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654201",
+      "ItemName": "Disarm Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654193",
+      "ItemName": "Elemental Blade Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654200",
+      "ItemName": "Feint Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654188",
+      "ItemName": "Fire Blade Ruby",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578819",
+      "ItemName": "Flawless Accurate Amethyst \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578813",
+      "ItemName": "Flawless Accurate Citrine \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578817",
+      "ItemName": "Flawless Accurate Jade \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578814",
+      "ItemName": "Flawless Accurate Onyx \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578818",
+      "ItemName": "Flawless Accurate Peridot \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578815",
+      "ItemName": "Flawless Accurate Ruby \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578816",
+      "ItemName": "Flawless Accurate Sapphire \u002B16%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578885",
+      "ItemName": "Flawless Blocking Amethyst \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578886",
+      "ItemName": "Flawless Blocking Amethyst \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578873",
+      "ItemName": "Flawless Blocking Citrine \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578874",
+      "ItemName": "Flawless Blocking Citrine \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578881",
+      "ItemName": "Flawless Blocking Jade \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578882",
+      "ItemName": "Flawless Blocking Jade \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578875",
+      "ItemName": "Flawless Blocking Onyx \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578876",
+      "ItemName": "Flawless Blocking Onyx \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578858",
+      "ItemName": "Flawless Blocking Opal \u002B12",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578883",
+      "ItemName": "Flawless Blocking Peridot \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578884",
+      "ItemName": "Flawless Blocking Peridot \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578877",
+      "ItemName": "Flawless Blocking Ruby \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578878",
+      "ItemName": "Flawless Blocking Ruby \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578879",
+      "ItemName": "Flawless Blocking Sapphire \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578880",
+      "ItemName": "Flawless Blocking Sapphire \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578840",
+      "ItemName": "Flawless Critical Amethyst \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578841",
+      "ItemName": "Flawless Critical Amethyst \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578828",
+      "ItemName": "Flawless Critical Citrine \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578829",
+      "ItemName": "Flawless Critical Citrine \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578836",
+      "ItemName": "Flawless Critical Jade \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578837",
+      "ItemName": "Flawless Critical Jade \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578830",
+      "ItemName": "Flawless Critical Onyx \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578831",
+      "ItemName": "Flawless Critical Onyx \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578838",
+      "ItemName": "Flawless Critical Peridot \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578839",
+      "ItemName": "Flawless Critical Peridot \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578832",
+      "ItemName": "Flawless Critical Ruby \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578833",
+      "ItemName": "Flawless Critical Ruby \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578834",
+      "ItemName": "Flawless Critical Sapphire \u002B23",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578835",
+      "ItemName": "Flawless Critical Sapphire \u002B24",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578809",
+      "ItemName": "Flawless Mana Opal \u002B61",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578810",
+      "ItemName": "Flawless Mana Opal \u002B62",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578811",
+      "ItemName": "Flawless Mana Opal \u002B63",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1578812",
+      "ItemName": "Flawless Mana Opal \u002B64",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654189",
+      "ItemName": "Ice Blade Sapphire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654206",
+      "ItemName": "Incapacitate Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654190",
+      "ItemName": "Life Blade Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357134",
+      "ItemName": "Lustrous PIP Opal \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654197",
+      "ItemName": "Moon Shield Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654191",
+      "ItemName": "Myth Blade Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654205",
+      "ItemName": "Pierce Peridot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352780",
+      "ItemName": "Polished Piercing Amethyst \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352808",
+      "ItemName": "Polished Piercing Citrine \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352794",
+      "ItemName": "Polished Piercing Jade \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352801",
+      "ItemName": "Polished Piercing Onyx \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352787",
+      "ItemName": "Polished Piercing Peridot \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352766",
+      "ItemName": "Polished Piercing Ruby \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352773",
+      "ItemName": "Polished Piercing Sapphire \u002B6%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654199",
+      "ItemName": "Potent Trap Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654198",
+      "ItemName": "Sharpened Blade Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654194",
+      "ItemName": "Spirit Blade Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654195",
+      "ItemName": "Star Blade Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654192",
+      "ItemName": "Storm Blade Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654196",
+      "ItemName": "Sun Trap Opal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654204",
+      "ItemName": "Triage Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626163",
+      "ItemName": "Unearthly Archmastery Opal \u002B45",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626193",
+      "ItemName": "Unearthly Blocking Amethyst \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626187",
+      "ItemName": "Unearthly Blocking Citrine \u002B53",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626191",
+      "ItemName": "Unearthly Blocking Jade \u002B57",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626188",
+      "ItemName": "Unearthly Blocking Onyx \u002B56",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626192",
+      "ItemName": "Unearthly Blocking Peridot \u002B49",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626189",
+      "ItemName": "Unearthly Blocking Ruby \u002B52",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626190",
+      "ItemName": "Unearthly Blocking Sapphire \u002B61",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626162",
+      "ItemName": "Unearthly Conversion Amethyst \u002B60",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626156",
+      "ItemName": "Unearthly Conversion Citrine \u002B62",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626160",
+      "ItemName": "Unearthly Conversion Jade \u002B62",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626157",
+      "ItemName": "Unearthly Conversion Onyx \u002B62",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626161",
+      "ItemName": "Unearthly Conversion Peridot \u002B61",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626158",
+      "ItemName": "Unearthly Conversion Ruby \u002B60",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626159",
+      "ItemName": "Unearthly Conversion Sapphire \u002B61",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626528",
+      "ItemName": "Unearthly Critical Amethyst \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626535",
+      "ItemName": "Unearthly Critical Amethyst \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626514",
+      "ItemName": "Unearthly Critical Amethyst \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626507",
+      "ItemName": "Unearthly Critical Amethyst \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626521",
+      "ItemName": "Unearthly Critical Amethyst \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626542",
+      "ItemName": "Unearthly Critical Amethyst \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626549",
+      "ItemName": "Unearthly Critical Amethyst \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626522",
+      "ItemName": "Unearthly Critical Citrine \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626529",
+      "ItemName": "Unearthly Critical Citrine \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626508",
+      "ItemName": "Unearthly Critical Citrine \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626501",
+      "ItemName": "Unearthly Critical Citrine \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626515",
+      "ItemName": "Unearthly Critical Citrine \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626536",
+      "ItemName": "Unearthly Critical Citrine \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626543",
+      "ItemName": "Unearthly Critical Citrine \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626526",
+      "ItemName": "Unearthly Critical Jade \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626533",
+      "ItemName": "Unearthly Critical Jade \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626512",
+      "ItemName": "Unearthly Critical Jade \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626505",
+      "ItemName": "Unearthly Critical Jade \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626519",
+      "ItemName": "Unearthly Critical Jade \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626540",
+      "ItemName": "Unearthly Critical Jade \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626547",
+      "ItemName": "Unearthly Critical Jade \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626523",
+      "ItemName": "Unearthly Critical Onyx \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626530",
+      "ItemName": "Unearthly Critical Onyx \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626509",
+      "ItemName": "Unearthly Critical Onyx \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626502",
+      "ItemName": "Unearthly Critical Onyx \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626516",
+      "ItemName": "Unearthly Critical Onyx \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626537",
+      "ItemName": "Unearthly Critical Onyx \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626544",
+      "ItemName": "Unearthly Critical Onyx \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626527",
+      "ItemName": "Unearthly Critical Peridot \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626534",
+      "ItemName": "Unearthly Critical Peridot \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626513",
+      "ItemName": "Unearthly Critical Peridot \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626506",
+      "ItemName": "Unearthly Critical Peridot \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626520",
+      "ItemName": "Unearthly Critical Peridot \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626541",
+      "ItemName": "Unearthly Critical Peridot \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626548",
+      "ItemName": "Unearthly Critical Peridot \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626524",
+      "ItemName": "Unearthly Critical Ruby \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626531",
+      "ItemName": "Unearthly Critical Ruby \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626510",
+      "ItemName": "Unearthly Critical Ruby \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626503",
+      "ItemName": "Unearthly Critical Ruby \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626517",
+      "ItemName": "Unearthly Critical Ruby \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626538",
+      "ItemName": "Unearthly Critical Ruby \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626545",
+      "ItemName": "Unearthly Critical Ruby \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626525",
+      "ItemName": "Unearthly Critical Sapphire \u002B42",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626532",
+      "ItemName": "Unearthly Critical Sapphire \u002B44",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626511",
+      "ItemName": "Unearthly Critical Sapphire \u002B46",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626504",
+      "ItemName": "Unearthly Critical Sapphire \u002B48",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626518",
+      "ItemName": "Unearthly Critical Sapphire \u002B50",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626539",
+      "ItemName": "Unearthly Critical Sapphire \u002B51",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626546",
+      "ItemName": "Unearthly Critical Sapphire \u002B54",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626556",
+      "ItemName": "Unearthly Damage Amethyst \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626591",
+      "ItemName": "Unearthly Damage Amethyst \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626570",
+      "ItemName": "Unearthly Damage Amethyst \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626563",
+      "ItemName": "Unearthly Damage Amethyst \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626598",
+      "ItemName": "Unearthly Damage Amethyst \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626577",
+      "ItemName": "Unearthly Damage Amethyst \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626584",
+      "ItemName": "Unearthly Damage Amethyst \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626564",
+      "ItemName": "Unearthly Damage Citrine \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626550",
+      "ItemName": "Unearthly Damage Citrine \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626585",
+      "ItemName": "Unearthly Damage Citrine \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626557",
+      "ItemName": "Unearthly Damage Citrine \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626592",
+      "ItemName": "Unearthly Damage Citrine \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626571",
+      "ItemName": "Unearthly Damage Citrine \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626578",
+      "ItemName": "Unearthly Damage Citrine \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626568",
+      "ItemName": "Unearthly Damage Jade \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626554",
+      "ItemName": "Unearthly Damage Jade \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626589",
+      "ItemName": "Unearthly Damage Jade \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626561",
+      "ItemName": "Unearthly Damage Jade \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626596",
+      "ItemName": "Unearthly Damage Jade \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626575",
+      "ItemName": "Unearthly Damage Jade \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626582",
+      "ItemName": "Unearthly Damage Jade \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626565",
+      "ItemName": "Unearthly Damage Onyx \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626551",
+      "ItemName": "Unearthly Damage Onyx \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626586",
+      "ItemName": "Unearthly Damage Onyx \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626558",
+      "ItemName": "Unearthly Damage Onyx \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626593",
+      "ItemName": "Unearthly Damage Onyx \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626572",
+      "ItemName": "Unearthly Damage Onyx \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626579",
+      "ItemName": "Unearthly Damage Onyx \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626569",
+      "ItemName": "Unearthly Damage Peridot \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626555",
+      "ItemName": "Unearthly Damage Peridot \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626590",
+      "ItemName": "Unearthly Damage Peridot \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626562",
+      "ItemName": "Unearthly Damage Peridot \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626597",
+      "ItemName": "Unearthly Damage Peridot \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626576",
+      "ItemName": "Unearthly Damage Peridot \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626583",
+      "ItemName": "Unearthly Damage Peridot \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626566",
+      "ItemName": "Unearthly Damage Ruby \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626552",
+      "ItemName": "Unearthly Damage Ruby \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626587",
+      "ItemName": "Unearthly Damage Ruby \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626559",
+      "ItemName": "Unearthly Damage Ruby \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626594",
+      "ItemName": "Unearthly Damage Ruby \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626573",
+      "ItemName": "Unearthly Damage Ruby \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626580",
+      "ItemName": "Unearthly Damage Ruby \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626567",
+      "ItemName": "Unearthly Damage Sapphire \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626553",
+      "ItemName": "Unearthly Damage Sapphire \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626588",
+      "ItemName": "Unearthly Damage Sapphire \u002B10%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626560",
+      "ItemName": "Unearthly Damage Sapphire \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626595",
+      "ItemName": "Unearthly Damage Sapphire \u002B11%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626574",
+      "ItemName": "Unearthly Damage Sapphire \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626581",
+      "ItemName": "Unearthly Damage Sapphire \u002B9%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626185",
+      "ItemName": "Unearthly Health Amethyst \u002B525",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626179",
+      "ItemName": "Unearthly Health Citrine \u002B670",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626183",
+      "ItemName": "Unearthly Health Jade \u002B775",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626180",
+      "ItemName": "Unearthly Health Onyx \u002B650",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626184",
+      "ItemName": "Unearthly Health Peridot \u002B595",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626181",
+      "ItemName": "Unearthly Health Ruby \u002B595",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626182",
+      "ItemName": "Unearthly Health Sapphire \u002B735",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626155",
+      "ItemName": "Unearthly Mana Opal \u002B68",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626186",
+      "ItemName": "Unearthly Mending Opal \u002B8%",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1626164",
+      "ItemName": "Unearthly Shadow Hematite \u002B10",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T13:39:01.602545Z",
+  "ModifiedAt": "2026-09-30T13:39:01.602546Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

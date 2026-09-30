@@ -1,6 +1,6 @@
 {
   "Name": "GrizzleheimLorePackLT-Rare",
-  "Description": "BoosterPack-Set-74 Drops",
+  "Description": "BoosterPack-DeciusTest-03 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,138 +11,98 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "589145",
-      "ItemName": "Angora Bunny Ears",
+      "ItemId": "1475508",
+      "ItemName": "Allfather\u0027s Boots",
       "Notes": ""
     },
     {
-      "ItemId": "355136",
-      "ItemName": "Baby Carrots",
+      "ItemId": "1475480",
+      "ItemName": "Allfather\u0027s Helm",
       "Notes": ""
     },
     {
-      "ItemId": "589194",
-      "ItemName": "Blue Huckleberries",
+      "ItemId": "537556",
+      "ItemName": "Broken Viking Statue",
       "Notes": ""
     },
     {
-      "ItemId": "1350015",
-      "ItemName": "Brass",
+      "ItemId": "1479031",
+      "ItemName": "Cooking Fire",
       "Notes": ""
     },
     {
-      "ItemId": "1350234",
-      "ItemName": "Bronze",
+      "ItemId": "1350297",
+      "ItemName": "Grizzleheim Carved Wallpaper",
       "Notes": ""
     },
     {
-      "ItemId": "1350233",
-      "ItemName": "Cobalt",
+      "ItemId": "789435",
+      "ItemName": "Harpy",
       "Notes": ""
     },
     {
-      "ItemId": "1350013",
-      "ItemName": "Copper",
+      "ItemId": "100453",
+      "ItemName": "Imp",
       "Notes": ""
     },
     {
-      "ItemId": "356113",
-      "ItemName": "Cornbread Fruit Bush",
+      "ItemId": "473448",
+      "ItemName": "Night Hawk",
       "Notes": ""
     },
     {
-      "ItemId": "355150",
-      "ItemName": "Dandelion",
+      "ItemId": "1475550",
+      "ItemName": "Odin\u0027s Boots",
       "Notes": ""
     },
     {
-      "ItemId": "355171",
-      "ItemName": "Desparagus",
+      "ItemId": "1475522",
+      "ItemName": "Odin\u0027s Helm",
       "Notes": ""
     },
     {
-      "ItemId": "106938",
-      "ItemName": "Diamond",
+      "ItemId": "1257439",
+      "ItemName": "Pesky Beetle",
       "Notes": ""
     },
     {
-      "ItemId": "355185",
-      "ItemName": "Evil Snow Peas",
+      "ItemId": "1479030",
+      "ItemName": "Ravenscar Anvil",
       "Notes": ""
     },
     {
-      "ItemId": "106934",
-      "ItemName": "Fossil",
+      "ItemId": "1479032",
+      "ItemName": "Redclaw Tent",
       "Notes": ""
     },
     {
-      "ItemId": "713175",
-      "ItemName": "Golden Couch Potatoes",
+      "ItemId": "1350018",
+      "ItemName": "Titanium",
       "Notes": ""
     },
     {
-      "ItemId": "355143",
-      "ItemName": "Helephant Ears",
+      "ItemId": "537558",
+      "ItemName": "Viking Axe Statue",
       "Notes": ""
     },
     {
-      "ItemId": "356106",
-      "ItemName": "Laugh-o-dil",
+      "ItemId": "537557",
+      "ItemName": "Viking Sword Statue",
       "Notes": ""
     },
     {
-      "ItemId": "1350014",
-      "ItemName": "Nickel",
+      "ItemId": "1475466",
+      "ItemName": "Wotan\u0027s Boots",
       "Notes": ""
     },
     {
-      "ItemId": "589187",
-      "ItemName": "Pink Huckleberries",
-      "Notes": ""
-    },
-    {
-      "ItemId": "356099",
-      "ItemName": "Pink Laugh-o-Dil",
-      "Notes": ""
-    },
-    {
-      "ItemId": "713168",
-      "ItemName": "Red Couch Potatoes",
-      "Notes": ""
-    },
-    {
-      "ItemId": "589180",
-      "ItemName": "Red Huckleberries",
-      "Notes": ""
-    },
-    {
-      "ItemId": "355157",
-      "ItemName": "Snap Dragon",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106964",
-      "ItemName": "Spring",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1350016",
-      "ItemName": "Steel",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473180",
-      "ItemName": "Tiger Lily",
-      "Notes": ""
-    },
-    {
-      "ItemId": "346045",
-      "ItemName": "Trumpet Vine",
+      "ItemId": "1475438",
+      "ItemName": "Wotan\u0027s Helm",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.406275Z",
-  "ModifiedAt": "2026-09-30T03:55:50.406276Z",
+  "CreatedAt": "2026-09-30T13:39:01.577445Z",
+  "ModifiedAt": "2026-09-30T13:39:01.577446Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

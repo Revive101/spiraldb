@@ -11,8 +11,8 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1719327",
-      "ItemName": "Adventurer\u0027s Biplane (1 Day)",
+      "ItemId": "1719326",
+      "ItemName": "Adventurer\u0027s Biplane (7 Day)",
       "Notes": ""
     },
     {
@@ -21,13 +21,33 @@
       "Notes": ""
     },
     {
-      "ItemId": "739189",
-      "ItemName": "Azteca Ritual Bowl",
+      "ItemId": "683260",
+      "ItemName": "Aztecan Bed",
       "Notes": ""
     },
     {
-      "ItemId": "739192",
-      "ItemName": "Azteca Water Jug",
+      "ItemId": "683262",
+      "ItemName": "Aztecan Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683265",
+      "ItemName": "Aztecan Coffee Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683266",
+      "ItemName": "Aztecan Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683268",
+      "ItemName": "Aztecan Dining Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683271",
+      "ItemName": "Aztecan Rug",
       "Notes": ""
     },
     {
@@ -36,48 +56,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "733122",
-      "ItemName": "Chili Peppers",
-      "Notes": ""
-    },
-    {
-      "ItemId": "739121",
-      "ItemName": "Clothesline",
-      "Notes": ""
-    },
-    {
-      "ItemId": "739130",
-      "ItemName": "Crystal Skull",
-      "Notes": ""
-    },
-    {
-      "ItemId": "739173",
-      "ItemName": "Curving Palm Tree",
-      "Notes": ""
-    },
-    {
       "ItemId": "75023254",
       "ItemName": "Cyclops",
       "Notes": ""
     },
     {
-      "ItemId": "1257588",
-      "ItemName": "Discord Grape Jelly",
+      "ItemId": "1475105511",
+      "ItemName": "Devotion",
       "Notes": ""
     },
     {
-      "ItemId": "1036904809",
-      "ItemName": "Furnace",
+      "ItemId": "1001937537",
+      "ItemName": "Galvanic Field",
       "Notes": ""
     },
     {
-      "ItemId": "739082",
-      "ItemName": "Gold Bars",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106952",
-      "ItemName": "Jade",
+      "ItemId": "1161914504",
+      "ItemName": "Hex",
       "Notes": ""
     },
     {
@@ -91,73 +86,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "739125",
-      "ItemName": "Obscure Codex",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1350074",
-      "ItemName": "Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "739132",
-      "ItemName": "Ornate Spears",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258590",
-      "ItemName": "Perfect Amethyst",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258593",
-      "ItemName": "Perfect Onyx",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258594",
-      "ItemName": "Perfect Peridot",
-      "Notes": ""
-    },
-    {
-      "ItemId": "258596",
-      "ItemName": "Perfect Sapphire",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106950",
-      "ItemName": "Peridot",
-      "Notes": ""
-    },
-    {
-      "ItemId": "739194",
-      "ItemName": "Quetzal Cage",
-      "Notes": ""
-    },
-    {
-      "ItemId": "26877166",
-      "ItemName": "Reliquary",
-      "Notes": ""
-    },
-    {
-      "ItemId": "739123",
-      "ItemName": "Ritual Codex",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106946",
-      "ItemName": "Ruby",
-      "Notes": ""
-    },
-    {
       "ItemId": "1191892602",
       "ItemName": "Sabertooth",
       "Notes": ""
     },
     {
-      "ItemId": "2074242982",
-      "ItemName": "Sleet Storm",
+      "ItemId": "1718550",
+      "ItemName": "Silver Monkey Idol",
       "Notes": ""
     },
     {
@@ -179,20 +114,10 @@
       "ItemId": "532383261",
       "ItemName": "Virulence",
       "Notes": ""
-    },
-    {
-      "ItemId": "789459",
-      "ItemName": "Wiki Peas",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1257596",
-      "ItemName": "Wrath\u0027s Grape Juice",
-      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.423315Z",
-  "ModifiedAt": "2026-09-30T03:55:50.423315Z",
+  "CreatedAt": "2026-09-30T13:39:01.587639Z",
+  "ModifiedAt": "2026-09-30T13:39:01.587640Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

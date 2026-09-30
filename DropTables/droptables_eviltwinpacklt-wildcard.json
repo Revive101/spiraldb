@@ -11,11 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "225484",
-      "ItemName": "Bat Wings (7 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1456415",
       "ItemName": "Dark Elf Raiment",
       "Notes": ""
@@ -33,16 +28,6 @@
     {
       "ItemId": "345982",
       "ItemName": "Deadly Fly Trap",
-      "Notes": ""
-    },
-    {
-      "ItemId": "191226",
-      "ItemName": "Enchanted Broom (7 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "225497",
-      "ItemName": "Ghost Hound",
       "Notes": ""
     },
     {
@@ -66,6 +51,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "160630",
+      "ItemName": "Jaques\u0027 Saw",
+      "Notes": ""
+    },
+    {
       "ItemId": "1456373",
       "ItemName": "Light Elf Raiment",
       "Notes": ""
@@ -86,13 +76,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1383172",
-      "ItemName": "Scarecrow",
+      "ItemId": "225431",
+      "ItemName": "Myth Banshee",
       "Notes": ""
     },
     {
-      "ItemId": "225479",
-      "ItemName": "Seraph Wings (7 Day)",
+      "ItemId": "1383172",
+      "ItemName": "Scarecrow",
       "Notes": ""
     },
     {
@@ -101,8 +91,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.404433Z",
-  "ModifiedAt": "2026-09-30T03:55:50.404433Z",
+  "CreatedAt": "2026-09-30T13:39:01.571667Z",
+  "ModifiedAt": "2026-09-30T13:39:01.571668Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

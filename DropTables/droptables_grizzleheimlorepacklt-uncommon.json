@@ -1,6 +1,6 @@
 {
   "Name": "GrizzleheimLorePackLT-Uncommon",
-  "Description": "BoosterPack-Set-74 Drops",
+  "Description": "BoosterPack-DeciusTest-03 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -10,6 +10,66 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359625",
+      "ItemName": "Beast Wellington",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350015",
+      "ItemName": "Brass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350234",
+      "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350233",
+      "ItemName": "Cobalt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350013",
+      "ItemName": "Copper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106938",
+      "ItemName": "Diamond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359622",
+      "ItemName": "Eye Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220326",
+      "ItemName": "Goat Cheese",
+      "Notes": ""
+    },
     {
       "ItemId": "1374590",
       "ItemName": "Grizzleheim Furnace",
@@ -21,13 +81,68 @@
       "Notes": ""
     },
     {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350014",
+      "ItemName": "Nickel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356099",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
       "ItemId": "1374582",
       "ItemName": "Ravenscar Throne",
       "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220222",
+      "ItemName": "Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350016",
+      "ItemName": "Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220322",
+      "ItemName": "Swirled Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317840",
+      "ItemName": "Wampyrnickel Bread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220195",
+      "ItemName": "Wormy Apple",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.406272Z",
-  "ModifiedAt": "2026-09-30T03:55:50.406274Z",
+  "CreatedAt": "2026-09-30T13:39:01.577430Z",
+  "ModifiedAt": "2026-09-30T13:39:01.577432Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

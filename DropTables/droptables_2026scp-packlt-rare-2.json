@@ -1,0 +1,43 @@
+{
+  "Name": "2026SCP-PackLT-Rare-2",
+  "Description": "BoosterPack-Set-164 Drops",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1719525",
+      "ItemName": "Big Ben Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719528",
+      "ItemName": "Expedition Outfitters Facade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719526",
+      "ItemName": "Marleybone Wall Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719523",
+      "ItemName": "Monster\u0027s Journal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719531",
+      "ItemName": "Toney\u0027s Terrier Facade",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-09-30T13:39:01.606503Z",
+  "ModifiedAt": "2026-09-30T13:39:01.606504Z",
+  "CreatedBy": "Phill030-DropTable-Generator",
+  "ModifiedBy": "Phill030-DropTable-Generator"
+}

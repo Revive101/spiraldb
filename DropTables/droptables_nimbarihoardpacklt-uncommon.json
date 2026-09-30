@@ -1,6 +1,6 @@
 {
   "Name": "NimbariHoardPackLT-Uncommon",
-  "Description": "BoosterPack-Set-61-3 Drops",
+  "Description": "BoosterPack-Set-61 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,8 +11,23 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1441535",
-      "ItemName": "Aero Dwarf Brown Vase",
+      "ItemId": "1441545",
+      "ItemName": "Aero Dwarf End Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441533",
+      "ItemName": "Aero Dwarf Potted Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441546",
+      "ItemName": "Aero Dwarf Round Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441544",
+      "ItemName": "Aero Dwarf Wood Chair",
       "Notes": ""
     },
     {
@@ -21,8 +36,33 @@
       "Notes": ""
     },
     {
+      "ItemId": "1359629",
+      "ItemName": "Breakfast Tacos",
+      "Notes": ""
+    },
+    {
       "ItemId": "1350234",
       "ItemName": "Bronze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220256",
+      "ItemName": "Caramel Popcorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441622",
+      "ItemName": "Cheering Port Aero Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441626",
+      "ItemName": "Cheering Velo City Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441630",
+      "ItemName": "Cheering Wheatsville Fan",
       "Notes": ""
     },
     {
@@ -36,63 +76,93 @@
       "Notes": ""
     },
     {
-      "ItemId": "1441518",
-      "ItemName": "Empyrea Aero Plains Combat",
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
       "Notes": ""
     },
     {
-      "ItemId": "1441521",
-      "ItemName": "Empyrea Husk Storm Combat",
+      "ItemId": "1441519",
+      "ItemName": "Empyrea Aero Plains Theme",
       "Notes": ""
     },
     {
-      "ItemId": "1441524",
-      "ItemName": "Empyrea Husk Theme",
+      "ItemId": "1441523",
+      "ItemName": "Empyrea Husk Aethyr Combat",
       "Notes": ""
     },
     {
-      "ItemId": "1441527",
-      "ItemName": "Empyrea Nexus Theme",
+      "ItemId": "1441525",
+      "ItemName": "Empyrea Mandalla Combat",
       "Notes": ""
     },
     {
-      "ItemId": "1441529",
-      "ItemName": "Empyrea Nimbus Theme",
+      "ItemId": "1441530",
+      "ItemName": "Empyrea Reverie Combat",
       "Notes": ""
     },
     {
-      "ItemId": "1441688",
-      "ItemName": "Hollerin\u0027 Port Aero Fan",
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
       "Notes": ""
     },
     {
-      "ItemId": "1441697",
-      "ItemName": "Hollerin\u0027\u00A0Velo City Fan",
+      "ItemId": "1441686",
+      "ItemName": "Excited Port Aero Fan",
       "Notes": ""
     },
     {
-      "ItemId": "1441698",
-      "ItemName": "Hollerin\u0027 Wheatsville Fan",
+      "ItemId": "1441693",
+      "ItemName": "Excited Velo City Fan",
       "Notes": ""
     },
     {
-      "ItemId": "1350232",
-      "ItemName": "Iron",
+      "ItemId": "1441694",
+      "ItemName": "Excited Wheatsville Fan",
       "Notes": ""
     },
     {
-      "ItemId": "1441468",
-      "ItemName": "Kalamar Brazier",
+      "ItemId": "1254235",
+      "ItemName": "Fairyfly",
       "Notes": ""
     },
     {
-      "ItemId": "1441482",
-      "ItemName": "Kalamar Sofa",
+      "ItemId": "589097",
+      "ItemName": "Fire Passion Fruit",
       "Notes": ""
     },
     {
-      "ItemId": "1350012",
-      "ItemName": "Lead",
+      "ItemId": "220304",
+      "ItemName": "Flaming Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359627",
+      "ItemName": "Fortune Cookies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374460",
+      "ItemName": "Furious Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100329",
+      "ItemName": "Goat Monk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441480",
+      "ItemName": "Kalamar Dining Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359614",
+      "ItemName": "Kraken Jacks",
       "Notes": ""
     },
     {
@@ -101,58 +171,58 @@
       "Notes": ""
     },
     {
-      "ItemId": "1441473",
-      "ItemName": "Nimbari Bolt Vase",
+      "ItemId": "1441476",
+      "ItemName": "Nimbari Chest",
       "Notes": ""
     },
     {
-      "ItemId": "1466135",
-      "ItemName": "Nimbari Centurion Greaves",
+      "ItemId": "1441486",
+      "ItemName": "Nimbari Dining Table",
       "Notes": ""
     },
     {
-      "ItemId": "1466107",
-      "ItemName": "Nimbari Centurion Helm",
+      "ItemId": "1441487",
+      "ItemName": "Nimbari Side Table",
       "Notes": ""
     },
     {
-      "ItemId": "1441348",
-      "ItemName": "Nimbari Chariot (1 Day)",
+      "ItemId": "473138",
+      "ItemName": "Orange Bell Pepper",
       "Notes": ""
     },
     {
-      "ItemId": "1466051",
-      "ItemName": "Nimbari Justicar Greaves",
+      "ItemId": "1359611",
+      "ItemName": "Polly Crackers",
       "Notes": ""
     },
     {
-      "ItemId": "1466023",
-      "ItemName": "Nimbari Justicar Helm",
+      "ItemId": "1441623",
+      "ItemName": "Riled Up Port Aero Fan",
       "Notes": ""
     },
     {
-      "ItemId": "1466093",
-      "ItemName": "Nimbari Praetor Greaves",
+      "ItemId": "1441627",
+      "ItemName": "Riled Up Velo City Fan",
       "Notes": ""
     },
     {
-      "ItemId": "1466065",
-      "ItemName": "Nimbari Praetor Helm",
+      "ItemId": "1441631",
+      "ItemName": "Riled Up Wheatsville Fan",
       "Notes": ""
     },
     {
-      "ItemId": "1441475",
-      "ItemName": "Nimbari Weapon Rack",
+      "ItemId": "1441685",
+      "ItemName": "Spirited Port Aero Fan",
       "Notes": ""
     },
     {
-      "ItemId": "1350231",
-      "ItemName": "Pyrite",
+      "ItemId": "1441691",
+      "ItemName": "Spirited\u00A0Velo City Fan",
       "Notes": ""
     },
     {
-      "ItemId": "1441467",
-      "ItemName": "Red Kalamar Basket",
+      "ItemId": "1441692",
+      "ItemName": "Spirited Wheatsville Fan",
       "Notes": ""
     },
     {
@@ -161,38 +231,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "225445",
-      "ItemName": "Storm Bird",
+      "ItemId": "1359609",
+      "ItemName": "Sugar Skulls Cereal",
       "Notes": ""
     },
     {
-      "ItemId": "1350011",
-      "ItemName": "Tin",
+      "ItemId": "220322",
+      "ItemName": "Swirled Lollipop",
       "Notes": ""
     },
     {
-      "ItemId": "1441471",
-      "ItemName": "Wide Kalamar Vase",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1441625",
-      "ItemName": "Yelling Port Aero Fan",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1441629",
-      "ItemName": "Yelling Velo City Fan",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1441633",
-      "ItemName": "Yelling Wheatsville Fan",
+      "ItemId": "1374455",
+      "ItemName": "Toy Golem",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.422577Z",
-  "ModifiedAt": "2026-09-30T03:55:50.422577Z",
+  "CreatedAt": "2026-09-30T13:39:01.566137Z",
+  "ModifiedAt": "2026-09-30T13:39:01.566140Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

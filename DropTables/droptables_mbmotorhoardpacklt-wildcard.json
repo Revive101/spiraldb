@@ -11,58 +11,13 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1523142",
-      "ItemName": "Autoist\u0027s Goggles",
-      "Notes": ""
-    },
-    {
       "ItemId": "1523157",
       "ItemName": "Autoist\u0027s Overcoat",
       "Notes": ""
     },
     {
-      "ItemId": "1523172",
-      "ItemName": "Autoist\u0027s Shoes",
-      "Notes": ""
-    },
-    {
       "ItemId": "1523247",
       "ItemName": "Autoist\u0027s Wrench",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1507487",
-      "ItemName": "Blimp Buddy",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1507488",
-      "ItemName": "Blimp Companion",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1507490",
-      "ItemName": "Blimp Pal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160766",
-      "ItemName": "Dogs Playing Cards Painting",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1350291",
-      "ItemName": "Marleybone Parquet Floor",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1350290",
-      "ItemName": "Marleybone Wood Panels",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1507414",
-      "ItemName": "Mini Streetcar (1 Day)",
       "Notes": ""
     },
     {
@@ -76,11 +31,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "1507411",
-      "ItemName": "Mini Tram (1 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1507412",
       "ItemName": "Mini Tram (7 Day)",
       "Notes": ""
@@ -88,11 +38,6 @@
     {
       "ItemId": "1507407",
       "ItemName": "Mini Tram (PERM)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1507410",
-      "ItemName": "Mini Trolley (1 Day)",
       "Notes": ""
     },
     {
@@ -106,8 +51,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1523097",
-      "ItemName": "Motorist\u0027s Goggles",
+      "ItemId": "733190",
+      "ItemName": "Missile Toe",
       "Notes": ""
     },
     {
@@ -116,18 +61,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1523127",
-      "ItemName": "Motorist\u0027s Shoes",
-      "Notes": ""
-    },
-    {
       "ItemId": "1523232",
       "ItemName": "Motorist\u0027s Wrench",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1523187",
-      "ItemName": "Traveler\u0027s Goggles",
       "Notes": ""
     },
     {
@@ -136,18 +71,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1523217",
-      "ItemName": "Traveler\u0027s Shoes",
-      "Notes": ""
-    },
-    {
       "ItemId": "1523262",
       "ItemName": "Traveler\u0027s Wrench",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.428767Z",
-  "ModifiedAt": "2026-09-30T03:55:50.428768Z",
+  "CreatedAt": "2026-09-30T13:39:01.596486Z",
+  "ModifiedAt": "2026-09-30T13:39:01.596487Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

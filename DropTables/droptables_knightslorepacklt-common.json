@@ -1,6 +1,6 @@
 {
   "Name": "KnightsLorePackLT-Common",
-  "Description": "BoosterPack-Set-19-3 Drops",
+  "Description": "BoosterPack-Set-19 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -10,6 +10,11 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [
+    {
+      "ItemId": "106932",
+      "ItemName": "Acorn",
+      "Notes": ""
+    },
     {
       "ItemId": "258582",
       "ItemName": "Aether",
@@ -56,8 +61,28 @@
       "Notes": ""
     },
     {
+      "ItemId": "106960",
+      "ItemName": "Blood Moss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473716",
+      "ItemName": "Bogwich",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
       "ItemId": "1659644",
       "ItemName": "Brave Sir Badger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
       "Notes": ""
     },
     {
@@ -68,6 +93,11 @@
     {
       "ItemId": "220305",
       "ItemName": "Buttered Bread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
       "Notes": ""
     },
     {
@@ -86,8 +116,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "106935",
+      "ItemName": "Deep Mushroom",
+      "Notes": ""
+    },
+    {
       "ItemId": "1528524",
       "ItemName": "Deer Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473719",
+      "ItemName": "Deviled Eggs",
       "Notes": ""
     },
     {
@@ -98,6 +138,11 @@
     {
       "ItemId": "473222",
       "ItemName": "Dr. Jalapeno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106943",
+      "ItemName": "Ectoplasm",
       "Notes": ""
     },
     {
@@ -116,13 +161,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
       "ItemId": "473221",
       "ItemName": "Flapjacks",
       "Notes": ""
     },
     {
-      "ItemId": "106969",
-      "ItemName": "Frost Flower",
+      "ItemId": "106934",
+      "ItemName": "Fossil",
       "Notes": ""
     },
     {
@@ -136,18 +186,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "220275",
-      "ItemName": "Glowing Dragon Fruit",
-      "Notes": ""
-    },
-    {
       "ItemId": "258584",
       "ItemName": "Golden Pearl",
       "Notes": ""
     },
     {
-      "ItemId": "106970",
-      "ItemName": "Grendelweed",
+      "ItemId": "473718",
+      "ItemName": "Gummy Wyrms",
       "Notes": ""
     },
     {
@@ -176,13 +221,33 @@
       "Notes": ""
     },
     {
-      "ItemId": "160336",
-      "ItemName": "Obsidian Firecat Statue",
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
       "Notes": ""
     },
     {
       "ItemId": "106951",
       "ItemName": "Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
       "Notes": ""
     },
     {
@@ -216,8 +281,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "160982",
-      "ItemName": "Professor Ambrose",
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473720",
+      "ItemName": "Roasted Chickpeas",
       "Notes": ""
     },
     {
@@ -241,6 +311,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
       "ItemId": "106963",
       "ItemName": "Scrap Iron",
       "Notes": ""
@@ -261,6 +336,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
       "ItemId": "160985",
       "ItemName": "Spiral Shield",
       "Notes": ""
@@ -276,6 +356,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
       "ItemId": "258586",
       "ItemName": "Sunstone",
       "Notes": ""
@@ -286,18 +371,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "473717",
+      "ItemName": "Treant Bark",
+      "Notes": ""
+    },
+    {
       "ItemId": "220292",
       "ItemName": "Uni-corn",
       "Notes": ""
     },
     {
-      "ItemId": "160339",
-      "ItemName": "Unicorn Statue",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160405",
-      "ItemName": "Wand Rack",
+      "ItemId": "106940",
+      "ItemName": "Water Lily",
       "Notes": ""
     },
     {
@@ -306,8 +391,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.419513Z",
-  "ModifiedAt": "2026-09-30T03:55:50.419514Z",
+  "CreatedAt": "2026-09-30T13:39:01.572628Z",
+  "ModifiedAt": "2026-09-30T13:39:01.572628Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -1,6 +1,6 @@
 {
   "Name": "GrimNightmarePLT-Common",
-  "Description": "BoosterPack-Set-112 Drops",
+  "Description": "BoosterPack-Set-131 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,23 +11,28 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "160708",
+      "ItemName": "Altar with Candles",
+      "Notes": ""
+    },
+    {
       "ItemId": "2136233780",
       "ItemName": "Ash Bats",
       "Notes": ""
     },
     {
-      "ItemId": "473527",
-      "ItemName": "Atomic Fireball",
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
       "Notes": ""
     },
     {
-      "ItemId": "225480",
-      "ItemName": "Bat Wings (1 Day)",
+      "ItemId": "82705",
+      "ItemName": "Axe",
       "Notes": ""
     },
     {
-      "ItemId": "220252",
-      "ItemName": "Big Squash",
+      "ItemId": "225484",
+      "ItemName": "Bat Wings (7 Day)",
       "Notes": ""
     },
     {
@@ -41,11 +46,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "191233",
-      "ItemName": "Black Stallion (1 Day)",
-      "Notes": ""
-    },
-    {
       "ItemId": "1730824457",
       "ItemName": "Blast Off - A",
       "Notes": ""
@@ -56,23 +56,43 @@
       "Notes": ""
     },
     {
-      "ItemId": "220256",
-      "ItemName": "Caramel Popcorn",
+      "ItemId": "160622",
+      "ItemName": "Bone",
       "Notes": ""
     },
     {
-      "ItemId": "1359718",
-      "ItemName": "Cobweb Rug",
+      "ItemId": "106941",
+      "ItemName": "Bone",
       "Notes": ""
     },
     {
-      "ItemId": "1359721",
-      "ItemName": "Creepy Corner Cobweb",
+      "ItemId": "160235",
+      "ItemName": "Brain Jar",
       "Notes": ""
     },
     {
-      "ItemId": "473524",
-      "ItemName": "Cry Babies",
+      "ItemId": "181052",
+      "ItemName": "Broom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220248",
+      "ItemName": "Candy bar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160221",
+      "ItemName": "Carved Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220228",
+      "ItemName": "Chocolate Peanut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106949",
+      "ItemName": "Citrine",
       "Notes": ""
     },
     {
@@ -81,13 +101,43 @@
       "Notes": ""
     },
     {
+      "ItemId": "160361",
+      "ItemName": "Dark Stone Tower",
+      "Notes": ""
+    },
+    {
       "ItemId": "829724172",
       "ItemName": "Dark Tribute",
       "Notes": ""
     },
     {
-      "ItemId": "191154",
-      "ItemName": "Enchanted Broom (1 Day)",
+      "ItemId": "160381",
+      "ItemName": "Dead Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160420",
+      "ItemName": "Death Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160408",
+      "ItemName": "Death Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191226",
+      "ItemName": "Enchanted Broom (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181084",
+      "ItemName": "Foul Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106955",
+      "ItemName": "Ghost Fire",
       "Notes": ""
     },
     {
@@ -96,28 +146,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "220324",
-      "ItemName": "Glowing Rock Candy",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220319",
-      "ItemName": "Golden Candy Bar",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220285",
-      "ItemName": "Gummy Bloodbat",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220331",
-      "ItemName": "Gummy Humongofrog",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1359720",
-      "ItemName": "Halloween Mat",
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
       "Notes": ""
     },
     {
@@ -126,18 +156,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "191225",
-      "ItemName": "Horned Sweeper (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1359719",
-      "ItemName": "Jack-O-Rug",
-      "Notes": ""
-    },
-    {
       "ItemId": "1161906569",
       "ItemName": "Jinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160245",
+      "ItemName": "Large Candle Holder",
       "Notes": ""
     },
     {
@@ -146,38 +171,78 @@
       "Notes": ""
     },
     {
-      "ItemId": "220283",
-      "ItemName": "Nutty Candy bar",
+      "ItemId": "160701",
+      "ItemName": "Lit Furnace",
       "Notes": ""
     },
     {
-      "ItemId": "473522",
-      "ItemName": "Peanutbutter Cup",
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
       "Notes": ""
     },
     {
-      "ItemId": "191221",
-      "ItemName": "Purple Glider (1 Day)",
+      "ItemId": "473523",
+      "ItemName": "Misfortune Cookie",
       "Notes": ""
     },
     {
-      "ItemId": "220333",
-      "ItemName": "Rock and Roll Candy",
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
       "Notes": ""
     },
     {
-      "ItemId": "220289",
-      "ItemName": "Rock Candy",
+      "ItemId": "82866",
+      "ItemName": "Obsidian Chest",
       "Notes": ""
     },
     {
-      "ItemId": "473519",
-      "ItemName": "Senior Mint",
+      "ItemId": "106951",
+      "ItemName": "Onyx",
       "Notes": ""
     },
     {
-      "ItemId": "1359724",
-      "ItemName": "Spider Web Wallpaper",
+      "ItemId": "258591",
+      "ItemName": "Perfect Citrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258593",
+      "ItemName": "Perfect Onyx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160227",
+      "ItemName": "Rattlebones\u0027 Feet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106959",
+      "ItemName": "Red Mandrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473521",
+      "ItemName": "Rotten Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473528",
+      "ItemName": "Sandy Corn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225479",
+      "ItemName": "Seraph Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160315",
+      "ItemName": "Slanted Grave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
       "Notes": ""
     },
     {
@@ -196,38 +261,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "1359722",
-      "ItemName": "Spooky Spider Web",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220222",
-      "ItemName": "Squash",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220287",
-      "ItemName": "Star Lollipop",
-      "Notes": ""
-    },
-    {
       "ItemId": "1522126",
       "ItemName": "Stygian Leaves",
       "Notes": ""
     },
     {
-      "ItemId": "220322",
-      "ItemName": "Swirled Lollipop",
+      "ItemId": "82755",
+      "ItemName": "Tall Pumpkin",
       "Notes": ""
     },
     {
-      "ItemId": "220195",
-      "ItemName": "Wormy Apple",
+      "ItemId": "82832",
+      "ItemName": "Worn Shovel",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.428198Z",
-  "ModifiedAt": "2026-09-30T03:55:50.428199Z",
+  "CreatedAt": "2026-09-30T13:39:01.589919Z",
+  "ModifiedAt": "2026-09-30T13:39:01.589920Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

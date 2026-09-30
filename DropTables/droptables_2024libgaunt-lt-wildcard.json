@@ -11,16 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1383273",
-      "ItemName": "Aquilan Centurion",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1383271",
-      "ItemName": "Aquilan Gladiator",
-      "Notes": ""
-    },
-    {
       "ItemId": "1653434",
       "ItemName": "Astute Archival Ampul",
       "Notes": ""
@@ -111,23 +101,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1360778",
-      "ItemName": "Big Energy Opal",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160273",
-      "ItemName": "Bookshelf",
-      "Notes": ""
-    },
-    {
       "ItemId": "1642060",
       "ItemName": "Bookwyrm (PERM)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160272",
-      "ItemName": "Carved Bookshelf",
       "Notes": ""
     },
     {
@@ -168,16 +143,6 @@
     {
       "ItemId": "1653815",
       "ItemName": "Chilling Plot Armor",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1383283",
-      "ItemName": "Contemplative Aquilan Oracle",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360777",
-      "ItemName": "Energy Opal",
       "Notes": ""
     },
     {
@@ -261,18 +226,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "220212",
-      "ItemName": "Fries",
-      "Notes": ""
-    },
-    {
       "ItemId": "1847077257",
       "ItemName": "Hephaestus Coppersmith - TC",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360779",
-      "ItemName": "Huge Energy Opal",
       "Notes": ""
     },
     {
@@ -326,11 +281,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "160202",
-      "ItemName": "Lectern",
-      "Notes": ""
-    },
-    {
       "ItemId": "1616886",
       "ItemName": "Library Book",
       "Notes": ""
@@ -341,26 +291,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "470214",
-      "ItemName": "Night Painting",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1383277",
-      "ItemName": "Oracle of Hesperides",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1383275",
-      "ItemName": "Oracle of Olympus",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220231",
-      "ItemName": "Potato Chips",
-      "Notes": ""
-    },
-    {
       "ItemId": "1500097",
       "ItemName": "Potboiler Token",
       "Notes": ""
@@ -368,11 +298,6 @@
     {
       "ItemId": "408744917",
       "ItemName": "Queen Calypso - TC",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1359133",
-      "ItemName": "Regent\u0027s Library Shelf",
       "Notes": ""
     },
     {
@@ -396,38 +321,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "160210",
-      "ItemName": "Stack of 5 Books",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160212",
-      "ItemName": "Stack of Paper",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160636",
-      "ItemName": "Stone Brazier",
-      "Notes": ""
-    },
-    {
       "ItemId": "1889148781",
       "ItemName": "Storm Shark",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1383282",
-      "ItemName": "Studious Aquilan Oracle",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220237",
-      "ItemName": "Tiny Fish",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1360780",
-      "ItemName": "Ultra Energy Opal",
       "Notes": ""
     },
     {
@@ -471,8 +366,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.432864Z",
-  "ModifiedAt": "2026-09-30T03:55:50.432865Z",
+  "CreatedAt": "2026-09-30T13:39:01.606068Z",
+  "ModifiedAt": "2026-09-30T13:39:01.606069Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

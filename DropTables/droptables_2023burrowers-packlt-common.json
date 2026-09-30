@@ -11,8 +11,83 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473722",
+      "ItemName": "Agave Leaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473723",
+      "ItemName": "Agave Nectar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641608",
+      "ItemName": "Asparagus Spears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537586",
+      "ItemName": "Black Sun Seeds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257599",
+      "ItemName": "Bread Fruit Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225458",
+      "ItemName": "Brown Rat Magician",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292130",
+      "ItemName": "Burrower Heavy Weapon Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292128",
+      "ItemName": "Burrower Lectern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292131",
+      "ItemName": "Burrower Light Weapon Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292150",
+      "ItemName": "Burrower Pot",
+      "Notes": ""
+    },
+    {
       "ItemId": "1605753",
       "ItemName": "Burrowing Bane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106939",
+      "ItemName": "Cat Tail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240118",
+      "ItemName": "Cauliflowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220211",
+      "ItemName": "Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1206360",
+      "ItemName": "Comet Tail",
       "Notes": ""
     },
     {
@@ -26,8 +101,78 @@
       "Notes": ""
     },
     {
+      "ItemId": "733120",
+      "ItemName": "Fern Jelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220215",
+      "ItemName": "Golden Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220217",
+      "ItemName": "Golden Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258584",
+      "ItemName": "Golden Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537590",
+      "ItemName": "Hard Boiled Beetle Eggs",
+      "Notes": ""
+    },
+    {
       "ItemId": "1605752",
       "ItemName": "Hero of Khrysalis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248060",
+      "ItemName": "Honeycrisp Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258581",
+      "ItemName": "Kelp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212015",
+      "ItemName": "Khrysalis Bastion Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212018",
+      "ItemName": "Khrysalis Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212019",
+      "ItemName": "Khrysalis Fort Rachias Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212020",
+      "ItemName": "Khrysalis Last Wood Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212021",
+      "ItemName": "Khrysalis Moon Cliffs Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212022",
+      "ItemName": "Khrysalis Tyrian Gorge Theme",
       "Notes": ""
     },
     {
@@ -36,18 +181,113 @@
       "Notes": ""
     },
     {
+      "ItemId": "106931",
+      "ItemName": "Mist Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106936",
+      "ItemName": "Nightshade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258583",
+      "ItemName": "Pearl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258590",
+      "ItemName": "Perfect Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258592",
+      "ItemName": "Perfect Jade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292151",
+      "ItemName": "Plain Burrower Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739194",
+      "ItemName": "Quetzal Cage",
+      "Notes": ""
+    },
+    {
       "ItemId": "1605751",
       "ItemName": "Revolutionary\u0027s Strike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789226",
+      "ItemName": "Sea Dragon Salad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220325",
+      "ItemName": "Shiny Tomato",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160809",
+      "ItemName": "Singed Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106944",
+      "ItemName": "Spider Silk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220257",
+      "ItemName": "Stinky Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106933",
+      "ItemName": "Stone Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220229",
+      "ItemName": "Wafer Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225402",
+      "ItemName": "White Rat Magician",
       "Notes": ""
     },
     {
       "ItemId": "1605749",
       "ItemName": "Whitehart Fire",
       "Notes": ""
+    },
+    {
+      "ItemId": "733112",
+      "ItemName": "Yucca",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.424652Z",
-  "ModifiedAt": "2026-09-30T03:55:50.424652Z",
+  "CreatedAt": "2026-09-30T13:39:01.590621Z",
+  "ModifiedAt": "2026-09-30T13:39:01.590622Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

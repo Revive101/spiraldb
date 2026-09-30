@@ -11,11 +11,6 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "1447030",
-      "ItemName": "Fantastic Plushie",
-      "Notes": ""
-    },
-    {
       "ItemId": "1447027",
       "ItemName": "Fantastic Unicorn (7 Day)",
       "Notes": ""
@@ -23,11 +18,6 @@
     {
       "ItemId": "1447026",
       "ItemName": "Fantastic Unicorn (PERM)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1447031",
-      "ItemName": "Majestic Plushie",
       "Notes": ""
     },
     {
@@ -41,11 +31,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "1447029",
-      "ItemName": "Mystic Plushie",
-      "Notes": ""
-    },
-    {
       "ItemId": "1447024",
       "ItemName": "Mystic Unicorn (7 Day)",
       "Notes": ""
@@ -53,6 +38,11 @@
     {
       "ItemId": "1447023",
       "ItemName": "Mystic Unicorn (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346193",
+      "ItemName": "Nightmare",
       "Notes": ""
     },
     {
@@ -86,8 +76,8 @@
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.433280Z",
-  "ModifiedAt": "2026-09-30T03:55:50.433281Z",
+  "CreatedAt": "2026-09-30T13:39:01.587874Z",
+  "ModifiedAt": "2026-09-30T13:39:01.587875Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

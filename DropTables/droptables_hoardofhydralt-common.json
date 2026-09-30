@@ -1,6 +1,6 @@
 {
   "Name": "HoardOfHydraLT-Common",
-  "Description": "BoosterPack-Set-18-3 Drops",
+  "Description": "BoosterPack-Set-18 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -31,18 +31,43 @@
       "Notes": ""
     },
     {
-      "ItemId": "220252",
-      "ItemName": "Big Squash",
+      "ItemId": "641608",
+      "ItemName": "Asparagus Spears",
       "Notes": ""
     },
     {
-      "ItemId": "206090",
-      "ItemName": "Birdcage",
+      "ItemId": "641597",
+      "ItemName": "Bearberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641612",
+      "ItemName": "Black Cap Crisps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641605",
+      "ItemName": "Bog Witch Beetroot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641613",
+      "ItemName": "Caliburnt Toast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641604",
+      "ItemName": "Chocolate Comet",
       "Notes": ""
     },
     {
       "ItemId": "220279",
       "ItemName": "Cow Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641610",
+      "ItemName": "Crab Knight Cakes",
       "Notes": ""
     },
     {
@@ -61,8 +86,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "641600",
+      "ItemName": "Crystal Custard",
+      "Notes": ""
+    },
+    {
       "ItemId": "100448",
       "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641603",
+      "ItemName": "Deepwater Toffee",
       "Notes": ""
     },
     {
@@ -76,16 +111,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "106969",
-      "ItemName": "Frost Flower",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220324",
-      "ItemName": "Glowing Rock Candy",
-      "Notes": ""
-    },
-    {
       "ItemId": "206087",
       "ItemName": "Grandfather Clock",
       "Notes": ""
@@ -96,13 +121,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "106970",
-      "ItemName": "Grendelweed",
+      "ItemId": "220270",
+      "ItemName": "Grilled Cheese",
       "Notes": ""
     },
     {
-      "ItemId": "220270",
-      "ItemName": "Grilled Cheese",
+      "ItemId": "641594",
+      "ItemName": "High Road Haggis",
       "Notes": ""
     },
     {
@@ -136,6 +161,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "641602",
+      "ItemName": "Lemon Harts",
+      "Notes": ""
+    },
+    {
       "ItemId": "100414",
       "ItemName": "Leprechaun",
       "Notes": ""
@@ -151,8 +181,28 @@
       "Notes": ""
     },
     {
+      "ItemId": "641606",
+      "ItemName": "Muscle Sprouts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641611",
+      "ItemName": "Ogre Meanies",
+      "Notes": ""
+    },
+    {
       "ItemId": "160201",
       "ItemName": "Open Burned Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641607",
+      "ItemName": "Pixie Parsnips",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641598",
+      "ItemName": "Pomegranite",
       "Notes": ""
     },
     {
@@ -161,8 +211,18 @@
       "Notes": ""
     },
     {
+      "ItemId": "641609",
+      "ItemName": "Seraph Food Cake",
+      "Notes": ""
+    },
+    {
       "ItemId": "258587",
       "ItemName": "Shell",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641596",
+      "ItemName": "Shepherd\u0027s Crook Pie",
       "Notes": ""
     },
     {
@@ -176,13 +236,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "220195",
-      "ItemName": "Wormy Apple",
+      "ItemId": "641595",
+      "ItemName": "Toad in the Hole",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641601",
+      "ItemName": "Weirwood Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641599",
+      "ItemName": "Wyrmy Apple",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.414091Z",
-  "ModifiedAt": "2026-09-30T03:55:50.414091Z",
+  "CreatedAt": "2026-09-30T13:39:01.572723Z",
+  "ModifiedAt": "2026-09-30T13:39:01.572724Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

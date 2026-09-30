@@ -1,6 +1,6 @@
 {
   "Name": "2022YuletidePackLT-Common-Shard",
-  "Description": "BoosterPack-Set-139 Drops",
+  "Description": "BoosterPack-Set-132 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -11,8 +11,228 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "1248063",
+      "ItemName": "Assaulted Caramels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220323",
+      "ItemName": "Bag of Jelly Beans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537487",
+      "ItemName": "Big Holiday Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106953",
+      "ItemName": "Black Coal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479604",
+      "ItemName": "Blue and Yellow Star Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511179",
+      "ItemName": "Blue Crumpled Gift Wrapping",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511177",
+      "ItemName": "Blue Gift Wrapping",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511173",
+      "ItemName": "Blue Unraveled Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511171",
+      "ItemName": "Blue Unwrapped Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257597",
+      "ItemName": "Boom Stroganoff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733180",
+      "ItemName": "Candy-Caned Yams",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733181",
+      "ItemName": "Cheese Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220245",
+      "ItemName": "Cherry Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248061",
+      "ItemName": "Chili Peppermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248062",
+      "ItemName": "Choco-Latkes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220277",
+      "ItemName": "Chocolate Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537595",
+      "ItemName": "Cranberry Frog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448474",
+      "ItemName": "Cranberry Sauce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317735",
+      "ItemName": "Dancing Reindeer Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733178",
+      "ItemName": "Egg Nog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374104",
+      "ItemName": "Festive Shrub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317733",
+      "ItemName": "Festive Yuletree",
+      "Notes": ""
+    },
+    {
       "ItemId": "1494693",
       "ItemName": "Fire Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448468",
+      "ItemName": "Fruit Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317736",
+      "ItemName": "Galloping Reindeer Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248064",
+      "ItemName": "Gingerbread House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317728",
+      "ItemName": "Gingerbread Wall Icing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733177",
+      "ItemName": "Gingerbread Wizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537545",
+      "ItemName": "Glacier Rocks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220284",
+      "ItemName": "Glowing Taffy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479602",
+      "ItemName": "Green and White Long Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511178",
+      "ItemName": "Green Crumpled Gift Wrapping",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511176",
+      "ItemName": "Green Gift Wrapping",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724294",
+      "ItemName": "Green Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511172",
+      "ItemName": "Green Unraveled Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511170",
+      "ItemName": "Green Unwrapped Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392078",
+      "ItemName": "Hespermint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317743",
+      "ItemName": "Holiday Pine Wreath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537533",
+      "ItemName": "Holiday Striped Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248060",
+      "ItemName": "Honeycrisp Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191672",
+      "ItemName": "Ice Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191668",
+      "ItemName": "Ice Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317745",
+      "ItemName": "Icy String Lights",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335011",
+      "ItemName": "Jingle Bells Theme",
       "Notes": ""
     },
     {
@@ -21,13 +241,198 @@
       "Notes": ""
     },
     {
+      "ItemId": "181064",
+      "ItemName": "Large Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537496",
+      "ItemName": "Large Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "Lollipop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733128",
+      "ItemName": "Marzipan Maize",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181065",
+      "ItemName": "Medium Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733185",
+      "ItemName": "Mince Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537534",
+      "ItemName": "Night Snow Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257589",
+      "ItemName": "Ninja Fig Bars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733179",
+      "ItemName": "Ninja Figgy Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374097",
+      "ItemName": "Pile o\u0027 Presents",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733129",
+      "ItemName": "Pyramints",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479603",
+      "ItemName": "Red and White Snowflake Present",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724293",
+      "ItemName": "Red Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374095",
+      "ItemName": "Red String Lights",
+      "Notes": ""
+    },
+    {
       "ItemId": "1492250",
       "ItemName": "Reindeer Knight",
       "Notes": ""
+    },
+    {
+      "ItemId": "1522487",
+      "ItemName": "Short Wintry Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537554",
+      "ItemName": "Small Snowy Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522481",
+      "ItemName": "Small Wintry Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733176",
+      "ItemName": "Snow Apple Cider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537552",
+      "ItemName": "Snow Pile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317726",
+      "ItemName": "Snowbound Yuletide Decor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317738",
+      "ItemName": "Snowflake Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537532",
+      "ItemName": "Snowflake Wallpaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374312",
+      "ItemName": "Snowy Stocking",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733184",
+      "ItemName": "Sourpuss Stovies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724298",
+      "ItemName": "Spiral Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220313",
+      "ItemName": "Sprinkle Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220317",
+      "ItemName": "Star Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537489",
+      "ItemName": "Star Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220235",
+      "ItemName": "Tomato Soup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206096",
+      "ItemName": "Toy Monkey",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374597",
+      "ItemName": "Toy Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537488",
+      "ItemName": "Tree Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248065",
+      "ItemName": "Tuti-Fruiti Cake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724292",
+      "ItemName": "Yellow Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317746",
+      "ItemName": "Yuletide Candy Canes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335014",
+      "ItemName": "Yuletide Jingle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317742",
+      "ItemName": "Yuletide Pine Wreath",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.432966Z",
-  "ModifiedAt": "2026-09-30T03:55:50.432966Z",
+  "CreatedAt": "2026-09-30T13:39:01.589689Z",
+  "ModifiedAt": "2026-09-30T13:39:01.589695Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

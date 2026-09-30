@@ -11,6 +11,11 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "1523172",
+      "ItemName": "Autoist\u0027s Shoes",
+      "Notes": ""
+    },
+    {
       "ItemId": "1507487",
       "ItemName": "Blimp Buddy",
       "Notes": ""
@@ -21,48 +26,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1257597",
-      "ItemName": "Boom Stroganoff",
-      "Notes": ""
-    },
-    {
-      "ItemId": "356127",
-      "ItemName": "Bread Fruit Bush",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220305",
-      "ItemName": "Buttered Bread",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1257601",
-      "ItemName": "Huckleberry Pie",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473638",
-      "ItemName": "Ivy League",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1257592",
-      "ItemName": "Key Lime Pie",
-      "Notes": ""
-    },
-    {
-      "ItemId": "473582",
-      "ItemName": "Kola Nuts",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1350290",
-      "ItemName": "Marleybone Wood Panels",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1507413",
-      "ItemName": "Mini Streetcar (7 Day)",
+      "ItemId": "1350291",
+      "ItemName": "Marleybone Parquet Floor",
       "Notes": ""
     },
     {
@@ -71,23 +36,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "1507409",
-      "ItemName": "Mini Trolley (7 Day)",
+      "ItemId": "1523127",
+      "ItemName": "Motorist\u0027s Shoes",
       "Notes": ""
     },
     {
-      "ItemId": "355108",
-      "ItemName": "Prickly Bear Cactus",
+      "ItemId": "100458",
+      "ItemName": "Sun Bird",
       "Notes": ""
     },
     {
-      "ItemId": "473152",
-      "ItemName": "Yellow Bell Pepper",
+      "ItemId": "1523217",
+      "ItemName": "Traveler\u0027s Shoes",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.429273Z",
-  "ModifiedAt": "2026-09-30T03:55:50.429273Z",
+  "CreatedAt": "2026-09-30T13:39:01.601323Z",
+  "ModifiedAt": "2026-09-30T13:39:01.601324Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

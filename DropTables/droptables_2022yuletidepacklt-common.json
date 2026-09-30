@@ -1,6 +1,6 @@
 {
   "Name": "2022YuletidePackLT-Common",
-  "Description": "BoosterPack-Set-139 Drops",
+  "Description": "BoosterPack-Set-132 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -18,11 +18,6 @@
     {
       "ItemId": "1511163",
       "ItemName": "Blue Closed Present",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1511179",
-      "ItemName": "Blue Crumpled Gift Wrapping",
       "Notes": ""
     },
     {
@@ -46,11 +41,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "1248061",
-      "ItemName": "Chili Peppermint",
-      "Notes": ""
-    },
-    {
       "ItemId": "1522223",
       "ItemName": "Evil Snowman Board (1 Day)",
       "Notes": ""
@@ -58,6 +48,11 @@
     {
       "ItemId": "1448463",
       "ItemName": "Festive Glass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1623059",
+      "ItemName": "Festive Rocking Horse (1 Day)",
       "Notes": ""
     },
     {
@@ -81,11 +76,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "733177",
-      "ItemName": "Gingerbread Wizard",
-      "Notes": ""
-    },
-    {
       "ItemId": "1511162",
       "ItemName": "Green Closed Present",
       "Notes": ""
@@ -101,8 +91,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1392078",
-      "ItemName": "Hespermint",
+      "ItemId": "100435",
+      "ItemName": "Grumpy Snowman",
       "Notes": ""
     },
     {
@@ -111,13 +101,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "589102",
-      "ItemName": "Hot Ginger Snaps",
+      "ItemId": "1359619",
+      "ItemName": "Hot Cross Buns",
       "Notes": ""
     },
     {
-      "ItemId": "1359605",
-      "ItemName": "Jiggy Pudding",
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
       "Notes": ""
     },
     {
@@ -131,11 +121,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "733185",
-      "ItemName": "Mince Pie",
-      "Notes": ""
-    },
-    {
       "ItemId": "126820",
       "ItemName": "Mint Staff",
       "Notes": ""
@@ -143,16 +128,6 @@
     {
       "ItemId": "470177",
       "ItemName": "Mixed Candy-cane (1 Day)",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1257589",
-      "ItemName": "Ninja Fig Bars",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733179",
-      "ItemName": "Ninja Figgy Pudding",
       "Notes": ""
     },
     {
@@ -201,6 +176,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
+      "Notes": ""
+    },
+    {
       "ItemId": "126808",
       "ItemName": "Santa Boots",
       "Notes": ""
@@ -213,16 +193,6 @@
     {
       "ItemId": "126807",
       "ItemName": "Santa Robe",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733176",
-      "ItemName": "Snow Apple Cider",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1638001",
-      "ItemName": "Snow Hoppers Banner",
       "Notes": ""
     },
     {
@@ -241,8 +211,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1392733",
-      "ItemName": "Snowhopper Sleigh (1 Day)",
+      "ItemId": "1558252",
+      "ItemName": "Solstice Rocking Horse (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220287",
+      "ItemName": "Star Lollipop",
       "Notes": ""
     },
     {
@@ -251,13 +226,33 @@
       "Notes": ""
     },
     {
+      "ItemId": "1623056",
+      "ItemName": "Starry Rocking Horse (1 Day)",
+      "Notes": ""
+    },
+    {
       "ItemId": "126821",
       "ItemName": "Sweet Staff",
       "Notes": ""
     },
     {
+      "ItemId": "1359620",
+      "ItemName": "Valencian Orange",
+      "Notes": ""
+    },
+    {
       "ItemId": "1511118",
       "ItemName": "Winter Mint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1558250",
+      "ItemName": "Winter Rocking Horse (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1623062",
+      "ItemName": "Wintry Rocking Horse (1 Day)",
       "Notes": ""
     },
     {
@@ -271,18 +266,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1638003",
-      "ItemName": "Yuletide Snowman Banner",
-      "Notes": ""
-    },
-    {
       "ItemId": "1359915",
       "ItemName": "Yuletide Stag (1 Day)",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.432968Z",
-  "ModifiedAt": "2026-09-30T03:55:50.432969Z",
+  "CreatedAt": "2026-09-30T13:39:01.589795Z",
+  "ModifiedAt": "2026-09-30T13:39:01.589796Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

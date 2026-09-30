@@ -11,18 +11,523 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "82724",
+      "ItemName": "A Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258582",
+      "ItemName": "Aether",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106948",
+      "ItemName": "Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789216",
+      "ItemName": "Ancient Date",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106962",
+      "ItemName": "Ancient Scroll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220206",
+      "ItemName": "Ape Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473526",
+      "ItemName": "Athame Pop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82705",
+      "ItemName": "Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537601",
+      "ItemName": "Bad Honeyed Dates",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160989",
+      "ItemName": "Beetle Beanbag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106965",
+      "ItemName": "Black Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537586",
+      "ItemName": "Black Sun Seeds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82749",
+      "ItemName": "Blue Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82900",
+      "ItemName": "Blue Krok Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82717",
+      "ItemName": "Blue Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106941",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82727",
+      "ItemName": "Bowl of Dates",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82728",
+      "ItemName": "Bowl of Lettuce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82726",
+      "ItemName": "Bowl of Tomatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106945",
+      "ItemName": "Bronze Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537600",
+      "ItemName": "Bunch of Figs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82897",
+      "ItemName": "Bushy Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82766",
+      "ItemName": "Carved Podium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220227",
+      "ItemName": "Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470141",
+      "ItemName": "Crokagator (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240103",
+      "ItemName": "Dastardly Radish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220209",
+      "ItemName": "Diamond Carrot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82758",
+      "ItemName": "Dim Scarab Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82851",
+      "ItemName": "Doused Krok Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82723",
+      "ItemName": "Fang Harp",
+      "Notes": ""
+    },
+    {
       "ItemId": "1492248",
       "ItemName": "Fire Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82846",
+      "ItemName": "Fire Chameleon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220296",
+      "ItemName": "Fire Cracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276291",
+      "ItemName": "Fish Fin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220311",
+      "ItemName": "Glowing Star Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220215",
+      "ItemName": "Golden Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220298",
+      "ItemName": "Golden Biscuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220217",
+      "ItemName": "Golden Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82752",
+      "ItemName": "Green Gem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220197",
+      "ItemName": "Green Grapes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220220",
+      "ItemName": "Gummy Firecat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537590",
+      "ItemName": "Hard Boiled Beetle Eggs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82845",
+      "ItemName": "Ice Chameleon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100462",
+      "ItemName": "Inferno Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789220",
+      "ItemName": "Kountry-Krok Butter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82842",
+      "ItemName": "Krok Bird Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82849",
+      "ItemName": "Krok Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82841",
+      "ItemName": "Krok Insect Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82833",
+      "ItemName": "Krok Moon Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82837",
+      "ItemName": "Krok Skull Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82824",
+      "ItemName": "Krok Snake Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82864",
+      "ItemName": "Krok Student Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82830",
+      "ItemName": "Krok Sun Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82829",
+      "ItemName": "Krok Tree Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789218",
+      "ItemName": "Krokodill Pickles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220306",
+      "ItemName": "Large Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220216",
+      "ItemName": "Large Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106942",
+      "ItemName": "Leather Straps",
       "Notes": ""
     },
     {
       "ItemId": "1494698",
       "ItemName": "Lightning Bats",
       "Notes": ""
+    },
+    {
+      "ItemId": "641711",
+      "ItemName": "Locust Kabob",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82867",
+      "ItemName": "Long Narrow Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220268",
+      "ItemName": "Medium Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789219",
+      "ItemName": "Neti Krokker Cookies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220225",
+      "ItemName": "Nettle Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106937",
+      "ItemName": "Ore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82828",
+      "ItemName": "Painted Bowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106961",
+      "ItemName": "Parchment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258590",
+      "ItemName": "Perfect Amethyst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82883",
+      "ItemName": "Pile of Dirt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537591",
+      "ItemName": "Pollen Bombs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641598",
+      "ItemName": "Pomegranite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82896",
+      "ItemName": "Potted Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82748",
+      "ItemName": "Purple Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82901",
+      "ItemName": "Purple Krok Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82722",
+      "ItemName": "Purple Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733129",
+      "ItemName": "Pyramints",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82750",
+      "ItemName": "Red Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82904",
+      "ItemName": "Red Krok Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82716",
+      "ItemName": "Red Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473520",
+      "ItemName": "Salmon Joy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "446071",
+      "ItemName": "Salmonberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789217",
+      "ItemName": "Salty Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258579",
+      "ItemName": "Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100416",
+      "ItemName": "Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106963",
+      "ItemName": "Scrap Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160991",
+      "ItemName": "Serpent Seat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106954",
+      "ItemName": "Shadow Oil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82822",
+      "ItemName": "Short Krokotopian Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82848",
+      "ItemName": "Sledgehammer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82743",
+      "ItemName": "Small Pillared Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220205",
+      "ItemName": "Square Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220317",
+      "ItemName": "Star Cookie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82844",
+      "ItemName": "Storm Chameleon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220329",
+      "ItemName": "Sun Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82740",
+      "ItemName": "Tall Ladder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82755",
+      "ItemName": "Tall Pumpkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220237",
+      "ItemName": "Tiny Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473724",
+      "ItemName": "Turquoise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82832",
+      "ItemName": "Worn Shovel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82853",
+      "ItemName": "Wrapped Long Bench",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.415537Z",
-  "ModifiedAt": "2026-09-30T03:55:50.415538Z",
+  "CreatedAt": "2026-09-30T13:39:01.577619Z",
+  "ModifiedAt": "2026-09-30T13:39:01.577631Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

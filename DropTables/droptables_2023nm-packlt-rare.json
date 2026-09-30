@@ -11,13 +11,8 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "739111",
-      "ItemName": "Beetle Plant",
-      "Notes": ""
-    },
-    {
-      "ItemId": "724104",
-      "ItemName": "Cord of Wood",
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
       "Notes": ""
     },
     {
@@ -31,13 +26,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "1374570",
-      "ItemName": "Glowing Seashrooms",
-      "Notes": ""
-    },
-    {
-      "ItemId": "724087",
-      "ItemName": "Grass Tent",
+      "ItemId": "1596308",
+      "ItemName": "Fiery Glowbug",
       "Notes": ""
     },
     {
@@ -46,33 +36,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "160379",
-      "ItemName": "Large Cypress Tree",
+      "ItemId": "1596310",
+      "ItemName": "Lively Glowbug",
       "Notes": ""
     },
     {
-      "ItemId": "683110",
-      "ItemName": "Open Campfire",
-      "Notes": ""
-    },
-    {
-      "ItemId": "538037",
-      "ItemName": "Poison Mushroom",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1433025",
-      "ItemName": "Sail Fern",
-      "Notes": ""
-    },
-    {
-      "ItemId": "160921",
-      "ItemName": "Spider Egg Sac",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1976564443",
-      "ItemName": "Storm Shark",
+      "ItemId": "1596312",
+      "ItemName": "Mythic Glowbug",
       "Notes": ""
     },
     {
@@ -84,10 +54,15 @@
       "ItemId": "62163194",
       "ItemName": "Vampire",
       "Notes": ""
+    },
+    {
+      "ItemId": "1596313",
+      "ItemName": "Zappy Glowbug",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.424927Z",
-  "ModifiedAt": "2026-09-30T03:55:50.424927Z",
+  "CreatedAt": "2026-09-30T13:39:01.591010Z",
+  "ModifiedAt": "2026-09-30T13:39:01.591011Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

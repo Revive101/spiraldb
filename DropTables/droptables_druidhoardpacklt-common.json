@@ -11,8 +11,13 @@
   "TrainingPoints": 0,
   "Items": [
     {
-      "ItemId": "106941",
-      "ItemName": "Bone",
+      "ItemId": "1470627",
+      "ItemName": "Attack Badger (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470628",
+      "ItemName": "Battle Badger (1 Day)",
       "Notes": ""
     },
     {
@@ -21,18 +26,13 @@
       "Notes": ""
     },
     {
-      "ItemId": "1479623",
-      "ItemName": "Broken Vase with Flower",
-      "Notes": ""
-    },
-    {
       "ItemId": "1350234",
       "ItemName": "Bronze",
       "Notes": ""
     },
     {
-      "ItemId": "106939",
-      "ItemName": "Cat Tail",
+      "ItemId": "1470624",
+      "ItemName": "Combat Badger (1 Day)",
       "Notes": ""
     },
     {
@@ -41,53 +41,38 @@
       "Notes": ""
     },
     {
-      "ItemId": "106935",
-      "ItemName": "Deep Mushroom",
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
       "Notes": ""
     },
     {
-      "ItemId": "1479624",
-      "ItemName": "Drains Sconce",
+      "ItemId": "225420",
+      "ItemName": "Deathbat",
       "Notes": ""
     },
     {
-      "ItemId": "220234",
-      "ItemName": "Drumstick",
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
       "Notes": ""
     },
     {
-      "ItemId": "276291",
-      "ItemName": "Fish Fin",
+      "ItemId": "100463",
+      "ItemName": "Fire Salamander",
       "Notes": ""
     },
     {
-      "ItemId": "220212",
-      "ItemName": "Fries",
+      "ItemId": "1479647",
+      "ItemName": "General Greyflame",
       "Notes": ""
     },
     {
-      "ItemId": "100325",
-      "ItemName": "Frog",
+      "ItemId": "100329",
+      "ItemName": "Goat Monk",
       "Notes": ""
     },
     {
-      "ItemId": "220242",
-      "ItemName": "Frosted Cupcake",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1479644",
-      "ItemName": "Ghost Warden",
-      "Notes": ""
-    },
-    {
-      "ItemId": "175468",
-      "ItemName": "Grizzley Boar",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106931",
-      "ItemName": "Mist Wood",
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
       "Notes": ""
     },
     {
@@ -96,83 +81,43 @@
       "Notes": ""
     },
     {
-      "ItemId": "1479625",
-      "ItemName": "Notebook",
+      "ItemId": "1479636",
+      "ItemName": "Orange Crystals",
       "Notes": ""
     },
     {
-      "ItemId": "220201",
-      "ItemName": "Orange Jalapeno",
+      "ItemId": "1479642",
+      "ItemName": "Ruined River Painting",
       "Notes": ""
     },
     {
-      "ItemId": "106937",
-      "ItemName": "Ore",
+      "ItemId": "1359623",
+      "ItemName": "Satyr Chow",
       "Notes": ""
     },
     {
-      "ItemId": "1248268",
-      "ItemName": "Queen Crape Myrtle",
+      "ItemId": "1479637",
+      "ItemName": "Slimy Purple Crystal",
       "Notes": ""
     },
     {
-      "ItemId": "220271",
-      "ItemName": "Radioactive Pizza",
+      "ItemId": "1479639",
+      "ItemName": "Strange Blue and Purple Coral",
       "Notes": ""
     },
     {
-      "ItemId": "589180",
-      "ItemName": "Red Huckleberries",
+      "ItemId": "1479638",
+      "ItemName": "Strange Green and Orange Coral",
       "Notes": ""
     },
     {
-      "ItemId": "1479626",
-      "ItemName": "Rolled Up Rug",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1479627",
-      "ItemName": "Ruined Forest Painting",
-      "Notes": ""
-    },
-    {
-      "ItemId": "100416",
-      "ItemName": "Scarab",
-      "Notes": ""
-    },
-    {
-      "ItemId": "106933",
-      "ItemName": "Stone Block",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1248001",
-      "ItemName": "Sunion",
-      "Notes": ""
-    },
-    {
-      "ItemId": "1479628",
-      "ItemName": "Trash Pile",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220250",
-      "ItemName": "Truffle",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220229",
-      "ItemName": "Wafer Biscuit",
-      "Notes": ""
-    },
-    {
-      "ItemId": "220232",
-      "ItemName": "Yogurt",
+      "ItemId": "1479655",
+      "ItemName": "The Boss",
       "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.415955Z",
-  "ModifiedAt": "2026-09-30T03:55:50.415955Z",
+  "CreatedAt": "2026-09-30T13:39:01.578045Z",
+  "ModifiedAt": "2026-09-30T13:39:01.578046Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

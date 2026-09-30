@@ -11,8 +11,133 @@
   "TrainingPoints": 0,
   "Items": [
     {
+      "ItemId": "473722",
+      "ItemName": "Agave Leaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206106",
+      "ItemName": "Apple Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212000",
+      "ItemName": "Aquila Atlantea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212004",
+      "ItemName": "Aquila Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212003",
+      "ItemName": "Aquila Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212005",
+      "ItemName": "Aquila Epic Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212001",
+      "ItemName": "Aquila Olympus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212002",
+      "ItemName": "Aquila Tartarus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220255",
+      "ItemName": "Arrow Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225514",
+      "ItemName": "Basilisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739109",
+      "ItemName": "Basket of Spears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356127",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257599",
+      "ItemName": "Bread Fruit Fruit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160239",
+      "ItemName": "Carved Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160845",
+      "ItemName": "Copper Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220204",
+      "ItemName": "Crunch Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100407",
+      "ItemName": "Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220314",
+      "ItemName": "Fairy Cake",
+      "Notes": ""
+    },
+    {
       "ItemId": "1699143",
       "ItemName": "Fires of Mars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "106934",
+      "ItemName": "Fossil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724071",
+      "ItemName": "Gallant Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220215",
+      "ItemName": "Golden Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350763",
+      "ItemName": "Golden Blossom Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220291",
+      "ItemName": "Golden Squash",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350232",
+      "ItemName": "Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672967",
+      "ItemName": "Ivy-Covered Vase",
       "Notes": ""
     },
     {
@@ -21,8 +146,38 @@
       "Notes": ""
     },
     {
+      "ItemId": "258581",
+      "ItemName": "Kelp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206117",
+      "ItemName": "Large Clay Jar ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350012",
+      "ItemName": "Lead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160883",
+      "ItemName": "Medium Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383141",
+      "ItemName": "Minotarts",
+      "Notes": ""
+    },
+    {
       "ItemId": "1699141",
       "ItemName": "Neptune\u0027s Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225412",
+      "ItemName": "Nightwalker",
       "Notes": ""
     },
     {
@@ -36,18 +191,173 @@
       "Notes": ""
     },
     {
+      "ItemId": "473166",
+      "ItemName": "Purple Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350231",
+      "ItemName": "Pyrite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713168",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473173",
+      "ItemName": "Red Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160255",
+      "ItemName": "Ringed Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473720",
+      "ItemName": "Roasted Chickpeas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258585",
+      "ItemName": "Sandstone",
+      "Notes": ""
+    },
+    {
       "ItemId": "1699139",
       "ItemName": "Saturn\u0027s Reaping",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248248",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258580",
+      "ItemName": "Shark Tooth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724072",
+      "ItemName": "Shielded Rose Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160884",
+      "ItemName": "Short Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643087",
+      "ItemName": "Short Woven Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160261",
+      "ItemName": "Small Purple Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160242",
+      "ItemName": "Snapped Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160241",
+      "ItemName": "Square Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220294",
+      "ItemName": "Square Root",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220205",
+      "ItemName": "Square Watermelon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160820",
+      "ItemName": "Standing Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220257",
+      "ItemName": "Stinky Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160256",
+      "ItemName": "Stitched Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160240",
+      "ItemName": "Stone Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "258586",
+      "ItemName": "Sunstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248008",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643088",
+      "ItemName": "Tall Woven Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317270",
+      "ItemName": "Tapestry to Aquila Gardens",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220260",
+      "ItemName": "Tasty Biscuit",
       "Notes": ""
     },
     {
       "ItemId": "1699147",
       "ItemName": "Terminus\u0027 Strike",
       "Notes": ""
+    },
+    {
+      "ItemId": "1350011",
+      "ItemName": "Tin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473724",
+      "ItemName": "Turquoise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724077",
+      "ItemName": "Vine Spiral Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739215",
+      "ItemName": "Yarn Basket",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.432731Z",
-  "ModifiedAt": "2026-09-30T03:55:50.432731Z",
+  "CreatedAt": "2026-09-30T13:39:01.605863Z",
+  "ModifiedAt": "2026-09-30T13:39:01.605866Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }

@@ -1,6 +1,6 @@
 {
   "Name": "2015YuletidePackLT-UnCommon",
-  "Description": "BoosterPack-Set-35 Drops",
+  "Description": "BoosterPack-Set-35-3 Drops",
   "RollChance": 1,
   "Weight": 100,
   "NoneChance": 0,
@@ -13,11 +13,6 @@
     {
       "ItemId": "1359625",
       "ItemName": "Beast Wellington",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733131",
-      "ItemName": "Bedrock Bonbons",
       "Notes": ""
     },
     {
@@ -36,18 +31,8 @@
       "Notes": ""
     },
     {
-      "ItemId": "641604",
-      "ItemName": "Chocolate Comet",
-      "Notes": ""
-    },
-    {
       "ItemId": "473524",
       "ItemName": "Cry Babies",
-      "Notes": ""
-    },
-    {
-      "ItemId": "641702",
-      "ItemName": "Crystalweb Candy",
       "Notes": ""
     },
     {
@@ -81,13 +66,23 @@
       "Notes": ""
     },
     {
+      "ItemId": "220324",
+      "ItemName": "Glowing Rock Candy",
+      "Notes": ""
+    },
+    {
       "ItemId": "470176",
       "ItemName": "Green Candy-cane (1 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "641704",
-      "ItemName": "Hickory Chicory",
+      "ItemId": "220285",
+      "ItemName": "Gummy Bloodbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220331",
+      "ItemName": "Gummy Humongofrog",
       "Notes": ""
     },
     {
@@ -98,6 +93,11 @@
     {
       "ItemId": "1359619",
       "ItemName": "Hot Cross Buns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220332",
+      "ItemName": "Jar of Jelly Beans",
       "Notes": ""
     },
     {
@@ -113,11 +113,6 @@
     {
       "ItemId": "1374126",
       "ItemName": "Majestic Reindeer Decoration",
-      "Notes": ""
-    },
-    {
-      "ItemId": "733185",
-      "ItemName": "Mince Pie",
       "Notes": ""
     },
     {
@@ -141,6 +136,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "220283",
+      "ItemName": "Nutty Candy bar",
+      "Notes": ""
+    },
+    {
       "ItemId": "126819",
       "ItemName": "Ornamental Paper Staff",
       "Notes": ""
@@ -161,23 +161,23 @@
       "Notes": ""
     },
     {
-      "ItemId": "1374135",
-      "ItemName": "Polarian Shipwreck Painting",
-      "Notes": ""
-    },
-    {
       "ItemId": "1359612",
       "ItemName": "Polaris Fries",
       "Notes": ""
     },
     {
-      "ItemId": "1374137",
-      "ItemName": "Portrait of Frozen Tears",
+      "ItemId": "470174",
+      "ItemName": "Red Candy-cane (1 Day)",
       "Notes": ""
     },
     {
-      "ItemId": "470174",
-      "ItemName": "Red Candy-cane (1 Day)",
+      "ItemId": "220333",
+      "ItemName": "Rock and Roll Candy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220289",
+      "ItemName": "Rock Candy",
       "Notes": ""
     },
     {
@@ -206,11 +206,6 @@
       "Notes": ""
     },
     {
-      "ItemId": "537588",
-      "ItemName": "Simple Sugar Pop",
-      "Notes": ""
-    },
-    {
       "ItemId": "537551",
       "ItemName": "Snow Basin",
       "Notes": ""
@@ -218,6 +213,11 @@
     {
       "ItemId": "1374106",
       "ItemName": "Spiral Light Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "220287",
+      "ItemName": "Star Lollipop",
       "Notes": ""
     },
     {
@@ -236,6 +236,11 @@
       "Notes": ""
     },
     {
+      "ItemId": "1317754",
+      "ItemName": "WinterGlide Skates (1 Day)",
+      "Notes": ""
+    },
+    {
       "ItemId": "1374136",
       "ItemName": "Witch\u0027s Hut Painting",
       "Notes": ""
@@ -244,10 +249,15 @@
       "ItemId": "470179",
       "ItemName": "Yellow Candy-cane (1 Day)",
       "Notes": ""
+    },
+    {
+      "ItemId": "1359915",
+      "ItemName": "Yuletide Stag (1 Day)",
+      "Notes": ""
     }
   ],
-  "CreatedAt": "2026-09-30T03:55:50.411129Z",
-  "ModifiedAt": "2026-09-30T03:55:50.411129Z",
+  "CreatedAt": "2026-09-30T13:39:01.582105Z",
+  "ModifiedAt": "2026-09-30T13:39:01.582106Z",
   "CreatedBy": "Phill030-DropTable-Generator",
   "ModifiedBy": "Phill030-DropTable-Generator"
 }
