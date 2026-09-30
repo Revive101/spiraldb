@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Explore"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Explore",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -51,7 +51,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -75,7 +75,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "Marleybone/Interiors/MB_SherlockHolmesHouse_Instance",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -207,7 +207,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -572,7 +572,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "4_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 4",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -728,7 +728,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "5_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 5",
       "m_goalNameID": 707202503,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -748,7 +748,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "Marleybone/MB_Station/MB_Station_Hub",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -895,10 +895,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MB-AIR2-C02-004",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MB-AIRHub-C02-002"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -909,51 +912,51 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Explore"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 4"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 4"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "5_WizardQuestGoals_TalkNPC"
+        "Goal 5"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "5_WizardQuestGoals_TalkNPC"
+        "Goal 5"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -980,9 +983,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B3D_00000006",
+            "m_dialog": "WizQst9B40_00000011",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Sherlock_Bones.dds",
-            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/SherlockBones_QST_09.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/SherlockBones_QST_18.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39694,
@@ -1048,32 +1051,32 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B3D_00000007",
+            "m_dialog": "WizQst9B40_00000012",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_Sherlock_Bones.dds",
-            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/SherlockBones_QST_10.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/SherlockBones_QST_19.mp3",
             "m_action": "",
-            "m_dialogEvent": "",
+            "m_dialogEvent": "MB-AIRHub-C02-003_BonesGone",
             "m_actorTemplateID": 39694,
-            "m_cameraName": "",
-            "m_interpolationDuration": 0.0,
-            "m_cameraOffsetX": 0.0,
-            "m_cameraOffsetY": 0.0,
-            "m_cameraOffsetZ": 0.0,
-            "m_pitch": 0.0,
-            "m_yaw": 0.0,
+            "m_cameraName": "LOCATION",
+            "m_interpolationDuration": 2.0,
+            "m_cameraOffsetX": -674.0533,
+            "m_cameraOffsetY": 2066.59,
+            "m_cameraOffsetZ": -47.12931,
+            "m_pitch": 0.2771745,
+            "m_yaw": -1.17109,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
             "m_cameraShakeDuration": 0.0,
             "m_cameraShakeAmplitude": 0.0,
             "m_bypassCameraOnReview": true,
-            "m_cameraZoneName": "",
+            "m_cameraZoneName": "Marleybone/MB_Station/MB_Station_Hub",
             "m_duration": 0.0,
             "m_delay": 0.0,
-            "m_cameraHidePlayers": 0,
-            "m_walkAwayNpcTemplateID": 0,
+            "m_cameraHidePlayers": 1,
+            "m_walkAwayNpcTemplateID": 39694,
             "m_walkAwayExitDirectionInDegrees": 0.0,
-            "m_walkAwayFadeTime": 0.0,
-            "m_walkAwayUseCurrentFacing": false,
+            "m_walkAwayFadeTime": 3.0,
+            "m_walkAwayUseCurrentFacing": true,
             "m_standInPlayerTag": "",
             "m_fadeOutCamera": false,
             "m_snapCameraToPlayerAtExit": false,
