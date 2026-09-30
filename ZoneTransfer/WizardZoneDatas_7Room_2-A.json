@@ -1,0 +1,28 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_Gauntlet_7Room_Sub/7Room_2",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Trigger-TeleportTo4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_Gauntlet_7Room_Sub/7Room_3"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_Amphitheater from T3)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre"
+      }
+    }
+  ]
+}
