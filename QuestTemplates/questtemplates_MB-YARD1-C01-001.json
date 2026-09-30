@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Explore"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Explore",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -47,7 +47,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -199,7 +199,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_Explore",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -220,7 +220,92 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "",
-      "m_dialogList": null,
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst9B62_00000037",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst9B62_00000036",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Meowiarty_Red.dds",
+                "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/Meoiarty_ZN_02.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 2.0,
+                "m_cameraOffsetX": -8779.043,
+                "m_cameraOffsetY": 37228.22,
+                "m_cameraOffsetZ": -139.7989,
+                "m_pitch": -0.04271867,
+                "m_yaw": -1.044635,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "Marleybone/MB_ScotlandYard/MB_Prison",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 1521251,
+                "m_walkAwayExitDirectionInDegrees": 120.0,
+                "m_walkAwayFadeTime": 3.0,
+                "m_walkAwayUseCurrentFacing": true,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": true,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [
+                  "MB-Standin-Meowiarty instance"
+                ],
+                "m_dialogAnimationList": [
+                  "0|MB-Standin-Meowiarty instance|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -231,12 +316,12 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "Meowiarty",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "4_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 4",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -388,7 +473,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "5_WizardQuestGoals_Explore",
+      "m_goalName": "Goal 5",
       "m_goalNameID": 707202503,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -409,7 +494,126 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "",
-      "m_dialogList": null,
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "MB-YARD1-NPC04_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst9B62_00000038",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Bobbie03.dds",
+                "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/OfficerStone_ZN_02.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": -14561.3,
+                "m_cameraOffsetY": 43578.09,
+                "m_cameraOffsetZ": 131.5019,
+                "m_pitch": 0.08668816,
+                "m_yaw": 1.008649,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "Marleybone/MB_ScotlandYard/MB_Prison",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 1521252,
+                "m_walkAwayExitDirectionInDegrees": 270.0,
+                "m_walkAwayFadeTime": 3.0,
+                "m_walkAwayUseCurrentFacing": true,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": true,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [
+                  "MB-Standin-Meowiarty02 instance"
+                ],
+                "m_dialogAnimationList": [
+                  "0|39709|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000463",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000464",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1320323901
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -420,12 +624,12 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "Meowiarty Sighted!",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "6_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 6",
       "m_goalNameID": 740756935,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -577,7 +781,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "7_WizardQuestGoals_Explore",
+      "m_goalName": "Goal 7",
       "m_goalNameID": 774311367,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -598,7 +802,163 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "",
-      "m_dialogList": null,
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst9B62_00000016",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst9B62_00000039",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Meowiarty_Red.dds",
+                "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/Meoiarty_ZN_03.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 2.0,
+                "m_cameraOffsetX": -7354.696,
+                "m_cameraOffsetY": 45841.61,
+                "m_cameraOffsetZ": -109.2765,
+                "m_pitch": 0.08755355,
+                "m_yaw": 0.7448997,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "Marleybone/MB_ScotlandYard/MB_Prison",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 1521253,
+                "m_walkAwayExitDirectionInDegrees": 150.0,
+                "m_walkAwayFadeTime": 3.0,
+                "m_walkAwayUseCurrentFacing": true,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [
+                  "MB-Standin-Meowiarty03 instance",
+                  "WC_StandIn_Malistaire instance"
+                ],
+                "m_dialogAnimationList": [
+                  "0|MB-Standin-Meowiarty03 instance|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [
+                  "2.2|WC_StandIn_Malistaire instance|180|2"
+                ],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "Out Black",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "",
+                "m_picture": "",
+                "m_soundFile": "",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 0.0,
+                "m_cameraOffsetY": 0.0,
+                "m_cameraOffsetZ": 0.0,
+                "m_pitch": 0.0,
+                "m_yaw": 0.0,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 1520064,
+                "m_walkAwayExitDirectionInDegrees": 315.0,
+                "m_walkAwayFadeTime": 3.0,
+                "m_walkAwayUseCurrentFacing": true,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -609,12 +969,12 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "Meowiarty Again",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "8_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 8",
       "m_goalNameID": 807865799,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -906,7 +1266,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "9_WizardQuestGoals_Explore",
+      "m_goalName": "Goal 9",
       "m_goalNameID": 841420231,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -928,8 +1288,125 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
-      "m_dialogList": null,
+      "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T4",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "MB-YARD1-NPC09_Thug_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst9B62_00000040",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Rat_Thug_Blue.dds",
+                "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/GibsonOLeary_ZN_01.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": -24.78859,
+                "m_cameraOffsetY": -428.7161,
+                "m_cameraOffsetZ": -657.6498,
+                "m_pitch": -0.03999938,
+                "m_yaw": 0.3200023,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T4",
+                "m_duration": 0.0,
+                "m_delay": 1.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|39840|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000474",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000475",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1814878732
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -940,12 +1417,12 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "Activator Volume MB-YARD1-C01-001_Goal09",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "10_WizardQuestGoals_Kill",
+      "m_goalName": "Goal 10",
       "m_goalNameID": 572984771,
       "m_goalTitle": "WizardQuestGoals_Kill",
       "m_goalUnderway": null,
@@ -955,7 +1432,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_138144",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Rat_Thug_Blue.dds",
       "m_displayImage2": "",
@@ -968,8 +1453,93 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "",
-      "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst9B62_00000041",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WC-ActorDialog_00000170",
+                "m_picture": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_Rat_Thug_Blue_NPC.dds",
+                "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/GibsonOLeary_ZN_02.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 39890,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 23.5047,
+                "m_cameraOffsetY": -1147.81,
+                "m_cameraOffsetZ": -634.5899,
+                "m_pitch": 0.0400015,
+                "m_yaw": 3.113189,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T4",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 1521254,
+                "m_walkAwayExitDirectionInDegrees": 180.0,
+                "m_walkAwayFadeTime": 2.0,
+                "m_walkAwayUseCurrentFacing": true,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [
+                  "MB-StandIn-GibsonOLeary instance"
+                ],
+                "m_dialogAnimationList": [
+                  "0|MB-StandIn-GibsonOLeary instance|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -977,11 +1547,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Gibson_OLeary"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "11_WizardQuestGoals_Explore",
+      "m_goalName": "Goal 11",
       "m_goalNameID": 1646726595,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -1001,7 +1574,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Prison",
       "m_dialogList": null,
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
@@ -1013,12 +1586,12 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "Meowiarty Spotted!",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "12_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 12",
       "m_goalNameID": 1574498877,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -1170,7 +1743,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "13_WizardQuestGoals_Explore",
+      "m_goalName": "Goal 13",
       "m_goalNameID": 500757053,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -1192,7 +1765,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T5",
       "m_dialogList": null,
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
@@ -1203,13 +1776,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "",
+      "m_zoneTag": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T5",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "14_WizardQuestGoals_Kill",
+      "m_goalName": "Goal 14",
       "m_goalNameID": 572984770,
       "m_goalTitle": "WizardQuestGoals_Kill",
       "m_goalUnderway": null,
@@ -1219,7 +1792,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_147286",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Wraith.dds",
       "m_displayImage2": "",
@@ -1233,7 +1814,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -1241,11 +1822,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Agony_Wraith"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "15_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 15",
       "m_goalNameID": 1646726594,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -1417,10 +2001,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MB-YARDHub-C01-001",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MB-MUSEHub-C03-002"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -1431,161 +2018,161 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Explore"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_Explore"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_Explore"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 4"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 4"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "5_WizardQuestGoals_Explore"
+        "Goal 5"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "5_WizardQuestGoals_Explore"
+        "Goal 5"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "6_WizardQuestGoals_TalkNPC"
+        "Goal 6"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "6_WizardQuestGoals_TalkNPC"
+        "Goal 6"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "7_WizardQuestGoals_Explore"
+        "Goal 7"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "7_WizardQuestGoals_Explore"
+        "Goal 7"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "8_WizardQuestGoals_TalkNPC"
+        "Goal 8"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "8_WizardQuestGoals_TalkNPC"
+        "Goal 8"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "9_WizardQuestGoals_Explore"
+        "Goal 9"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "9_WizardQuestGoals_Explore"
+        "Goal 9"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "10_WizardQuestGoals_Kill"
+        "Goal 10"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "10_WizardQuestGoals_Kill"
+        "Goal 10"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "11_WizardQuestGoals_Explore"
+        "Goal 11"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "11_WizardQuestGoals_Explore"
+        "Goal 11"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "12_WizardQuestGoals_TalkNPC"
+        "Goal 12"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "12_WizardQuestGoals_TalkNPC"
+        "Goal 12"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "13_WizardQuestGoals_Explore"
+        "Goal 13"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "13_WizardQuestGoals_Explore"
+        "Goal 13"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "14_WizardQuestGoals_Kill"
+        "Goal 14"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "14_WizardQuestGoals_Kill"
+        "Goal 14"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "15_WizardQuestGoals_TalkNPC"
+        "Goal 15"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "15_WizardQuestGoals_TalkNPC"
+        "Goal 15"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
