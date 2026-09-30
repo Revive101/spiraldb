@@ -1,0 +1,17 @@
+{
+  "ZoneName": "MooShu/MS_Death/Interiors/MS_Death2_Dojo1A",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Death2 MainArea",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Island",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage"
+      }
+    }
+  ]
+}
