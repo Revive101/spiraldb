@@ -1,0 +1,17 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_T1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (DS_T1 to Hatchery)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_Hatchery from T1)",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery"
+      }
+    }
+  ]
+}
