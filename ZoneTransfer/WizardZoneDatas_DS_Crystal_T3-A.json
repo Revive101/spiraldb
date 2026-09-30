@@ -1,0 +1,17 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (DS_T3 to Crystal)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_CrystalGrove from T3)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove"
+      }
+    }
+  ]
+}
