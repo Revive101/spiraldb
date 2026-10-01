@@ -1,27 +1,27 @@
 {
-  "ZoneName": "Krokotopia/KT_HubFlyingShip_ToIsland",
+  "ZoneName": "Krokotopia/KT_HubFlyingShip_ToMainland",
   "Events": [],
   "Teleports": [
     {
-      "TriggerName": "Trigger",
+      "TriggerName": "KT_TeleportToOasis",
       "Teleport": {
         "m_exitTeleporter": 0,
         "m_teleporterTag": 0,
         "m_teleportType": "TELEPORT_STATIC",
         "m_transitionID": 0,
-        "m_destinationLoc": "12089.23,359.1008,1200.436,-2.629959",
-        "m_destinationZone": "Krokotopia/KT_Hub_Sphinx"
+        "m_destinationLoc": "Target location (Krok_Hub Sphinx Island Return)",
+        "m_destinationZone": "Krokotopia/KT_Hub"
       }
     },
     {
-      "TriggerName": "KT_TeleportToSphinx",
+      "TriggerName": "Trigger 4",
       "Teleport": {
         "m_exitTeleporter": 0,
         "m_teleporterTag": 0,
         "m_teleportType": "TELEPORT_STATIC",
         "m_transitionID": 0,
-        "m_destinationLoc": "Start",
-        "m_destinationZone": "Krokotopia/KT_Hub_Sphinx"
+        "m_destinationLoc": "Target location (Krok_Hub Sphinx Island Return)",
+        "m_destinationZone": "Krokotopia/KT_Hub"
       }
     }
   ]

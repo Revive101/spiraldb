@@ -78,6 +78,17 @@
         "m_destinationLoc": "FromSphinxIsland",
         "m_destinationZone": "Krokotopia/Interiors/KT_School_Instanced"
       }
+    },
+    {
+      "TriggerName": "KT-New-BoatRide2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Krokotopia/KT_HubFlyingShip_ToMainland"
+      }
     }
   ]
 }
