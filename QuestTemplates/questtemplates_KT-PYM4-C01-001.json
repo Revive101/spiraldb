@@ -19,7 +19,12 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResPostEvent, Imcodec.ObjectProperty",
+            "m_eventName": "GoDoThroneRoom"
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": null,
