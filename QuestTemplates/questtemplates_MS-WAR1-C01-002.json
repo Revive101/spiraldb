@@ -68,7 +68,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_595631",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Soldier_Red.dds",
       "m_displayImage2": "",
