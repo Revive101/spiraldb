@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_146948",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Cat_Thug_Black_NPC.dds",
       "m_displayImage2": "",
@@ -246,7 +254,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_824083",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MB_Ladies_Lower04.dds",
       "m_displayImage2": "",
@@ -454,7 +470,15 @@
     }
   ],
   "m_startResults": {
-    "m_results": []
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
+        "m_entryName": "QT-MB-AIR1-C01-003",
+        "m_isQuestRegistry": false,
+        "m_value": 1,
+        "m_questName": ""
+      }
+    ]
   },
   "m_endResults": {
     "m_results": [
