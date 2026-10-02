@@ -28,7 +28,15 @@
         ]
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED23_00000000",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_M_wizard_military_3BLUE.dds",
       "m_displayImage2": "",
@@ -191,7 +199,15 @@
         ]
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED23_00000000",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_M_wizard_military_3BLUE.dds",
       "m_displayImage2": "",
