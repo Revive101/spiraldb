@@ -3,6 +3,17 @@
   "Events": [],
   "Teleports": [
     {
+      "TriggerName": "ToTower6FromTO",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From War 1",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_War1_T6"
+      }
+    },
+    {
       "TriggerName": "ToWarHub",
       "Teleport": {
         "m_exitTeleporter": 0,
@@ -11,6 +22,17 @@
         "m_transitionID": 0,
         "m_destinationLoc": "2320.937,-22275.54,-268.1769,1.625275",
         "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromTO",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From War 1",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_War1_T3"
       }
     }
   ]

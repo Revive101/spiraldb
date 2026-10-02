@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_TalkNPC"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_146948",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Cat_Thug_Black_NPC.dds",
       "m_displayImage2": "",
@@ -236,7 +244,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -246,7 +254,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_824083",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MB_Ladies_Lower04.dds",
       "m_displayImage2": "",
@@ -454,7 +470,15 @@
     }
   ],
   "m_startResults": {
-    "m_results": []
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
+        "m_entryName": "QT-MB-AIR1-C01-003",
+        "m_isQuestRegistry": false,
+        "m_value": 1,
+        "m_questName": ""
+      }
+    ]
   },
   "m_endResults": {
     "m_results": [
@@ -471,10 +495,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MB-AIR1-C01-002",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MB-AIR1-C01-002"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -485,18 +512,18 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_TalkNPC"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -523,9 +550,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B44_00000007",
+            "m_dialog": "WizQst9B46_00000009",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MB_Ladies_Lower04.dds",
-            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/MsConrail_QST_03.mp3",
+            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/MsConrail_QST_12.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39695,
@@ -591,9 +618,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B44_00000008",
+            "m_dialog": "WizQst9B46_00000010",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MB_Ladies_Lower04.dds",
-            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/MsConrail_QST_04.mp3",
+            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/MsConrail_QST_13.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39695,
@@ -659,9 +686,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B44_00000009",
+            "m_dialog": "WizQst9B46_00000011",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MB_Ladies_Lower04.dds",
-            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/MsConrail_QST_05.mp3",
+            "m_soundFile": "|Marleybone|WorldData|Sound/Dialogue/MsConrail_QST_14.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39695,

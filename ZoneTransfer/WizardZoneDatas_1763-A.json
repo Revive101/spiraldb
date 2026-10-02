@@ -12,6 +12,50 @@
         "m_destinationLoc": "-2156.81,-2337.393,-239.9993,-3.141593",
         "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Roof"
       }
+    },
+    {
+      "TriggerName": "ToTower4FromPrison",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "43.97863,-1604.134,-724.9929,-3.141593",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T4"
+      }
+    },
+    {
+      "TriggerName": "ToTower5FromPrison",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9.296822,-1039.651,0,-3.141593",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T5"
+      }
+    },
+    {
+      "TriggerName": "ToTower1FromPrison",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Prison Zone",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromPrison",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Prison Zone",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_Prison_T3"
+      }
     }
   ]
 }

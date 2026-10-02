@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Explore"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Explore",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -41,7 +41,122 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown",
-      "m_dialogList": null,
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "WC-HUB-NPC07_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Only",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000009",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Gamma.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/Gamma_002_01.mp3",
+                "m_action": "",
+                "m_dialogEvent": "WC-OLDE-MAIN-001_PiggleGone",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": -4585.296,
+                "m_cameraOffsetY": -3709.338,
+                "m_cameraOffsetZ": -1375.743,
+                "m_pitch": 0.4473115,
+                "m_yaw": -1.810589,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/WC_OldeTown",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 1,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000286",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000303",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Only",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1295114278
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -57,7 +172,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_00000008",
+      "m_goalName": "Goal 1",
       "m_goalNameID": 572984775,
       "m_goalTitle": "WizardQuestGoals_00000008",
       "m_goalUnderway": null,
@@ -86,8 +201,366 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
-      "m_dialogList": null,
+      "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "WC-OLDE-NPC03_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000012",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Girl_Death3.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/PennyDreadful_002_01.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 0.0,
+                "m_cameraOffsetX": 307.8019,
+                "m_cameraOffsetY": 295.0676,
+                "m_cameraOffsetZ": 109.3058,
+                "m_pitch": 0.06999994,
+                "m_yaw": 0.404114,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 1,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|1451999|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst1627D9_00000047",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000013",
+                "m_picture": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_Ghoul_Red.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/OldJudd_002_01.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 9.560571,
+                "m_cameraOffsetY": -359.5811,
+                "m_cameraOffsetZ": 146.4906,
+                "m_pitch": 0.03999994,
+                "m_yaw": 0.1041144,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 1,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0||Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "In Black",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst1627D9_00000047",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000014",
+                "m_picture": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_Ghoul_Red.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/OldJudd_002_02.mp3",
+                "m_action": "",
+                "m_dialogEvent": "ForcePet",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 0.0,
+                "m_cameraOffsetY": 0.0,
+                "m_cameraOffsetZ": 0.0,
+                "m_pitch": 0.0,
+                "m_yaw": 0.0,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0||Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "WC-HUB-NPC07_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Only",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000015",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Gamma.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/Gamma_002_02.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "DEFAULT",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 204.7597,
+                "m_cameraOffsetY": -469.9767,
+                "m_cameraOffsetZ": 361.2235,
+                "m_pitch": 0.3200004,
+                "m_yaw": -0.1858868,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 1,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCs_00000110",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCs_00000111",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 74301055
+              },
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000286",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "WC-NPCs_00000303",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Only",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 1295114278
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -97,13 +570,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "",
+      "m_zoneTag": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_Kill",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_Kill",
       "m_goalUnderway": null,
@@ -133,7 +606,406 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "",
-      "m_dialogList": null,
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst1627D9_00000047",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000016",
+                "m_picture": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_Ghoul_Red.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/OldJudd_002_03.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 0.0,
+                "m_cameraOffsetX": 8.152666,
+                "m_cameraOffsetY": 830.2058,
+                "m_cameraOffsetZ": 117.9758,
+                "m_pitch": -0.02999954,
+                "m_yaw": 0.1041126,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 0,
+                "m_walkAwayNpcTemplateID": 1501021,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 2.0,
+                "m_walkAwayUseCurrentFacing": true,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [
+                  "WC-StandIn-OldJudd instance"
+                ],
+                "m_dialogAnimationList": [
+                  "0|WC-StandIn-OldJudd instance|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "Out Black",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "WC-OLDE-NPC03_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000017",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Girl_Death3.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/PennyDreadful_002_02.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 220.1925,
+                "m_cameraOffsetY": 184.3843,
+                "m_cameraOffsetZ": 246.643,
+                "m_pitch": 0.26,
+                "m_yaw": 0.08411499,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 0,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|1451999|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "WC-OLDE-NPC03_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000018",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Girl_Death3.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/PennyDreadful_002_03.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 4.0,
+                "m_cameraOffsetX": 463.3359,
+                "m_cameraOffsetY": 703.2638,
+                "m_cameraOffsetZ": 106.9088,
+                "m_pitch": -1.192488E-08,
+                "m_yaw": 0.3941146,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|1451999|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "WC-OLDE-NPC03_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000019",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Girl_Death3.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/PennyDreadful_002_04.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 0.0,
+                "m_cameraOffsetY": 0.0,
+                "m_cameraOffsetZ": 0.0,
+                "m_pitch": 0.0,
+                "m_yaw": 0.0,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|1451999|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              },
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "WC-OLDE-NPC03_Persona",
+                "m_nameOverride": "",
+                "m_nameSTKey": "NPCFormats_First_Last",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000020",
+                "m_picture": "GUI/NpcPortraits/Art_Portrait_Girl_Death3.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/PennyDreadful_002_05.mp3",
+                "m_action": "",
+                "m_dialogEvent": "ConvertToPet",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": 473.7703,
+                "m_cameraOffsetY": 729.5077,
+                "m_cameraOffsetZ": 109.1964,
+                "m_pitch": -0.09000005,
+                "m_yaw": 0.3741146,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 0,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|1451999|Gen_Dial_01|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [
+              {
+                "m_madlibBlock": {
+                  "m_madlibs": [
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCs_00000110",
+                      "m_madlibToken": "FIRSTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCs_00000111",
+                      "m_madlibToken": "LASTNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "TITLE"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "",
+                      "m_madlibToken": "NICKNAME"
+                    },
+                    {
+                      "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
+                      "m_madlibArgument": "NPCFormats_First_Last",
+                      "m_madlibToken": "FULLNAME"
+                    }
+                  ],
+                  "m_blockToken": "NPC"
+                },
+                "m_index": 74301055
+              }
+            ],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -149,7 +1021,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "4_WizardQuestGoals_Explore",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -190,12 +1062,12 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "Activator Volume WC-OLDE-MAIN-001_Goal03",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "5_WizardQuestGoals_00000058",
+      "m_goalName": "Goal 4",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_00000058",
       "m_goalUnderway": null,
@@ -242,7 +1114,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "6_WizardQuestGoals_00000146",
+      "m_goalName": "Goal 6",
       "m_goalNameID": 740756935,
       "m_goalTitle": "WizardQuestGoals_00000146",
       "m_goalUnderway": null,
@@ -283,7 +1155,7 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
-      "m_proximityTag": "",
+      "m_proximityTag": "Activator Volume WC-OLDE-MAIN-001_Goal06",
       "m_zoneExit": false
     },
     {
@@ -541,7 +1413,7 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_personaName": "WC-HUB-NPC07",
+      "m_personaName": "WC-OLDE-NPC03",
       "m_usePatron": false
     },
     {
@@ -909,7 +1781,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "9_WizardQuestGoals_00000007",
+      "m_goalName": "Goal 5",
       "m_goalNameID": 707202503,
       "m_goalTitle": "WizardQuestGoals_00000007",
       "m_goalUnderway": null,
@@ -939,7 +1811,88 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "",
-      "m_dialogList": null,
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst1627D9_00000049",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1627D9_00000028",
+                "m_picture": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_Firecat_NPC.dds",
+                "m_soundFile": "|Sound_Dialogue_002|WorldData|Sound/Dialogue/CaptivePet_002_01.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 1.0,
+                "m_cameraOffsetX": -2457.523,
+                "m_cameraOffsetY": 6031.701,
+                "m_cameraOffsetZ": 73.81372,
+                "m_pitch": 0.1670318,
+                "m_yaw": -1.547961,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/WC_Streets/Interiors/WC_OldeTown_T1",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 2,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": true,
@@ -955,7 +1908,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "10_WizardQuestGoals_00000298",
+      "m_goalName": "Goal 7",
       "m_goalNameID": 774311367,
       "m_goalTitle": "WizardQuestGoals_00000298",
       "m_goalUnderway": null,
@@ -1002,7 +1955,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "11_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 9",
       "m_goalNameID": 841420231,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -1295,7 +2248,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "12_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 10",
       "m_goalNameID": 572984771,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -1315,7 +2268,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "WizardCity/WC_Streets/WC_OldeTown",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -1771,10 +2724,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "WC-COMMONS-MAIN-003",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "WC-MAIN-C01-013"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -1785,62 +2741,62 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Explore"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_00000008"
+        "Goal 1"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_00000008"
+        "Goal 1"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_Kill"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_Kill"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "4_WizardQuestGoals_Explore"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "4_WizardQuestGoals_Explore"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "5_WizardQuestGoals_00000058"
+        "Goal 4"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "5_WizardQuestGoals_00000058"
+        "Goal 4"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "6_WizardQuestGoals_00000146"
+        "Goal 6"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "6_WizardQuestGoals_00000146"
+        "Goal 6"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
@@ -1866,47 +2822,47 @@
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "9_WizardQuestGoals_00000007"
+        "Goal 5"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "9_WizardQuestGoals_00000007"
+        "Goal 5"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "10_WizardQuestGoals_00000298"
+        "Goal 7"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "10_WizardQuestGoals_00000298"
+        "Goal 7"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "11_WizardQuestGoals_TalkNPC"
+        "Goal 9"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "11_WizardQuestGoals_TalkNPC"
+        "Goal 9"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "12_WizardQuestGoals_TalkNPC"
+        "Goal 10"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "12_WizardQuestGoals_TalkNPC"
+        "Goal 10"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],

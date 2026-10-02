@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Kill"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Kill",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Kill",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "WizardMobs_00000186",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_147052",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Cat_Thug_Purple.dds",
       "m_displayImage2": "",
@@ -36,7 +44,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_T8",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -44,11 +52,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Timmy_Icepick"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -58,7 +69,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_147052",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MB_Lord_Upper05.dds",
       "m_displayImage2": "",
@@ -68,7 +87,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -215,10 +234,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MB-AIR2-C03-001",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MB-AIR2-C02-002"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -229,18 +251,18 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Kill"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -267,19 +289,19 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B54_00000016",
+            "m_dialog": "WizQst298E0_00000001",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MB_Lord_Upper05.dds",
-            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/WilliamPugsby_QST_04.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/WilliamPugsby_QST_09.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39699,
             "m_cameraName": "LOCATION",
             "m_interpolationDuration": 1.0,
-            "m_cameraOffsetX": 3564.611,
-            "m_cameraOffsetY": 15778.92,
-            "m_cameraOffsetZ": -306.8288,
-            "m_pitch": 0.05726629,
-            "m_yaw": -0.8522289,
+            "m_cameraOffsetX": 3545.345,
+            "m_cameraOffsetY": 15735.64,
+            "m_cameraOffsetZ": -298.9059,
+            "m_pitch": 0.1272663,
+            "m_yaw": -0.3622293,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
             "m_cameraShakeDuration": 0.0,
@@ -288,7 +310,7 @@
             "m_cameraZoneName": "Marleybone/MB_Station/MB_ChelseaCourt",
             "m_duration": 0.0,
             "m_delay": 0.0,
-            "m_cameraHidePlayers": 2,
+            "m_cameraHidePlayers": 1,
             "m_walkAwayNpcTemplateID": 0,
             "m_walkAwayExitDirectionInDegrees": 0.0,
             "m_walkAwayFadeTime": 0.0,
@@ -335,9 +357,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B54_00000017",
+            "m_dialog": "WizQst298E0_00000002",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MB_Lord_Upper05.dds",
-            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/WilliamPugsby_QST_05.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/WilliamPugsby_QST_10.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39699,
@@ -403,28 +425,28 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B54_00000018",
+            "m_dialog": "WizQst298E0_00000003",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MB_Lord_Upper05.dds",
-            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/WilliamPugsby_QST_06.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/WilliamPugsby_QST_11.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39699,
-            "m_cameraName": "LOCATION",
-            "m_interpolationDuration": 1.0,
-            "m_cameraOffsetX": 3539.959,
-            "m_cameraOffsetY": 15764.07,
-            "m_cameraOffsetZ": -306.8288,
-            "m_pitch": -0.0127337,
-            "m_yaw": -0.4422292,
+            "m_cameraName": "",
+            "m_interpolationDuration": 0.0,
+            "m_cameraOffsetX": 0.0,
+            "m_cameraOffsetY": 0.0,
+            "m_cameraOffsetZ": 0.0,
+            "m_pitch": 0.0,
+            "m_yaw": 0.0,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
             "m_cameraShakeDuration": 0.0,
             "m_cameraShakeAmplitude": 0.0,
             "m_bypassCameraOnReview": true,
-            "m_cameraZoneName": "Marleybone/MB_Station/MB_ChelseaCourt",
+            "m_cameraZoneName": "",
             "m_duration": 0.0,
             "m_delay": 0.0,
-            "m_cameraHidePlayers": 2,
+            "m_cameraHidePlayers": 0,
             "m_walkAwayNpcTemplateID": 0,
             "m_walkAwayExitDirectionInDegrees": 0.0,
             "m_walkAwayFadeTime": 0.0,

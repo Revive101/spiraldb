@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Explore"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Explore",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED83_00000008",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_406684",
       "m_displayImage1": "GUI/QuestButtons/Art_Quest_Fire_Cave.dds",
       "m_displayImage2": "",
@@ -49,7 +57,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_Explore",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -59,7 +67,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED83_00000010",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_87821",
       "m_displayImage1": "GUI/QuestButtons/Art_Quest_Fire_Cave_Dragon.dds",
       "m_displayImage2": "",
@@ -67,8 +83,91 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
-      "m_dialogList": null,
+      "m_destinationZone": "WizardCity/Interiors/WC_Fire_Cave",
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst1ED83_00000014",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst1ED83_00000011",
+                "m_picture": "GUI/QuestButtons/Quest_drake_egg.dds",
+                "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/Narrator_NAR_94.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "LOCATION",
+                "m_interpolationDuration": 0.0,
+                "m_cameraOffsetX": 367.5873,
+                "m_cameraOffsetY": -196.558,
+                "m_cameraOffsetZ": 423.6679,
+                "m_pitch": 0.5699998,
+                "m_yaw": -0.8200046,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "WizardCity/Interiors/WC_Fire_Cave",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 1,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|Player|Beg|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
+      },
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -78,13 +177,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "",
+      "m_zoneTag": "WizardCity/Interiors/WC_Fire_Cave",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -94,7 +193,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED83_00000012",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_drake_mother_Ghost_NPC.dds",
       "m_displayImage2": "",
@@ -104,7 +211,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -251,10 +358,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "DS-NEC1-C05-001",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "DS-NEC1-C04-002"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -265,29 +375,29 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Explore"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_Explore"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_Explore"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -314,19 +424,19 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1ED82_00000002",
+            "m_dialog": "WizQst1ED83_00000001",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_drake_mother_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/AncientMatriarch_QST_06.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/AncientMatriarch_QST_12.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126316,
             "m_cameraName": "LOCATION",
             "m_interpolationDuration": 1.0,
-            "m_cameraOffsetX": 4925.084,
-            "m_cameraOffsetY": 19593.03,
-            "m_cameraOffsetZ": -600.9757,
-            "m_pitch": 0.5776553,
-            "m_yaw": 1.025274,
+            "m_cameraOffsetX": 4878.968,
+            "m_cameraOffsetY": 19762.18,
+            "m_cameraOffsetZ": -811.4097,
+            "m_pitch": 0.2077507,
+            "m_yaw": 1.121424,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
             "m_cameraShakeDuration": 0.0,
@@ -382,9 +492,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1ED82_00000003",
+            "m_dialog": "WizQst1ED83_00000002",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_drake_mother_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/AncientMatriarch_QST_07.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/AncientMatriarch_QST_13.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126316,
@@ -450,9 +560,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1ED82_00000004",
+            "m_dialog": "WizQst1ED83_00000003",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_drake_mother_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/AncientMatriarch_QST_08.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/AncientMatriarch_QST_14.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126316,
@@ -518,9 +628,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst1ED82_00000005",
+            "m_dialog": "WizQst1ED83_00000004",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_drake_mother_Ghost_NPC.dds",
-            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/AncientMatriarch_QST_09.mp3",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/AncientMatriarch_QST_15.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 126316,

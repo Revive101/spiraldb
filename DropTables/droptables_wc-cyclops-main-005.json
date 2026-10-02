@@ -128,23 +128,6 @@
         "m_applyNOT": false,
         "m_operator": "ROP_AND"
       }
-    },
-    {
-      "ItemId": "878360657",
-      "ItemName": "Spirit Shield",
-      "Notes": "Balance",
-      "Requirements": {
-        "m_requirements": [
-          {
-            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
-            "m_magicSchool": "Balance",
-            "m_applyNOT": false,
-            "m_operator": "ROP_AND"
-          }
-        ],
-        "m_applyNOT": false,
-        "m_operator": "ROP_AND"
-      }
     }
   ],
   "CreatedAt": "2026-06-01T00:49:39.007761Z",

@@ -25,6 +25,50 @@
       }
     },
     {
+      "TriggerName": "ToTower1FromDS_Plaza",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 From Plaza)",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromDS_Plaza",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 From Plaza)",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromDS_Plaza",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T3 from Plaza)",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T3"
+      }
+    },
+    {
+      "TriggerName": "ToTower4FromDS_Plaza",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "T4FromPlaza",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_Gauntlet_7Room"
+      }
+    },
+    {
       "TriggerName": "The Hoarder's Tower Teleport Balance",
       "Teleport": {
         "m_exitTeleporter": 0,

@@ -1,0 +1,17 @@
+{
+  "ZoneName": "MooShu/MS_Death/Interiors/MS_Death1_T5_SpiritWorld",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToDeath1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromSpiritWorld",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround"
+      }
+    }
+  ]
+}

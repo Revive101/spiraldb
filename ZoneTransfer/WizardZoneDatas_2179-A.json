@@ -67,6 +67,17 @@
         "m_destinationLoc": "13267.45,16795.75,-1129.964,1.570796",
         "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
       }
+    },
+    {
+      "TriggerName": "To Death Zone 3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Death Hub",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
     }
   ]
 }

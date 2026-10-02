@@ -1,0 +1,50 @@
+{
+  "ZoneName": "Krokotopia/KT_Krokosphinx/KT_Retreat",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleporttoSphinxHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target (KT_Sphinx_Level05 KT_SphinxHub Exit)",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_EntranceHall"
+      }
+    },
+    {
+      "TriggerName": "ToTower1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Sphinx05 Tower01 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Retreat_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Sphinx05 Tower02 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Retreat_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower2 (1)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Sphinx05 Tower02 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Retreat_T2"
+      }
+    }
+  ]
+}

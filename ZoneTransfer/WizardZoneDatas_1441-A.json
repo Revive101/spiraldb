@@ -45,6 +45,17 @@
         "m_destinationLoc": "653.9932,7.624596,-2.983887,1.663895",
         "m_destinationZone": "Krokotopia/KT_Tomb/KT_AhnicTomb"
       }
+    },
+    {
+      "TriggerName": "ToCrypt5FromHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4.767157,521.5967,0.0004882813,0",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_TempleOfStorms"
+      }
     }
   ]
 }

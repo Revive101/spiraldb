@@ -101,6 +101,17 @@
       }
     },
     {
+      "TriggerName": "Trigger 0 (2)",
+      "Teleport": {
+        "m_destinationLoc": "400.2874,-2110.774,13.7479,2.778317",
+        "m_destinationZone": "WizardCity/WC_NightSide",
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0
+      }
+    },
+    {
       "TriggerName": "Trigger-TeleportToCastleToursDorm",
       "Teleport": {
         "m_destinationLoc": "-48.15467,30.26001,6.103516E-05,-3.141593",

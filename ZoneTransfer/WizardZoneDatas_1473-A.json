@@ -207,8 +207,8 @@
         "m_teleporterTag": 0,
         "m_teleportType": "TELEPORT_STATIC",
         "m_transitionID": 0,
-        "m_destinationLoc": "13.05084,-156.5803,-0.002197266,3.102542",
-        "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum"
+        "m_destinationLoc": "FromMB_Hub",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum_Instance"
       }
     },
     {

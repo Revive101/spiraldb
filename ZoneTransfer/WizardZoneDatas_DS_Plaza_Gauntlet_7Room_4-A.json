@@ -1,0 +1,28 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_Gauntlet_7Room_Sub/DS_Plaza_Gauntlet_7Room_4",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "T4FromPlaza",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_Gauntlet_7Room"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportTo5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_Gauntlet_7Room_Sub/DS_Plaza_Gauntlet_7Room_5"
+      }
+    }
+  ]
+}

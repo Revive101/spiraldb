@@ -34,6 +34,28 @@
         "m_destinationLoc": "33.87556,1141.834,0.1236137,0",
         "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T9"
       }
+    },
+    {
+      "TriggerName": "ToTower3FromDS_CrystalGrove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T3 from Crystal)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T3"
+      }
+    },
+    {
+      "TriggerName": "ToTower1FromDS_CrystalGrove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T1 from CrystalGrove)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T1"
+      }
     }
   ]
 }

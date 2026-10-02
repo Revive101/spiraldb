@@ -1,0 +1,39 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/MB_KatzLab",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport To Tower 5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From the Lab",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KatzLab_T5"
+      }
+    },
+    {
+      "TriggerName": "Trigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From the Lab",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KatzLab_T6"
+      }
+    },
+    {
+      "TriggerName": "ToScotYardHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Intro from Scot Yard Zone 2",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_Roof"
+      }
+    }
+  ]
+}

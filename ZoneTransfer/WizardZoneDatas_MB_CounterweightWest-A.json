@@ -1,0 +1,28 @@
+{
+  "ZoneName": "Marleybone/MB_BigBen/MB_CounterweightWest",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Level1 BigBenHub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromMaint2Down1",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Boss Level10 Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromMaint2Down1",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum"
+      }
+    }
+  ]
+}

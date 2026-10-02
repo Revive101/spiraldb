@@ -12,6 +12,39 @@
         "m_destinationLoc": "-259.2078,8605.365,0.0004882813,0",
         "m_destinationZone": "Marleybone/MB_Hub"
       }
+    },
+    {
+      "TriggerName": "ToBigBen",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (BigBen Hub TowerLevel1 Entrance)",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_BigBen"
+      }
+    },
+    {
+      "TriggerName": "Maint2Sigil",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (BigBenHub Level1 Entrance)",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_CounterweightWest"
+      }
+    },
+    {
+      "TriggerName": "Maint1Sigil",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (BigBenHub Level1 Entrance)",
+        "m_destinationZone": "Marleybone/MB_BigBen/MB_CounterweightEast"
+      }
     }
   ]
 }

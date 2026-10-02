@@ -1,0 +1,39 @@
+{
+  "ZoneName": "DragonSpire/DS_Hub_Cathedral",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "DS_Teleport_ToLibrary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromCathedral",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Hub_Library"
+      }
+    },
+    {
+      "TriggerName": "DS_Teleporter_ToNecropolis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Hub_Necropolis"
+      }
+    },
+    {
+      "TriggerName": "DS_Teleporter_ToAcademy",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromCathedral",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy"
+      }
+    }
+  ]
+}

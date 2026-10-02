@@ -1,0 +1,50 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/KT_Chamber",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location 2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3665.195,3706.467,-311.5335,-1.561297",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_AltarOfKings"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromPyramid3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid3 Tower2 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Chamber_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower1FromPyramid3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid3 Tower1 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Chamber_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromPyramid3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid3 Tower3 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Chamber_T3"
+      }
+    }
+  ]
+}

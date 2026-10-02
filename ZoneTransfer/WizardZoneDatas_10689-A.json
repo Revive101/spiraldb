@@ -12,6 +12,17 @@
         "m_destinationLoc": "11.56708,5125.572,29.99988,0",
         "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm"
       }
+    },
+    {
+      "TriggerName": "DS_TimeCrystal",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromGrandChasm",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z4_GrandChasm_Past"
+      }
     }
   ]
 }

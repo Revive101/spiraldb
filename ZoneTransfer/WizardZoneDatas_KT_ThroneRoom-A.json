@@ -1,0 +1,28 @@
+{
+  "ZoneName": "Krokotopia/KT_Pyramid/KT_ThroneRoom",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Pyramid4 Pyramid3 Exit) (LEFT)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid04 to Pyramid02 LEFT)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    },
+    {
+      "TriggerName": "Teleport location (Pyramid4 Pyramid3 Exit) (RIGHT)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid04 to Pyramid02 RIGHT)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    }
+  ]
+}

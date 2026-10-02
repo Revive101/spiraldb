@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_TalkNPC"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_106507",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MU_Monk_White.dds",
       "m_displayImage2": "",
@@ -181,10 +189,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MS-PLAG2-C03-001",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MS-PLAG2-C02-002"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -195,7 +206,7 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_TalkNPC"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -222,9 +233,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst2A4B2_00000001",
+            "m_dialog": "WizQst9C50_00000004",
             "m_picture": "|_Shared|WorldData|GUI/NpcPortraits/Art_Portrait_MU_Monk_Khaki.dds",
-            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/WooPing_QST_04.mp3",
+            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/WooPing_QST_07.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 40023,

@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_KillCollect"
+    "Goal"
   ],
   "m_goals": [
     {
-      "$type": "Imcodec.ObjectProperty.TypeCache.ScavengeGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_KillCollect",
+      "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_KillCollect",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst12DF0_00000010",
+        "m_descriptor2": "WizardMobs_00000201",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_595631",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MU_Ninja_War.dds",
       "m_displayImage2": "",
@@ -34,18 +42,22 @@
       "m_autoComplete": false,
       "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_SCAVENGE",
+      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
         "m_results": []
       },
       "m_hideGoalFloatyText": false,
-      "m_behaviors": null
+      "m_behaviors": null,
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Otomo_Courier"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -55,7 +67,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_595631",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Soldier_Red.dds",
       "m_displayImage2": "",
@@ -348,10 +368,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MS-WAR1-C01-003",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MS-WAR1-C01-003"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -362,18 +385,18 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_KillCollect"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_TalkNPC"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -400,9 +423,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst12DED_00000007",
+            "m_dialog": "WizQst12DF0_00000004",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Soldier_Red.dds",
-            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/ShojiroGama_QST_04.mp3",
+            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/ShojiroGama_QST_16.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 77275,
@@ -468,9 +491,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst12DED_00000008",
+            "m_dialog": "WizQst12DF0_00000005",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Soldier_Red.dds",
-            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/Narrator_NAR_331.mp3",
+            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/ShojiroGama_QST_17.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 77275,
@@ -536,9 +559,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst12DED_00000009",
+            "m_dialog": "WizQst12DF0_00000006",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Soldier_Red.dds",
-            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/ShojiroGama_QST_05.mp3",
+            "m_soundFile": "|MooShu|WorldData|Sound/Dialogue/ShojiroGama_QST_18.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 77275,

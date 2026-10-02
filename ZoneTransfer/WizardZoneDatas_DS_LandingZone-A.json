@@ -1,0 +1,17 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_LandingZone",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportToVolcano1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromDragonsRoost",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z3_Volcano/DS_Volcano1_2"
+      }
+    }
+  ]
+}

@@ -56,6 +56,17 @@
         "m_destinationLoc": "1637.011,-5056.248,-3166.15,3.093543",
         "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Cyclops_T2"
       }
+    },
+    {
+      "TriggerName": "Teleport to Akilles Tower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Street3 Tower2 Entrance)",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Cyclops_T2"
+      }
     }
   ]
 }
