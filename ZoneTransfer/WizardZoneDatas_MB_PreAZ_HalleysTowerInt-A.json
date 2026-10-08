@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_PreAZ_HalleysTowerInt",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From HalleysInterior",
+        "m_destinationZone": "Marleybone/MB_PreAZ_HalleysTower"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_SpiralGeographicOffices",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_MB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target_From_SpiralGeographic",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ]
+}

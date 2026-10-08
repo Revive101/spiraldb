@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_HiramLodge",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "TeleportSource_to_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "TargetLocation_From_HiramLodge_01",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ]
+}
