@@ -1,0 +1,28 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/Interiors/DS_CorruptorsDen_02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To Room 01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Room 02",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_CorruptorsDen"
+      }
+    },
+    {
+      "TriggerName": "To Room 03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_CorruptorsDen_03"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_ChamberOfTrials_01",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "TargetLocation_From_Chamber-Of-Trials_01",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove"
+      }
+    },
+    {
+      "TriggerName": "TeleportSource_To_Room02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_ChamberOfTrials_02"
+      }
+    }
+  ]
+}
