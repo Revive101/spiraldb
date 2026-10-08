@@ -1,0 +1,72 @@
+{
+  "ZoneName": "MooShu/MS_Catmandu",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_To_WovenToyTemple",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "MooShu/Interiors/MS_CAT_WovenToyTemple"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_ScratchedPostTemple",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "MooShu/Interiors/MS_CAT_ScratchedPost"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_PurrfectHarmonyTemple",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "MooShu/Interiors/MS_CAT_TempleOfPurrfectHarmony"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_AberrantCave",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "MooShu/Interiors/MS_CAT_AberrantCave"
+      }
+    },
+    {
+      "TriggerName": "Trigger-TeleportToSoyHut",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "MooShu/Interiors/MS_CAT_SoyHut"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Into_MS_Monastery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "MooShu/Interiors/MS_CAT_Monastery"
+      }
+    }
+  ]
+}
