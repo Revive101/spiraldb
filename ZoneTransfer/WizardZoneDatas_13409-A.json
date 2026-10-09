@@ -12,6 +12,17 @@
         "m_destinationLoc": "12089.23,359.1008,1200.436,-2.629959",
         "m_destinationZone": "Krokotopia/KT_Hub_Sphinx"
       }
+    },
+    {
+      "TriggerName": "KT_TeleportToSphinx",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Krokotopia/KT_Hub_Sphinx"
+      }
     }
   ]
 }

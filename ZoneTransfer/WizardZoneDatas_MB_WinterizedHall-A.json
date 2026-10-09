@@ -1,0 +1,28 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_WinterizedHall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_Marleybone",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target_From_WinterizedHall",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    },
+    {
+      "TriggerName": "Teleport_Exit_2_MB_R3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target_From_WinterizedHall",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ]
+}

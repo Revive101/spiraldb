@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Marleybone/MB_BigBen/MB_Museum_Instance",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMB_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromMB_BigBen_Hub",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ]
+}

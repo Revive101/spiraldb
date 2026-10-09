@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_Explore"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_Explore",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_Explore",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst9C27_00000023",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_106477",
       "m_displayImage1": "GUI/QuestButtons/Art_Quest_MU_Rock_Garden.dds",
       "m_displayImage2": "",
@@ -31,45 +39,90 @@
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "MooShu/MS_Hub",
-      "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
-      "m_noQuestHelper": false,
-      "m_petOnlyQuest": false,
-      "m_activateResults": {
-        "m_results": []
+      "m_dialogList": {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+        "m_dialogs": [
+          {
+            "m_dialogTag": "Completion",
+            "m_dialogEntries": [
+              {
+                "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                "m_personaName": "",
+                "m_nameOverride": "WizQst9C27_00000029",
+                "m_nameSTKey": "",
+                "m_guiDisplay": "",
+                "m_maxTimeSeconds": -1,
+                "m_invisible": false,
+                "m_requirements": null,
+                "m_dialog": "WizQst9C27_00000028",
+                "m_picture": "GUI/QuestButtons/Art_Quest_MU_Rock_Garden.dds",
+                "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/Narrator_NAR_761.mp3",
+                "m_action": "",
+                "m_dialogEvent": "",
+                "m_actorTemplateID": 0,
+                "m_cameraName": "",
+                "m_interpolationDuration": 0.0,
+                "m_cameraOffsetX": 10634.76,
+                "m_cameraOffsetY": -7670.14,
+                "m_cameraOffsetZ": 553.895,
+                "m_pitch": 0.4268122,
+                "m_yaw": 2.669383,
+                "m_roll": 0.0,
+                "m_cameraShakeType": "",
+                "m_cameraShakeDuration": 0.0,
+                "m_cameraShakeAmplitude": 0.0,
+                "m_bypassCameraOnReview": true,
+                "m_cameraZoneName": "MooShu/MS_Hub",
+                "m_duration": 0.0,
+                "m_delay": 0.0,
+                "m_cameraHidePlayers": 1,
+                "m_walkAwayNpcTemplateID": 0,
+                "m_walkAwayExitDirectionInDegrees": 0.0,
+                "m_walkAwayFadeTime": 0.0,
+                "m_walkAwayUseCurrentFacing": false,
+                "m_standInPlayerTag": "",
+                "m_fadeOutCamera": false,
+                "m_snapCameraToPlayerAtExit": false,
+                "m_secondaryCameraName": "",
+                "m_secondaryInterpolationDuration": 0.0,
+                "m_npcStandInList": [],
+                "m_dialogAnimationList": [
+                  "0|Player|Bow|5"
+                ],
+                "m_dialogTurningList": [],
+                "m_npcYawOffsetInDegrees": 0.0,
+                "m_allowPlayerToMove": false,
+                "m_soundEffectFile": "",
+                "m_musicFile": "",
+                "m_nonStackableMusic": false,
+                "m_nonRepeatableMusic": false,
+                "m_playMusicAtSFXVolume": false,
+                "m_soundEffectDelay": 0.0,
+                "m_musicDelay": 0.0,
+                "m_musicFadeTime": 3.0,
+                "m_dontReleaseCameraAtExit": false,
+                "m_disableBackButton": false,
+                "m_enableExitButton": false,
+                "m_cameraFadeType": "",
+                "m_cameraFadeTime": 0.5,
+                "m_idleAnimation": "",
+                "m_spamTime": 1.0,
+                "m_playSoundIfSpamming": true,
+                "m_playMusicIfSpamming": true,
+                "m_stopMusicFadeTime": 0.0,
+                "m_restartMusicFadeTime": 0.0,
+                "m_meetsRequirements": true,
+                "m_secondaryCameraInitalDelay": 0.0,
+                "m_displayButtonsOnTimedDialog": false
+              }
+            ],
+            "m_madlibs": [],
+            "m_dialogEvents": null,
+            "m_noAggroWhileDialogIsUp": false,
+            "m_noAggroNoDelay": false
+          }
+        ]
       },
-      "m_hideGoalFloatyText": false,
-      "m_behaviors": null,
-      "m_zoneEntry": true,
-      "m_zoneTag": "MooShu/MS_Hub",
-      "m_proximityTag": "",
-      "m_zoneExit": false
-    },
-    {
-      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_Explore",
-      "m_goalNameID": 606539207,
-      "m_goalTitle": "WizardQuestGoals_Explore",
-      "m_goalUnderway": null,
-      "m_hyperlink": null,
-      "m_completeText": null,
-      "m_completeResults": {
-        "m_results": []
-      },
-      "m_goalRequirements": null,
-      "m_tallyCounter": null,
-      "m_locationName": "ZoneLocName_106477",
-      "m_displayImage1": "GUI/QuestButtons/Art_Quest_MU_Dojo_Death.dds",
-      "m_displayImage2": "",
-      "m_clientTags": [
-        "Ddl_MU_JP_RockDojo",
-        "MS_Hub_Window_WaterDojo_01"
-      ],
-      "m_genericEvents": [],
-      "m_autoQualify": false,
-      "m_autoComplete": false,
-      "m_destinationZone": "",
-      "m_dialogList": null,
       "m_goalType": "GOAL_TYPE_WAYPOINT",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
@@ -80,12 +133,58 @@
       "m_behaviors": null,
       "m_zoneEntry": true,
       "m_zoneTag": "",
+      "m_proximityTag": "Rock Garden",
+      "m_zoneExit": false
+    },
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+      "m_goalName": "Goal 2",
+      "m_goalNameID": 606539207,
+      "m_goalTitle": "WizardQuestGoals_Explore",
+      "m_goalUnderway": null,
+      "m_hyperlink": null,
+      "m_completeText": null,
+      "m_completeResults": {
+        "m_results": []
+      },
+      "m_goalRequirements": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst9C27_00000024",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
+      "m_locationName": "ZoneLocName_106477",
+      "m_displayImage1": "GUI/QuestButtons/Art_Quest_MU_Dojo_Death.dds",
+      "m_displayImage2": "",
+      "m_clientTags": [
+        "Ddl_MU_JP_RockDojo",
+        "MS_Hub_Window_WaterDojo_01"
+      ],
+      "m_genericEvents": [],
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "MooShu/Interiors/MS_RockDojoT2",
+      "m_dialogList": null,
+      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": {
+        "m_results": []
+      },
+      "m_hideGoalFloatyText": false,
+      "m_behaviors": null,
+      "m_zoneEntry": true,
+      "m_zoneTag": "MooShu/Interiors/MS_RockDojoT2",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_00000166",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_00000166",
       "m_goalUnderway": null,
@@ -95,7 +194,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst9C27_00000021",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_106477",
       "m_displayImage1": "GUI/QuestButtons/Art_Quest_Book_Pedestal.dds",
       "m_displayImage2": "",
@@ -108,7 +215,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -116,14 +223,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_zoneEntry": true,
+      "m_zoneEntry": false,
       "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "4_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 4",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -133,7 +240,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_106477",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MU_Monk_Maroon.dds",
       "m_displayImage2": "",
@@ -341,7 +456,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "5_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 5",
       "m_goalNameID": 707202503,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -351,7 +466,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_106477",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MU_Samoorai_Red.dds",
       "m_displayImage2": "",
@@ -510,10 +633,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MS-MAIN-C02-001",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MS-MAIN-C02-001"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -524,51 +650,51 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_Explore"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_Explore"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_Explore"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_00000166"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_00000166"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 4"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 4"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "5_WizardQuestGoals_TalkNPC"
+        "Goal 5"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "5_WizardQuestGoals_TalkNPC"
+        "Goal 5"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],

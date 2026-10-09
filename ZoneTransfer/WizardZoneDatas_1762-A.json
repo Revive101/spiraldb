@@ -34,6 +34,17 @@
         "m_destinationLoc": "-493.855,-9187.207,-248.1969,-3.141593",
         "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
       }
+    },
+    {
+      "TriggerName": "To Katzensteins Lab",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromScotYardHub",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KatzLab"
+      }
     }
   ]
 }

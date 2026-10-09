@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Marleybone/Interiors/MB_GravulumLab",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "To_RegentsSquare",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From_GravulumLab",
+        "m_destinationZone": "Marleybone/MB_Hub"
+      }
+    }
+  ]
+}

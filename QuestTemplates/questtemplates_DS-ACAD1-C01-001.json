@@ -7,17 +7,17 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_00000058",
-    "2_WizardQuestGoals_00000067",
-    "3_WizardQuestGoals_00000058",
-    "4_WizardQuestGoals_00000058",
-    "5_WizardQuestGoals_00000058",
-    "6_WizardQuestGoals_00000058"
+    "Goal 3",
+    "Goal 4",
+    "Goal 5",
+    "Goal 6",
+    "Goal",
+    "Goal 2"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_00000058",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_00000058",
       "m_goalUnderway": null,
@@ -27,7 +27,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED8D_00000013",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8D_00000015",
       "m_displayImage1": "GUI/QuestButtons/Use_crystal_sample.dds",
       "m_displayImage2": "",
@@ -40,7 +48,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -49,13 +57,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
+      "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_00000067",
+      "m_goalName": "Goal 4",
       "m_goalNameID": 673648071,
       "m_goalTitle": "WizardQuestGoals_00000067",
       "m_goalUnderway": null,
@@ -65,7 +73,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED8D_00000016",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8D_00000010",
       "m_displayImage1": "GUI/QuestButtons/Use_crystal_sample.dds",
       "m_displayImage2": "",
@@ -78,7 +94,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -87,13 +103,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
+      "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_00000058",
+      "m_goalName": "Goal 5",
       "m_goalNameID": 707202503,
       "m_goalTitle": "WizardQuestGoals_00000058",
       "m_goalUnderway": null,
@@ -103,7 +119,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED8D_00000017",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8D_00000010",
       "m_displayImage1": "GUI/QuestButtons/Use_crystal_sample.dds",
       "m_displayImage2": "",
@@ -116,7 +140,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -125,13 +149,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
+      "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "4_WizardQuestGoals_00000058",
+      "m_goalName": "Goal 6",
       "m_goalNameID": 740756935,
       "m_goalTitle": "WizardQuestGoals_00000058",
       "m_goalUnderway": null,
@@ -141,7 +165,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED8D_00000018",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8D_00000010",
       "m_displayImage1": "GUI/QuestButtons/Use_crystal_sample.dds",
       "m_displayImage2": "",
@@ -154,7 +186,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -163,13 +195,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
+      "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "5_WizardQuestGoals_00000058",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_00000058",
       "m_goalUnderway": null,
@@ -179,7 +211,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED8D_00000009",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8D_00000010",
       "m_displayImage1": "GUI/QuestButtons/Use_crystal_sample.dds",
       "m_displayImage2": "",
@@ -192,7 +232,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -201,13 +241,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
+      "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "6_WizardQuestGoals_00000058",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_00000058",
       "m_goalUnderway": null,
@@ -217,7 +257,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "WizQst1ED8D_00000012",
+        "m_descriptor2": "",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8D_00000014",
       "m_displayImage1": "GUI/QuestButtons/Use_crystal_sample.dds",
       "m_displayImage2": "",
@@ -230,7 +278,7 @@
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_goalType": "GOAL_TYPE_USAGE",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -239,13 +287,13 @@
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
       "m_zoneEntry": true,
-      "m_zoneTag": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove",
+      "m_zoneTag": "",
       "m_proximityTag": "",
       "m_zoneExit": false
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "7_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 7",
       "m_goalNameID": 774311367,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -255,7 +303,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "WizQst1ED8D_00000010",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_Miner_Ghost.dds",
       "m_displayImage2": "",
@@ -480,10 +536,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "DS-ACAD-C01-002",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "DS-ACAD-C01-005"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -494,73 +553,23 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_00000058"
+        "Goal 3",
+        "Goal 4",
+        "Goal 5",
+        "Goal 6",
+        "Goal",
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_00000067"
+        "Goal 7"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_00000067"
-      ],
-      "m_goalsOR": [],
-      "m_goalsToAdd": [
-        "3_WizardQuestGoals_00000058"
-      ],
-      "m_completeQuest": false,
-      "m_requiredORCount": 1
-    },
-    {
-      "m_goalsAND": [
-        "3_WizardQuestGoals_00000058"
-      ],
-      "m_goalsOR": [],
-      "m_goalsToAdd": [
-        "4_WizardQuestGoals_00000058"
-      ],
-      "m_completeQuest": false,
-      "m_requiredORCount": 1
-    },
-    {
-      "m_goalsAND": [
-        "4_WizardQuestGoals_00000058"
-      ],
-      "m_goalsOR": [],
-      "m_goalsToAdd": [
-        "5_WizardQuestGoals_00000058"
-      ],
-      "m_completeQuest": false,
-      "m_requiredORCount": 1
-    },
-    {
-      "m_goalsAND": [
-        "5_WizardQuestGoals_00000058"
-      ],
-      "m_goalsOR": [],
-      "m_goalsToAdd": [
-        "6_WizardQuestGoals_00000058"
-      ],
-      "m_completeQuest": false,
-      "m_requiredORCount": 1
-    },
-    {
-      "m_goalsAND": [
-        "6_WizardQuestGoals_00000058"
-      ],
-      "m_goalsOR": [],
-      "m_goalsToAdd": [
-        "7_WizardQuestGoals_TalkNPC"
-      ],
-      "m_completeQuest": false,
-      "m_requiredORCount": 1
-    },
-    {
-      "m_goalsAND": [
-        "7_WizardQuestGoals_TalkNPC"
+        "Goal 7"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],

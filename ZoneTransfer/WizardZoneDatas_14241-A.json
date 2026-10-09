@@ -34,6 +34,28 @@
         "m_destinationLoc": "200.6819,-346.4936,-0.0007679985,3.088154",
         "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Arena"
       }
+    },
+    {
+      "TriggerName": "ToSphinx5FromSphinxHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Sphinx Level3 to Sphinx Level5)",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Retreat"
+      }
+    },
+    {
+      "TriggerName": "ToSphinx4FromSphinxHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Sphinx Hub to Sphinx Level4)",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Vault"
+      }
     }
   ]
 }

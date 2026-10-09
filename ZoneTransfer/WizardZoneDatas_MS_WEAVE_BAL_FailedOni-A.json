@@ -1,0 +1,17 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_WEAVE_BAL_FailedOni",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "ToMainHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location-FromFailedOni",
+        "m_destinationZone": "MooShu/MS_Hub"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ZoneName": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T5",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (DS_T5 to Plaza)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_Plaza from T5)",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z2_ConquestPlaza"
+      }
+    }
+  ]
+}

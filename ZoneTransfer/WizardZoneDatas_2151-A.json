@@ -23,6 +23,28 @@
         "m_destinationLoc": "364.6291,6.869423,1.685389,-1.570796",
         "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
       }
+    },
+    {
+      "TriggerName": "ToTower4FromHV",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromWarHub",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_WarHub_T4"
+      }
+    },
+    {
+      "TriggerName": "ToWar3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromWarHub",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldA"
+      }
     }
   ]
 }

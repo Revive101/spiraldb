@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Krokotopia/Interiors/KT_School_Instanced",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "KT-TeleportToSphinxIsland",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Hub School Exit)",
+        "m_destinationZone": "Krokotopia/KT_Hub_Sphinx"
+      }
+    }
+  ]
+}

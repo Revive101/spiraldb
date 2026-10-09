@@ -3,6 +3,28 @@
   "Events": [],
   "Teleports": [
     {
+      "TriggerName": "ToTower3FromDS_Arena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T3 from Arena)",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Arena_T3"
+      }
+    },
+    {
+      "TriggerName": "ToTower1FromDS_Arena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Arena_Gauntlet_6Room"
+      }
+    },
+    {
       "TriggerName": "Teleport-ToNecropolis",
       "Teleport": {
         "m_exitTeleporter": 0,

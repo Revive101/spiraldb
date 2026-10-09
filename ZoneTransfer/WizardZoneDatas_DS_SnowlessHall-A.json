@@ -1,0 +1,17 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_SnowlessHall",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_2_Necro",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target_From_SnowlessHall",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Hub_Necropolis"
+      }
+    }
+  ]
+}

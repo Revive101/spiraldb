@@ -69,6 +69,17 @@
       }
     },
     {
+      "TriggerName": "ToEmperorsPalace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From MooShu Hub",
+        "m_destinationZone": "MooShu/Interiors/MS_Emperor_Palace"
+      }
+    },
+    {
       "TriggerName": "ToWarHub",
       "Teleport": {
         "m_exitTeleporter": 0,
@@ -87,7 +98,7 @@
         "m_teleportType": "TELEPORT_STATIC",
         "m_transitionID": 0,
         "m_destinationLoc": "2410.509,7.650936,29.99988,1.570796",
-        "m_destinationZone": "MooShu/Interiors/MS_WaterDojot1_Common"
+        "m_destinationZone": "MooShu/Interiors/MS_WaterDojoT1"
       }
     },
     {

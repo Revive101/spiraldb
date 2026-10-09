@@ -1,0 +1,28 @@
+{
+  "ZoneName": "Krokotopia/KT_Tomb/KT_Barracks",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "InstanceTeleporttoCrypt4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Crypt03 to Crypt04)",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_KaranahnPalace"
+      }
+    },
+    {
+      "TriggerName": "Teleport (KT_Crypt_Level03 KT_Crypt_Hub Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target (KT_Crypt_Level03 KT_Crypt_Hub Exit)",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_WellOfSpirits"
+      }
+    }
+  ]
+}

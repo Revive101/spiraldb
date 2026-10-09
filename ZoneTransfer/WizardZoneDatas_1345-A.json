@@ -34,6 +34,28 @@
         "m_destinationLoc": "-121.901,2558.375,0,0",
         "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Hall_T3"
       }
+    },
+    {
+      "TriggerName": "ToTower01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid01 Tower01 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Hall_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPyramid1",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Hall_T4"
+      }
     }
   ]
 }

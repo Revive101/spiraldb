@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/Interiors/MB_KC_GRAV_02",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to Zone 3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target-FromGRAV",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    }
+  ]
+}

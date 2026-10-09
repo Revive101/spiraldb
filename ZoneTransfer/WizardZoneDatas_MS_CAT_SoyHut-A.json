@@ -1,0 +1,17 @@
+{
+  "ZoneName": "MooShu/Interiors/MS_CAT_SoyHut",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target-FromSoyHut",
+        "m_destinationZone": "MooShu/MS_Catmandu"
+      }
+    }
+  ]
+}

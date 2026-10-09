@@ -12,6 +12,72 @@
         "m_destinationLoc": "4225.884,7061.358,973.672,1.5756",
         "m_destinationZone": "Krokotopia/KT_Pyramid/KT_AltarOfKings"
       }
+    },
+    {
+      "TriggerName": "ToTower1FromPyramid2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid2 Tower1 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_PalaceOfFire_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromPyramid2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid2 Tower2 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_PalaceOfFire_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromPyramid2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid2 Tower3 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_PalaceOfFire_T3"
+      }
+    },
+    {
+      "TriggerName": "ToTower4FromPyramid2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Pyramid2 Tower4 Entrance)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_PalaceOfFire_T4"
+      }
+    },
+    {
+      "TriggerName": "ToPyramid4fromPyramid2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Krok_Pyramid03 Krok_Pyramid_Level04 Entrance) (RIGHT)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_ThroneRoom"
+      }
+    },
+    {
+      "TriggerName": "ToPyramid4FromPyramid2 Second",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Krok_Pyramid03 Krok_Pyramid_Level04 Entrance) (LEFT)",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_ThroneRoom"
+      }
     }
   ]
 }

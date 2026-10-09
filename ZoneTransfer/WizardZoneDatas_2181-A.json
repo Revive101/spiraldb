@@ -12,6 +12,17 @@
         "m_destinationLoc": "9204.817,31306.52,-117.7904,0.6689502",
         "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
       }
+    },
+    {
+      "TriggerName": "From Main to Dojo (Tower 6)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Death2 MainArea",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death2_Dojo1A"
+      }
     }
   ]
 }

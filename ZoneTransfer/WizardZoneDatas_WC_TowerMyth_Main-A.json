@@ -1,0 +1,17 @@
+{
+  "ZoneName": "WizardCity/Interiors/WC_TowerMyth_Main",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (TowerMyth Ravenwood Exit)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (Ravenwood MythTower Exit)",
+        "m_destinationZone": "WizardCity/WC_Ravenwood"
+      }
+    }
+  ]
+}

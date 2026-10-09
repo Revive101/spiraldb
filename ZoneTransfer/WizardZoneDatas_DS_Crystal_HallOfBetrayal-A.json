@@ -1,0 +1,17 @@
+{
+  "ZoneName": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_HallOfBetrayal",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport_to_CrystalGrove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From_HallOfBetrayal",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z1_CrystalGrove"
+      }
+    }
+  ]
+}

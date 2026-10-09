@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Krokotopia/KT_Krokosphinx/KT_Vault",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport location (Sphinx Level4 to Sphinx Hub)",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target (KT_Sphinx_Level04 KT_SphinxHub Exit) (1)",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_EntranceHall"
+      }
+    }
+  ]
+}

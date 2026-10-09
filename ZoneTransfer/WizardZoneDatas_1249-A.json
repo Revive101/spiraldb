@@ -155,6 +155,17 @@
         "m_destinationLoc": "-10409.25,3107.338,3341.551,2.54453",
         "m_destinationZone": "Krokotopia/KT_Hub"
       }
+    },
+    {
+      "TriggerName": "KT-New-BoatRide",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Krokotopia/KT_HubFlyingShip_ToIsland"
+      }
     }
   ]
 }

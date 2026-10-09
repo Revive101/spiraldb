@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_T3",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Tower3toClockTower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Tower3toClocktower",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    }
+  ]
+}

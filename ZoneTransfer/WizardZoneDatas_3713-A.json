@@ -56,6 +56,39 @@
         "m_destinationLoc": "-2899.293,-1465.485,-103.5085,-2.116922",
         "m_destinationZone": "Krokotopia/KT_Hub"
       }
+    },
+    {
+      "TriggerName": "TeleportToSchool",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (School Hub Entrance)",
+        "m_destinationZone": "Krokotopia/Interiors/KT_School"
+      }
+    },
+    {
+      "TriggerName": "KT_ToSchoolInstanced",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromSphinxIsland",
+        "m_destinationZone": "Krokotopia/Interiors/KT_School_Instanced"
+      }
+    },
+    {
+      "TriggerName": "KT-New-BoatRide2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Krokotopia/KT_HubFlyingShip_ToMainland"
+      }
     }
   ]
 }

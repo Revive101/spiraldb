@@ -7,12 +7,12 @@
   "m_questUnderway": null,
   "m_questComplete": null,
   "m_startGoals": [
-    "1_WizardQuestGoals_TalkNPC"
+    "Goal"
   ],
   "m_goals": [
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "1_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal",
       "m_goalNameID": 2559431,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -22,7 +22,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_474197",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MB_Ladies_Lower03.dds",
       "m_displayImage2": "",
@@ -164,7 +172,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.BountyGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "2_WizardQuestGoals_Kill",
+      "m_goalName": "Goal 2",
       "m_goalNameID": 606539207,
       "m_goalTitle": "WizardQuestGoals_Kill",
       "m_goalUnderway": null,
@@ -174,7 +182,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "WizardMobs_00000150",
+        "m_count": 1,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_474197",
       "m_displayImage1": "GUI/NpcPortraits/Golem_A_MOB.dds",
       "m_displayImage2": "",
@@ -184,9 +200,9 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "Marleybone/MB_BigBen/MB_CounterweightWest",
       "m_dialogList": null,
-      "m_goalType": "GOAL_TYPE_BOUNTYCOLLECT",
+      "m_goalType": "GOAL_TYPE_BOUNTY",
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
@@ -194,11 +210,14 @@
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
-      "m_bountyTotal": 1
+      "m_bountyTotal": 1,
+      "m_npcAdjectives": [
+        "Bellows"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "3_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 3",
       "m_goalNameID": 640093639,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -208,7 +227,15 @@
         "m_results": []
       },
       "m_goalRequirements": null,
-      "m_tallyCounter": null,
+      "m_tallyCounter": {
+        "m_percentChance": 1.0,
+        "m_descriptor": "",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": {
+          "m_results": []
+        }
+      },
       "m_locationName": "ZoneLocName_149178",
       "m_displayImage1": "GUI/NpcPortraits/Art_Portrait_MB_Lord_Upper06.dds",
       "m_displayImage2": "",
@@ -221,7 +248,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -353,7 +380,7 @@
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
-      "m_goalName": "4_WizardQuestGoals_TalkNPC",
+      "m_goalName": "Goal 1",
       "m_goalNameID": 572984775,
       "m_goalTitle": "WizardQuestGoals_TalkNPC",
       "m_goalUnderway": null,
@@ -503,7 +530,15 @@
     }
   ],
   "m_startResults": {
-    "m_results": []
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
+        "m_entryName": "QT-MB-MUSEHub-C02-002",
+        "m_isQuestRegistry": false,
+        "m_value": 1,
+        "m_questName": ""
+      }
+    ]
   },
   "m_endResults": {
     "m_results": [
@@ -520,10 +555,13 @@
     "m_operator": "ROP_AND",
     "m_requirements": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MB-MUSEHub-C02-001",
         "m_applyNOT": false,
-        "m_operator": "ROP_AND",
-        "m_questName": "MB-MUSEHub-C03-001"
+        "m_operator": "ROP_AND"
       }
     ]
   },
@@ -534,40 +572,40 @@
   "m_goalLogic": [
     {
       "m_goalsAND": [
-        "1_WizardQuestGoals_TalkNPC"
+        "Goal"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "2_WizardQuestGoals_Kill"
+        "Goal 2"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "2_WizardQuestGoals_Kill"
+        "Goal 2"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "3_WizardQuestGoals_TalkNPC"
+        "Goal 3"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 1"
       ],
       "m_completeQuest": false,
       "m_requiredORCount": 1
     },
     {
       "m_goalsAND": [
-        "4_WizardQuestGoals_TalkNPC"
+        "Goal 1"
       ],
       "m_goalsOR": [],
       "m_goalsToAdd": [],
@@ -594,19 +632,19 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B84_00000005",
+            "m_dialog": "WizQst9B85_00000005",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MB_Lord_Upper06.dds",
-            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/ClancyPembroke_QST_08.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/ClancyPembroke_QST_12.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39725,
             "m_cameraName": "LOCATION",
             "m_interpolationDuration": 1.0,
-            "m_cameraOffsetX": 538.2372,
-            "m_cameraOffsetY": 2583.761,
-            "m_cameraOffsetZ": -161.0962,
-            "m_pitch": 0.1899999,
-            "m_yaw": -0.5700004,
+            "m_cameraOffsetX": 475.4859,
+            "m_cameraOffsetY": 2621.424,
+            "m_cameraOffsetZ": -160.5149,
+            "m_pitch": 0.1399994,
+            "m_yaw": -0.406817,
             "m_roll": 0.0,
             "m_cameraShakeType": "",
             "m_cameraShakeDuration": 0.0,
@@ -662,9 +700,9 @@
             "m_maxTimeSeconds": -1,
             "m_invisible": false,
             "m_requirements": null,
-            "m_dialog": "WizQst9B84_00000006",
+            "m_dialog": "WizQst9B85_00000006",
             "m_picture": "GUI/NpcPortraits/Art_Portrait_MB_Lord_Upper06.dds",
-            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/ClancyPembroke_QST_09.mp3",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/ClancyPembroke_QST_13.mp3",
             "m_action": "",
             "m_dialogEvent": "",
             "m_actorTemplateID": 39725,

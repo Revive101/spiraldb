@@ -12,6 +12,61 @@
         "m_destinationLoc": "-8778.236,16847.76,-173.2646,-1.570796",
         "m_destinationZone": "MooShu/MS_Death/MS_Death_Hub_RuinedTemple"
       }
+    },
+    {
+      "TriggerName": "ToTower3FromBG",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromDeath1",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T3"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromBG",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Death1",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower1FromBG",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromDeath1",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T1"
+      }
+    },
+    {
+      "TriggerName": "MS_SpiritWorldPortal_Death1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromDeath1",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T5_SpiritWorld"
+      }
+    },
+    {
+      "TriggerName": "ToTower4FromBG",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromDeath1",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T4"
+      }
     }
   ]
 }

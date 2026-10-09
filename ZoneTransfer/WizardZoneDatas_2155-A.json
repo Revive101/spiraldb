@@ -34,6 +34,50 @@
         "m_destinationLoc": "-8.956055,-1473.532,-6.103516E-05,-3.095471",
         "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague2_T2"
       }
+    },
+    {
+      "TriggerName": "ToTower5FromKV",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlague2",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague2_T5"
+      }
+    },
+    {
+      "TriggerName": "ToTower4FromKV",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlague2",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague2_T4"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromKV",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlague1",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague2_T3"
+      }
+    },
+    {
+      "TriggerName": "Teleport MS_Plague2_T2_Part2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromPlague2",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague2_T2_Part2"
+      }
     }
   ]
 }

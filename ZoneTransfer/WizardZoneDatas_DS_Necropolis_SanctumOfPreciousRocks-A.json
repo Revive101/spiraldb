@@ -1,0 +1,28 @@
+{
+  "ZoneName": "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_SanctumOfPreciousRocks",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Upstairs Teleporter to Necropolis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From SanctumOfRocks",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Hub_Necropolis"
+      }
+    },
+    {
+      "TriggerName": "Downstairs Teleporter to Necropolis",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From SanctumOfRocks",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Hub_Necropolis"
+      }
+    }
+  ]
+}

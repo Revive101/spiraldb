@@ -12,6 +12,83 @@
         "m_destinationLoc": "4162.577,8108.437,-113.5537,1.618933",
         "m_destinationZone": "Marleybone/MB_Station/MB_Station_Hub"
       }
+    },
+    {
+      "TriggerName": "GardentoTower1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromGardentoTower1",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T1"
+      }
+    },
+    {
+      "TriggerName": "GardentoTower5",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "GardentoTower5",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T5"
+      }
+    },
+    {
+      "TriggerName": "GardentoTower6",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "GardentoTower6",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T6"
+      }
+    },
+    {
+      "TriggerName": "GardentoTower3",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "GardentoTower3",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T3"
+      }
+    },
+    {
+      "TriggerName": "GardentoTower7",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "GardentoTower7",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T7"
+      }
+    },
+    {
+      "TriggerName": "GardentoTower2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "GardentoTower2",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T2"
+      }
+    },
+    {
+      "TriggerName": "GardentoTower4",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "GardentoTower4",
+        "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T4"
+      }
     }
   ]
 }

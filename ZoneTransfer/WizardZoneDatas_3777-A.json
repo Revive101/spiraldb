@@ -23,6 +23,39 @@
         "m_destinationLoc": "28.16266,-2560.912,-0.0004882813,-3.141593",
         "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_ChampHall_T4"
       }
+    },
+    {
+      "TriggerName": "ToTower1FromSphinx2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7.803652,2693.301,0,0",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_ChampHall_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromSphinx2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3.923795,2554.083,0,0",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_ChampHall_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower3FromSphinx2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "28.16266,-2560.912,-0.0004882813,-3.141593",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_ChampHall_T3"
+      }
     }
   ]
 }

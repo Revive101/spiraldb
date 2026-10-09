@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Marleybone/MB_ScotlandYard/Interiors/MB_KatzLab_T9",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Teleport to the Lab",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From Tower 9",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KatzLab"
+      }
+    }
+  ]
+}

@@ -56,6 +56,17 @@
         "m_destinationLoc": "-142.2899,-536.8154,0.01538086,-3.141593",
         "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_MalistaireLair"
       }
+    },
+    {
+      "TriggerName": "DS_CrystalStandGreenBlue",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From-UpperVolcano",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_MalistaireLair"
+      }
     }
   ]
 }
