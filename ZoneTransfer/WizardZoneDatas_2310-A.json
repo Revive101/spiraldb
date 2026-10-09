@@ -78,6 +78,17 @@
         "m_destinationLoc": "-11.65408,-1074.476,0.1235118,-3.128309",
         "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T6"
       }
+    },
+    {
+      "TriggerName": "ToTower5FromDS_Plaza",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T5 from Plaza)",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T5"
+      }
     }
   ]
 }

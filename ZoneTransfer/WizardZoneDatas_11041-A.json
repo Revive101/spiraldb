@@ -12,6 +12,17 @@
         "m_destinationLoc": "-2933.205,483.0791,0.0002441406,-1.559456",
         "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Library_Interior"
       }
+    },
+    {
+      "TriggerName": "Teleport source",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target-FromLoreMaster",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Library_Interior"
+      }
     }
   ]
 }

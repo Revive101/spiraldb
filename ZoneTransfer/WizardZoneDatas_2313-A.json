@@ -45,6 +45,39 @@
         "m_destinationLoc": "Start",
         "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_Gauntlet_8Room"
       }
+    },
+    {
+      "TriggerName": "ToTower3FromDS_Hatchery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T3 from Hatchery)",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_T3"
+      }
+    },
+    {
+      "TriggerName": "ToTower5FromDS_Hatchery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T5 from Hatchery)",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_T5"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromDS_Hatchery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 from Hatchery)",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_T2"
+      }
     }
   ]
 }

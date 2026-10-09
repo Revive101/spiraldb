@@ -12,6 +12,28 @@
         "m_destinationLoc": "1882.524,6268.297,400.1172,-3.141593",
         "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Hub_Library"
       }
+    },
+    {
+      "TriggerName": "SigilToLoreMaster",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target-LoreMasterChamber",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Library_LoreMasterEncounter"
+      }
+    },
+    {
+      "TriggerName": "Sigil to Corruptors Den",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_CorruptorsDen"
+      }
     }
   ]
 }
