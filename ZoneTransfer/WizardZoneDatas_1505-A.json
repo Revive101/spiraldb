@@ -155,6 +155,17 @@
         "m_destinationLoc": "2445.056,9.151127,29.99994,1.570796",
         "m_destinationZone": "MooShu/Interiors/MS_GardenDojo_T3"
       }
+    },
+    {
+      "TriggerName": "Teleport to Interior sigil-WEAVE-BAL-001",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromMainHub",
+        "m_destinationZone": "MooShu/Interiors/MS_WEAVE_BAL_FailedOni"
+      }
     }
   ]
 }

@@ -45,6 +45,17 @@
         "m_destinationLoc": "FromWarHub",
         "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldA"
       }
+    },
+    {
+      "TriggerName": "RuinedVillage-To Tower 1",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromWarHub",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_WarHub_T1"
+      }
     }
   ]
 }

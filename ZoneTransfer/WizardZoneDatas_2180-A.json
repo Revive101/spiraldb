@@ -67,6 +67,17 @@
         "m_destinationLoc": "FromDeath1",
         "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T4"
       }
+    },
+    {
+      "TriggerName": "ToTower6FromBG",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromDeath1",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T6"
+      }
     }
   ]
 }
