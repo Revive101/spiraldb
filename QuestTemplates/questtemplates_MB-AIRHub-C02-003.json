@@ -909,7 +909,13 @@
       "m_noQuestHelper": false,
       "m_petOnlyQuest": false,
       "m_activateResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "MB-AIRHub-NPC02 instance",
+            "m_useQuestAsOriginator": false
+          }
+        ]
       },
       "m_hideGoalFloatyText": false,
       "m_behaviors": null,
