@@ -145,7 +145,13 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResSpawn, Imcodec.ObjectProperty",
+            "m_spawnID": 206274,
+            "m_activate": true
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -190,7 +196,13 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResSpawn, Imcodec.ObjectProperty",
+            "m_spawnID": 206274,
+            "m_activate": false
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
