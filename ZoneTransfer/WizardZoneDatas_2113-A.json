@@ -12,6 +12,17 @@
         "m_destinationLoc": "-2552.743,3778.175,250.0001,-1.570796",
         "m_destinationZone": "Marleybone/MB_BigBen/MB_Museum"
       }
+    },
+    {
+      "TriggerName": "Teleport_ToInterior",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Marleybone/Interiors/MB_PreAZ_HalleysTowerInt"
+      }
     }
   ]
 }
