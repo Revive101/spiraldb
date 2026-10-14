@@ -1,0 +1,24 @@
+{
+  "Name": "MS-DTH1-C04-002",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 200,
+  "MaxGold": 200,
+  "ExperienceAmount": 3700,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160599",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:34.970057Z",
+  "ModifiedAt": "2026-10-14T18:06:34.970057Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
