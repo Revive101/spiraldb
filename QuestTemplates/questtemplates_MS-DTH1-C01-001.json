@@ -19,7 +19,14 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResPostEvent, Imcodec.ObjectProperty",
+            "m_eventName": "GoalComplete_MS-DTH1-C01-001_Goal",
+            "m_subEventName": "",
+            "m_requirements": null
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -38,7 +45,9 @@
         "Mantra1",
         "DDL_MS_BG_Tablet"
       ],
-      "m_genericEvents": [],
+      "m_genericEvents": [
+        "LearnMantra1"
+      ],
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround",
@@ -86,7 +95,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -224,6 +233,47 @@
         "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
         "m_tableName": "MS-DTH1-C01-001",
         "m_maxRolls": 1
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDownloadPackage, Imcodec.ObjectProperty",
+        "m_packageList": [
+          "WizardCity/Interiors/WC_TowerMyth_Main",
+          "DragonSpire/DS_Hub_Cathedral",
+          "DragonSpire/DS_A1_Knowledge/DS_A1Hub_Library",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Library_Interior",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Library_Shop2",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Library_Shop3",
+          "DragonSpire/DS_A1_Knowledge/DS_A1Z1_WizardTower",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_H1",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T1",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T10",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T11",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T2",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T3",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T4",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_ToK_T5",
+          "DragonSpire/DS_A1_Knowledge/DS_A1Z2_ConquestPlaza",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T1",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T1f",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T2",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T3",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T4",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_T5",
+          "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm",
+          "DragonSpire/DS_A1_Knowledge/DS_A1Z4_GrandChasm_Past",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Chasm_HallOfTime",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_GrandChasm_T1",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_GrandChasm_T15",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_GrandChasm_T2",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_GrandChasm_T3",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Plaza_Gauntlet_7Room",
+          "DragonSpire/DS_A2_Battle/Interiors/DS_Detention_Gauntlet_3Room01",
+          "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_Crypt3",
+          "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_Gauntlet_3Room01",
+          "DragonSpire/DS_A1_Knowledge/Interiors/DS_Library_Shop1",
+          "Sound_Dialogue_DS/WorldData"
+        ],
+        "m_requirements": null
       }
     ]
   },
@@ -519,6 +569,83 @@
             "m_index": 1038629992
           }
         ],
+        "m_dialogEvents": null,
+        "m_noAggroWhileDialogIsUp": false,
+        "m_noAggroNoDelay": false
+      },
+      {
+        "m_dialogTag": "Underway",
+        "m_dialogEntries": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+            "m_personaName": "MS-DTH1-NPC01_Persona",
+            "m_nameOverride": "",
+            "m_nameSTKey": "",
+            "m_guiDisplay": "",
+            "m_maxTimeSeconds": -1,
+            "m_invisible": false,
+            "m_requirements": null,
+            "m_dialog": "WizQst12E2D_00000005",
+            "m_picture": "",
+            "m_soundFile": "|Sound_Dialogue_MS|WorldData|Sound/Dialogue/IchiroKebo_QST_01.mp3",
+            "m_action": "",
+            "m_dialogEvent": "",
+            "m_actorTemplateID": 77336,
+            "m_cameraName": "",
+            "m_interpolationDuration": 0,
+            "m_cameraOffsetX": 0,
+            "m_cameraOffsetY": 0,
+            "m_cameraOffsetZ": 0,
+            "m_pitch": 0,
+            "m_yaw": 0,
+            "m_roll": 0,
+            "m_cameraShakeType": "",
+            "m_cameraShakeDuration": 0,
+            "m_cameraShakeAmplitude": 0,
+            "m_bypassCameraOnReview": true,
+            "m_cameraZoneName": "",
+            "m_duration": 0,
+            "m_delay": 0,
+            "m_cameraHidePlayers": 0,
+            "m_walkAwayNpcTemplateID": 0,
+            "m_walkAwayExitDirectionInDegrees": 0,
+            "m_walkAwayFadeTime": 0,
+            "m_walkAwayUseCurrentFacing": false,
+            "m_standInPlayerTag": "",
+            "m_fadeOutCamera": false,
+            "m_snapCameraToPlayerAtExit": false,
+            "m_secondaryCameraName": "",
+            "m_secondaryInterpolationDuration": 0,
+            "m_npcStandInList": null,
+            "m_dialogAnimationList": null,
+            "m_dialogTurningList": null,
+            "m_npcYawOffsetInDegrees": 0,
+            "m_allowPlayerToMove": false,
+            "m_soundEffectFile": "",
+            "m_musicFile": "",
+            "m_nonStackableMusic": false,
+            "m_nonRepeatableMusic": false,
+            "m_playMusicAtSFXVolume": false,
+            "m_soundEffectDelay": 0,
+            "m_musicDelay": 0,
+            "m_musicFadeTime": 0,
+            "m_dontReleaseCameraAtExit": false,
+            "m_disableBackButton": false,
+            "m_enableExitButton": false,
+            "m_cameraFadeType": "",
+            "m_cameraFadeTime": 0,
+            "m_idleAnimation": "",
+            "m_spamTime": 0,
+            "m_playSoundIfSpamming": false,
+            "m_playMusicIfSpamming": false,
+            "m_stopMusicFadeTime": 0,
+            "m_restartMusicFadeTime": 0,
+            "m_meetsRequirements": false,
+            "m_secondaryCameraInitalDelay": 0,
+            "m_displayButtonsOnTimedDialog": false
+          }
+        ],
+        "m_madlibs": null,
         "m_dialogEvents": null,
         "m_noAggroWhileDialogIsUp": false,
         "m_noAggroNoDelay": false
