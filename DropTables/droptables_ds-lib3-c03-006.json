@@ -1,0 +1,24 @@
+{
+  "Name": "DS-LIB3-C03-006",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 216,
+  "MaxGold": 216,
+  "ExperienceAmount": 4750,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160812",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:16.206093Z",
+  "ModifiedAt": "2026-10-14T18:06:16.206093Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
