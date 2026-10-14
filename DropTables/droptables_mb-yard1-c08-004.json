@@ -1,0 +1,30 @@
+{
+  "Name": "MB-YARD1-C08-004",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 126,
+  "MaxGold": 126,
+  "ExperienceAmount": 3590,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97112",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "160671",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:40.138615Z",
+  "ModifiedAt": "2026-10-14T18:06:40.138615Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
