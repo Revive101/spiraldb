@@ -1,0 +1,24 @@
+{
+  "Name": "WC-ST01-C05-001",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 20,
+  "MaxGold": 20,
+  "ExperienceAmount": 45,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "100365",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:50.947882Z",
+  "ModifiedAt": "2026-10-14T18:06:50.947882Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

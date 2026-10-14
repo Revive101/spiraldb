@@ -45,6 +45,17 @@
         "m_destinationLoc": "-4.830764,266.8296,0,-3.141593",
         "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy"
       }
+    },
+    {
+      "TriggerName": "ToTower2FromDS_Arena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 from Arena)",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Arena_T2"
+      }
     }
   ]
 }

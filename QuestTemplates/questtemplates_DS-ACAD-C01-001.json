@@ -22,7 +22,97 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResActorDialog, Imcodec.ObjectProperty",
+            "m_dialogPrefix": "",
+            "m_activePersona": "",
+            "m_registryEntry": "",
+            "m_dialog": {
+              "m_dialogTag": "Hyperlink",
+              "m_dialogEntries": [
+                {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                  "m_personaName": "",
+                  "m_nameOverride": "WizQst298DE_00000010",
+                  "m_nameSTKey": "",
+                  "m_guiDisplay": "",
+                  "m_maxTimeSeconds": -1,
+                  "m_invisible": false,
+                  "m_requirements": null,
+                  "m_dialog": "WizQst298DE_00000009",
+                  "m_picture": "GUI/QuestButtons/Quest_dragon_rider_staff_piece.dds",
+                  "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/Narrator_NAR_23.mp3",
+                  "m_action": "",
+                  "m_dialogEvent": "",
+                  "m_actorTemplateID": 0,
+                  "m_cameraName": "",
+                  "m_interpolationDuration": 0,
+                  "m_cameraOffsetX": 0,
+                  "m_cameraOffsetY": 0,
+                  "m_cameraOffsetZ": 0,
+                  "m_pitch": 0,
+                  "m_yaw": 0,
+                  "m_roll": 0,
+                  "m_cameraShakeType": "",
+                  "m_cameraShakeDuration": 0,
+                  "m_cameraShakeAmplitude": 0,
+                  "m_bypassCameraOnReview": true,
+                  "m_cameraZoneName": "",
+                  "m_duration": 0,
+                  "m_delay": 0,
+                  "m_cameraHidePlayers": 0,
+                  "m_walkAwayNpcTemplateID": 0,
+                  "m_walkAwayExitDirectionInDegrees": 0,
+                  "m_walkAwayFadeTime": 0,
+                  "m_walkAwayUseCurrentFacing": false,
+                  "m_standInPlayerTag": "",
+                  "m_fadeOutCamera": false,
+                  "m_snapCameraToPlayerAtExit": false,
+                  "m_secondaryCameraName": "",
+                  "m_secondaryInterpolationDuration": 0,
+                  "m_npcStandInList": null,
+                  "m_dialogAnimationList": null,
+                  "m_dialogTurningList": null,
+                  "m_npcYawOffsetInDegrees": 0,
+                  "m_allowPlayerToMove": false,
+                  "m_soundEffectFile": "",
+                  "m_musicFile": "",
+                  "m_nonStackableMusic": false,
+                  "m_nonRepeatableMusic": false,
+                  "m_playMusicAtSFXVolume": false,
+                  "m_soundEffectDelay": 0,
+                  "m_musicDelay": 0,
+                  "m_musicFadeTime": 3,
+                  "m_dontReleaseCameraAtExit": false,
+                  "m_disableBackButton": false,
+                  "m_enableExitButton": false,
+                  "m_cameraFadeType": "",
+                  "m_cameraFadeTime": 0.5,
+                  "m_idleAnimation": "",
+                  "m_spamTime": 1,
+                  "m_playSoundIfSpamming": true,
+                  "m_playMusicIfSpamming": true,
+                  "m_stopMusicFadeTime": 0,
+                  "m_restartMusicFadeTime": 0,
+                  "m_meetsRequirements": true,
+                  "m_secondaryCameraInitalDelay": 0,
+                  "m_displayButtonsOnTimedDialog": false
+                }
+              ],
+              "m_madlibs": null,
+              "m_dialogEvents": null,
+              "m_noAggroWhileDialogIsUp": false,
+              "m_noAggroNoDelay": false
+            },
+            "m_randomDialog": false,
+            "m_quest": "",
+            "m_broadcastToZone": false,
+            "m_displayInQuestList": false,
+            "m_oneShot": false,
+            "m_requirements": null
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -42,7 +132,9 @@
         "GotObsidianChest1",
         "WC_Cave02_T01"
       ],
-      "m_genericEvents": [],
+      "m_genericEvents": [
+        "GotObsidianChest1"
+      ],
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "",
@@ -58,7 +150,10 @@
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
-      "m_zoneExit": false
+      "m_zoneExit": false,
+      "m_itemAdjectives": [
+        "DS-ObsidianChest.AdjRef"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
@@ -69,7 +164,97 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResActorDialog, Imcodec.ObjectProperty",
+            "m_dialogPrefix": "",
+            "m_activePersona": "",
+            "m_registryEntry": "",
+            "m_dialog": {
+              "m_dialogTag": "Hyperlink",
+              "m_dialogEntries": [
+                {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                  "m_personaName": "",
+                  "m_nameOverride": "WizQst298DE_00000016",
+                  "m_nameSTKey": "",
+                  "m_guiDisplay": "",
+                  "m_maxTimeSeconds": -1,
+                  "m_invisible": false,
+                  "m_requirements": null,
+                  "m_dialog": "WizQst298DE_00000015",
+                  "m_picture": "GUI/QuestButtons/Quest_dragon_rider_staff_piece.dds",
+                  "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/Narrator_NAR_23.mp3",
+                  "m_action": "",
+                  "m_dialogEvent": "",
+                  "m_actorTemplateID": 0,
+                  "m_cameraName": "",
+                  "m_interpolationDuration": 0,
+                  "m_cameraOffsetX": 0,
+                  "m_cameraOffsetY": 0,
+                  "m_cameraOffsetZ": 0,
+                  "m_pitch": 0,
+                  "m_yaw": 0,
+                  "m_roll": 0,
+                  "m_cameraShakeType": "",
+                  "m_cameraShakeDuration": 0,
+                  "m_cameraShakeAmplitude": 0,
+                  "m_bypassCameraOnReview": true,
+                  "m_cameraZoneName": "",
+                  "m_duration": 0,
+                  "m_delay": 0,
+                  "m_cameraHidePlayers": 0,
+                  "m_walkAwayNpcTemplateID": 0,
+                  "m_walkAwayExitDirectionInDegrees": 0,
+                  "m_walkAwayFadeTime": 0,
+                  "m_walkAwayUseCurrentFacing": false,
+                  "m_standInPlayerTag": "",
+                  "m_fadeOutCamera": false,
+                  "m_snapCameraToPlayerAtExit": false,
+                  "m_secondaryCameraName": "",
+                  "m_secondaryInterpolationDuration": 0,
+                  "m_npcStandInList": null,
+                  "m_dialogAnimationList": null,
+                  "m_dialogTurningList": null,
+                  "m_npcYawOffsetInDegrees": 0,
+                  "m_allowPlayerToMove": false,
+                  "m_soundEffectFile": "",
+                  "m_musicFile": "",
+                  "m_nonStackableMusic": false,
+                  "m_nonRepeatableMusic": false,
+                  "m_playMusicAtSFXVolume": false,
+                  "m_soundEffectDelay": 0,
+                  "m_musicDelay": 0,
+                  "m_musicFadeTime": 3,
+                  "m_dontReleaseCameraAtExit": false,
+                  "m_disableBackButton": false,
+                  "m_enableExitButton": false,
+                  "m_cameraFadeType": "",
+                  "m_cameraFadeTime": 0.5,
+                  "m_idleAnimation": "",
+                  "m_spamTime": 1,
+                  "m_playSoundIfSpamming": true,
+                  "m_playMusicIfSpamming": true,
+                  "m_stopMusicFadeTime": 0,
+                  "m_restartMusicFadeTime": 0,
+                  "m_meetsRequirements": true,
+                  "m_secondaryCameraInitalDelay": 0,
+                  "m_displayButtonsOnTimedDialog": false
+                }
+              ],
+              "m_madlibs": null,
+              "m_dialogEvents": null,
+              "m_noAggroWhileDialogIsUp": false,
+              "m_noAggroNoDelay": false
+            },
+            "m_randomDialog": false,
+            "m_quest": "",
+            "m_broadcastToZone": false,
+            "m_displayInQuestList": false,
+            "m_oneShot": false,
+            "m_requirements": null
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -89,7 +274,9 @@
         "GotObsidianChest3",
         "Kroc_Pyramid_01_Window_03"
       ],
-      "m_genericEvents": [],
+      "m_genericEvents": [
+        "GotObsidianChest3"
+      ],
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Hall_T1",
@@ -105,7 +292,10 @@
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
-      "m_zoneExit": false
+      "m_zoneExit": false,
+      "m_itemAdjectives": [
+        "DS-ObsidianChest.AdjRef"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
@@ -116,7 +306,97 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResActorDialog, Imcodec.ObjectProperty",
+            "m_dialogPrefix": "",
+            "m_activePersona": "",
+            "m_registryEntry": "",
+            "m_dialog": {
+              "m_dialogTag": "Hyperlink",
+              "m_dialogEntries": [
+                {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                  "m_personaName": "",
+                  "m_nameOverride": "WizQst298DE_00000027",
+                  "m_nameSTKey": "",
+                  "m_guiDisplay": "",
+                  "m_maxTimeSeconds": -1,
+                  "m_invisible": false,
+                  "m_requirements": null,
+                  "m_dialog": "WizQst298DE_00000026",
+                  "m_picture": "GUI/QuestButtons/Quest_dragon_rider_staff_piece.dds",
+                  "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/Narrator_NAR_23.mp3",
+                  "m_action": "",
+                  "m_dialogEvent": "",
+                  "m_actorTemplateID": 0,
+                  "m_cameraName": "",
+                  "m_interpolationDuration": 0,
+                  "m_cameraOffsetX": 0,
+                  "m_cameraOffsetY": 0,
+                  "m_cameraOffsetZ": 0,
+                  "m_pitch": 0,
+                  "m_yaw": 0,
+                  "m_roll": 0,
+                  "m_cameraShakeType": "",
+                  "m_cameraShakeDuration": 0,
+                  "m_cameraShakeAmplitude": 0,
+                  "m_bypassCameraOnReview": true,
+                  "m_cameraZoneName": "",
+                  "m_duration": 0,
+                  "m_delay": 0,
+                  "m_cameraHidePlayers": 0,
+                  "m_walkAwayNpcTemplateID": 0,
+                  "m_walkAwayExitDirectionInDegrees": 0,
+                  "m_walkAwayFadeTime": 0,
+                  "m_walkAwayUseCurrentFacing": false,
+                  "m_standInPlayerTag": "",
+                  "m_fadeOutCamera": false,
+                  "m_snapCameraToPlayerAtExit": false,
+                  "m_secondaryCameraName": "",
+                  "m_secondaryInterpolationDuration": 0,
+                  "m_npcStandInList": null,
+                  "m_dialogAnimationList": null,
+                  "m_dialogTurningList": null,
+                  "m_npcYawOffsetInDegrees": 0,
+                  "m_allowPlayerToMove": false,
+                  "m_soundEffectFile": "",
+                  "m_musicFile": "",
+                  "m_nonStackableMusic": false,
+                  "m_nonRepeatableMusic": false,
+                  "m_playMusicAtSFXVolume": false,
+                  "m_soundEffectDelay": 0,
+                  "m_musicDelay": 0,
+                  "m_musicFadeTime": 3,
+                  "m_dontReleaseCameraAtExit": false,
+                  "m_disableBackButton": false,
+                  "m_enableExitButton": false,
+                  "m_cameraFadeType": "",
+                  "m_cameraFadeTime": 0.5,
+                  "m_idleAnimation": "",
+                  "m_spamTime": 1,
+                  "m_playSoundIfSpamming": true,
+                  "m_playMusicIfSpamming": true,
+                  "m_stopMusicFadeTime": 0,
+                  "m_restartMusicFadeTime": 0,
+                  "m_meetsRequirements": true,
+                  "m_secondaryCameraInitalDelay": 0,
+                  "m_displayButtonsOnTimedDialog": false
+                }
+              ],
+              "m_madlibs": null,
+              "m_dialogEvents": null,
+              "m_noAggroWhileDialogIsUp": false,
+              "m_noAggroNoDelay": false
+            },
+            "m_randomDialog": false,
+            "m_quest": "",
+            "m_broadcastToZone": false,
+            "m_displayInQuestList": false,
+            "m_oneShot": false,
+            "m_requirements": null
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -136,7 +416,9 @@
         "GotObsidianChest6",
         "MB_AP2_ClockTower_04_Win"
       ],
-      "m_genericEvents": [],
+      "m_genericEvents": [
+        "GotObsidianChest6"
+      ],
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_T6",
@@ -152,7 +434,10 @@
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
-      "m_zoneExit": false
+      "m_zoneExit": false,
+      "m_itemAdjectives": [
+        "DS-ObsidianChest.AdjRef"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
@@ -163,7 +448,97 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResActorDialog, Imcodec.ObjectProperty",
+            "m_dialogPrefix": "",
+            "m_activePersona": "",
+            "m_registryEntry": "",
+            "m_dialog": {
+              "m_dialogTag": "Hyperlink",
+              "m_dialogEntries": [
+                {
+                  "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+                  "m_personaName": "",
+                  "m_nameOverride": "WizQst298DE_00000030",
+                  "m_nameSTKey": "",
+                  "m_guiDisplay": "",
+                  "m_maxTimeSeconds": -1,
+                  "m_invisible": false,
+                  "m_requirements": null,
+                  "m_dialog": "WizQst298DE_00000029",
+                  "m_picture": "GUI/QuestButtons/Quest_dragon_rider_staff_piece.dds",
+                  "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/Narrator_NAR_23.mp3",
+                  "m_action": "",
+                  "m_dialogEvent": "",
+                  "m_actorTemplateID": 0,
+                  "m_cameraName": "",
+                  "m_interpolationDuration": 0,
+                  "m_cameraOffsetX": 0,
+                  "m_cameraOffsetY": 0,
+                  "m_cameraOffsetZ": 0,
+                  "m_pitch": 0,
+                  "m_yaw": 0,
+                  "m_roll": 0,
+                  "m_cameraShakeType": "",
+                  "m_cameraShakeDuration": 0,
+                  "m_cameraShakeAmplitude": 0,
+                  "m_bypassCameraOnReview": true,
+                  "m_cameraZoneName": "",
+                  "m_duration": 0,
+                  "m_delay": 0,
+                  "m_cameraHidePlayers": 0,
+                  "m_walkAwayNpcTemplateID": 0,
+                  "m_walkAwayExitDirectionInDegrees": 0,
+                  "m_walkAwayFadeTime": 0,
+                  "m_walkAwayUseCurrentFacing": false,
+                  "m_standInPlayerTag": "",
+                  "m_fadeOutCamera": false,
+                  "m_snapCameraToPlayerAtExit": false,
+                  "m_secondaryCameraName": "",
+                  "m_secondaryInterpolationDuration": 0,
+                  "m_npcStandInList": null,
+                  "m_dialogAnimationList": null,
+                  "m_dialogTurningList": null,
+                  "m_npcYawOffsetInDegrees": 0,
+                  "m_allowPlayerToMove": false,
+                  "m_soundEffectFile": "",
+                  "m_musicFile": "",
+                  "m_nonStackableMusic": false,
+                  "m_nonRepeatableMusic": false,
+                  "m_playMusicAtSFXVolume": false,
+                  "m_soundEffectDelay": 0,
+                  "m_musicDelay": 0,
+                  "m_musicFadeTime": 3,
+                  "m_dontReleaseCameraAtExit": false,
+                  "m_disableBackButton": false,
+                  "m_enableExitButton": false,
+                  "m_cameraFadeType": "",
+                  "m_cameraFadeTime": 0.5,
+                  "m_idleAnimation": "",
+                  "m_spamTime": 1,
+                  "m_playSoundIfSpamming": true,
+                  "m_playMusicIfSpamming": true,
+                  "m_stopMusicFadeTime": 0,
+                  "m_restartMusicFadeTime": 0,
+                  "m_meetsRequirements": true,
+                  "m_secondaryCameraInitalDelay": 0,
+                  "m_displayButtonsOnTimedDialog": false
+                }
+              ],
+              "m_madlibs": null,
+              "m_dialogEvents": null,
+              "m_noAggroWhileDialogIsUp": false,
+              "m_noAggroNoDelay": false
+            },
+            "m_randomDialog": false,
+            "m_quest": "",
+            "m_broadcastToZone": false,
+            "m_displayInQuestList": false,
+            "m_oneShot": false,
+            "m_requirements": null
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -183,7 +558,9 @@
         "GotObsidianChest7",
         "MS_AZ_Death01_Window_Pagoda_02"
       ],
-      "m_genericEvents": [],
+      "m_genericEvents": [
+        "GotObsidianChest7"
+      ],
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T4",
@@ -199,7 +576,10 @@
       "m_zoneEntry": true,
       "m_zoneTag": "",
       "m_proximityTag": "",
-      "m_zoneExit": false
+      "m_zoneExit": false,
+      "m_itemAdjectives": [
+        "DS-ObsidianChest.AdjRef"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
@@ -231,7 +611,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Hub_Academy",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -429,7 +809,49 @@
     }
   ],
   "m_startResults": {
-    "m_results": []
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "Kroc_Pyramid_01_Window_03",
+        "m_useQuestAsOriginator": false,
+        "m_requirements": null
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "Kroc_Sphinx_03_Window_04",
+        "m_useQuestAsOriginator": false,
+        "m_requirements": null
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "MB_SY1_ClockTower_10_Win",
+        "m_useQuestAsOriginator": false,
+        "m_requirements": null
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "MB_AP2_ClockTower_04_Win",
+        "m_useQuestAsOriginator": false,
+        "m_requirements": null
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "ToTower4FromBG",
+        "m_dynaModRemove": false,
+        "m_useQuestAsOriginator": false,
+        "m_dynaModState": "Glowy",
+        "m_zoneName": "MooShu/MS_Death/MS_Death_Zone1_BurialGround",
+        "m_bShowsObject": false,
+        "m_persist": false,
+        "m_requirements": null
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
+        "m_dynaModClientTag": "MS_AZ_Death01_Window_Pagoda_02",
+        "m_useQuestAsOriginator": false,
+        "m_requirements": null
+      }
+    ]
   },
   "m_endResults": {
     "m_results": [
@@ -1012,6 +1434,83 @@
             "m_index": 1855634540
           }
         ],
+        "m_dialogEvents": null,
+        "m_noAggroWhileDialogIsUp": false,
+        "m_noAggroNoDelay": false
+      },
+      {
+        "m_dialogTag": "Underway",
+        "m_dialogEntries": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+            "m_personaName": "DS-ACAD-NPC01_Persona",
+            "m_nameOverride": "",
+            "m_nameSTKey": "",
+            "m_guiDisplay": "",
+            "m_maxTimeSeconds": -1,
+            "m_invisible": false,
+            "m_requirements": null,
+            "m_dialog": "WizQst298DE_00000000",
+            "m_picture": "",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/TreeAshley_QST_01.mp3",
+            "m_action": "",
+            "m_dialogEvent": "",
+            "m_actorTemplateID": 126321,
+            "m_cameraName": "",
+            "m_interpolationDuration": 0,
+            "m_cameraOffsetX": 0,
+            "m_cameraOffsetY": 0,
+            "m_cameraOffsetZ": 0,
+            "m_pitch": 0,
+            "m_yaw": 0,
+            "m_roll": 0,
+            "m_cameraShakeType": "",
+            "m_cameraShakeDuration": 0,
+            "m_cameraShakeAmplitude": 0,
+            "m_bypassCameraOnReview": true,
+            "m_cameraZoneName": "",
+            "m_duration": 0,
+            "m_delay": 0,
+            "m_cameraHidePlayers": 0,
+            "m_walkAwayNpcTemplateID": 0,
+            "m_walkAwayExitDirectionInDegrees": 0,
+            "m_walkAwayFadeTime": 0,
+            "m_walkAwayUseCurrentFacing": false,
+            "m_standInPlayerTag": "",
+            "m_fadeOutCamera": false,
+            "m_snapCameraToPlayerAtExit": false,
+            "m_secondaryCameraName": "",
+            "m_secondaryInterpolationDuration": 0,
+            "m_npcStandInList": null,
+            "m_dialogAnimationList": null,
+            "m_dialogTurningList": null,
+            "m_npcYawOffsetInDegrees": 0,
+            "m_allowPlayerToMove": false,
+            "m_soundEffectFile": "",
+            "m_musicFile": "",
+            "m_nonStackableMusic": false,
+            "m_nonRepeatableMusic": false,
+            "m_playMusicAtSFXVolume": false,
+            "m_soundEffectDelay": 0,
+            "m_musicDelay": 0,
+            "m_musicFadeTime": 3,
+            "m_dontReleaseCameraAtExit": false,
+            "m_disableBackButton": false,
+            "m_enableExitButton": false,
+            "m_cameraFadeType": "",
+            "m_cameraFadeTime": 0.5,
+            "m_idleAnimation": "",
+            "m_spamTime": 1,
+            "m_playSoundIfSpamming": true,
+            "m_playMusicIfSpamming": true,
+            "m_stopMusicFadeTime": 0,
+            "m_restartMusicFadeTime": 0,
+            "m_meetsRequirements": true,
+            "m_secondaryCameraInitalDelay": 0,
+            "m_displayButtonsOnTimedDialog": false
+          }
+        ],
+        "m_madlibs": null,
         "m_dialogEvents": null,
         "m_noAggroWhileDialogIsUp": false,
         "m_noAggroNoDelay": false

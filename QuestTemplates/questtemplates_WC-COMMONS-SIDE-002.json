@@ -9,7 +9,14 @@
   "m_startGoals": [],
   "m_goals": [],
   "m_startResults": {
-    "m_results": []
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResPostQuestEvent, Imcodec.ObjectProperty",
+        "m_eventName": "WC-COMMON-SIDE-002",
+        "m_subEventName": "",
+        "m_requirements": null
+      }
+    ]
   },
   "m_endResults": {
     "m_results": [

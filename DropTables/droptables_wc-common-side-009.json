@@ -1,0 +1,36 @@
+{
+  "Name": "WC-COMMON-SIDE-009",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 50,
+  "MaxGold": 50,
+  "ExperienceAmount": 150,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160207",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "38501",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "38513",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:50.933055Z",
+  "ModifiedAt": "2026-10-14T18:06:50.933055Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

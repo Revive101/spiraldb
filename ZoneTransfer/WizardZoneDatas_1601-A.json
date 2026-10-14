@@ -31,8 +31,8 @@
         "m_teleporterTag": 0,
         "m_teleportType": "TELEPORT_STATIC",
         "m_transitionID": 0,
-        "m_destinationLoc": "-10.23438,-3799.008,0.008755877,2.030577",
-        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Marleybone/MB_Station/MB_FlightToHydePark"
       }
     },
     {
@@ -42,8 +42,8 @@
         "m_teleporterTag": 0,
         "m_teleportType": "TELEPORT_STATIC",
         "m_transitionID": 0,
-        "m_destinationLoc": "-15283.25,3722.49,0.00976558,-2.835561",
-        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Marleybone/MB_Station/MB_FlightToCourt"
       }
     },
     {

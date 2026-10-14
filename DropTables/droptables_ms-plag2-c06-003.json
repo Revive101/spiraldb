@@ -1,0 +1,24 @@
+{
+  "Name": "MS-PLAG2-C06-003",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 190,
+  "MaxGold": 190,
+  "ExperienceAmount": 3435,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160478",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:34.968603Z",
+  "ModifiedAt": "2026-10-14T18:06:34.968603Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

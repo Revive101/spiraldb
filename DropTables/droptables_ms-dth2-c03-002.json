@@ -1,0 +1,24 @@
+{
+  "Name": "MS-DTH2-C03-002",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 206,
+  "MaxGold": 206,
+  "ExperienceAmount": 4140,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160552",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:34.972572Z",
+  "ModifiedAt": "2026-10-14T18:06:34.972572Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

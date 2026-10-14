@@ -56,6 +56,72 @@
         "m_destinationLoc": "Target location (DS_T1 from CrystalGrove)",
         "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T1"
       }
+    },
+    {
+      "TriggerName": "ToTower2FromDS_CrystalGrove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 from Crystal)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower5FromDS_CrystalGrove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T5 from CrystalGrove)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T5"
+      }
+    },
+    {
+      "TriggerName": "SigiltoTower8FromCrystalGrove",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T8 from CrystalGrove)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_T8"
+      }
+    },
+    {
+      "TriggerName": "Sigil_to_TowerOfVariousRituals",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_TowerOfVariousRituals"
+      }
+    },
+    {
+      "TriggerName": "Sigil_to_TowerOfBetrayal",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_HallOfBetrayal"
+      }
+    },
+    {
+      "TriggerName": "Teleport_To_Chamber-Of-Trials_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Crystal_ChamberOfTrials_01"
+      }
     }
   ]
 }

@@ -67,6 +67,17 @@
         "m_destinationLoc": "Start",
         "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague1_T1"
       }
+    },
+    {
+      "TriggerName": "Teleport - Weave Life-002",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague1_T8"
+      }
     }
   ]
 }

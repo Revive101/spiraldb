@@ -1,0 +1,24 @@
+{
+  "Name": "WC-ST06-C04-006",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 640,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160248",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:50.941082Z",
+  "ModifiedAt": "2026-10-14T18:06:50.941082Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

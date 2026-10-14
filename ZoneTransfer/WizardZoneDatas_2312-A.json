@@ -89,6 +89,17 @@
         "m_destinationLoc": "Start",
         "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_Gauntlet_5Room2"
       }
+    },
+    {
+      "TriggerName": "Trigger TeleToSanctumOfRocks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Necropolis_SanctumOfPreciousRocks"
+      }
     }
   ]
 }

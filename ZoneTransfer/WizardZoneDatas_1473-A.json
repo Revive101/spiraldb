@@ -232,6 +232,61 @@
         "m_destinationLoc": "2.303053,-341.6709,2.506777E-05,-2.893309",
         "m_destinationZone": "Marleybone/Interiors/MB_SherlockHolmesHouse_Instance"
       }
+    },
+    {
+      "TriggerName": "Teleport_to_MB_GravulumLab",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From_RegentsSquare",
+        "m_destinationZone": "Marleybone/Interiors/MB_GravulumLab"
+      }
+    },
+    {
+      "TriggerName": "Telepor_To_MS_HUB_SecretClub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Start",
+        "m_destinationZone": "Marleybone/Interiors/MB_SecretClub"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_PlunkettHouse",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target_From_MB",
+        "m_destinationZone": "Marleybone/Interiors/MB_PlunkettHouse"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_SpiralGeographic",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target_From_MB",
+        "m_destinationZone": "Marleybone/Interiors/MB_SpiralGeographicOffices"
+      }
+    },
+    {
+      "TriggerName": "Teleport_2_WinterizedHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target_From_Marleybone",
+        "m_destinationZone": "Marleybone/Interiors/MB_WinterizedHall"
+      }
     }
   ]
 }

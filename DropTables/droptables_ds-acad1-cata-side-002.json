@@ -1,0 +1,30 @@
+{
+  "Name": "DS-ACAD1-CATA-SIDE-002",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 1380,
+  "MaxGold": 1380,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1479458",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "1479459",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:12:25.105595Z",
+  "ModifiedAt": "2026-10-14T18:12:25.105595Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

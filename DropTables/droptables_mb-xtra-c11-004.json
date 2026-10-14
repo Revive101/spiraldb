@@ -1,0 +1,30 @@
+{
+  "Name": "MB-XTRA-C11-004",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 120,
+  "MaxGold": 120,
+  "ExperienceAmount": 3165,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77078",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "160676",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:40.143086Z",
+  "ModifiedAt": "2026-10-14T18:06:40.143086Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "WC-ST03-C02-003",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 46,
+  "MaxGold": 46,
+  "ExperienceAmount": 230,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77564",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "160245",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:50.943857Z",
+  "ModifiedAt": "2026-10-14T18:06:50.943857Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

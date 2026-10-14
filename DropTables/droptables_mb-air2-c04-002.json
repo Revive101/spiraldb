@@ -1,0 +1,24 @@
+{
+  "Name": "MB-AIR2-C04-002",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 126,
+  "MaxGold": 126,
+  "ExperienceAmount": 2650,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160766",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:40.139480Z",
+  "ModifiedAt": "2026-10-14T18:06:40.139480Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

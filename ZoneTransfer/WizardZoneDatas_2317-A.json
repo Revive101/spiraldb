@@ -67,6 +67,39 @@
         "m_destinationLoc": "Start",
         "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_Gauntlet_7Room"
       }
+    },
+    {
+      "TriggerName": "ToTower5FromDS_Amphitheatre",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T5 from Amphitheatre)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T5"
+      }
+    },
+    {
+      "TriggerName": "ToTower2FromDS_Amphitheatre",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T2 from Amphitheatre)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T2"
+      }
+    },
+    {
+      "TriggerName": "ToTower4FromDS_Amphitheatre",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "Target location (DS_T4 from Amphitheatre)",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T4"
+      }
     }
   ]
 }

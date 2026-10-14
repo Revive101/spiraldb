@@ -1,0 +1,36 @@
+{
+  "Name": "MB-HUB-C03-001",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 83,
+  "MaxGold": 83,
+  "ExperienceAmount": 3590,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "38960",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "160678",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "160730",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:40.140124Z",
+  "ModifiedAt": "2026-10-14T18:06:40.140124Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

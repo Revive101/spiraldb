@@ -34,6 +34,39 @@
         "m_destinationLoc": "From War 1",
         "m_destinationZone": "MooShu/MS_War/Interiors/MS_War1_T3"
       }
+    },
+    {
+      "TriggerName": "ToTower1FromTO",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From War 1",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_War1_T1"
+      }
+    },
+    {
+      "TriggerName": "ToTower4FromTO",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From War 1",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_War1_T4"
+      }
+    },
+    {
+      "TriggerName": "ToTower5FromTO",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "From War 1",
+        "m_destinationZone": "MooShu/MS_War/Interiors/MS_War1_T5"
+      }
     }
   ]
 }

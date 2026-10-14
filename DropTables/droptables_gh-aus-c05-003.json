@@ -1,0 +1,30 @@
+{
+  "Name": "GH-AUS-C05-003",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 560,
+  "MaxGold": 560,
+  "ExperienceAmount": 25625,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "240102",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "240103",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:12:00.806801Z",
+  "ModifiedAt": "2026-10-14T18:12:00.806801Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

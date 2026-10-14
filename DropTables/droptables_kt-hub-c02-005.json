@@ -1,0 +1,24 @@
+{
+  "Name": "KT-HUB-C02-005",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 100,
+  "MaxGold": 100,
+  "ExperienceAmount": 785,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82724",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:45.306049Z",
+  "ModifiedAt": "2026-10-14T18:06:45.306049Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

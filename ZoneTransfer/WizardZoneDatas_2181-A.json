@@ -23,6 +23,28 @@
         "m_destinationLoc": "From Death2 MainArea",
         "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death2_Dojo1A"
       }
+    },
+    {
+      "TriggerName": "ToTower3FromHV",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromDeath2",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death2_T3"
+      }
+    },
+    {
+      "TriggerName": "Teleport location 0",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "FromDeath2",
+        "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death2_T5"
+      }
     }
   ]
 }

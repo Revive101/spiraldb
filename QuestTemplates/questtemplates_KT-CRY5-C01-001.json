@@ -63,7 +63,7 @@
                 "m_requirements": null,
                 "m_dialog": "WizQst99A7_00000016",
                 "m_picture": "GUI/NpcPortraits/Art_Portrait_Balance_Professor_Red.dds",
-                "m_soundFile": "",
+                "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/TempleGatekeeper_QST_02.mp3",
                 "m_action": "",
                 "m_dialogEvent": "",
                 "m_actorTemplateID": 39357,
@@ -127,12 +127,12 @@
                   "m_madlibs": [
                     {
                       "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
-                      "m_madlibArgument": "KT-NPCs_00000072",
+                      "m_madlibArgument": "WC-NPCs_00000251",
                       "m_madlibToken": "FIRSTNAME"
                     },
                     {
                       "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
-                      "m_madlibArgument": "WC-NPCs_00000228",
+                      "m_madlibArgument": "WC-NPCs_00000252",
                       "m_madlibToken": "LASTNAME"
                     },
                     {
@@ -264,7 +264,7 @@
                 "m_requirements": null,
                 "m_dialog": "WizQst99A7_00000015",
                 "m_picture": "GUI/NpcPortraits/Art_Portrait_Balance_Professor_Red.dds",
-                "m_soundFile": "",
+                "m_soundFile": "|Sound_Dialogue_KT|WorldData|Sound/Dialogue/TempleGatekeeper_QST_03.mp3",
                 "m_action": "",
                 "m_dialogEvent": "",
                 "m_actorTemplateID": 39357,
@@ -328,12 +328,12 @@
                   "m_madlibs": [
                     {
                       "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
-                      "m_madlibArgument": "KT-NPCs_00000072",
+                      "m_madlibArgument": "WC-NPCs_00000251",
                       "m_madlibToken": "FIRSTNAME"
                     },
                     {
                       "$type": "Imcodec.ObjectProperty.TypeCache.MadlibArgT_ByteString, Imcodec.ObjectProperty",
-                      "m_madlibArgument": "WC-NPCs_00000228",
+                      "m_madlibArgument": "WC-NPCs_00000252",
                       "m_madlibToken": "LASTNAME"
                     },
                     {

@@ -19,7 +19,19 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "DS_A1Z3_Vault16_Crystal",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "",
+            "m_zoneName": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm",
+            "m_bShowsObject": false,
+            "m_persist": false,
+            "m_requirements": null
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -39,7 +51,9 @@
         "ChargeCrystalRed",
         "DS_A1Z3_Vault16_Crystal"
       ],
-      "m_genericEvents": [],
+      "m_genericEvents": [
+        "ChargedCrystalRed"
+      ],
       "m_autoQualify": false,
       "m_autoComplete": false,
       "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Chasm_Gauntlet_8Room_Sub/DS_Chasm_Gauntlet_8Room_5",
@@ -55,7 +69,10 @@
       "m_zoneEntry": false,
       "m_zoneTag": "",
       "m_proximityTag": "",
-      "m_zoneExit": false
+      "m_zoneExit": false,
+      "m_itemAdjectives": [
+        "DS_CrystalCharger.AdjRef"
+      ]
     },
     {
       "$type": "Imcodec.ObjectProperty.TypeCache.PersonaGoalTemplate, Imcodec.ObjectProperty",
@@ -245,7 +262,7 @@
       "m_genericEvents": [],
       "m_autoQualify": false,
       "m_autoComplete": false,
-      "m_destinationZone": "",
+      "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm",
       "m_dialogList": {
         "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
         "m_dialogs": [
@@ -631,6 +648,83 @@
             "m_index": 1472447391
           }
         ],
+        "m_dialogEvents": null,
+        "m_noAggroWhileDialogIsUp": false,
+        "m_noAggroNoDelay": false
+      },
+      {
+        "m_dialogTag": "Underway",
+        "m_dialogEntries": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+            "m_personaName": "DS-LIB3-NPC01_Persona",
+            "m_nameOverride": "",
+            "m_nameSTKey": "",
+            "m_guiDisplay": "",
+            "m_maxTimeSeconds": -1,
+            "m_invisible": false,
+            "m_requirements": null,
+            "m_dialog": "WizQst1ED15_00000001",
+            "m_picture": "",
+            "m_soundFile": "|Sound_Dialogue_DS|WorldData|Sound/Dialogue/BeliaWindgazer_QST_08.mp3",
+            "m_action": "",
+            "m_dialogEvent": "",
+            "m_actorTemplateID": 126305,
+            "m_cameraName": "",
+            "m_interpolationDuration": 0,
+            "m_cameraOffsetX": 0,
+            "m_cameraOffsetY": 0,
+            "m_cameraOffsetZ": 0,
+            "m_pitch": 0,
+            "m_yaw": 0,
+            "m_roll": 0,
+            "m_cameraShakeType": "",
+            "m_cameraShakeDuration": 0,
+            "m_cameraShakeAmplitude": 0,
+            "m_bypassCameraOnReview": true,
+            "m_cameraZoneName": "",
+            "m_duration": 0,
+            "m_delay": 0,
+            "m_cameraHidePlayers": 0,
+            "m_walkAwayNpcTemplateID": 0,
+            "m_walkAwayExitDirectionInDegrees": 0,
+            "m_walkAwayFadeTime": 0,
+            "m_walkAwayUseCurrentFacing": false,
+            "m_standInPlayerTag": "",
+            "m_fadeOutCamera": false,
+            "m_snapCameraToPlayerAtExit": false,
+            "m_secondaryCameraName": "",
+            "m_secondaryInterpolationDuration": 0,
+            "m_npcStandInList": null,
+            "m_dialogAnimationList": null,
+            "m_dialogTurningList": null,
+            "m_npcYawOffsetInDegrees": 0,
+            "m_allowPlayerToMove": false,
+            "m_soundEffectFile": "",
+            "m_musicFile": "",
+            "m_nonStackableMusic": false,
+            "m_nonRepeatableMusic": false,
+            "m_playMusicAtSFXVolume": false,
+            "m_soundEffectDelay": 0,
+            "m_musicDelay": 0,
+            "m_musicFadeTime": 0,
+            "m_dontReleaseCameraAtExit": false,
+            "m_disableBackButton": false,
+            "m_enableExitButton": false,
+            "m_cameraFadeType": "",
+            "m_cameraFadeTime": 0,
+            "m_idleAnimation": "",
+            "m_spamTime": 0,
+            "m_playSoundIfSpamming": false,
+            "m_playMusicIfSpamming": false,
+            "m_stopMusicFadeTime": 0,
+            "m_restartMusicFadeTime": 0,
+            "m_meetsRequirements": false,
+            "m_secondaryCameraInitalDelay": 0,
+            "m_displayButtonsOnTimedDialog": false
+          }
+        ],
+        "m_madlibs": null,
         "m_dialogEvents": null,
         "m_noAggroWhileDialogIsUp": false,
         "m_noAggroNoDelay": false

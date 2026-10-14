@@ -282,7 +282,15 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
+            "m_entryName": "BradyDefeated",
+            "m_isQuestRegistry": false,
+            "m_value": 1,
+            "m_questName": ""
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
@@ -372,7 +380,14 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveEntry, Imcodec.ObjectProperty",
+            "m_entryName": "BradyDefeated",
+            "m_isQuestRegistry": false,
+            "m_questName": ""
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": {
