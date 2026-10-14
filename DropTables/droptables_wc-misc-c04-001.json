@@ -1,0 +1,36 @@
+{
+  "Name": "WC-MISC-C04-001",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 150,
+  "MaxGold": 150,
+  "ExperienceAmount": 15,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "38513",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "38501",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "160207",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:50.948760Z",
+  "ModifiedAt": "2026-10-14T18:06:50.948760Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
