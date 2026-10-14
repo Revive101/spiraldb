@@ -1,0 +1,300 @@
+{
+  "$type": "Imcodec.ObjectProperty.TypeCache.QuestTemplate, Imcodec.ObjectProperty",
+  "m_questName": "MB-AIRHub-C07-001",
+  "m_questNameID": 0,
+  "m_questTitle": "QuestTitle_14106",
+  "m_questInfo": "",
+  "m_questPrep": "",
+  "m_questUnderway": "",
+  "m_questComplete": "",
+  "m_startGoals": [
+    "Goal"
+  ],
+  "m_goals": [
+    {
+      "$type": "Imcodec.ObjectProperty.TypeCache.WaypointGoalTemplate, Imcodec.ObjectProperty",
+      "m_zoneEntry": false,
+      "m_zoneTag": "Marleybone/MB_Station/MB_Airport_Instance01",
+      "m_proximityTag": "Enter_Kensington",
+      "m_zoneExit": false,
+      "m_goalName": "Goal",
+      "m_goalNameID": 0,
+      "m_goalTitle": "WizardQuestGoals_00000024",
+      "m_goalUnderway": "",
+      "m_hyperlink": "",
+      "m_completeText": "",
+      "m_completeResults": null,
+      "m_goalRequirements": null,
+      "m_tallyCounter": {
+        "m_percentChance": 100,
+        "m_descriptor": "WizQst14106_00000005",
+        "m_descriptor2": "",
+        "m_count": 0,
+        "m_tallyResults": null
+      },
+      "m_locationName": "ZoneLocName_818760",
+      "m_displayImage1": "GUI/QuestButtons/Quest_MB_Balloon_Car.dds",
+      "m_displayImage2": "",
+      "m_clientTags": null,
+      "m_genericEvents": null,
+      "m_autoQualify": false,
+      "m_autoComplete": false,
+      "m_destinationZone": "Marleybone/MB_Station/MB_Airport_Instance01",
+      "m_dialogList": null,
+      "m_goalType": "GOAL_TYPE_WAYPOINT",
+      "m_noQuestHelper": false,
+      "m_petOnlyQuest": false,
+      "m_activateResults": null,
+      "m_hideGoalFloatyText": false,
+      "m_hideGoal": false,
+      "m_requiresMagicWeavingSchool": "",
+      "m_behaviors": null
+    }
+  ],
+  "m_startResults": {
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResModifyEntry, Imcodec.ObjectProperty",
+        "m_questName": "",
+        "m_entryName": "MB-AIRHub-C07",
+        "m_isQuestRegistry": false,
+        "m_value": 1,
+        "m_requirements": null
+      },
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDownloadPackage, Imcodec.ObjectProperty",
+        "m_packageList": [
+          "Marleybone/MB_Station/MB_Airport_Instance01",
+          "Marleybone/MB_Station/Interiors/MB_Airport_Instance01"
+        ],
+        "m_requirements": null
+      }
+    ]
+  },
+  "m_endResults": {
+    "m_results": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResDropTable, Imcodec.ObjectProperty",
+        "m_tableName": "MB-AIRHub-C07-001",
+        "m_maxRolls": 1
+      }
+    ]
+  },
+  "m_requirements": {
+    "m_requirements": [
+      {
+        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
+        "m_entryName": "Complete",
+        "m_displayName": null,
+        "m_isQuestRegistry": true,
+        "m_questName": "MB-AIRHub-C06-001",
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    ],
+    "m_applyNOT": false,
+    "m_operator": "ROP_AND"
+  },
+  "m_prepRequirements": null,
+  "m_pruneRequirements": null,
+  "m_prepAlways": true,
+  "m_clientTags": null,
+  "m_goalLogic": [
+    {
+      "m_goalsAND": [
+        "Goal"
+      ],
+      "m_goalsOR": null,
+      "m_goalsToAdd": null,
+      "m_completeQuest": true,
+      "m_requiredORCount": 0
+    }
+  ],
+  "m_questLevel": 1,
+  "m_questRepeat": 1,
+  "m_onStartQuestScript": "",
+  "m_onEndQuestScript": "",
+  "m_dialogList": {
+    "$type": "Imcodec.ObjectProperty.TypeCache.ActorDialogList, Imcodec.ObjectProperty",
+    "m_dialogs": [
+      {
+        "m_dialogTag": "Underway",
+        "m_dialogEntries": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+            "m_personaName": "MB-AIRHub-NPC03_Persona",
+            "m_nameOverride": "",
+            "m_nameSTKey": "",
+            "m_guiDisplay": "",
+            "m_maxTimeSeconds": -1,
+            "m_invisible": false,
+            "m_requirements": null,
+            "m_dialog": "WizQst14106_00000001",
+            "m_picture": "",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/TracyCastleton_QST_12.mp3",
+            "m_action": "",
+            "m_dialogEvent": "",
+            "m_actorTemplateID": 39921,
+            "m_cameraName": "",
+            "m_interpolationDuration": 0,
+            "m_cameraOffsetX": 0,
+            "m_cameraOffsetY": 0,
+            "m_cameraOffsetZ": 0,
+            "m_pitch": 0,
+            "m_yaw": 0,
+            "m_roll": 0,
+            "m_cameraShakeType": "",
+            "m_cameraShakeDuration": 0,
+            "m_cameraShakeAmplitude": 0,
+            "m_bypassCameraOnReview": true,
+            "m_cameraZoneName": "",
+            "m_duration": 0,
+            "m_delay": 0,
+            "m_cameraHidePlayers": 0,
+            "m_walkAwayNpcTemplateID": 0,
+            "m_walkAwayExitDirectionInDegrees": 0,
+            "m_walkAwayFadeTime": 0,
+            "m_walkAwayUseCurrentFacing": false,
+            "m_standInPlayerTag": "",
+            "m_fadeOutCamera": false,
+            "m_snapCameraToPlayerAtExit": false,
+            "m_secondaryCameraName": "",
+            "m_secondaryInterpolationDuration": 0,
+            "m_npcStandInList": null,
+            "m_dialogAnimationList": null,
+            "m_dialogTurningList": null,
+            "m_npcYawOffsetInDegrees": 0,
+            "m_allowPlayerToMove": false,
+            "m_soundEffectFile": "",
+            "m_musicFile": "",
+            "m_nonStackableMusic": false,
+            "m_nonRepeatableMusic": false,
+            "m_playMusicAtSFXVolume": false,
+            "m_soundEffectDelay": 0,
+            "m_musicDelay": 0,
+            "m_musicFadeTime": 3,
+            "m_dontReleaseCameraAtExit": false,
+            "m_disableBackButton": false,
+            "m_enableExitButton": false,
+            "m_cameraFadeType": "",
+            "m_cameraFadeTime": 0.5,
+            "m_idleAnimation": "",
+            "m_spamTime": 1,
+            "m_playSoundIfSpamming": true,
+            "m_playMusicIfSpamming": true,
+            "m_stopMusicFadeTime": 0,
+            "m_restartMusicFadeTime": 0,
+            "m_meetsRequirements": true,
+            "m_secondaryCameraInitalDelay": 0,
+            "m_displayButtonsOnTimedDialog": false
+          }
+        ],
+        "m_madlibs": null,
+        "m_dialogEvents": null,
+        "m_noAggroWhileDialogIsUp": false,
+        "m_noAggroNoDelay": false
+      },
+      {
+        "m_dialogTag": "Prep",
+        "m_dialogEntries": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.NPCDialogEntry, Imcodec.ObjectProperty",
+            "m_personaName": "MB-AIRHub-NPC03_Persona",
+            "m_nameOverride": "",
+            "m_nameSTKey": "",
+            "m_guiDisplay": "",
+            "m_maxTimeSeconds": -1,
+            "m_invisible": false,
+            "m_requirements": null,
+            "m_dialog": "WizQst14106_00000003",
+            "m_picture": "",
+            "m_soundFile": "|Sound_Dialogue_MB|WorldData|Sound/Dialogue/TracyCastleton_QST_13.mp3",
+            "m_action": "",
+            "m_dialogEvent": "",
+            "m_actorTemplateID": 39921,
+            "m_cameraName": "LOCATION",
+            "m_interpolationDuration": 1,
+            "m_cameraOffsetX": 9.165175,
+            "m_cameraOffsetY": 9475.486,
+            "m_cameraOffsetZ": -109.0704,
+            "m_pitch": 0.1171747,
+            "m_yaw": 0.01210506,
+            "m_roll": 0,
+            "m_cameraShakeType": "",
+            "m_cameraShakeDuration": 0,
+            "m_cameraShakeAmplitude": 0,
+            "m_bypassCameraOnReview": true,
+            "m_cameraZoneName": "Marleybone/MB_Station/MB_Station_Hub",
+            "m_duration": 0,
+            "m_delay": 0,
+            "m_cameraHidePlayers": 2,
+            "m_walkAwayNpcTemplateID": 0,
+            "m_walkAwayExitDirectionInDegrees": 0,
+            "m_walkAwayFadeTime": 0,
+            "m_walkAwayUseCurrentFacing": false,
+            "m_standInPlayerTag": "",
+            "m_fadeOutCamera": false,
+            "m_snapCameraToPlayerAtExit": false,
+            "m_secondaryCameraName": "",
+            "m_secondaryInterpolationDuration": 0,
+            "m_npcStandInList": null,
+            "m_dialogAnimationList": null,
+            "m_dialogTurningList": null,
+            "m_npcYawOffsetInDegrees": 0,
+            "m_allowPlayerToMove": false,
+            "m_soundEffectFile": "",
+            "m_musicFile": "",
+            "m_nonStackableMusic": false,
+            "m_nonRepeatableMusic": false,
+            "m_playMusicAtSFXVolume": false,
+            "m_soundEffectDelay": 0,
+            "m_musicDelay": 0,
+            "m_musicFadeTime": 3,
+            "m_dontReleaseCameraAtExit": false,
+            "m_disableBackButton": false,
+            "m_enableExitButton": false,
+            "m_cameraFadeType": "",
+            "m_cameraFadeTime": 0.5,
+            "m_idleAnimation": "",
+            "m_spamTime": 1,
+            "m_playSoundIfSpamming": true,
+            "m_playMusicIfSpamming": true,
+            "m_stopMusicFadeTime": 0,
+            "m_restartMusicFadeTime": 0,
+            "m_meetsRequirements": true,
+            "m_secondaryCameraInitalDelay": 0,
+            "m_displayButtonsOnTimedDialog": false
+          }
+        ],
+        "m_madlibs": null,
+        "m_dialogEvents": null,
+        "m_noAggroWhileDialogIsUp": false,
+        "m_noAggroNoDelay": false
+      }
+    ]
+  },
+  "m_missionDoors": null,
+  "m_dynaMods": [
+    {
+      "m_hideObjects": false,
+      "m_alterState": true,
+      "m_zoneTag": "ToKensington",
+      "m_modState": "Glowy",
+      "m_existBeyondQuest": true
+    }
+  ],
+  "m_isHidden": false,
+  "m_outdated": false,
+  "m_noQuestHelper": false,
+  "m_mainline": false,
+  "m_defaultDialogAnimation": [
+    "0|77888|Gen_Dial_01|5"
+  ],
+  "m_skipQHAutoSelect": false,
+  "m_questEffectInfoList": null,
+  "m_forceInteraction": false,
+  "m_checkInventoryForCrafting": false,
+  "m_playAsYourPetNPC": false,
+  "m_activityType": "ACTIVITY_NotActivity",
+  "m_behaviors": null
+}
