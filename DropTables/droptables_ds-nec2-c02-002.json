@@ -1,0 +1,24 @@
+{
+  "Name": "DS-NEC2-C02-002",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 240,
+  "MaxGold": 240,
+  "ExperienceAmount": 5240,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160805",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:16.204438Z",
+  "ModifiedAt": "2026-10-14T18:06:16.204438Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
