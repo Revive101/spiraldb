@@ -1,0 +1,36 @@
+{
+  "Name": "WC-CYCLOPS-SIDE-004",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 20,
+  "MaxGold": 20,
+  "ExperienceAmount": 110,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "220272",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "220243",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "220251",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:12:05.605316Z",
+  "ModifiedAt": "2026-10-14T18:12:05.605316Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
