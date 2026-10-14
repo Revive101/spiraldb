@@ -1,0 +1,30 @@
+{
+  "Name": "Explorer-001-4",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 256,
+  "MaxGold": 256,
+  "ExperienceAmount": 5240,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160860",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "160971",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:16.204687Z",
+  "ModifiedAt": "2026-10-14T18:06:16.204687Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
