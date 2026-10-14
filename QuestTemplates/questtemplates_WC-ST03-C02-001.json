@@ -221,7 +221,7 @@
     "m_requirements": [
       {
         "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasQuest, Imcodec.ObjectProperty",
-        "m_questName": "WC-MISC-C01-002a",
+        "m_questName": "WC-OLDE-MAIN-002C",
         "m_applyNOT": false,
         "m_operator": "ROP_OR"
       },
@@ -230,7 +230,7 @@
         "m_entryName": "Complete",
         "m_displayName": null,
         "m_isQuestRegistry": true,
-        "m_questName": "WC-MISC-C01-002a",
+        "m_questName": "WC-OLDE-MAIN-002C",
         "m_applyNOT": false,
         "m_operator": "ROP_OR"
       }
