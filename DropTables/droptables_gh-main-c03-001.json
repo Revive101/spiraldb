@@ -1,0 +1,30 @@
+{
+  "Name": "GH-MAIN-C03-001",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 90,
+  "MaxGold": 90,
+  "ExperienceAmount": 85,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136285",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    },
+    {
+      "ItemId": "181031",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:12:00.810643Z",
+  "ModifiedAt": "2026-10-14T18:12:00.810643Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
