@@ -1,0 +1,24 @@
+{
+  "Name": "GH-FJORD-C07-001",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 365,
+  "MaxGold": 365,
+  "ExperienceAmount": 15675,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243882",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:12:00.804874Z",
+  "ModifiedAt": "2026-10-14T18:12:00.804874Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
