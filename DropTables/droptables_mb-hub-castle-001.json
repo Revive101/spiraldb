@@ -1,0 +1,24 @@
+{
+  "Name": "MB-HUB-CASTLE-001",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 101,
+  "MaxGold": 101,
+  "ExperienceAmount": 265,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1335272",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:12:15.501088Z",
+  "ModifiedAt": "2026-10-14T18:12:15.501088Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
