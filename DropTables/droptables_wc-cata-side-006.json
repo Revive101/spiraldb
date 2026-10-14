@@ -1,0 +1,24 @@
+{
+  "Name": "WC-CATA-SIDE-006",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 690,
+  "MaxGold": 690,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1479458",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:12:05.606825Z",
+  "ModifiedAt": "2026-10-14T18:12:05.606825Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
