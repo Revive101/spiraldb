@@ -1,0 +1,24 @@
+{
+  "Name": "WC-ST03-C04-004",
+  "Description": "",
+  "RollChance": 1.0,
+  "Weight": 100,
+  "NoneChance": 0.0,
+  "PityCounter": 0.0,
+  "MinGold": 18,
+  "MaxGold": 18,
+  "ExperienceAmount": 190,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87238",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": null
+    }
+  ],
+  "CreatedAt": "2026-10-14T18:06:50.946083Z",
+  "ModifiedAt": "2026-10-14T18:06:50.946083Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
