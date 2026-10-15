@@ -1,0 +1,32 @@
+{
+  "Id": 1721043008,
+  "Name": null,
+  "DisplayName": "Krok Slayer",
+  "Description": "Defeat 200 Kroks",
+  "Title": "Badges_00002849",
+  "Info": "Badges_00004664",
+  "ProgressInfo": "Badges_00004661",
+  "Max": 200,
+  "Index": 63,
+  "Outline": "GUI/Art/Art_Badge02.dds",
+  "Image": "GUI/NpcPortraits/Portrait_Krok_PharaohTut_C_MOB.dds",
+  "Dynamic": false,
+  "Filter": "Krokotopia",
+  "ExtraCredit": false,
+  "ShowTitle": true,
+  "Retired": false,
+  "HasReward": true,
+  "RewardOverrideDescription": "",
+  "Overcount": false,
+  "OvercountInterval": 0,
+  "RewardLootTable": null,
+  "OvercountLootTable": null,
+  "RegistryName": null,
+  "Adjectives": [
+    "Krok"
+  ],
+  "AutoAdd": false,
+  "Requirements": null,
+  "RequiredAutoAddBadges": [],
+  "CompleteResults": null
+}

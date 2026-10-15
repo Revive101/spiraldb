@@ -1,0 +1,32 @@
+{
+  "Id": 1757677006,
+  "Name": null,
+  "DisplayName": "Undead Executioner",
+  "Description": "Defeat 20000 Undead",
+  "Title": "Badges_00002798",
+  "Info": "Badges_00002799",
+  "ProgressInfo": "Badges_00002780",
+  "Max": 20000,
+  "Index": 35,
+  "Outline": "GUI/Art/Art_Badge03.dds",
+  "Image": "GUI/NpcPortraits/Art_Portrait_GhostLady_Green.dds",
+  "Dynamic": false,
+  "Filter": "WizardCity",
+  "ExtraCredit": true,
+  "ShowTitle": true,
+  "Retired": false,
+  "HasReward": true,
+  "RewardOverrideDescription": "",
+  "Overcount": false,
+  "OvercountInterval": 0,
+  "RewardLootTable": null,
+  "OvercountLootTable": null,
+  "RegistryName": null,
+  "Adjectives": [
+    "Undead"
+  ],
+  "AutoAdd": false,
+  "Requirements": null,
+  "RequiredAutoAddBadges": [],
+  "CompleteResults": null
+}

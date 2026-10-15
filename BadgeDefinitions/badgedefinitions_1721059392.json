@@ -1,0 +1,32 @@
+{
+  "Id": 1721059392,
+  "Name": null,
+  "DisplayName": "Krok Thrasher",
+  "Description": "Defeat 50 Kroks",
+  "Title": "Badges_00002844",
+  "Info": "Badges_00004662",
+  "ProgressInfo": "Badges_00004661",
+  "Max": 50,
+  "Index": 61,
+  "Outline": "GUI/Art/Art_Badge01.dds",
+  "Image": "GUI/NpcPortraits/Krok_PharaohPony_C_MOB.dds",
+  "Dynamic": false,
+  "Filter": "Krokotopia",
+  "ExtraCredit": false,
+  "ShowTitle": true,
+  "Retired": false,
+  "HasReward": false,
+  "RewardOverrideDescription": "",
+  "Overcount": false,
+  "OvercountInterval": 0,
+  "RewardLootTable": null,
+  "OvercountLootTable": null,
+  "RegistryName": null,
+  "Adjectives": [
+    "Krok"
+  ],
+  "AutoAdd": false,
+  "Requirements": null,
+  "RequiredAutoAddBadges": [],
+  "CompleteResults": null
+}

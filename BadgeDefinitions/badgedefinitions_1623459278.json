@@ -1,0 +1,32 @@
+{
+  "Id": 1623459278,
+  "Name": null,
+  "DisplayName": "Undead Stalker",
+  "Description": "Defeat 50 Undead",
+  "Title": "Badges_00002779",
+  "Info": "Badges_00002781",
+  "ProgressInfo": "Badges_00002780",
+  "Max": 50,
+  "Index": 26,
+  "Outline": "GUI/Art/Art_Badge01.dds",
+  "Image": "GUI/NpcPortraits/Art_Portrait_Ghost_Blue.dds",
+  "Dynamic": false,
+  "Filter": "WizardCity",
+  "ExtraCredit": false,
+  "ShowTitle": true,
+  "Retired": false,
+  "HasReward": false,
+  "RewardOverrideDescription": "",
+  "Overcount": false,
+  "OvercountInterval": 0,
+  "RewardLootTable": null,
+  "OvercountLootTable": null,
+  "RegistryName": null,
+  "Adjectives": [
+    "Undead"
+  ],
+  "AutoAdd": false,
+  "Requirements": null,
+  "RequiredAutoAddBadges": [],
+  "CompleteResults": null
+}

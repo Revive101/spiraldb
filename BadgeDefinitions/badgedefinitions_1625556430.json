@@ -1,0 +1,32 @@
+{
+  "Id": 1625556430,
+  "Name": null,
+  "DisplayName": "Undead Master",
+  "Description": "Defeat 15000 Undead",
+  "Title": "Badges_00002796",
+  "Info": "Badges_00002797",
+  "ProgressInfo": "Badges_00002780",
+  "Max": 15000,
+  "Index": 34,
+  "Outline": "GUI/Art/Art_Badge03.dds",
+  "Image": "GUI/NpcPortraits/Portrait_Banshee_Stepsister_A_Ghost_MOB.dds",
+  "Dynamic": false,
+  "Filter": "WizardCity",
+  "ExtraCredit": true,
+  "ShowTitle": true,
+  "Retired": false,
+  "HasReward": false,
+  "RewardOverrideDescription": "",
+  "Overcount": false,
+  "OvercountInterval": 0,
+  "RewardLootTable": null,
+  "OvercountLootTable": null,
+  "RegistryName": null,
+  "Adjectives": [
+    "Undead"
+  ],
+  "AutoAdd": false,
+  "Requirements": null,
+  "RequiredAutoAddBadges": [],
+  "CompleteResults": null
+}

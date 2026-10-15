@@ -1,0 +1,32 @@
+{
+  "Id": 1625294286,
+  "Name": null,
+  "DisplayName": "Undead Cutthroat",
+  "Description": "Defeat 10000 Undead",
+  "Title": "Badges_00002794",
+  "Info": "Badges_00002795",
+  "ProgressInfo": "Badges_00002780",
+  "Max": 10000,
+  "Index": 33,
+  "Outline": "GUI/Art/Art_Badge03.dds",
+  "Image": "GUI/NpcPortraits/Art_Portrait_GhoulGrave_Green.dds",
+  "Dynamic": false,
+  "Filter": "WizardCity",
+  "ExtraCredit": true,
+  "ShowTitle": true,
+  "Retired": false,
+  "HasReward": false,
+  "RewardOverrideDescription": "",
+  "Overcount": false,
+  "OvercountInterval": 0,
+  "RewardLootTable": null,
+  "OvercountLootTable": null,
+  "RegistryName": null,
+  "Adjectives": [
+    "Undead"
+  ],
+  "AutoAdd": false,
+  "Requirements": null,
+  "RequiredAutoAddBadges": [],
+  "CompleteResults": null
+}
