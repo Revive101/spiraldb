@@ -1,130 +1,1276 @@
 {
-    "tabId": 44,
-    "name": "CrownShopSWF_MenuHousing",
-    "icon": "GUI/CrownShopIcons/Categories/Housing.dds",
-    "categoryIds": [ 5, 7, 30, 27, 6, 24, 21, 22 ],
-    "tags": "",
-    "description": "0",
-    "categories": [
-        {
-            "categoryId": 5,
-            "parentTabId": 44,
-            "name": "CrownShopSWF_CategoryHouses",
-            "icon": "GUI/CrownShopIcons/Categories/Housing.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": false,
-                "forceDisallowMultipleBuy": true,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": true,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 7,
-            "parentTabId": 44,
-            "name": "CrownShopSWF_CategoryGardening",
-            "icon": "GUI/CrownShopIcons/Categories/Seeds.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 30,
-            "parentTabId": 44,
-            "name": "CrownShopSWF_CategoryCastleBlocks",
-            "icon": "GUI/CrownShopIcons/Categories/Building_Blocks.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 27,
-            "parentTabId": 44,
-            "name": "CrownShopSWF_CategoryCCGHousing",
-            "icon": "GUI/CrownShopIcons/Categories/Furniture_Sets.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 6,
-            "parentTabId": 44,
-            "name": "CrownShopSWF_CategoryFurniture",
-            "icon": "GUI/CrownShopIcons/Categories/Furniture.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 24,
-            "parentTabId": 44,
-            "name": "CrownShopSWF_CategoryMinigames",
-            "icon": "GUI/CrownShopIcons/Categories/Games.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 21,
-            "parentTabId": 44,
-            "name": "CrownShopSWF_CategoryTeleporters",
-            "icon": "GUI/CrownShopIcons/Categories/Teleporter.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 22,
-            "parentTabId": 44,
-            "name": "CrownShopSWF_CategoryInstruments",
-            "icon": "GUI/CrownShopIcons/Categories/Instruments.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        }
-    ]
+  "tabId": 44,
+  "name": "CrownShopSWF_MenuHousing",
+  "icon": "GUI/CrownShopIcons/Categories/Housing.dds",
+  "categoryIds": [
+    5,
+    7,
+    30,
+    27,
+    6,
+    24,
+    21,
+    22
+  ],
+  "tags": "",
+  "description": "0",
+  "categories": [
+    {
+      "categoryId": 5,
+      "parentTabId": 44,
+      "name": "CrownShopSWF_CategoryHouses",
+      "icon": "GUI/CrownShopIcons/Categories/Housing.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": false,
+        "forceDisallowMultipleBuy": true,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": true,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 7,
+      "parentTabId": 44,
+      "name": "CrownShopSWF_CategoryGardening",
+      "icon": "GUI/CrownShopIcons/Categories/Seeds.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 30,
+      "parentTabId": 44,
+      "name": "CrownShopSWF_CategoryCastleBlocks",
+      "icon": "GUI/CrownShopIcons/Categories/Building_Blocks.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 27,
+      "parentTabId": 44,
+      "name": "CrownShopSWF_CategoryCCGHousing",
+      "icon": "GUI/CrownShopIcons/Categories/Furniture_Sets.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 6,
+      "parentTabId": 44,
+      "name": "CrownShopSWF_CategoryFurniture",
+      "icon": "GUI/CrownShopIcons/Categories/Furniture.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 24,
+      "parentTabId": 44,
+      "name": "CrownShopSWF_CategoryMinigames",
+      "icon": "GUI/CrownShopIcons/Categories/Games.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 21,
+      "parentTabId": 44,
+      "name": "CrownShopSWF_CategoryTeleporters",
+      "icon": "GUI/CrownShopIcons/Categories/Teleporter.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 22,
+      "parentTabId": 44,
+      "name": "CrownShopSWF_CategoryInstruments",
+      "icon": "GUI/CrownShopIcons/Categories/Instruments.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    }
+  ],
+  "items": [
+    {
+      "templateId": 160431,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 8000
+    },
+    {
+      "templateId": 160432,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 160928,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 160929,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 10000
+    },
+    {
+      "templateId": 160932,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 160933,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 12000
+    },
+    {
+      "templateId": 160936,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 160937,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 15000
+    },
+    {
+      "templateId": 160943,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 40000
+    },
+    {
+      "templateId": 164106,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 164107,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 20000
+    },
+    {
+      "templateId": 164117,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 164147,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 164148,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 15000
+    },
+    {
+      "templateId": 164150,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 164151,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 30000
+    },
+    {
+      "templateId": 164152,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 164248,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 164249,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 164250,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 50000
+    },
+    {
+      "templateId": 164251,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 20000
+    },
+    {
+      "templateId": 175437,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 175441,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 175442,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 175444,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 175446,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 175448,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 175450,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 184157,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 184158,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 184159,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 273093,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 395079,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 395080,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 395081,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 440157,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 466111,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 466113,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 466181,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 466272,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 638127,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 683136,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 689369,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 689370,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 785076,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 785111,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1217048,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1217451,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1217639,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1217735,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1217865,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1233242,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1233243,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1233258,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1233533,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1233536,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1233598,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1254061,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1254068,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1254069,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1254070,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1254071,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1254072,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1378039,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1378072,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1413013,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1413059,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1413209,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1413230,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1413390,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1413424,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1488068,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1488069,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1488084,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1488085,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1488090,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1488157,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1520003,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1520052,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1520092,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1520333,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1520348,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1520396,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1520401,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1520406,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1594008,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1594023,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1594046,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1594333,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1594360,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1675432,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1687002,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1687104,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1717043,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1717119,
+      "crownsCost": 0,
+      "displayPriority": [
+        5
+      ]
+    },
+    {
+      "templateId": 1217734,
+      "crownsCost": 3500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 35000
+    },
+    {
+      "templateId": 1217450,
+      "crownsCost": 5000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 50000
+    },
+    {
+      "templateId": 1378040,
+      "crownsCost": 5000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 50000
+    },
+    {
+      "templateId": 466112,
+      "crownsCost": 7500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 75000
+    },
+    {
+      "templateId": 175438,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 175440,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 175443,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 175445,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 175447,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 175449,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 175452,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 184156,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 395082,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 466114,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 466271,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1391041,
+      "crownsCost": 10000,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 273092,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 440156,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 466180,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 638126,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 683135,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 785075,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 125000
+    },
+    {
+      "templateId": 785110,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1217047,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1217636,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 240000
+    },
+    {
+      "templateId": 1217866,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 50000
+    },
+    {
+      "templateId": 1233257,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 240000
+    },
+    {
+      "templateId": 1233532,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 240000
+    },
+    {
+      "templateId": 1233535,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 240000
+    },
+    {
+      "templateId": 1233599,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1378071,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1413012,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1413058,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1413208,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1413228,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1413389,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1413423,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1488091,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1488156,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1520002,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1520051,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1520091,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1520332,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1520349,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1520393,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1520400,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1520405,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1594007,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1594022,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1594042,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1594332,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1594361,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1687001,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1687105,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1717057,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    },
+    {
+      "templateId": 1717122,
+      "crownsCost": 12500,
+      "displayPriority": [
+        5
+      ],
+      "goldCost": 100000
+    }
+  ]
 }
