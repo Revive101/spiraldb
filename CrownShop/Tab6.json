@@ -144,20 +144,6 @@
       "goldCost": 10000
     },
     {
-      "templateId": 1441741,
-      "crownsCost": 0,
-      "displayPriority": [
-        16
-      ]
-    },
-    {
-      "templateId": 1441742,
-      "crownsCost": 0,
-      "displayPriority": [
-        16
-      ]
-    },
-    {
       "templateId": 1457208,
       "crownsCost": 0,
       "displayPriority": [
@@ -2044,6 +2030,20 @@
     },
     {
       "templateId": 1431039,
+      "crownsCost": 2500,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441741,
+      "crownsCost": 2500,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441742,
       "crownsCost": 2500,
       "displayPriority": [
         16
