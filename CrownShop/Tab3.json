@@ -402,22 +402,6 @@
       "goldCost": 30000
     },
     {
-      "templateId": 1204285,
-      "crownsCost": 3000,
-      "displayPriority": [
-        2
-      ],
-      "goldCost": 30000
-    },
-    {
-      "templateId": 1204295,
-      "crownsCost": 3000,
-      "displayPriority": [
-        2
-      ],
-      "goldCost": 30000
-    },
-    {
       "templateId": 1507062,
       "crownsCost": 3000,
       "displayPriority": [
@@ -4207,14 +4191,6 @@
       "goldCost": 30000
     },
     {
-      "templateId": 470074,
-      "crownsCost": 15000,
-      "displayPriority": [
-        2
-      ],
-      "goldCost": 30000
-    },
-    {
       "templateId": 470081,
       "crownsCost": 15000,
       "displayPriority": [
@@ -4381,14 +4357,6 @@
         2
       ],
       "goldCost": 75000
-    },
-    {
-      "templateId": 1524604,
-      "crownsCost": 100000,
-      "displayPriority": [
-        2
-      ],
-      "goldCost": 1000000
     },
     {
       "templateId": 1507406,
@@ -12331,30 +12299,6 @@
         3
       ],
       "goldCost": 90000
-    },
-    {
-      "templateId": 470075,
-      "crownsCost": 15000,
-      "displayPriority": [
-        3
-      ],
-      "goldCost": 3750
-    },
-    {
-      "templateId": 1524606,
-      "crownsCost": 25000,
-      "displayPriority": [
-        3
-      ],
-      "goldCost": 250000
-    },
-    {
-      "templateId": 1524605,
-      "crownsCost": 50000,
-      "displayPriority": [
-        3
-      ],
-      "goldCost": 500000
     }
   ]
 }
