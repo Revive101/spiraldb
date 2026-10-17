@@ -1,160 +1,744 @@
 {
-    "tabId": 43,
-    "name": "CrownShopSWF_MenuGear",
-    "icon": "GUI/CrownShopIcons/Categories/Clothing.dds",
-    "categoryIds": [ 8, 15, 13, 10, 9, 11, 17, 23, 12, 14 ],
-    "tags": "",
-    "description": "0",
-    "categories": [
-        {
-            "categoryId": 8,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryClothingBundle",
-            "icon": "GUI/CrownShopIcons/Categories/Clothing_Sets.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 15,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryWeapons",
-            "icon": "GUI/CrownShopIcons/Categories/Weapons.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 13,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryAmulets",
-            "icon": "GUI/CrownShopIcons/Categories/Amulets.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 10,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryShoes",
-            "icon": "GUI/CrownShopIcons/Categories/Shoes.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 9,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryRobes",
-            "icon": "GUI/CrownShopIcons/Categories/Robes.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 11,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryHats",
-            "icon": "GUI/CrownShopIcons/Categories/Clothing.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 17,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryTransformations",
-            "icon": "GUI/CrownShopIcons/Categories/Transformations.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 23,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryWigs",
-            "icon": "GUI/CrownShopIcons/Categories/Hairstyles.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 12,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryRings",
-            "icon": "GUI/CrownShopIcons/Categories/Rings.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 14,
-            "parentTabId": 43,
-            "name": "CrownShopSWF_CategoryAthames",
-            "icon": "GUI/CrownShopIcons/Categories/Athames.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": false,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        }
-    ]
+  "tabId": 43,
+  "name": "CrownShopSWF_MenuGear",
+  "icon": "GUI/CrownShopIcons/Categories/Clothing.dds",
+  "categoryIds": [
+    8,
+    15,
+    13,
+    10,
+    9,
+    11,
+    17,
+    23,
+    12,
+    14
+  ],
+  "tags": "",
+  "description": "0",
+  "categories": [
+    {
+      "categoryId": 8,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryClothingBundle",
+      "icon": "GUI/CrownShopIcons/Categories/Clothing_Sets.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 15,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryWeapons",
+      "icon": "GUI/CrownShopIcons/Categories/Weapons.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 13,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryAmulets",
+      "icon": "GUI/CrownShopIcons/Categories/Amulets.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 10,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryShoes",
+      "icon": "GUI/CrownShopIcons/Categories/Shoes.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 9,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryRobes",
+      "icon": "GUI/CrownShopIcons/Categories/Robes.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 11,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryHats",
+      "icon": "GUI/CrownShopIcons/Categories/Clothing.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 17,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryTransformations",
+      "icon": "GUI/CrownShopIcons/Categories/Transformations.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 23,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryWigs",
+      "icon": "GUI/CrownShopIcons/Categories/Hairstyles.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 12,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryRings",
+      "icon": "GUI/CrownShopIcons/Categories/Rings.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 14,
+      "parentTabId": 43,
+      "name": "CrownShopSWF_CategoryAthames",
+      "icon": "GUI/CrownShopIcons/Categories/Athames.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": false,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    }
+  ],
+  "items": [
+    {
+      "templateId": 184112,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 191451,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 456087,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 470668,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 532292,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 541072,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 592168,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 683222,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 701245,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 1217338,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 1217339,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 1217340,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 1217900,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233009,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233010,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233012,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233013,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233014,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233015,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233016,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233017,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233018,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233019,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233020,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233021,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233022,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233024,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233025,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233026,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233027,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233028,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233029,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233030,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233031,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233032,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233033,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233034,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233035,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233036,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233037,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233038,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1233039,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1359717,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ]
+    },
+    {
+      "templateId": 1371152,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 1000
+    },
+    {
+      "templateId": 1392489,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 1406356,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 1000
+    },
+    {
+      "templateId": 1621814,
+      "crownsCost": 0,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 25
+    },
+    {
+      "templateId": 184107,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184108,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184109,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184110,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184111,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184113,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184114,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184115,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184116,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184117,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184118,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184119,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184120,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184121,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184122,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184123,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184124,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184125,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184126,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184127,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 184128,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 191264,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 643227,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 807171,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 1406477,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    },
+    {
+      "templateId": 1625628,
+      "crownsCost": 75,
+      "displayPriority": [
+        17
+      ],
+      "goldCost": 500
+    }
+  ]
 }

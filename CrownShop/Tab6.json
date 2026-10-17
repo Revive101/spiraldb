@@ -1,62 +1,2239 @@
 {
-    "tabId": 42,
-    "name": "CrownShopSWF_MenuElixirs",
-    "icon": "GUI/CrownShopIcons/Categories/Elixirs.dds",
-    "categoryIds": [ 16, 34, 35 ],
-    "tags": "",
-    "description": "0",
-    "categories": [
-        {
-            "categoryId": 16,
-            "parentTabId": 42,
-            "name": "CrownShopSWF_CategoryElixirs",
-            "icon": "GUI/CrownShopIcons/Categories/Elixirs.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": true,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        },
-        {
-            "categoryId": 34,
-            "parentTabId": 42,
-            "name": "CrownShopSWF_CategoryGroupElixirs",
-            "icon": "GUI/CrownShopIcons/Categories/Elixirs_Group.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": false,
-                "forceDisallowMultipleBuy": false,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": true
-            }
-        },
-        {
-            "categoryId": 35,
-            "parentTabId": 42,
-            "name": "CrownShopSWF_CategoryWorldElixirs",
-            "icon": "GUI/CrownShopIcons/Categories/Elixirs_World.dds",
-            "tags": "None",
-            "flags": {
-                "allowMultipleBuy": false,
-                "forceDisallowMultipleBuy": true,
-                "dontFilterOwnedRecoItems": true,
-                "isHousesCategory": false,
-                "isEverythingCategory": false,
-                "isGroupElixirsCategory": false
-            }
-        }
-    ],
-    "items": [
+  "tabId": 42,
+  "name": "CrownShopSWF_MenuElixirs",
+  "icon": "GUI/CrownShopIcons/Categories/Elixirs.dds",
+  "categoryIds": [
+    16,
+    34,
+    35
+  ],
+  "tags": "",
+  "description": "0",
+  "categories": [
+    {
+      "categoryId": 16,
+      "parentTabId": 42,
+      "name": "CrownShopSWF_CategoryElixirs",
+      "icon": "GUI/CrownShopIcons/Categories/Elixirs.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": true,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    },
+    {
+      "categoryId": 34,
+      "parentTabId": 42,
+      "name": "CrownShopSWF_CategoryGroupElixirs",
+      "icon": "GUI/CrownShopIcons/Categories/Elixirs_Group.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": false,
+        "forceDisallowMultipleBuy": false,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": true
+      }
+    },
+    {
+      "categoryId": 35,
+      "parentTabId": 42,
+      "name": "CrownShopSWF_CategoryWorldElixirs",
+      "icon": "GUI/CrownShopIcons/Categories/Elixirs_World.dds",
+      "tags": "None",
+      "flags": {
+        "allowMultipleBuy": false,
+        "forceDisallowMultipleBuy": true,
+        "dontFilterOwnedRecoItems": true,
+        "isHousesCategory": false,
+        "isEverythingCategory": false,
+        "isGroupElixirsCategory": false
+      }
+    }
+  ],
+  "items": [
+    {
+      "templateId": 67671,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 17
+    },
+    {
+      "templateId": 541073,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 642000,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392218,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 25000
+    },
+    {
+      "templateId": 1392219,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 25000
+    },
+    {
+      "templateId": 1392220,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 25000
+    },
+    {
+      "templateId": 1392221,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 25000
+    },
+    {
+      "templateId": 1392222,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 25000
+    },
+    {
+      "templateId": 1392223,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 25000
+    },
+    {
+      "templateId": 1392224,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 25000
+    },
+    {
+      "templateId": 1392488,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 10000
+    },
+    {
+      "templateId": 1441741,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441742,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1457208,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 1000000
+    },
+    {
+      "templateId": 1472642,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472643,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472644,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472747,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472749,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472750,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472784,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472785,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472786,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472787,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472788,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472789,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472859,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472860,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472861,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472904,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472905,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472906,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472951,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472952,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1472953,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1479751,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ],
+      "goldCost": 1000000
+    },
+    {
+      "templateId": 1603006,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1603007,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1603008,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646845,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646846,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646847,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646848,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646849,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646850,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646851,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646852,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646853,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646854,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646855,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646856,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646857,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646858,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646859,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646860,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646861,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646862,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1646863,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1659006,
+      "crownsCost": 0,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175111,
+      "crownsCost": 20,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175112,
+      "crownsCost": 20,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175113,
+      "crownsCost": 20,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175114,
+      "crownsCost": 20,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175115,
+      "crownsCost": 20,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175117,
+      "crownsCost": 20,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191419,
+      "crownsCost": 20,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175116,
+      "crownsCost": 30,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175118,
+      "crownsCost": 30,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175119,
+      "crownsCost": 30,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175120,
+      "crownsCost": 30,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175121,
+      "crownsCost": 30,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175122,
+      "crownsCost": 30,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175123,
+      "crownsCost": 30,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175124,
+      "crownsCost": 40,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175125,
+      "crownsCost": 40,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175126,
+      "crownsCost": 40,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175127,
+      "crownsCost": 40,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175128,
+      "crownsCost": 40,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175129,
+      "crownsCost": 40,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175130,
+      "crownsCost": 40,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175131,
+      "crownsCost": 50,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175132,
+      "crownsCost": 50,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175133,
+      "crownsCost": 50,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175134,
+      "crownsCost": 50,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175135,
+      "crownsCost": 50,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175136,
+      "crownsCost": 50,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 175137,
+      "crownsCost": 50,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 323100,
+      "crownsCost": 75,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 323101,
+      "crownsCost": 75,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 323102,
+      "crownsCost": 75,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 323103,
+      "crownsCost": 75,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 323104,
+      "crownsCost": 75,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 323105,
+      "crownsCost": 75,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 323106,
+      "crownsCost": 75,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191096,
+      "crownsCost": 95,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191098,
+      "crownsCost": 95,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191107,
+      "crownsCost": 100,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473545,
+      "crownsCost": 100,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473546,
+      "crownsCost": 100,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473547,
+      "crownsCost": 100,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473548,
+      "crownsCost": 100,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473549,
+      "crownsCost": 100,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473550,
+      "crownsCost": 100,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473551,
+      "crownsCost": 100,
+      "displayPriority": [
+        16
+      ]
+    },
     {
       "templateId": 191105,
-      "crownsCost": 1,
-      "displayPriority": [16]
+      "crownsCost": 150,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 512193,
+      "crownsCost": 150,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1206871,
+      "crownsCost": 150,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1335362,
+      "crownsCost": 150,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392810,
+      "crownsCost": 150,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1457201,
+      "crownsCost": 150,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191108,
+      "crownsCost": 175,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191099,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191101,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191113,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 635771,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 635772,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 635773,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 635774,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 635775,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 635776,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 635777,
+      "crownsCost": 200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191103,
+      "crownsCost": 225,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191106,
+      "crownsCost": 225,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191109,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191115,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 225110,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473749,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473750,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473751,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473752,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473753,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473754,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 473755,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 512195,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1206872,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1740070,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1740071,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1740072,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1740073,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1740074,
+      "crownsCost": 250,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191111,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191117,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191118,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191119,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191120,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191121,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191122,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191123,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203112,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203113,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203114,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203115,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203116,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203117,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203118,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1439023,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441568,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441569,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441570,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441571,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441572,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441573,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441574,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441576,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441577,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441578,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441579,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441580,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441581,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441582,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441583,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441584,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441585,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441586,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441587,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441588,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441675,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441676,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441677,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441678,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1480042,
+      "crownsCost": 300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203767,
+      "crownsCost": 325,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203768,
+      "crownsCost": 325,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203769,
+      "crownsCost": 325,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203770,
+      "crownsCost": 325,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203771,
+      "crownsCost": 325,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203772,
+      "crownsCost": 325,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1203773,
+      "crownsCost": 325,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191100,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191102,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191114,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1371099,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1371100,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1371101,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1371102,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1371103,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1371104,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1371105,
+      "crownsCost": 350,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191104,
+      "crownsCost": 375,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392173,
+      "crownsCost": 375,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392174,
+      "crownsCost": 375,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392175,
+      "crownsCost": 375,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392176,
+      "crownsCost": 375,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392177,
+      "crownsCost": 375,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392178,
+      "crownsCost": 375,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1392179,
+      "crownsCost": 375,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 512194,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1421903,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1421904,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1421905,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1421906,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1421907,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1421908,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1421909,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441504,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441505,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441506,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441507,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441508,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441509,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441510,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441723,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441757,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1504134,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1504135,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1504136,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1504137,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1504138,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1504139,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1504140,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1540233,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1540234,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1540235,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1540236,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1540237,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1540238,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1540239,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1582000,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1582001,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1582002,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1582003,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1582004,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1582005,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1582006,
+      "crownsCost": 400,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191110,
+      "crownsCost": 425,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191116,
+      "crownsCost": 425,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1558625,
+      "crownsCost": 450,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1558626,
+      "crownsCost": 450,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1558627,
+      "crownsCost": 450,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1558628,
+      "crownsCost": 450,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1558629,
+      "crownsCost": 450,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1558630,
+      "crownsCost": 450,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638017,
+      "crownsCost": 450,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441709,
+      "crownsCost": 475,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638061,
+      "crownsCost": 475,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638062,
+      "crownsCost": 475,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638063,
+      "crownsCost": 475,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638064,
+      "crownsCost": 475,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638065,
+      "crownsCost": 475,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638066,
+      "crownsCost": 475,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638067,
+      "crownsCost": 475,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 191112,
+      "crownsCost": 500,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 316096,
+      "crownsCost": 500,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441714,
+      "crownsCost": 550,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441715,
+      "crownsCost": 550,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441716,
+      "crownsCost": 550,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441717,
+      "crownsCost": 550,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441718,
+      "crownsCost": 550,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441719,
+      "crownsCost": 550,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441720,
+      "crownsCost": 550,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441708,
+      "crownsCost": 625,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 316095,
+      "crownsCost": 900,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 512168,
+      "crownsCost": 995,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441705,
+      "crownsCost": 1000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441706,
+      "crownsCost": 1000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441712,
+      "crownsCost": 1000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441707,
+      "crownsCost": 1075,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441710,
+      "crownsCost": 1200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441713,
+      "crownsCost": 1200,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441711,
+      "crownsCost": 1300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441722,
+      "crownsCost": 1300,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441721,
+      "crownsCost": 2000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1431039,
+      "crownsCost": 2500,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 259071,
+      "crownsCost": 3500,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1441704,
+      "crownsCost": 5000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1458004,
+      "crownsCost": 8000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1558487,
+      "crownsCost": 8000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1479752,
+      "crownsCost": 18000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1386000,
+      "crownsCost": 30000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1687038,
+      "crownsCost": 30000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638047,
+      "crownsCost": 48000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638048,
+      "crownsCost": 96000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1638049,
+      "crownsCost": 1000000,
+      "displayPriority": [
+        16
+      ]
+    },
+    {
+      "templateId": 1549661,
+      "crownsCost": 34,
+      "displayPriority": [
+        34
+      ]
+    },
+    {
+      "templateId": 1549667,
+      "crownsCost": 450,
+      "displayPriority": [
+        34
+      ],
+      "goldCost": 9000
+    },
+    {
+      "templateId": 1549665,
+      "crownsCost": 750,
+      "displayPriority": [
+        34
+      ],
+      "goldCost": 15000
+    },
+    {
+      "templateId": 1549666,
+      "crownsCost": 750,
+      "displayPriority": [
+        34
+      ],
+      "goldCost": 15000
+    },
+    {
+      "templateId": 1549668,
+      "crownsCost": 1200,
+      "displayPriority": [
+        34
+      ],
+      "goldCost": 24000
+    },
+    {
+      "templateId": 1520574,
+      "crownsCost": 4500,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1581000,
+      "crownsCost": 4500,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1594000,
+      "crownsCost": 4500,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1594002,
+      "crownsCost": 4500,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1594003,
+      "crownsCost": 4500,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1594004,
+      "crownsCost": 4500,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1520570,
+      "crownsCost": 9000,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1520571,
+      "crownsCost": 9000,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1520572,
+      "crownsCost": 9000,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1594001,
+      "crownsCost": 9000,
+      "displayPriority": [
+        35
+      ]
+    },
+    {
+      "templateId": 1520573,
+      "crownsCost": 13000,
+      "displayPriority": [
+        35
+      ]
     }
   ]
 }
