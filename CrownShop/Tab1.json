@@ -3,7 +3,7 @@
   "name": "CrownShopSWF_MenuFeatured",
   "icon": "GUI/CrownShopIcons/Categories/Sale_Items.dds",
   "categoryIds": [0],
-  "tags": "",
+  "tags": "Seperate",
   "description": "Featured",
   "categories": [
     {
@@ -23,11 +23,5 @@
       }
     }
   ],
-  "items": [
-    {
-      "templateId": 1363076,
-      "crownsCost": 1,
-      "displayPriority": [0]
-    }
-  ]
+  "items": []
 }
