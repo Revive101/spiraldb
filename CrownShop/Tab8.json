@@ -584,6 +584,70 @@
         5
       ],
       "goldCost": 100000
+    },
+    {
+      "templateId": 512238,
+      "crownsCost": 1000,
+      "displayPriority": [
+        22
+      ],
+      "goldCost": 8000
+    },
+    {
+      "templateId": 512241,
+      "crownsCost": 1000,
+      "displayPriority": [
+        22
+      ],
+      "goldCost": 8000
+    },
+    {
+      "templateId": 512230,
+      "crownsCost": 1500,
+      "displayPriority": [
+        22
+      ],
+      "goldCost": 12000
+    },
+    {
+      "templateId": 512236,
+      "crownsCost": 1500,
+      "displayPriority": [
+        22
+      ],
+      "goldCost": 12000
+    },
+    {
+      "templateId": 512237,
+      "crownsCost": 1500,
+      "displayPriority": [
+        22
+      ],
+      "goldCost": 12000
+    },
+    {
+      "templateId": 512229,
+      "crownsCost": 2000,
+      "displayPriority": [
+        22
+      ],
+      "goldCost": 16000
+    },
+    {
+      "templateId": 512239,
+      "crownsCost": 2000,
+      "displayPriority": [
+        22
+      ],
+      "goldCost": 16000
+    },
+    {
+      "templateId": 512240,
+      "crownsCost": 2500,
+      "displayPriority": [
+        22
+      ],
+      "goldCost": 20000
     }
   ]
 }
