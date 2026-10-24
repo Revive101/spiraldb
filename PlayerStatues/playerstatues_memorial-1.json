@@ -1,15 +1,71 @@
 {
   "Id": "memorial-1",
-  "Enabled": false,
+  "Enabled": true,
   "Zone": "WizardCity/WC_Shop_Area",
-  "Location": { "X": 2344.0, "Y": -2644.0, "Z": 0.0 },
-  "Orientation": { "X": 0.0, "Y": 0.0, "Z": 5.916543 },
-  "BaseTemplateId": 0,
+  "Location": {
+    "X": 2344.0,
+    "Y": -2644.0,
+    "Z": 0.0
+  },
+  "Orientation": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 5.916543
+  },
+  "BaseTemplateId": 1546124,
   "Name": "Ultimate314",
   "NameKeys": 0,
   "PlaqueTitle": "",
   "PlaqueText": "",
-  "Appearance": {},
-  "Equipment": [],
+  "Appearance": {
+    "m_nHeadHandsModel": 0,
+    "m_nHairModel": 0,
+    "m_nHatModel": 0,
+    "m_nTorsoModel": 0,
+    "m_nFeetModel": 0,
+    "m_nWandModel": 0,
+    "m_nSkinColor": 4,
+    "m_nSkinDecal": 6,
+    "m_nHairColor": 6,
+    "m_nHatColor": 3,
+    "m_nHatDecal": 2,
+    "m_nTorsoColor": 4,
+    "m_nTorsoDecal": 1,
+    "m_nTorsoDecal2": 0,
+    "m_nFeetColor": 4,
+    "m_nFeetDecal": 5,
+    "m_eGender": "Male",
+    "m_eRace": "Human"
+  },
+  "Equipment": [
+    {
+      "m_itemID": 1489354,
+      "m_baseColor": 0,
+      "m_trimColor": 0,
+      "m_pattern": 0,
+      "m_displayID": 0
+    },
+    {
+      "m_itemID": 1338061,
+      "m_baseColor": 0,
+      "m_trimColor": 0,
+      "m_pattern": 0,
+      "m_displayID": 0
+    },
+    {
+      "m_itemID": 1462267,
+      "m_baseColor": 0,
+      "m_trimColor": 0,
+      "m_pattern": 0,
+      "m_displayID": 0
+    },
+    {
+      "m_itemID": 1537454,
+      "m_baseColor": 0,
+      "m_trimColor": 0,
+      "m_pattern": 0,
+      "m_displayID": 0
+    }
+  ],
   "SourceCharacterId": 0
 }
