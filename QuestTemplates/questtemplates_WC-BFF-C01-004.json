@@ -581,9 +581,25 @@
       "m_completeResults": {
         "m_results": [
           {
-            "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
             "m_dynaModClientTag": "WC-BFF-Commons instance",
+            "m_dynaModRemove": false,
             "m_useQuestAsOriginator": false,
+            "m_dynaModState": "Off",
+            "m_zoneName": "WizardCity/WC_Hub",
+            "m_bShowsObject": false,
+            "m_persist": false,
+            "m_requirements": null
+          },
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
+            "m_dynaModClientTag": "WC-HUB-NPC18 instance",
+            "m_dynaModRemove": false,
+            "m_useQuestAsOriginator": false,
+            "m_dynaModState": "On",
+            "m_zoneName": "WizardCity/WC_Hub",
+            "m_bShowsObject": true,
+            "m_persist": false,
             "m_requirements": null
           }
         ]
@@ -1081,9 +1097,14 @@
   "m_startResults": {
     "m_results": [
       {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ResRemoveDynaMod, Imcodec.ObjectProperty",
+        "$type": "Imcodec.ObjectProperty.TypeCache.ResAddDynaMod, Imcodec.ObjectProperty",
         "m_dynaModClientTag": "WC-BFF-Commons instance",
+        "m_dynaModRemove": false,
         "m_useQuestAsOriginator": false,
+        "m_dynaModState": "Off",
+        "m_zoneName": "WizardCity/WC_Hub",
+        "m_bShowsObject": false,
+        "m_persist": false,
         "m_requirements": null
       },
       {
