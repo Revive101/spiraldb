@@ -10,5 +10,24 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [],
-  "Outcomes": []
+  "Outcomes": [
+    {
+      "Kind": "Gold",
+      "DropRate": 50.0,
+      "MinGold": 75,
+      "MaxGold": 125
+    },
+    {
+      "Kind": "Gold",
+      "DropRate": 35.0,
+      "MinGold": 125,
+      "MaxGold": 200
+    },
+    {
+      "Kind": "Gold",
+      "DropRate": 15.0,
+      "MinGold": 200,
+      "MaxGold": 300
+    }
+  ]
 }

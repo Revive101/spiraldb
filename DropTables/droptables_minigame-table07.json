@@ -10,5 +10,372 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [],
-  "Outcomes": []
+  "Outcomes": [
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "4830",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "4873",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "4875",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "77564",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "77617",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "87236",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "87238",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "136840",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "136842",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191403",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191404",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191405",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191406",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191407",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191408",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191409",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191410",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191411",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191412",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 3.5,
+      "ItemId": "191413",
+      "Quantity": 1
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "106946",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "106947",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "106948",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "106949",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "106950",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "106951",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "106952",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "106953",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "1317939",
+      "Quantity": 2
+    },
+    {
+      "Kind": "Item",
+      "DropRate": 2.0,
+      "ItemId": "1350074",
+      "Quantity": 2
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "109770479",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "109853936",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "109866214",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "303014442",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "337647600",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "405079011",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "406085927",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "406225536",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "406792873",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "409735328",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "432322239",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "432327120",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "514203989",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "657683180",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "658114073",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "658134547",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "658283538",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "782323483",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "787641644",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "850060227",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "850143684",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "850164170",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1161914504",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1250455896",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1313738267",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1427058518",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1432098147",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1446852032",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1698635320",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1848606682",
+      "Quantity": 1
+    },
+    {
+      "Kind": "TreasureCard",
+      "DropRate": 0.323,
+      "ItemId": "1889148781",
+      "Quantity": 1
+    }
+  ]
 }

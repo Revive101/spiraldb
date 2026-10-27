@@ -10,5 +10,11 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [],
-  "Outcomes": []
+  "Outcomes": [
+    {
+      "Kind": "Mana",
+      "DropRate": 100.0,
+      "ManaPercent": 1.0
+    }
+  ]
 }

@@ -10,5 +10,21 @@
   "ExperienceAmount": 0,
   "TrainingPoints": 0,
   "Items": [],
-  "Outcomes": []
+  "Outcomes": [
+    {
+      "Kind": "Mana",
+      "DropRate": 25.0,
+      "ManaPercent": 0.15
+    },
+    {
+      "Kind": "Mana",
+      "DropRate": 50.0,
+      "ManaPercent": 0.25
+    },
+    {
+      "Kind": "Mana",
+      "DropRate": 25.0,
+      "ManaPercent": 0.35
+    }
+  ]
 }
