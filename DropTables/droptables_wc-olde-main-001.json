@@ -9,7 +9,23 @@
   "MaxGold": 12,
   "ExperienceAmount": 8,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "473524",
+      "ItemName": "Cry Babies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641701",
+      "ItemName": "Crystal Bites",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733127",
+      "ItemName": "Tricera-pops",
+      "Notes": ""
+    }
+  ],
   "CreatedAt": "2026-06-01T00:50:06.982311Z",
   "ModifiedAt": "2026-06-01T00:50:06.982311Z",
   "CreatedBy": "quest_builder",
