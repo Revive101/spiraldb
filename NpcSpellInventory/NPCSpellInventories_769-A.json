@@ -2,29 +2,19 @@
   "TemplateID": 82294,
   "Spells": [
     {
-      "TemplateID": 1191921588,
+      "TemplateID": 1143963608,
       "RequiredSpellID": 0,
-      "Level": 15
+      "Level": 0
     },
     {
-      "TemplateID": 90594324,
-      "RequiredSpellID": 0,
-      "Level": 15
+      "TemplateID": 770007379,
+      "RequiredSpellID": 89395,
+      "Level": 170
     },
     {
-      "TemplateID": 1594435395,
-      "RequiredSpellID": 1615064713,
-      "Level": 30
-    },
-    {
-      "TemplateID": 2020919077,
-      "RequiredSpellID": 1594435395,
-      "Level": 32
-    },
-    {
-      "TemplateID": 1817461797,
-      "RequiredSpellID": 2020919077,
-      "Level": 38
+      "TemplateID": 2129543384,
+      "RequiredSpellID": 89395,
+      "Level": 170
     }
   ]
 }

@@ -27,12 +27,12 @@
       "Level": 16
     },
     {
-      "TemplateID": 2103338466,
-      "RequiredSpellID": 751181746,
+      "TemplateID": 767057080,
+      "RequiredSpellID": 1829994384,
       "Level": 20
     },
     {
-      "TemplateID": 767057080,
+      "TemplateID": 2103338466,
       "RequiredSpellID": 1829994384,
       "Level": 20
     },
@@ -47,14 +47,19 @@
       "Level": 26
     },
     {
-      "TemplateID": 610540741,
-      "RequiredSpellID": 84457148,
-      "Level": 26
-    },
-    {
       "TemplateID": 1484841148,
       "RequiredSpellID": 254485266,
       "Level": 33
+    },
+    {
+      "TemplateID": 777395333,
+      "RequiredSpellID": 1484841148,
+      "Level": 40
+    },
+    {
+      "TemplateID": 829957886,
+      "RequiredSpellID": 1484841148,
+      "Level": 40
     },
     {
       "TemplateID": 70785800,
@@ -72,39 +77,34 @@
       "Level": 45
     },
     {
-      "TemplateID": 2062835293,
-      "RequiredSpellID": 70785800,
+      "TemplateID": 732056831,
+      "RequiredSpellID": 1484841148,
       "Level": 50
     },
     {
-      "TemplateID": 777395333,
+      "TemplateID": 732058879,
       "RequiredSpellID": 1484841148,
-      "Level": 40
+      "Level": 50
     },
     {
-      "TemplateID": 829957886,
+      "TemplateID": 732120127,
       "RequiredSpellID": 1484841148,
-      "Level": 40
+      "Level": 70
     },
     {
-      "TemplateID": 1931151039,
-      "RequiredSpellID": 1462253104,
-      "Level": 8
+      "TemplateID": 2058318678,
+      "RequiredSpellID": 1484841148,
+      "Level": 70
     },
     {
-      "TemplateID": 1533435663,
-      "RequiredSpellID": 84457148,
-      "Level": 22
+      "TemplateID": 732120191,
+      "RequiredSpellID": 1484841148,
+      "Level": 100
     },
     {
-      "TemplateID": 1713300256,
-      "RequiredSpellID": 514206205,
-      "Level": 20
-    },
-    {
-      "TemplateID": 185282768,
-      "RequiredSpellID": 1533435663,
-      "Level": 28
+      "TemplateID": 2058253142,
+      "RequiredSpellID": 1484841148,
+      "Level": 100
     }
   ]
 }
