@@ -128,6 +128,23 @@
         "m_applyNOT": false,
         "m_operator": "ROP_AND"
       }
+    },
+    {
+      "ItemId": "38982",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Life",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
     }
   ],
   "CreatedAt": "2026-06-01T00:53:32.316536Z",
