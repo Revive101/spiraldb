@@ -2,6 +2,11 @@
   "TemplateID": 81103,
   "Spells": [
     {
+      "TemplateID": 1898417773,
+      "RequiredSpellID": 1965296812,
+      "Level": 18
+    },
+    {
       "TemplateID": 2143810477,
       "RequiredSpellID": 0,
       "Level": 1
