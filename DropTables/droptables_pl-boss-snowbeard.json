@@ -1,0 +1,833 @@
+{
+  "Name": "PL-Boss-Snowbeard",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653139",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653140",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653141",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653142",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653143",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653144",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653145",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369358",
+      "ItemName": "Axe of Tundra Blizzards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363590",
+      "ItemName": "Blizzardy Tundra Pelage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363622",
+      "ItemName": "Blizzardy Tundra Snowshoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363558",
+      "ItemName": "Blizzardy Tundra Ushanka",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369204",
+      "ItemName": "Chief Inspector's Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356114",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356115",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356116",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356117",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356118",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356119",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369488",
+      "ItemName": "Deck of the Tundra Sage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448401",
+      "ItemName": "Fire Moon Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369140",
+      "ItemName": "Frigid Maw Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589159",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589160",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589161",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589162",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589163",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589164",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589165",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363623",
+      "ItemName": "Hailstorm Tundra Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363591",
+      "ItemName": "Hailstorm Tundra Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363559",
+      "ItemName": "Hailstorm Tundra Ushanka",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369486",
+      "ItemName": "Hand of Tundra Blizzards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369198",
+      "ItemName": "Inspector's Band of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369200",
+      "ItemName": "Inspector's Band of Theories",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369202",
+      "ItemName": "Inspector's Ring of Grief",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369197",
+      "ItemName": "Inspector's Scorched Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369201",
+      "ItemName": "Inspector's Seal of Pluck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359786",
+      "ItemName": "Intrepid Seal Pup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369199",
+      "ItemName": "Iron Paw's Band of Clangor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369203",
+      "ItemName": "Iron Paw's Steadfast Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342164",
+      "ItemName": "Medium Enchanted Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342193",
+      "ItemName": "Medium Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369172",
+      "ItemName": "Memento of the Frigid Maw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473647",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473648",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473649",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473650",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473651",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473652",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473653",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359789",
+      "ItemName": "Mountain Yeti",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363596",
+      "ItemName": "Polarian Tundra Apparel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369364",
+      "ItemName": "Polarian Tundra Bardiche",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363628",
+      "ItemName": "Polarian Tundra Snowboots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369492",
+      "ItemName": "Polarian Tundra Spelldeck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363564",
+      "ItemName": "Polarian Tundra Ushanka",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342194",
+      "ItemName": "Small Enchanted Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342195",
+      "ItemName": "Small Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363621",
+      "ItemName": "Sweltery Tundra Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363557",
+      "ItemName": "Sweltery Tundra Ushanka",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363589",
+      "ItemName": "Sweltery Tundra Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470720",
+      "ItemName": "The Enchanter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359662",
+      "ItemName": "The Goat Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359663",
+      "ItemName": "The Ice Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217362",
+      "ItemName": "The Kroktop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317802",
+      "ItemName": "The Manticore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217004",
+      "ItemName": "The Stalwart Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217212",
+      "ItemName": "The Stardust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217358",
+      "ItemName": "The Warlock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369359",
+      "ItemName": "Tundra Axe of Hailstorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369363",
+      "ItemName": "Tundra Axe of Loyalty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369360",
+      "ItemName": "Tundra Bardiche Sagacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369357",
+      "ItemName": "Tundra Bardiche of Ferocity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369362",
+      "ItemName": "Tundra Bardiche of Mayhem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363626",
+      "ItemName": "Tundra Boots of Mayhem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369490",
+      "ItemName": "Tundra Cards of Disarray",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363592",
+      "ItemName": "Tundra Coat of Sagacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369485",
+      "ItemName": "Tundra Deck of Swelters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363627",
+      "ItemName": "Tundra Footwear of Loyalty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369487",
+      "ItemName": "Tundra Gallery of Hailstorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363595",
+      "ItemName": "Tundra Garment of Loyalty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369491",
+      "ItemName": "Tundra Hand of Loyalty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363593",
+      "ItemName": "Tundra Jacket of Survival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363594",
+      "ItemName": "Tundra Raiment of Mayhem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369361",
+      "ItemName": "Tundra Survival Hatchet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369489",
+      "ItemName": "Tundra Survivor's Pack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363624",
+      "ItemName": "Tundra Trekkers of Sagacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363563",
+      "ItemName": "Tundra Ushanka of Loyalty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363562",
+      "ItemName": "Tundra Ushanka of Mayhem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363560",
+      "ItemName": "Tundra Ushanka of Sagacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363561",
+      "ItemName": "Tundra Ushanka of Survival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363625",
+      "ItemName": "Tundra Walkers of Survival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350136",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350137",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350138",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350139",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350140",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350142",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350143",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369136",
+      "ItemName": "Urville Athame of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369165",
+      "ItemName": "Urville Bauble of Flames",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369170",
+      "ItemName": "Urville Chaplet of Anguish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369167",
+      "ItemName": "Urville Charm of Snowgusts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369133",
+      "ItemName": "Urville Dagger of Flames",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369135",
+      "ItemName": "Urville Edge of Snowgusts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369137",
+      "ItemName": "Urville Knife of Elation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369134",
+      "ItemName": "Urville Kris of Wintertide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369138",
+      "ItemName": "Urville Lancet of Anguish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369171",
+      "ItemName": "Urville Necklace of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369169",
+      "ItemName": "Urville Pendant of Elation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369166",
+      "ItemName": "Urville Relic of Wintertide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369139",
+      "ItemName": "Urville Spike of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369168",
+      "ItemName": "Urville Talisman of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346053",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346054",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346055",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346056",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346057",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346058",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

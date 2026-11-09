@@ -1,0 +1,128 @@
+{
+  "Name": "Helephant-Fire-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146169",
+      "ItemName": "Athame of Perserverance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160891",
+      "ItemName": "Broken Wall Segment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126599",
+      "ItemName": "Burning Ring of Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104615",
+      "ItemName": "Cloak of the Djinni",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126683",
+      "ItemName": "Deck of Last Departure",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160866",
+      "ItemName": "Dragonskull Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126567",
+      "ItemName": "Final Orbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104613",
+      "ItemName": "Firetusk's Inferno Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146314",
+      "ItemName": "Firetusk's Inferno Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146288",
+      "ItemName": "Frostbitten Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104757",
+      "ItemName": "Frostwoven Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104794",
+      "ItemName": "General Firetusk's Flameboots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146272",
+      "ItemName": "Hood of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146212",
+      "ItemName": "Lightning-charged Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146164",
+      "ItemName": "Poniard of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104630",
+      "ItemName": "Raiment of the Raven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104804",
+      "ItemName": "Reaper's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104888",
+      "ItemName": "Shoes of the Greatest Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104867",
+      "ItemName": "Striders of the Thicket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104727",
+      "ItemName": "Surcoat of Glory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146192",
+      "ItemName": "Thunder Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146318",
+      "ItemName": "Veil of Fire",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

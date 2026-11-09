@@ -1,0 +1,88 @@
+{
+  "Name": "AV-R11-BadgerBoss",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635225",
+      "ItemName": "Armiger's Meditative Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512167",
+      "ItemName": "Avalon Wyrd Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635378",
+      "ItemName": "Bane Wyrm's Tartan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635303",
+      "ItemName": "Catacombs Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635626",
+      "ItemName": "Fellbringer's Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635255",
+      "ItemName": "Fox's Fang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635417",
+      "ItemName": "Hospitable Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641593",
+      "ItemName": "Jousting Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635304",
+      "ItemName": "Mask of the Crystal Caves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635340",
+      "ItemName": "Nameless Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635224",
+      "ItemName": "Nature's Circle of Calm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635254",
+      "ItemName": "Old Green Beard's Needle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635418",
+      "ItemName": "Sworn Champion's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635377",
+      "ItemName": "Three Color Serpent's Robes",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "HG_RPG_Mimic_Cake_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1672911",
+      "ItemName": "Dragon Steed (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1672910",
+      "ItemName": "Dragon Steed (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1664926",
+      "ItemName": "Grr-Owl",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,68 @@
+{
+  "Name": "SC-Equilibrium-60",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473337",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667276",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473295",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667264",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473316",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667270",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302140",
+      "ItemName": "Spiral Cup Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302138",
+      "ItemName": "Spiral Cup Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302154",
+      "ItemName": "Vestment of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512153",
+      "ItemName": "Wysteria Combat Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

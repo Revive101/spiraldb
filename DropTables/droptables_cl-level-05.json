@@ -1,0 +1,383 @@
+{
+  "Name": "CL-Level-05",
+  "Description": "Mob loot table (11 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1502482",
+      "ItemName": "Boots of Celestian Totality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502480",
+      "ItemName": "Celestian Abyss Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502475",
+      "ItemName": "Celestian Cinder Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502476",
+      "ItemName": "Celestian Frostbit Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502477",
+      "ItemName": "Celestian Tempest Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243758",
+      "ItemName": "Cinder Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243585",
+      "ItemName": "Circle of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243722",
+      "ItemName": "Collective Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243616",
+      "ItemName": "Combustible Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243428",
+      "ItemName": "Drenched Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502479",
+      "ItemName": "Everlasting Celestian Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243719",
+      "ItemName": "Examiner's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243811",
+      "ItemName": "Festive Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243639",
+      "ItemName": "Frostbit Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243743",
+      "ItemName": "Grim Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243313",
+      "ItemName": "Grim Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243293",
+      "ItemName": "Helm of Higher Learning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243315",
+      "ItemName": "Hood of Dissonance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243373",
+      "ItemName": "Icestar Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243808",
+      "ItemName": "Innate Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243657",
+      "ItemName": "Innate Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243458",
+      "ItemName": "Insightful Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243659",
+      "ItemName": "Longcoat of Long Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243238",
+      "ItemName": "Longevity Twin Blades",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243336",
+      "ItemName": "Mercurial Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243407",
+      "ItemName": "Mythical Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243548",
+      "ItemName": "Ring of Memories",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243701",
+      "ItemName": "Rising Tide Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243841",
+      "ItemName": "Rising Tide Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243437",
+      "ItemName": "Rumbling Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243760",
+      "ItemName": "Scorched Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243410",
+      "ItemName": "Secret Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243676",
+      "ItemName": "Secret Surcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243386",
+      "ItemName": "Spirit Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243827",
+      "ItemName": "Star Wisher's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502478",
+      "ItemName": "Storied Celestian Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243828",
+      "ItemName": "Storied Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243249",
+      "ItemName": "Supreme Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243584",
+      "ItemName": "Swirling Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243384",
+      "ItemName": "Tangleroot's Spirit Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243717",
+      "ItemName": "Tolerant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243457",
+      "ItemName": "Tunic of Tolerance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502481",
+      "ItemName": "Versatile Celestian Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243275",
+      "ItemName": "Wave Cutter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243369",
+      "ItemName": "Wintertide Topper",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "NOV-LootTable-010",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1257812",
+      "ItemName": "Cornstalk Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363264",
+      "ItemName": "Mummy Costume Bodywraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257813",
+      "ItemName": "Sprig of Change",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257814",
+      "ItemName": "Tumbling Leaf Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126551",
+      "ItemName": "Turkey Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

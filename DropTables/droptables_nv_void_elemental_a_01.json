@@ -1,0 +1,88 @@
+{
+  "Name": "NV_Void_Elemental_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577836",
+      "ItemName": "Glistening Balance Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577837",
+      "ItemName": "Glistening Death Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577838",
+      "ItemName": "Glistening Fire Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577839",
+      "ItemName": "Glistening Ice Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577840",
+      "ItemName": "Glistening Life Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577841",
+      "ItemName": "Glistening Myth Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577842",
+      "ItemName": "Glistening Storm Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577780",
+      "ItemName": "Golden Balance Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577781",
+      "ItemName": "Golden Death Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577782",
+      "ItemName": "Golden Fire Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577783",
+      "ItemName": "Golden Ice Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577784",
+      "ItemName": "Golden Life Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577785",
+      "ItemName": "Golden Myth Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577786",
+      "ItemName": "Golden Storm Dagger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

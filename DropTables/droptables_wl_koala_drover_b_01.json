@@ -1,0 +1,158 @@
+{
+  "Name": "WL_Koala_Drover_B_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1628400",
+      "ItemName": "Crisp City Dweller Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628442",
+      "ItemName": "Crisp City Dweller Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628547",
+      "ItemName": "Crisp Townie Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628603",
+      "ItemName": "Crisp Townie Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628397",
+      "ItemName": "Elegant City Dweller Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628439",
+      "ItemName": "Elegant City Dweller Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628544",
+      "ItemName": "Elegant Townie Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628600",
+      "ItemName": "Elegant Townie Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628399",
+      "ItemName": "Flashy City Dweller Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628441",
+      "ItemName": "Flashy City Dweller Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628546",
+      "ItemName": "Flashy Townie Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628602",
+      "ItemName": "Flashy Townie Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628398",
+      "ItemName": "Gothic City Dweller Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628440",
+      "ItemName": "Gothic City Dweller Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628545",
+      "ItemName": "Gothic Townie Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628601",
+      "ItemName": "Gothic Townie Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628402",
+      "ItemName": "Iconic City Dweller Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628444",
+      "ItemName": "Iconic City Dweller Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628549",
+      "ItemName": "Iconic Townie Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628605",
+      "ItemName": "Iconic Townie Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628403",
+      "ItemName": "Striking City Dweller Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628445",
+      "ItemName": "Striking City Dweller Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628550",
+      "ItemName": "Striking Townie Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628606",
+      "ItemName": "Striking Townie Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628401",
+      "ItemName": "Vibrant City Dweller Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628443",
+      "ItemName": "Vibrant City Dweller Cane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628548",
+      "ItemName": "Vibrant Townie Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628604",
+      "ItemName": "Vibrant Townie Cane",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

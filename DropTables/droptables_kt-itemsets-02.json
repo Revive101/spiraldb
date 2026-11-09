@@ -1,0 +1,58 @@
+{
+  "Name": "KT-ItemSets-02",
+  "Description": "Mob loot table (18 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1502431",
+      "ItemName": "Krokotopian Balance Modius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502430",
+      "ItemName": "Krokotopian Death Modius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502425",
+      "ItemName": "Krokotopian Fire Modius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502426",
+      "ItemName": "Krokotopian Ice Modius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502429",
+      "ItemName": "Krokotopian Life Modius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502432",
+      "ItemName": "Krokotopian Modius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502428",
+      "ItemName": "Krokotopian Myth Modius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502427",
+      "ItemName": "Krokotopian Storm Modius",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

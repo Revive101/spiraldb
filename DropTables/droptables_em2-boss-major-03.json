@@ -1,0 +1,168 @@
+{
+  "Name": "EM2-Boss-Major-03",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462266",
+      "ItemName": "Balanced Paradox Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462250",
+      "ItemName": "Balanced Paradox Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462265",
+      "ItemName": "Deathly Paradox Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462249",
+      "ItemName": "Deathly Paradox Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462267",
+      "ItemName": "Divine Paradox Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462251",
+      "ItemName": "Divine Paradox Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439017",
+      "ItemName": "Empyrea Brain Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439018",
+      "ItemName": "Empyrea Brain Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439019",
+      "ItemName": "Empyrea Brain Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439014",
+      "ItemName": "Empyrea Dance Hall Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441525",
+      "ItemName": "Empyrea Mandalla Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441526",
+      "ItemName": "Empyrea Mandalla Destroyed Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439020",
+      "ItemName": "Empyrea Medulla Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441527",
+      "ItemName": "Empyrea Nexus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441528",
+      "ItemName": "Empyrea Nimbus Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441529",
+      "ItemName": "Empyrea Nimbus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441530",
+      "ItemName": "Empyrea Reverie Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441531",
+      "ItemName": "Empyrea Reverie Dream Shrine Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441532",
+      "ItemName": "Empyrea Reverie Hive Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439021",
+      "ItemName": "Empyrea Sewer Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462260",
+      "ItemName": "Fiery Paradox Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462244",
+      "ItemName": "Fiery Paradox Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462261",
+      "ItemName": "Icy Paradox Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462245",
+      "ItemName": "Icy Paradox Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462264",
+      "ItemName": "Lively Paradox Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462248",
+      "ItemName": "Lively Paradox Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462263",
+      "ItemName": "Mythic Paradox Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462247",
+      "ItemName": "Mythic Paradox Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462262",
+      "ItemName": "Stormy Paradox Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462246",
+      "ItemName": "Stormy Paradox Conical",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

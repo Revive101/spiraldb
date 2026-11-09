@@ -1,0 +1,198 @@
+{
+  "Name": "AQ-Bear-90-Reagents",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212002",
+      "ItemName": "Aquila Tartarus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819707",
+      "ItemName": "Bolt of Zeus' Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203042",
+      "ItemName": "Exalted Balance Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203043",
+      "ItemName": "Exalted Death Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203044",
+      "ItemName": "Exalted Fire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203045",
+      "ItemName": "Exalted Ice Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203046",
+      "ItemName": "Exalted Life Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203047",
+      "ItemName": "Exalted Myth Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203048",
+      "ItemName": "Exalted Storm Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819580",
+      "ItemName": "Senator's Frostfall Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819622",
+      "ItemName": "Senator's Frostfall Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819601",
+      "ItemName": "Senator's Frostfall Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819584",
+      "ItemName": "Senator's Laurel of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819579",
+      "ItemName": "Senator's Laurel of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819582",
+      "ItemName": "Senator's Laurel of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819581",
+      "ItemName": "Senator's Monsoon Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819623",
+      "ItemName": "Senator's Monsoon Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819602",
+      "ItemName": "Senator's Monsoon Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819585",
+      "ItemName": "Senator's Noble Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819627",
+      "ItemName": "Senator's Noble Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819606",
+      "ItemName": "Senator's Noble Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819626",
+      "ItemName": "Senator's Shoes of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819624",
+      "ItemName": "Senator's Shoes of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819621",
+      "ItemName": "Senator's Sparking Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819583",
+      "ItemName": "Senator's Spirited Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819625",
+      "ItemName": "Senator's Spirited Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819604",
+      "ItemName": "Senator's Spirited Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819605",
+      "ItemName": "Senator's Toga of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819600",
+      "ItemName": "Senator's Toga of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819603",
+      "ItemName": "Senator's Toga of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819706",
+      "ItemName": "Staff of Zeus' Curses",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819704",
+      "ItemName": "Zeus' Bolt of Genius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819702",
+      "ItemName": "Zeus' Hailstone Bolt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819705",
+      "ItemName": "Zeus' Scepter of Creation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819701",
+      "ItemName": "Zeus' Smoke Cloud Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819703",
+      "ItemName": "Zeus' Thunderstrike Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

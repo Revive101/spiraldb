@@ -1,0 +1,228 @@
+{
+  "Name": "STRD_BR_PL_Rasputin_Shadow",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1689393",
+      "ItemName": "Animated Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689981",
+      "ItemName": "Animated Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689365",
+      "ItemName": "Animated Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689960",
+      "ItemName": "Animated Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689358",
+      "ItemName": "Animated Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693002",
+      "ItemName": "Animated Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689389",
+      "ItemName": "Classical Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689977",
+      "ItemName": "Classical Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689361",
+      "ItemName": "Classical Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689956",
+      "ItemName": "Classical Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689354",
+      "ItemName": "Classical Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689998",
+      "ItemName": "Classical Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689392",
+      "ItemName": "Cool Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689980",
+      "ItemName": "Cool Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689364",
+      "ItemName": "Cool Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689959",
+      "ItemName": "Cool Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689357",
+      "ItemName": "Cool Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693001",
+      "ItemName": "Cool Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689390",
+      "ItemName": "Grimdark Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689978",
+      "ItemName": "Grimdark Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689362",
+      "ItemName": "Grimdark Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689957",
+      "ItemName": "Grimdark Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689355",
+      "ItemName": "Grimdark Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689999",
+      "ItemName": "Grimdark Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689394",
+      "ItemName": "Infamous Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689982",
+      "ItemName": "Infamous Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689366",
+      "ItemName": "Infamous Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689961",
+      "ItemName": "Infamous Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689359",
+      "ItemName": "Infamous Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693003",
+      "ItemName": "Infamous Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689391",
+      "ItemName": "Inflammatory Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689979",
+      "ItemName": "Inflammatory Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689363",
+      "ItemName": "Inflammatory Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689958",
+      "ItemName": "Inflammatory Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689356",
+      "ItemName": "Inflammatory Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693000",
+      "ItemName": "Inflammatory Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689395",
+      "ItemName": "Snappy Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689983",
+      "ItemName": "Snappy Deity Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689367",
+      "ItemName": "Snappy Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689962",
+      "ItemName": "Snappy Deity Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689360",
+      "ItemName": "Snappy Deity Poulaines",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693004",
+      "ItemName": "Snappy Deity Poulaines",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

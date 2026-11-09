@@ -1,0 +1,43 @@
+{
+  "Name": "1-270-PACommon-40",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82717",
+      "ItemName": "Blue Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160746",
+      "ItemName": "Clanker's Trapdoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82867",
+      "ItemName": "Long Narrow Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82716",
+      "ItemName": "Red Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160741",
+      "ItemName": "Thick Roof Vent",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

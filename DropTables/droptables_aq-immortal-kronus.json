@@ -1,0 +1,153 @@
+{
+  "Name": "AQ-Immortal-Kronus",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212000",
+      "ItemName": "Aquila Atlantea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212004",
+      "ItemName": "Aquila Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212003",
+      "ItemName": "Aquila Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212005",
+      "ItemName": "Aquila Epic Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212001",
+      "ItemName": "Aquila Olympus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819691",
+      "ItemName": "Blade of the Felled Titan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819722",
+      "ItemName": "Hades' Flamemaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819727",
+      "ItemName": "Hades' Soul Scythe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819726",
+      "ItemName": "Hades' Staff of Awakening",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819725",
+      "ItemName": "Hades' Staff of Eternity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819723",
+      "ItemName": "Hades' Staff of Frostbite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819728",
+      "ItemName": "Hades' Staff of Reckoning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819724",
+      "ItemName": "Hades' Staff of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819715",
+      "ItemName": "Poseidon's Backdraft Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819716",
+      "ItemName": "Poseidon's Numbing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819721",
+      "ItemName": "Poseidon's Open Seas Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819719",
+      "ItemName": "Poseidon's Staff of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819720",
+      "ItemName": "Poseidon's Wavemaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696694",
+      "ItemName": "Ring of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696699",
+      "ItemName": "Ring of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696697",
+      "ItemName": "Ring of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696695",
+      "ItemName": "Ring of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696698",
+      "ItemName": "Ring of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696700",
+      "ItemName": "Ring of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696696",
+      "ItemName": "Ring of Gorgon's Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819718",
+      "ItemName": "Staff of Poseidon's Angst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819717",
+      "ItemName": "Trident of Shock Waves",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

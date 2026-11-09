@@ -1,0 +1,218 @@
+{
+  "Name": "SKB_DS_Loremaster_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350313",
+      "ItemName": "Artisan's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191275",
+      "ItemName": "Blue Dragon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470471",
+      "ItemName": "Boris Blackrock Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160886",
+      "ItemName": "Claw Fence Segment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82914",
+      "ItemName": "Clawed Wall Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470472",
+      "ItemName": "Crystal Guide Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470473",
+      "ItemName": "Draconian Knight Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160871",
+      "ItemName": "Dragonflame Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160901",
+      "ItemName": "Dragonspyre Gate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160813",
+      "ItemName": "Dragonspyre Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690100",
+      "ItemName": "Emberstone Tiger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191274",
+      "ItemName": "Faithful Dragoness (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740126",
+      "ItemName": "Golden Boots of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302024",
+      "ItemName": "Golden Boots of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740179",
+      "ItemName": "Golden Dragon Fear Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257916",
+      "ItemName": "Golden Dragon Fear Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740102",
+      "ItemName": "Golden Hood of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302023",
+      "ItemName": "Golden Hood of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740114",
+      "ItemName": "Golden Robes of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302025",
+      "ItemName": "Golden Robes of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740101",
+      "ItemName": "Jade Hood of Mystery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302020",
+      "ItemName": "Jade Hood of Mystery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740113",
+      "ItemName": "Jade Robe of Mystery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302022",
+      "ItemName": "Jade Robe of Mystery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470474",
+      "ItemName": "Malistaire Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512189",
+      "ItemName": "Marleybone Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512190",
+      "ItemName": "MooShu Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740125",
+      "ItemName": "Mysterious Jade Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302021",
+      "ItemName": "Mysterious Jade Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740180",
+      "ItemName": "Order of High Glory Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257917",
+      "ItemName": "Order of High Glory Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160819",
+      "ItemName": "Plundered Crystal Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740178",
+      "ItemName": "Silver Order of the Spiral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257915",
+      "ItemName": "Silver Order of the Spiral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740127",
+      "ItemName": "Violet Boots of Bitter Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302027",
+      "ItemName": "Violet Boots of Bitter Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740103",
+      "ItemName": "Violet Hood of Bitter Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302026",
+      "ItemName": "Violet Hood of Bitter Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740115",
+      "ItemName": "Violet Robes of Bitter Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302028",
+      "ItemName": "Violet Robes of Bitter Truth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

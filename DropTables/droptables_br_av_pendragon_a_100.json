@@ -1,0 +1,108 @@
+{
+  "Name": "BR_AV_Pendragon_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1603045",
+      "ItemName": "Ambrose Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603053",
+      "ItemName": "King Artorius Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603055",
+      "ItemName": "Morganthe Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603051",
+      "ItemName": "Queen Gwendolyn Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654582",
+      "ItemName": "Umbra Queen's Chill Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654603",
+      "ItemName": "Umbra Queen's Chill Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654579",
+      "ItemName": "Umbra Queen's Dusty Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654600",
+      "ItemName": "Umbra Queen's Dusty Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654584",
+      "ItemName": "Umbra Queen's Furious Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654605",
+      "ItemName": "Umbra Queen's Furious Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654580",
+      "ItemName": "Umbra Queen's Grim Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654601",
+      "ItemName": "Umbra Queen's Grim Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654581",
+      "ItemName": "Umbra Queen's Scorched Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654602",
+      "ItemName": "Umbra Queen's Scorched Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654585",
+      "ItemName": "Umbra Queen's Shocked Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654606",
+      "ItemName": "Umbra Queen's Shocked Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654583",
+      "ItemName": "Umbra Queen's Wild Heels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654604",
+      "ItemName": "Umbra Queen's Wild Heels",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

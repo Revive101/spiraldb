@@ -1,0 +1,48 @@
+{
+  "Name": "RH-Boss-Wyrm-Housing",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "181050",
+      "ItemName": "Barbaric Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181102",
+      "ItemName": "Clawed Runestone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181100",
+      "ItemName": "Heroic Runestone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537609",
+      "ItemName": "Raven Tree Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181030",
+      "ItemName": "Runestone Spiral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181101",
+      "ItemName": "Sigiled Runestone",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

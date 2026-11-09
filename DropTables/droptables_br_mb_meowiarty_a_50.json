@@ -1,0 +1,298 @@
+{
+  "Name": "BR_MB_Meowiarty_A_50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1617614",
+      "ItemName": "Malistaire's Chilly Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617621",
+      "ItemName": "Malistaire's Chilly Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617628",
+      "ItemName": "Malistaire's Chilly Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712818",
+      "ItemName": "Malistaire's Chilly Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617593",
+      "ItemName": "Malistaire's Chilly Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617600",
+      "ItemName": "Malistaire's Chilly Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617607",
+      "ItemName": "Malistaire's Chilly Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712811",
+      "ItemName": "Malistaire's Chilly Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617612",
+      "ItemName": "Malistaire's Ghostly Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617619",
+      "ItemName": "Malistaire's Ghostly Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617626",
+      "ItemName": "Malistaire's Ghostly Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712816",
+      "ItemName": "Malistaire's Ghostly Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617591",
+      "ItemName": "Malistaire's Ghostly Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617598",
+      "ItemName": "Malistaire's Ghostly Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617605",
+      "ItemName": "Malistaire's Ghostly Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712809",
+      "ItemName": "Malistaire's Ghostly Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617611",
+      "ItemName": "Malistaire's Harmonic Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617618",
+      "ItemName": "Malistaire's Harmonic Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617625",
+      "ItemName": "Malistaire's Harmonic Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712815",
+      "ItemName": "Malistaire's Harmonic Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617590",
+      "ItemName": "Malistaire's Harmonic Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617597",
+      "ItemName": "Malistaire's Harmonic Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617604",
+      "ItemName": "Malistaire's Harmonic Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712808",
+      "ItemName": "Malistaire's Harmonic Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617616",
+      "ItemName": "Malistaire's Infamous Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617623",
+      "ItemName": "Malistaire's Infamous Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617630",
+      "ItemName": "Malistaire's Infamous Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712820",
+      "ItemName": "Malistaire's Infamous Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617595",
+      "ItemName": "Malistaire's Infamous Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617602",
+      "ItemName": "Malistaire's Infamous Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617609",
+      "ItemName": "Malistaire's Infamous Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712813",
+      "ItemName": "Malistaire's Infamous Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617617",
+      "ItemName": "Malistaire's Squall Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617624",
+      "ItemName": "Malistaire's Squall Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617631",
+      "ItemName": "Malistaire's Squall Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712821",
+      "ItemName": "Malistaire's Squall Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617596",
+      "ItemName": "Malistaire's Squall Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617603",
+      "ItemName": "Malistaire's Squall Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617610",
+      "ItemName": "Malistaire's Squall Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712814",
+      "ItemName": "Malistaire's Squall Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617615",
+      "ItemName": "Malistaire's Thorny Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617622",
+      "ItemName": "Malistaire's Thorny Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617629",
+      "ItemName": "Malistaire's Thorny Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712819",
+      "ItemName": "Malistaire's Thorny Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617594",
+      "ItemName": "Malistaire's Thorny Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617601",
+      "ItemName": "Malistaire's Thorny Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617608",
+      "ItemName": "Malistaire's Thorny Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712812",
+      "ItemName": "Malistaire's Thorny Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617613",
+      "ItemName": "Malistaire's Vengeance Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617620",
+      "ItemName": "Malistaire's Vengeance Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617627",
+      "ItemName": "Malistaire's Vengeance Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712817",
+      "ItemName": "Malistaire's Vengeance Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617592",
+      "ItemName": "Malistaire's Vengeance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617599",
+      "ItemName": "Malistaire's Vengeance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617606",
+      "ItemName": "Malistaire's Vengeance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712810",
+      "ItemName": "Malistaire's Vengeance Blade",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

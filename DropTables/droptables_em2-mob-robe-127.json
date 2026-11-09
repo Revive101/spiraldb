@@ -1,0 +1,58 @@
+{
+  "Name": "EM2-Mob-Robe-127",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462186",
+      "ItemName": "Bodacious Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462181",
+      "ItemName": "Chill Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462187",
+      "ItemName": "Choice Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462182",
+      "ItemName": "Gnarly Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462185",
+      "ItemName": "Heavy Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462183",
+      "ItemName": "Mondo Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462180",
+      "ItemName": "Rad Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462184",
+      "ItemName": "Righteous Kalamar Tunic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

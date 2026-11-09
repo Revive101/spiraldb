@@ -1,0 +1,193 @@
+{
+  "Name": "NV_Horse_HordeOfficer_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1560091",
+      "ItemName": "Broccoli Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560094",
+      "ItemName": "Cat Tapestry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560093",
+      "ItemName": "Catmandu Arch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560095",
+      "ItemName": "Dog Paw Hedge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560096",
+      "ItemName": "Fish Fence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560097",
+      "ItemName": "Giant Blueberry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560098",
+      "ItemName": "Giant Cheese Wheel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560099",
+      "ItemName": "Giant Cherry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560102",
+      "ItemName": "Mail Bag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560101",
+      "ItemName": "Monquistan Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536216",
+      "ItemName": "Novus Conatus Alternate Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536169",
+      "ItemName": "Novus Conatus Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536170",
+      "ItemName": "Novus Conatus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536217",
+      "ItemName": "Novus Dasein Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536218",
+      "ItemName": "Novus Dasein Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536172",
+      "ItemName": "Novus La Ville Rose Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536171",
+      "ItemName": "Novus La Ville Rose Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536219",
+      "ItemName": "Novus Manticore Madness Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536220",
+      "ItemName": "Novus Manticore Madness Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536173",
+      "ItemName": "Novus New Vicorgia Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536174",
+      "ItemName": "Novus New Vicorgia Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536221",
+      "ItemName": "Novus Nucleus Gallery Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536175",
+      "ItemName": "Novus Puerto Nuovo Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536176",
+      "ItemName": "Novus Puerto Nuovo Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536177",
+      "ItemName": "Novus Stone of Heaven Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536178",
+      "ItemName": "Novus Stone of Heaven Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536179",
+      "ItemName": "Novus War Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536180",
+      "ItemName": "Novus War Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560105",
+      "ItemName": "Snow Walrus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536222",
+      "ItemName": "Valencia Combat Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536223",
+      "ItemName": "Valencia Danger Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536224",
+      "ItemName": "Valencia Espionage Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536225",
+      "ItemName": "Valencia Kane Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536226",
+      "ItemName": "Valencia Kane Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560092",
+      "ItemName": "Wide Teapot Tree",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "1-270-PACommon-80",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82902",
+      "ItemName": "Blue Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160679",
+      "ItemName": "Bulletin Board",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160760",
+      "ItemName": "Metal Wall Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82903",
+      "ItemName": "Purple Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82899",
+      "ItemName": "Red Krok Bust",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

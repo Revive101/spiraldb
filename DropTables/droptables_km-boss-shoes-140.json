@@ -1,0 +1,138 @@
+{
+  "Name": "KM-Boss-Shoes-140",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1514848",
+      "ItemName": "Guten Artisan Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514852",
+      "ItemName": "Guten Candymancer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514851",
+      "ItemName": "Guten Dreamsearcher Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514845",
+      "ItemName": "Guten Freshbaker Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514847",
+      "ItemName": "Guten Sciencer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514850",
+      "ItemName": "Guten Sentamentalist Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514849",
+      "ItemName": "Guten Sweetsmith Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514846",
+      "ItemName": "Guten Wonderneer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514896",
+      "ItemName": "Uber Artisan Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514900",
+      "ItemName": "Uber Candymancer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514899",
+      "ItemName": "Uber Dreamsearcher Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514893",
+      "ItemName": "Uber Freshbaker Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514895",
+      "ItemName": "Uber Sciencer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514898",
+      "ItemName": "Uber Sentamentalist Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514897",
+      "ItemName": "Uber Sweetsmith Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514894",
+      "ItemName": "Uber Wonderneer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514872",
+      "ItemName": "Wunderbar Artisan Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514876",
+      "ItemName": "Wunderbar Candymancer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514875",
+      "ItemName": "Wunderbar Dreamsearcher Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514869",
+      "ItemName": "Wunderbar Freshbaker Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514871",
+      "ItemName": "Wunderbar Sciencer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514874",
+      "ItemName": "Wunderbar Sentamentalist Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514873",
+      "ItemName": "Wunderbar Sweetsmith Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514870",
+      "ItemName": "Wunderbar Wonderneer Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

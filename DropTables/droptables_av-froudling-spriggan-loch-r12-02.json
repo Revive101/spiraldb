@@ -1,0 +1,103 @@
+{
+  "Name": "AV-Froudling-Spriggan-Loch-R12-02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635638",
+      "ItemName": "Antlered Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641576",
+      "ItemName": "Avalon Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512166",
+      "ItemName": "Avalon Tense Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512167",
+      "ItemName": "Avalon Wyrd Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635227",
+      "ItemName": "Barbarian Philosopher's Mark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635228",
+      "ItemName": "Chosen Chief's Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635422",
+      "ItemName": "Dread Keep Strollers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635639",
+      "ItemName": "Highland Walking Stick",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635308",
+      "ItemName": "Jouster's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635307",
+      "ItemName": "Lake Knight's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635268",
+      "ItemName": "Lord of the Wild Hunt's Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635421",
+      "ItemName": "Scaith Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635267",
+      "ItemName": "Spriggan's Wicked Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635342",
+      "ItemName": "Stone of the Other Side",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635383",
+      "ItemName": "Storm Crown Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641568",
+      "ItemName": "Tree Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635384",
+      "ItemName": "Weirwood Champion's Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

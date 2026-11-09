@@ -1,0 +1,1098 @@
+{
+  "Name": "KT-SKR-Ra",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350309",
+      "ItemName": "Adept's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589146",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589147",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589148",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589149",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589150",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589151",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789364",
+      "ItemName": "Anubis' Astral Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82710",
+      "ItemName": "Blue Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713119",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713120",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713121",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713122",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713123",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713124",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713125",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470237",
+      "ItemName": "Camel (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789274",
+      "ItemName": "Charred Nirini Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470132",
+      "ItemName": "Crokagator (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164422",
+      "ItemName": "Death Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350310",
+      "ItemName": "Expert's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248255",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248256",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248257",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248258",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248259",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248260",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248261",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448401",
+      "ItemName": "Fire Moon Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82784",
+      "ItemName": "Fire Mummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100463",
+      "ItemName": "Fire Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789294",
+      "ItemName": "Frosted Sokkwi Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374459",
+      "ItemName": "Frosty Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374460",
+      "ItemName": "Furious Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355144",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355145",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355146",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355147",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355148",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355149",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82838",
+      "ItemName": "Hieroglyphic Fire Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82907",
+      "ItemName": "Hieroglyphic Ice Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82908",
+      "ItemName": "Hieroglyphic Storm Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589166",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589167",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589168",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589169",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589170",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589171",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589172",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82785",
+      "ItemName": "Ice Mummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100464",
+      "ItemName": "Ice Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789324",
+      "ItemName": "Karanahn's Charged Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82887",
+      "ItemName": "Khai Amahte Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100324",
+      "ItemName": "Krok",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82756",
+      "ItemName": "Krok Bird Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82906",
+      "ItemName": "Krok Chalkboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82741",
+      "ItemName": "Krok Insect Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82737",
+      "ItemName": "Krok Moon Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82738",
+      "ItemName": "Krok Skull Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82736",
+      "ItemName": "Krok Snake Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82735",
+      "ItemName": "Krok Sun Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82731",
+      "ItemName": "Krok Tree Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100437",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100454",
+      "ItemName": "Krokotillian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82878",
+      "ItemName": "Krokotopia Grand Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689341",
+      "ItemName": "Krokotopian Bath Sink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689343",
+      "ItemName": "Krokotopian Bath Tub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689344",
+      "ItemName": "Krokotopian Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689345",
+      "ItemName": "Krokotopian Bed Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689346",
+      "ItemName": "Krokotopian Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689347",
+      "ItemName": "Krokotopian Cabinet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376497",
+      "ItemName": "Krokotopian Catacomb Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689348",
+      "ItemName": "Krokotopian Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376494",
+      "ItemName": "Krokotopian Cloudburst Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689349",
+      "ItemName": "Krokotopian Coffee Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689350",
+      "ItemName": "Krokotopian Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689351",
+      "ItemName": "Krokotopian Cupboards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689352",
+      "ItemName": "Krokotopian Dining Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689353",
+      "ItemName": "Krokotopian Dining Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376492",
+      "ItemName": "Krokotopian Firebrand Wand ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689354",
+      "ItemName": "Krokotopian Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82859",
+      "ItemName": "Krokotopian Hammock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160734",
+      "ItemName": "Krokotopian Houseboat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160640",
+      "ItemName": "Krokotopian Mummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376496",
+      "ItemName": "Krokotopian Rapture Baton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376493",
+      "ItemName": "Krokotopian Rod of Frostbite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376498",
+      "ItemName": "Krokotopian Rod of Integrity ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689340",
+      "ItemName": "Krokotopian Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160641",
+      "ItemName": "Krokotopian Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689355",
+      "ItemName": "Krokotopian Sink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376495",
+      "ItemName": "Krokotopian Speculation Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160735",
+      "ItemName": "Krokotopian Sphinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689356",
+      "ItemName": "Krokotopian Towel Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376499",
+      "ItemName": "Krokotopian Zenith Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225450",
+      "ItemName": "Life Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789355",
+      "ItemName": "Lunar Scepter of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160987",
+      "ItemName": "Lunar-Emblem Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789208",
+      "ItemName": "Mander Palanquin (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653153",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653154",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653155",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653156",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653157",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653158",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653159",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473647",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473648",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473649",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473650",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473651",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473652",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473653",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225660",
+      "ItemName": "Moonlight Pony (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789138",
+      "ItemName": "Mummy Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789254",
+      "ItemName": "Nirini Helm of Scorching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355108",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356138",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356139",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356140",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356141",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356142",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356143",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82886",
+      "ItemName": "Prince Aka Karanahn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82884",
+      "ItemName": "Prince Biti Nirini",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82888",
+      "ItemName": "Prince Manu Nirini Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82881",
+      "ItemName": "Prince Meti Karanahn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82882",
+      "ItemName": "Prince Suten Sokkwi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82711",
+      "ItemName": "Purple Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376473",
+      "ItemName": "Ra's Catacomb Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376489",
+      "ItemName": "Ra's Catacomb Mocassins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376481",
+      "ItemName": "Ra's Catacomb Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376478",
+      "ItemName": "Ra's Cloudburst Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376470",
+      "ItemName": "Ra's Cloudburst Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376486",
+      "ItemName": "Ra's Cloudburst Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376468",
+      "ItemName": "Ra's Firebrand Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376484",
+      "ItemName": "Ra's Firebrand Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376476",
+      "ItemName": "Ra's Firebrand Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376485",
+      "ItemName": "Ra's Frostbite Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376469",
+      "ItemName": "Ra's Frostbite Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376477",
+      "ItemName": "Ra's Frostbite Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376474",
+      "ItemName": "Ra's Integrity Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376490",
+      "ItemName": "Ra's Integrity Trackers ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376482",
+      "ItemName": "Ra's Integrity Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376488",
+      "ItemName": "Ra's Rapture Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376480",
+      "ItemName": "Ra's Rapture Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376472",
+      "ItemName": "Ra's Rapture Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376471",
+      "ItemName": "Ra's Speculation Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376487",
+      "ItemName": "Ra's Speculation Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376479",
+      "ItemName": "Ra's Speculation Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376491",
+      "ItemName": "Ra's Zenith Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376475",
+      "ItemName": "Ra's Zenith Headdress ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376483",
+      "ItemName": "Ra's Zenith Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82709",
+      "ItemName": "Red Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317677",
+      "ItemName": "Sailback Skink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248248",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248249",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248250",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248251",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248252",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248253",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248254",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789264",
+      "ItemName": "Singed Nirini Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473580",
+      "ItemName": "Skink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "446105",
+      "ItemName": "Snake in a Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789304",
+      "ItemName": "Sokkwi Frostbitten Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789284",
+      "ItemName": "Sokkwi Mantle of Blizzards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789344",
+      "ItemName": "Solar Pikestaff of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191661",
+      "ItemName": "Starlight Pony (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225661",
+      "ItemName": "Starshine Pony (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82811",
+      "ItemName": "Storm Mummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100465",
+      "ItemName": "Storm Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248001",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248002",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248003",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248004",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248005",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248006",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248007",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225662",
+      "ItemName": "Sunshine Pony (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537115",
+      "ItemName": "Tapestry to School of Balance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537111",
+      "ItemName": "Tapestry to The Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789334",
+      "ItemName": "Vestment of Ominous Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

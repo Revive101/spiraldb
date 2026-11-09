@@ -1,0 +1,328 @@
+{
+  "Name": "SKB_CL_Dan_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350313",
+      "ItemName": "Artisan's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374571",
+      "ItemName": "Branching Coral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512134",
+      "ItemName": "Celestia Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512135",
+      "ItemName": "Celestia Finale Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512090",
+      "ItemName": "Celestia Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342074",
+      "ItemName": "Celestian Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504034",
+      "ItemName": "Celestian Cube Sculpture",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504031",
+      "ItemName": "Celestian Device",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374577",
+      "ItemName": "Celestian Hut ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342098",
+      "ItemName": "Celestian Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499214",
+      "ItemName": "Celestian Mech (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505215",
+      "ItemName": "Celestian Neon Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505216",
+      "ItemName": "Celestian Neon Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505117",
+      "ItemName": "Celestian Neon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505118",
+      "ItemName": "Celestian Neon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505103",
+      "ItemName": "Celestian Neon Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505104",
+      "ItemName": "Celestian Neon Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505131",
+      "ItemName": "Celestian Neon Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505132",
+      "ItemName": "Celestian Neon Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505187",
+      "ItemName": "Celestian Photon Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505188",
+      "ItemName": "Celestian Photon Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505033",
+      "ItemName": "Celestian Photon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505034",
+      "ItemName": "Celestian Photon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505019",
+      "ItemName": "Celestian Photon Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505020",
+      "ItemName": "Celestian Photon Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505047",
+      "ItemName": "Celestian Photon Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505048",
+      "ItemName": "Celestian Photon Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505201",
+      "ItemName": "Celestian Xenon Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505202",
+      "ItemName": "Celestian Xenon Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505075",
+      "ItemName": "Celestian Xenon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505076",
+      "ItemName": "Celestian Xenon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505061",
+      "ItemName": "Celestian Xenon Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505062",
+      "ItemName": "Celestian Xenon Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505089",
+      "ItemName": "Celestian Xenon Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505090",
+      "ItemName": "Celestian Xenon Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504029",
+      "ItemName": "Chariot Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504028",
+      "ItemName": "Crab Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374572",
+      "ItemName": "Fan Coral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507004",
+      "ItemName": "Feral Zorphie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504027",
+      "ItemName": "Fountain Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504030",
+      "ItemName": "Galactic Water Spout",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504026",
+      "ItemName": "Galleon Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504033",
+      "ItemName": "Galvanic Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504025",
+      "ItemName": "Hound Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374578",
+      "ItemName": "Island Gazebo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504024",
+      "ItemName": "Kraken Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342141",
+      "ItemName": "Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504023",
+      "ItemName": "Loom Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504022",
+      "ItemName": "Messenger Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374712",
+      "ItemName": "Naval Supply Crate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504032",
+      "ItemName": "Orrery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504021",
+      "ItemName": "Phoenix Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374573",
+      "ItemName": "Pink Coral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507005",
+      "ItemName": "Ravenous Zorphie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504020",
+      "ItemName": "Serpent Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504019",
+      "ItemName": "Stag Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342117",
+      "ItemName": "Star Chalice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507006",
+      "ItemName": "Vicious Zorphie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504018",
+      "ItemName": "Warden Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374567",
+      "ItemName": "Water Mole Supplies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342143",
+      "ItemName": "Wheelbarrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374569",
+      "ItemName": "Zoa Coral",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

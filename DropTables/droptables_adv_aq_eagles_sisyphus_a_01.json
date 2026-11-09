@@ -1,0 +1,58 @@
+{
+  "Name": "Adv_AQ_Eagles_Sisyphus_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1696687",
+      "ItemName": "Dagger of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696692",
+      "ItemName": "Dagger of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696690",
+      "ItemName": "Dagger of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696688",
+      "ItemName": "Dagger of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696691",
+      "ItemName": "Dagger of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696693",
+      "ItemName": "Dagger of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696689",
+      "ItemName": "Dagger of Gorgon's Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695014",
+      "ItemName": "Sandy Skeleturion",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

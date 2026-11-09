@@ -1,0 +1,58 @@
+{
+  "Name": "EM-Mob-Shoes-120",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1430464",
+      "ItemName": "Interstellar Delegate Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430458",
+      "ItemName": "Interstellar Engineer Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430459",
+      "ItemName": "Interstellar Explorer's Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430461",
+      "ItemName": "Interstellar Hero's Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430460",
+      "ItemName": "Interstellar Navigator's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430465",
+      "ItemName": "Interstellar Officer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430463",
+      "ItemName": "Interstellar Warrior Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430462",
+      "ItemName": "Medic's Interstellar Trekkers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

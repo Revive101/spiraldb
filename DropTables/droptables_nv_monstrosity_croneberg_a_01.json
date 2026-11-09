@@ -1,0 +1,228 @@
+{
+  "Name": "NV_Monstrosity_Croneberg_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1588119",
+      "ItemName": "Abstract Aeon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588112",
+      "ItemName": "Abstract Aeon Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588161",
+      "ItemName": "Abstract Aeon Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577871",
+      "ItemName": "Abstract Masterpiece Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577864",
+      "ItemName": "Abstract Masterpiece Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577913",
+      "ItemName": "Abstract Masterpiece Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588122",
+      "ItemName": "Crystalline Aeon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588115",
+      "ItemName": "Crystalline Aeon Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588164",
+      "ItemName": "Crystalline Aeon Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577874",
+      "ItemName": "Crystalline Masterpiece Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577867",
+      "ItemName": "Crystalline Masterpiece Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577916",
+      "ItemName": "Crystalline Masterpiece Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588124",
+      "ItemName": "Dreamscape Aeon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588117",
+      "ItemName": "Dreamscape Aeon Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588166",
+      "ItemName": "Dreamscape Aeon Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577876",
+      "ItemName": "Dreamscape Masterpiece Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577869",
+      "ItemName": "Dreamscape Masterpiece Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577918",
+      "ItemName": "Dreamscape Masterpiece Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588125",
+      "ItemName": "Fractal Aeon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588118",
+      "ItemName": "Fractal Aeon Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588167",
+      "ItemName": "Fractal Aeon Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577877",
+      "ItemName": "Fractal Masterpiece Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577870",
+      "ItemName": "Fractal Masterpiece Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577919",
+      "ItemName": "Fractal Masterpiece Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588123",
+      "ItemName": "Inspired Aeon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588116",
+      "ItemName": "Inspired Aeon Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588165",
+      "ItemName": "Inspired Aeon Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577875",
+      "ItemName": "Inspired Masterpiece Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577868",
+      "ItemName": "Inspired Masterpiece Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577917",
+      "ItemName": "Inspired Masterpiece Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588120",
+      "ItemName": "Macabre Aeon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588113",
+      "ItemName": "Macabre Aeon Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588162",
+      "ItemName": "Macabre Aeon Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577872",
+      "ItemName": "Macabre Masterpiece Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577865",
+      "ItemName": "Macabre Masterpiece Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577914",
+      "ItemName": "Macabre Masterpiece Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588121",
+      "ItemName": "Primordial Aeon Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588114",
+      "ItemName": "Primordial Aeon Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588163",
+      "ItemName": "Primordial Aeon Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577873",
+      "ItemName": "Primordial Masterpiece Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577866",
+      "ItemName": "Primordial Masterpiece Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577915",
+      "ItemName": "Primordial Masterpiece Sword",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

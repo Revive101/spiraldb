@@ -1,0 +1,143 @@
+{
+  "Name": "TriUW-Boss1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4676",
+      "ItemName": "Amulet of the Fay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87194",
+      "ItemName": "Ashen Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4860",
+      "ItemName": "Barkskin Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4679",
+      "ItemName": "Bogeyman's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77571",
+      "ItemName": "Charbane's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4682",
+      "ItemName": "Choker of Ferocity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4712",
+      "ItemName": "Citrine Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87235",
+      "ItemName": "Cloak of the Watchful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77578",
+      "ItemName": "Cold Forged Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4855",
+      "ItemName": "Goldleaf Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4779",
+      "ItemName": "Hallowed Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77585",
+      "ItemName": "Hood of Tension",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4720",
+      "ItemName": "Jade Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4733",
+      "ItemName": "Jeweled Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4775",
+      "ItemName": "Lord's Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77621",
+      "ItemName": "Sapphyra's Studded Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4873",
+      "ItemName": "Senior Novice's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4866",
+      "ItemName": "Slippers of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77583",
+      "ItemName": "Stormweave Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4728",
+      "ItemName": "Studded Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4673",
+      "ItemName": "Swooping Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470716",
+      "ItemName": "The Bewitcher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77588",
+      "ItemName": "Trollskin Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87211",
+      "ItemName": "Tunic of Disturbance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4864",
+      "ItemName": "Venemous Footwraps",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

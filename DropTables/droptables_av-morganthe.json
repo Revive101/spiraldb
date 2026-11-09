@@ -1,0 +1,133 @@
+{
+  "Name": "AV-Morganthe",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512163",
+      "ItemName": "Avalon Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512164",
+      "ItemName": "Avalon Glorious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635232",
+      "ItemName": "Great Wild Wood Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635312",
+      "ItemName": "Helm of Night's Bannerman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635311",
+      "ItemName": "Helm of the Lady's Chosen One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635231",
+      "ItemName": "Knight's Torc of Virtue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346128",
+      "ItemName": "Krokopatra Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346126",
+      "ItemName": "Krokopatra Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635387",
+      "ItemName": "Loyal Banner's Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346131",
+      "ItemName": "Meowiarty Archmage Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346132",
+      "ItemName": "Meowiarty Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635272",
+      "ItemName": "Ockam's Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635426",
+      "ItemName": "Other Side Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635425",
+      "ItemName": "Owl Friend Talons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346123",
+      "ItemName": "Rattlebones Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346124",
+      "ItemName": "Rattlebones Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635388",
+      "ItemName": "Royal Jouster's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635640",
+      "ItemName": "Staff of the Wildgrave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635641",
+      "ItemName": "Stag-Horned Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635342",
+      "ItemName": "Stone of the Other Side",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635271",
+      "ItemName": "Sworn Knife to Artorius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,418 @@
+{
+  "Name": "GH2-Giants-4-BOSS-R10",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "455224",
+      "ItemName": "Armor of Elan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455225",
+      "ItemName": "Armor of the Poets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455221",
+      "ItemName": "Baneful Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455223",
+      "ItemName": "Black Ice Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455261",
+      "ItemName": "Boots of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455257",
+      "ItemName": "Boots of Anguish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455256",
+      "ItemName": "Boots of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455131",
+      "ItemName": "Claw of the Ghost Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455130",
+      "ItemName": "Claw of the Spirit Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346495",
+      "ItemName": "Delectable Hooves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455260",
+      "ItemName": "Esprit Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355101",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355102",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355103",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355104",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355105",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355106",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355107",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455161",
+      "ItemName": "Fire-forged Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455222",
+      "ItemName": "Fire-forged Warlord Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455258",
+      "ItemName": "Firewalker Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512154",
+      "ItemName": "HFjord Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512092",
+      "ItemName": "HFjord Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455163",
+      "ItemName": "Hardy Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355144",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355145",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355146",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355147",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355148",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355149",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455159",
+      "ItemName": "Horns of Absolution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455160",
+      "ItemName": "Horns of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455165",
+      "ItemName": "Horns of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355115",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355116",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355117",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355118",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355119",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355120",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355121",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455164",
+      "ItemName": "Poetic Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455191",
+      "ItemName": "Ring of Wolf Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455190",
+      "ItemName": "Ring of Wolf Lore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455226",
+      "ItemName": "Storm Surge Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455262",
+      "ItemName": "Thunderstrike Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346046",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346047",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346048",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346049",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346050",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346051",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455220",
+      "ItemName": "Valiant Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455105",
+      "ItemName": "Valkyrie's Star Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512159",
+      "ItemName": "Vestrilund Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346053",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346054",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346055",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346056",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346057",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346058",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455259",
+      "ItemName": "White Frost Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455162",
+      "ItemName": "Wintry Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455104",
+      "ItemName": "Witch's Star Necklace",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,63 @@
+{
+  "Name": "AV-Mob-Jewels-1",
+  "Description": "Mob loot table (11 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635352",
+      "ItemName": "Bad Storm Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635284",
+      "ItemName": "Brisk Helmet of Nodor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635323",
+      "ItemName": "Circle of Caliburn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635283",
+      "ItemName": "Fire Spirits' Toasty Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635350",
+      "ItemName": "Fire Spirits' Toasty Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635398",
+      "ItemName": "Friend of the Fire Elf Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635322",
+      "ItemName": "Lake Spiral Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635399",
+      "ItemName": "Slick Road Grippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635351",
+      "ItemName": "Windbreaker of Nodor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,138 @@
+{
+  "Name": "MB-Cat-Thug-Blue-MBBoss-L38",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1335017",
+      "ItemName": "Marleybone Dance Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160719",
+      "ItemName": "Nailed Boards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97408",
+      "ItemName": "Nails O'Leary's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77240",
+      "ItemName": "Nails O'Leary's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39070",
+      "ItemName": "Nails' Band of Stasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97381",
+      "ItemName": "Nails' Debonair Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97215",
+      "ItemName": "Nails' Hat of Parity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97149",
+      "ItemName": "Nails' Helm of the Clever",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97187",
+      "ItemName": "Nails' Medical Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97396",
+      "ItemName": "Nails' Obligatory Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39016",
+      "ItemName": "Nails' Singed Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77160",
+      "ItemName": "Nails' Singed Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97360",
+      "ItemName": "Nails' Smooth Spun Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97181",
+      "ItemName": "Nails' Soothing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97390",
+      "ItemName": "Nails' Sophisticated Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97313",
+      "ItemName": "Nails' Tunic of Equation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97300",
+      "ItemName": "Nails' Tunic of Reverence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97246",
+      "ItemName": "Nails' Vestment of Invention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97279",
+      "ItemName": "Nails' Vestment of the Mender",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87465",
+      "ItemName": "O'Leary Jinxed Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97130",
+      "ItemName": "O'Leary's Deck of Unicorns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97121",
+      "ItemName": "O'Leary's Deck of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97286",
+      "ItemName": "O'Leary's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160691",
+      "ItemName": "Tall Crate",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

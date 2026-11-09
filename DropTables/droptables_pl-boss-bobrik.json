@@ -1,0 +1,708 @@
+{
+  "Name": "PL-Boss-Bobrik",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653139",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653140",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653141",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653142",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653143",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653144",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653145",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473444",
+      "ItemName": "Arctic Ninja Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369374",
+      "ItemName": "Axe of the Snowbound Tayg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363993",
+      "ItemName": "Enchanter's Ampul of Courage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363960",
+      "ItemName": "Enchanter's Blade of Reverie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363959",
+      "ItemName": "Enchanter's Dirk of Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363957",
+      "ItemName": "Enchanter's Fervid Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363989",
+      "ItemName": "Enchanter's Fervid Carcanet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369021",
+      "ItemName": "Enchanter's Fervid Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369022",
+      "ItemName": "Enchanter's Ice Floe Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363990",
+      "ItemName": "Enchanter's Ice Floe Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363958",
+      "ItemName": "Enchanter's Ice Floe Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363963",
+      "ItemName": "Enchanter's Knife of Poise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369025",
+      "ItemName": "Enchanter's Loop of Courage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363996",
+      "ItemName": "Enchanter's New Horizon Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363964",
+      "ItemName": "Enchanter's New Horizon Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363995",
+      "ItemName": "Enchanter's Pendant of Poise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369024",
+      "ItemName": "Enchanter's Reverie Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363992",
+      "ItemName": "Enchanter's Reverie Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369023",
+      "ItemName": "Enchanter's Ring of Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369028",
+      "ItemName": "Enchanter's Ring of Potential",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369027",
+      "ItemName": "Enchanter's Seal of Poise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363961",
+      "ItemName": "Enchanter's Talon of Courage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363994",
+      "ItemName": "Enchanter's Terminus Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363962",
+      "ItemName": "Enchanter's Terminus Chisel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369026",
+      "ItemName": "Enchanter's Terminus Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363991",
+      "ItemName": "Enchanter's Torc of Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363704",
+      "ItemName": "Fancy Tundarian Chokha",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363736",
+      "ItemName": "Fancy Tundarian Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363672",
+      "ItemName": "Fancy Tundarian Papakh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448401",
+      "ItemName": "Fire Moon Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369380",
+      "ItemName": "Forlorn Tayg Curved Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589640",
+      "ItemName": "Glacier Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369508",
+      "ItemName": "Hand of the Forlorn Tayg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225453",
+      "ItemName": "Ice Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359786",
+      "ItemName": "Intrepid Seal Pup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359200",
+      "ItemName": "Lg Wood Wall Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359202",
+      "ItemName": "Md Wood Wall Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473647",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473648",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473649",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473650",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473651",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473652",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473653",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359789",
+      "ItemName": "Mountain Yeti",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317711",
+      "ItemName": "Nodori Winged Ram",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789210",
+      "ItemName": "Polar Bear Cub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369503",
+      "ItemName": "Sleetfall Array of the Tayg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369502",
+      "ItemName": "Snowbound Tayg Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363610",
+      "ItemName": "Taig Cloak of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369376",
+      "ItemName": "Tayg Axe of Folklore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369373",
+      "ItemName": "Tayg Bardiche of Steam",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369378",
+      "ItemName": "Tayg Bardiche of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369506",
+      "ItemName": "Tayg Deck of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369504",
+      "ItemName": "Tayg Hand of Folklore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369379",
+      "ItemName": "Tayg Handaxe of Leveling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369375",
+      "ItemName": "Tayg Hatchet of Sleetfall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369377",
+      "ItemName": "Tayg Hatchet of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369505",
+      "ItemName": "Tayg Pack of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369501",
+      "ItemName": "Tayg Pasteboards of Steam",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369507",
+      "ItemName": "Tayg Set of Leveling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470720",
+      "ItemName": "The Enchanter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359662",
+      "ItemName": "The Goat Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359663",
+      "ItemName": "The Ice Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217362",
+      "ItemName": "The Kroktop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317802",
+      "ItemName": "The Manticore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217004",
+      "ItemName": "The Stalwart Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217212",
+      "ItemName": "The Stardust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217358",
+      "ItemName": "The Warlock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363708",
+      "ItemName": "Tundarian Bear's Cherkesska",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363676",
+      "ItemName": "Tundarian Bear's Papakh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363737",
+      "ItemName": "Tundarian Boots of Resolve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363669",
+      "ItemName": "Tundarian Cap of Rage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363703",
+      "ItemName": "Tundarian Chokha of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363706",
+      "ItemName": "Tundarian Cloak of Dread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363707",
+      "ItemName": "Tundarian Coat of Fusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363674",
+      "ItemName": "Tundarian Fur Hat of Dread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363671",
+      "ItemName": "Tundarian Furcap of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363670",
+      "ItemName": "Tundarian Icecap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363734",
+      "ItemName": "Tundarian Icecleats",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363705",
+      "ItemName": "Tundarian Jacket of Resolve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363739",
+      "ItemName": "Tundarian Mukluks of Fusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363740",
+      "ItemName": "Tundarian Osky's Snowshoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363675",
+      "ItemName": "Tundarian Papakh of Fusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363673",
+      "ItemName": "Tundarian Papakh of Resolve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363702",
+      "ItemName": "Tundarian Sleet Parka",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363733",
+      "ItemName": "Tundarian Stalkers of Rage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363735",
+      "ItemName": "Tundarian Striders of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363701",
+      "ItemName": "Tundarian Uniform of Rage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363738",
+      "ItemName": "Tundarian Walkers of Dread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350151",
+      "ItemName": "Ultra Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350152",
+      "ItemName": "Ultra Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350153",
+      "ItemName": "Ultra Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350154",
+      "ItemName": "Ultra Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350155",
+      "ItemName": "Ultra Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350156",
+      "ItemName": "Ultra Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350157",
+      "ItemName": "Ultra Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355073",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355074",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355075",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355076",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355077",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355078",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355079",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653164",
+      "ItemName": "White Winter Owl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359194",
+      "ItemName": "Wood Arch Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359198",
+      "ItemName": "Wood Corner Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359196",
+      "ItemName": "Wood Post Block",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359204",
+      "ItemName": "Wood Window Block",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

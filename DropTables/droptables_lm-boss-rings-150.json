@@ -1,0 +1,98 @@
+{
+  "Name": "LM-Boss-Rings-150",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537364",
+      "ItemName": "Magician's Balance Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537363",
+      "ItemName": "Magician's Death Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537358",
+      "ItemName": "Magician's Fire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537359",
+      "ItemName": "Magician's Ice Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537362",
+      "ItemName": "Magician's Life Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537361",
+      "ItemName": "Magician's Myth Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537365",
+      "ItemName": "Magician's Power Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537360",
+      "ItemName": "Magician's Storm Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537388",
+      "ItemName": "Malevolent Balance Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537387",
+      "ItemName": "Malevolent Death Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537382",
+      "ItemName": "Malevolent Fire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537383",
+      "ItemName": "Malevolent Ice Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537386",
+      "ItemName": "Malevolent Life Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537385",
+      "ItemName": "Malevolent Myth Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537389",
+      "ItemName": "Malevolent Power Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537384",
+      "ItemName": "Malevolent Storm Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

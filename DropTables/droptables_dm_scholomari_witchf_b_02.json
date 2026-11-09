@@ -1,0 +1,93 @@
+{
+  "Name": "DM_Scholomari_WitchF_B_02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1707716",
+      "ItemName": "Chilling Abomination Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707713",
+      "ItemName": "Doomed Abomination Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514440",
+      "ItemName": "Legendary Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707718",
+      "ItemName": "Mythic Abomination Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707717",
+      "ItemName": "Sanguine Abomination Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707714",
+      "ItemName": "Scary Abomination Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707834",
+      "ItemName": "Scholomantic Death Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707839",
+      "ItemName": "Scholomantic Destructive Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707835",
+      "ItemName": "Scholomantic Devilish Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707838",
+      "ItemName": "Scholomantic Fortune Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707833",
+      "ItemName": "Scholomantic Justice Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707836",
+      "ItemName": "Scholomantic Strength Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707837",
+      "ItemName": "Scholomantic Worldly Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707719",
+      "ItemName": "Shocking Abomination Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707715",
+      "ItemName": "Tense Abomination Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

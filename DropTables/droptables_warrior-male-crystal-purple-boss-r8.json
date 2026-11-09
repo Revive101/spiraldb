@@ -1,0 +1,88 @@
+{
+  "Name": "Warrior-Male-Crystal-Purple-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1592299",
+      "ItemName": "Snowcrusher Iceblock Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592306",
+      "ItemName": "Snowcrusher Iceblock Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592298",
+      "ItemName": "Snowcrusher Melted Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592305",
+      "ItemName": "Snowcrusher Melted Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592297",
+      "ItemName": "Snowcrusher Mortalis Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592304",
+      "ItemName": "Snowcrusher Mortalis Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592296",
+      "ItemName": "Snowcrusher Scales Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592303",
+      "ItemName": "Snowcrusher Scales Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592301",
+      "ItemName": "Snowcrusher Seasons Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592308",
+      "ItemName": "Snowcrusher Seasons Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592300",
+      "ItemName": "Snowcrusher Springbloom Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592307",
+      "ItemName": "Snowcrusher Springbloom Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592302",
+      "ItemName": "Snowcrusher Windstorm Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592309",
+      "ItemName": "Snowcrusher Windstorm Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

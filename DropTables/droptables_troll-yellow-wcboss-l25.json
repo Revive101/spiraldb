@@ -1,0 +1,128 @@
+{
+  "Name": "Troll-Yellow-WCBoss-L25",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4795",
+      "ItemName": "Boots of The Great Troll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87233",
+      "ItemName": "Cloak of Vigilance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77611",
+      "ItemName": "Cowl of the Discreet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4835",
+      "ItemName": "Fireguard Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4670",
+      "ItemName": "Flash Frozen Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164087",
+      "ItemName": "Footgear of Malediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87159",
+      "ItemName": "Great Troll's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77540",
+      "ItemName": "Helm of The Great Troll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161067",
+      "ItemName": "Howling Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4736",
+      "ItemName": "Knife of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160358",
+      "ItemName": "Ornate Stone Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87161",
+      "ItemName": "Robes of the Great Troll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160385",
+      "ItemName": "Snowy Pine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160256",
+      "ItemName": "Stitched Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4846",
+      "ItemName": "Stormcaller's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77542",
+      "ItemName": "The Great Troll's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77539",
+      "ItemName": "The Great Troll's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4797",
+      "ItemName": "The Great Troll's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4677",
+      "ItemName": "Troll Ear Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161037",
+      "ItemName": "Veil of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335019",
+      "ItemName": "Wizard City Dance Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512116",
+      "ItemName": "Wizard City Theme 1",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

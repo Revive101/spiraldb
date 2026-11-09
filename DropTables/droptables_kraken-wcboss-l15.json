@@ -1,0 +1,103 @@
+{
+  "Name": "Kraken-WCBoss-L15",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87194",
+      "ItemName": "Ashen Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4682",
+      "ItemName": "Choker of Ferocity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4712",
+      "ItemName": "Citrine Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87235",
+      "ItemName": "Cloak of the Watchful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77613",
+      "ItemName": "Cowl of Comparison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77608",
+      "ItemName": "Cowl of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77573",
+      "ItemName": "Helm of Audacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77585",
+      "ItemName": "Hood of Tension",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4848",
+      "ItemName": "Kraken's Charged Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4775",
+      "ItemName": "Lord's Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160275",
+      "ItemName": "Padded Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77621",
+      "ItemName": "Sapphyra's Studded Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4873",
+      "ItemName": "Senior Novice's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4866",
+      "ItemName": "Slippers of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87198",
+      "ItemName": "Splendiferous Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160363",
+      "ItemName": "Storm Stone Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4683",
+      "ItemName": "Swiftarrow's Necklace",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

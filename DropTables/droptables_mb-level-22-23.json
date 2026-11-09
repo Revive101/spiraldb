@@ -1,0 +1,213 @@
+{
+  "Name": "MB-Level-22-23",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97209",
+      "ItemName": "Affable Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97103",
+      "ItemName": "Athame of Chivalry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97098",
+      "ItemName": "Athame of the Sleuth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77249",
+      "ItemName": "Boots of Sparking Energy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97414",
+      "ItemName": "Cat Burglar's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97222",
+      "ItemName": "Conventional Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97101",
+      "ItemName": "Conventional Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39024",
+      "ItemName": "Cowl of Diplomacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97192",
+      "ItemName": "Cowl of Respect",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97158",
+      "ItemName": "Cowl of the Consummate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97171",
+      "ItemName": "Debonair Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97105",
+      "ItemName": "Detective's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97099",
+      "ItemName": "Dirk of Nobles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39010",
+      "ItemName": "Distinguished Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77122",
+      "ItemName": "Distressing Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160667",
+      "ItemName": "Empty Tin Can",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97224",
+      "ItemName": "Exquisite Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39006",
+      "ItemName": "Finely Finished Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160632",
+      "ItemName": "Fishbones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97355",
+      "ItemName": "Footwraps of Dreamland",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97104",
+      "ItemName": "Graceful Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97137",
+      "ItemName": "Headwrap of the Affected",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97188",
+      "ItemName": "Helm of Intolerance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77123",
+      "ItemName": "Jinxed Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160666",
+      "ItemName": "Litter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97205",
+      "ItemName": "Masterful Canine Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97400",
+      "ItemName": "Pastoral Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77073",
+      "ItemName": "Ring of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97321",
+      "ItemName": "Robe of Paramount",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97175",
+      "ItemName": "Savvy Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97385",
+      "ItemName": "Shoes of Anxiety",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77221",
+      "ItemName": "Shoes of Bottled Anger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97370",
+      "ItemName": "Shoes of Humanity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97412",
+      "ItemName": "Shoes of the Breakneck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97323",
+      "ItemName": "Skillful Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77235",
+      "ItemName": "Slippers of Definition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97154",
+      "ItemName": "Smooth Spun Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97142",
+      "ItemName": "Stylish Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97226",
+      "ItemName": "Watchman's Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

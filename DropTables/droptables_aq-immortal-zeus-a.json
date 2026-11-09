@@ -1,0 +1,313 @@
+{
+  "Name": "AQ-Immortal-Zeus-A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212004",
+      "ItemName": "Aquila Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819729",
+      "ItemName": "Ares' Charred Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819730",
+      "ItemName": "Ares' Spear of Bitter Cold",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819735",
+      "ItemName": "Ares' Spear of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819733",
+      "ItemName": "Ares' Spear of Fortitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819734",
+      "ItemName": "Ares' Spear of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819732",
+      "ItemName": "Ares' Spear of Valor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819731",
+      "ItemName": "Ares' Windstorm Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203004",
+      "ItemName": "Boots of Zeus' Alacrity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203003",
+      "ItemName": "Boots of Zeus' Lore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819500",
+      "ItemName": "Cowl of Zeus' Ire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819495",
+      "ItemName": "Helmet of Heavenly Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819498",
+      "ItemName": "Helmet of Zeus' Will",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695019",
+      "ItemName": "Mythic Skeleturion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819570",
+      "ItemName": "Senator's Devious Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819612",
+      "ItemName": "Senator's Devious Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819591",
+      "ItemName": "Senator's Devious Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819611",
+      "ItemName": "Senator's Guiding Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819571",
+      "ItemName": "Senator's Judicial Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819613",
+      "ItemName": "Senator's Judicial Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819592",
+      "ItemName": "Senator's Judicial Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819569",
+      "ItemName": "Senator's Laurel of Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819566",
+      "ItemName": "Senator's Mantle of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819610",
+      "ItemName": "Senator's Poetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819568",
+      "ItemName": "Senator's Poetic Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819589",
+      "ItemName": "Senator's Poetic Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819565",
+      "ItemName": "Senator's Radiant Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819607",
+      "ItemName": "Senator's Radiant Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819586",
+      "ItemName": "Senator's Radiant Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819567",
+      "ItemName": "Senator's Raincloud Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819609",
+      "ItemName": "Senator's Raincloud Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819588",
+      "ItemName": "Senator's Raincloud Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819590",
+      "ItemName": "Senator's Stirring Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819608",
+      "ItemName": "Senator's Wintry Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819587",
+      "ItemName": "Senator's Wintry Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819698",
+      "ItemName": "Staff of Zeus' Immortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819506",
+      "ItemName": "Vestment of Zeus' Aegis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819505",
+      "ItemName": "Zeus' Armor of Supremacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819502",
+      "ItemName": "Zeus' Blazing Sun Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203001",
+      "ItemName": "Zeus' Blustering Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819700",
+      "ItemName": "Zeus' Bolt of Arbitration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819699",
+      "ItemName": "Zeus' Bolt of Gravity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203005",
+      "ItemName": "Zeus' Boots of Rancor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203000",
+      "ItemName": "Zeus' Boots of Skyfire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819507",
+      "ItemName": "Zeus' Cloak of Fate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203006",
+      "ItemName": "Zeus' Cloudstriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819697",
+      "ItemName": "Zeus' Falling Skies Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819499",
+      "ItemName": "Zeus' Galea of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819501",
+      "ItemName": "Zeus' Helm of Authority",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819497",
+      "ItemName": "Zeus' Helm of Tumult",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819696",
+      "ItemName": "Zeus' Lightning Striker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819503",
+      "ItemName": "Zeus' Raiment of Flurries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819508",
+      "ItemName": "Zeus' Robes of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819695",
+      "ItemName": "Zeus' Staff of Hailstones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819694",
+      "ItemName": "Zeus' Staff of Wildfires",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819504",
+      "ItemName": "Zeus' Thunderclap Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203002",
+      "ItemName": "Zeus' Thunderstomp Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819496",
+      "ItemName": "Zeus' Veil of Snowfall",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

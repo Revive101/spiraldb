@@ -1,0 +1,238 @@
+{
+  "Name": "SKB_AQ_Medusa_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212000",
+      "ItemName": "Aquila Atlantea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212004",
+      "ItemName": "Aquila Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212003",
+      "ItemName": "Aquila Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212005",
+      "ItemName": "Aquila Epic Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212001",
+      "ItemName": "Aquila Olympus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212002",
+      "ItemName": "Aquila Tartarus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384136",
+      "ItemName": "Aquilan Charioteer Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384137",
+      "ItemName": "Aquilan Charioteer Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384124",
+      "ItemName": "Aquilan Charioteer Hamata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384125",
+      "ItemName": "Aquilan Charioteer Hamata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384112",
+      "ItemName": "Aquilan Charioteer Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384113",
+      "ItemName": "Aquilan Charioteer Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384220",
+      "ItemName": "Aquilan Charioteer Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384221",
+      "ItemName": "Aquilan Charioteer Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789181",
+      "ItemName": "Aquilan Dual Chariot (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384172",
+      "ItemName": "Aquilan Secutor Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384173",
+      "ItemName": "Aquilan Secutor Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384160",
+      "ItemName": "Aquilan Secutor Hamata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384161",
+      "ItemName": "Aquilan Secutor Hamata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384148",
+      "ItemName": "Aquilan Secutor Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384149",
+      "ItemName": "Aquilan Secutor Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384232",
+      "ItemName": "Aquilan Secutor Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384233",
+      "ItemName": "Aquilan Secutor Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384208",
+      "ItemName": "Aquilan Velite Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384209",
+      "ItemName": "Aquilan Velite Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384196",
+      "ItemName": "Aquilan Velite Hamata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384197",
+      "ItemName": "Aquilan Velite Hamata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384184",
+      "ItemName": "Aquilan Velite Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384185",
+      "ItemName": "Aquilan Velite Kalkris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384244",
+      "ItemName": "Aquilan Velite Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384245",
+      "ItemName": "Aquilan Velite Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350313",
+      "ItemName": "Artisan's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202012",
+      "ItemName": "Atlantean Arch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202010",
+      "ItemName": "Banner of Apollo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204451",
+      "ItemName": "Bronze Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202014",
+      "ItemName": "Ember Stone of Tartarus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789436",
+      "ItemName": "Enchanted Armament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789434",
+      "ItemName": "Golden Ram",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202017",
+      "ItemName": "Hades the Unseen Mural",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789433",
+      "ItemName": "Li'l Siren",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383285",
+      "ItemName": "Mechanical Owl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202011",
+      "ItemName": "Nine Fathoms Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202018",
+      "ItemName": "Olympian Herb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202016",
+      "ItemName": "Underworld Brazier",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

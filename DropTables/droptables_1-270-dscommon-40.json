@@ -1,0 +1,43 @@
+{
+  "Name": "1-270-DSCommon-40",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160883",
+      "ItemName": "Medium Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160884",
+      "ItemName": "Short Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160885",
+      "ItemName": "Short Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160881",
+      "ItemName": "Tall Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160805",
+      "ItemName": "Wooden Well Bucket",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

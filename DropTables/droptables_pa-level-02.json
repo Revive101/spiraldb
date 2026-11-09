@@ -1,0 +1,493 @@
+{
+  "Name": "PA-Level-02",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473125",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473126",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473127",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473128",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473129",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473130",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97353",
+      "ItemName": "Boots of Fabrication",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97399",
+      "ItemName": "Boots of the Undisturbed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38979",
+      "ItemName": "Brisk Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39026",
+      "ItemName": "Cap of Ideals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38984",
+      "ItemName": "Cap of Symmetry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97191",
+      "ItemName": "Cap of the Supreme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38982",
+      "ItemName": "Cap of the Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97227",
+      "ItemName": "Cat Burglar's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97414",
+      "ItemName": "Cat Burglar's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97308",
+      "ItemName": "Cloak of Civility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77171",
+      "ItemName": "Cloak of Clarity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355151",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355152",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355153",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355154",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355155",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355156",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77173",
+      "ItemName": "Delicate Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97105",
+      "ItemName": "Detective's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97273",
+      "ItemName": "Dexterous Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97099",
+      "ItemName": "Dirk of Nobles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77233",
+      "ItemName": "Distinct Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77120",
+      "ItemName": "Dramatic Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97157",
+      "ItemName": "Enticing Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97258",
+      "ItemName": "Enticing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77234",
+      "ItemName": "Exacting Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97224",
+      "ItemName": "Exquisite Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97255",
+      "ItemName": "Fancy Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97102",
+      "ItemName": "Fink's Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77189",
+      "ItemName": "Footwraps of Anguish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77169",
+      "ItemName": "Garment of Preference",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77190",
+      "ItemName": "Halcyon's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97290",
+      "ItemName": "High Quality Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97106",
+      "ItemName": "Informant's Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356107",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356108",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356109",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356110",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356111",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356112",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97289",
+      "ItemName": "Marvelous Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77184",
+      "ItemName": "Opportunists' Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473138",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473139",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473140",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473141",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473142",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473143",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473144",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77073",
+      "ItemName": "Ring of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77078",
+      "ItemName": "Ring of Subtlety",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77074",
+      "ItemName": "Ring of the Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77170",
+      "ItemName": "Robe of Ideals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97241",
+      "ItemName": "Robe of the Aristocrat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97256",
+      "ItemName": "Robe of the Bubble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97369",
+      "ItemName": "Sensitive Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77185",
+      "ItemName": "Shoes of Certainty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97354",
+      "ItemName": "Shoes of the Chimera",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97323",
+      "ItemName": "Skillful Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97382",
+      "ItemName": "Slippers of Grief",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97383",
+      "ItemName": "Slippers of the Worrier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97292",
+      "ItemName": "Sophisticated Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473181",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473182",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473183",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473184",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473185",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473186",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97274",
+      "ItemName": "Urbane Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97307",
+      "ItemName": "Vestment of Expertise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97107",
+      "ItemName": "Watchman's Athame",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

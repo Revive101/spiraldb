@@ -1,0 +1,308 @@
+{
+  "Name": "G14-HS-Boss-Ammit",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1330943",
+      "ItemName": "Ancient Rebus Headgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338111",
+      "ItemName": "Ancient Rebus Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338027",
+      "ItemName": "Ancient Rebus Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330946",
+      "ItemName": "Anubis' Crown of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338534",
+      "ItemName": "Anubis' Staff of Redress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338030",
+      "ItemName": "Anubis' Tunic of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330959",
+      "ItemName": "Army of the Condemned Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338543",
+      "ItemName": "Biting Cold Broadsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317668",
+      "ItemName": "Blood Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338108",
+      "ItemName": "Boots of the Burning Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338127",
+      "ItemName": "Boots of the Condemned",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338109",
+      "ItemName": "Boots of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330940",
+      "ItemName": "Burning Scales Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338024",
+      "ItemName": "Burning Scales Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330955",
+      "ItemName": "Crown of Upper Zigazag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330941",
+      "ItemName": "Crown of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330958",
+      "ItemName": "Crown of the Sistrum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338110",
+      "ItemName": "Desert Rain Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338026",
+      "ItemName": "Dune Storm Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338126",
+      "ItemName": "Footwraps of the Sistrum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338548",
+      "ItemName": "Greatsword of Adjudication",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338546",
+      "ItemName": "Greatsword of Redemption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338112",
+      "ItemName": "Hands of Anubis Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330944",
+      "ItemName": "Hands of Anubis Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338532",
+      "ItemName": "Hands of Anubis Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338028",
+      "ItemName": "Hands of Anubis Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330942",
+      "ItemName": "Headgear of Dune Storms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330957",
+      "ItemName": "Helm of the Ravenous Teeth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330960",
+      "ItemName": "House of Scales Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338044",
+      "ItemName": "House of Scales Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338128",
+      "ItemName": "House of Scales Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338547",
+      "ItemName": "Longblade of the Soul Eater",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330956",
+      "ItemName": "Lower Zigazag Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338124",
+      "ItemName": "Lower Zigazag Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338040",
+      "ItemName": "Lower Zigazag Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338545",
+      "ItemName": "Montante of the Immortals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338041",
+      "ItemName": "Ravenous Teeth Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338125",
+      "ItemName": "Ravenous Teeth Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338531",
+      "ItemName": "Rebus Breaker's Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338025",
+      "ItemName": "Robes of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338042",
+      "ItemName": "Robes of the Sistrum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338528",
+      "ItemName": "Rod of the Burning Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338544",
+      "ItemName": "Sandswells Greatblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338542",
+      "ItemName": "Scorching Sands Greatsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338114",
+      "ItemName": "Shoes of Anubis' Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338113",
+      "ItemName": "Soul Devourer's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330945",
+      "ItemName": "Soul Devourer's Greathelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338029",
+      "ItemName": "Soul Devourer's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338529",
+      "ItemName": "Stave of Cold Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338533",
+      "ItemName": "Stave of the Devoured",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338039",
+      "ItemName": "Tunic of Upper Zigazag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338043",
+      "ItemName": "Uniform of the Condemned",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338123",
+      "ItemName": "Upper Zigazag Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338530",
+      "ItemName": "Wrath of Anubis Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338038",
+      "ItemName": "Zigazag Desert Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330954",
+      "ItemName": "Zigazag Desert Headgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338122",
+      "ItemName": "Zigazag Desert Mukluks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,158 @@
+{
+  "Name": "G14-CD-Boss-ShaneV2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338052",
+      "ItemName": "Armor of Carpathesian Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338054",
+      "ItemName": "Battle Mage's Gear of Furor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338057",
+      "ItemName": "Boneplate of the Usurped",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338129",
+      "ItemName": "Brimstone Boots of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338045",
+      "ItemName": "Brimstone Gear of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330961",
+      "ItemName": "Brimstone Helm of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338048",
+      "ItemName": "Darkmoor Armor of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338046",
+      "ItemName": "Darkmoor Armor of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330964",
+      "ItemName": "Darkmoor Barbut of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338132",
+      "ItemName": "Darkmoor Boots of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330962",
+      "ItemName": "Darkmoor Helmet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338051",
+      "ItemName": "Darkmoor Herald's Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330967",
+      "ItemName": "Darkmoor Herald's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330966",
+      "ItemName": "Depths of Darkmoor Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338050",
+      "ItemName": "Depths of Darkmoor Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338134",
+      "ItemName": "Depths of Darkmoor Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330965",
+      "ItemName": "Helm of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338135",
+      "ItemName": "Herald of Darkmoor's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338055",
+      "ItemName": "Law of Kan Davasi Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338053",
+      "ItemName": "Plate of the Bitter Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338049",
+      "ItemName": "Plate of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338131",
+      "ItemName": "Raging Blackwater's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330963",
+      "ItemName": "Raging Blackwater's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338047",
+      "ItemName": "Raging Blackwater's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338058",
+      "ItemName": "Raiment of Castle Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338130",
+      "ItemName": "Sabatons of Frozen Furor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338133",
+      "ItemName": "Sabatons of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338056",
+      "ItemName": "Spirit of Darkmoor's Gear",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,138 @@
+{
+  "Name": "MS-Oni-Plague-MSBoss-L54",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126142",
+      "ItemName": "Dreamer's Band of Reality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97986",
+      "ItemName": "Footwraps of Pictures",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97788",
+      "ItemName": "Friendly Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97900",
+      "ItemName": "Garment of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97857",
+      "ItemName": "Garment of Yodels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470218",
+      "ItemName": "Green Samoorai Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160567",
+      "ItemName": "Imperial Shrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225450",
+      "ItemName": "Life Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430802",
+      "ItemName": "MooShu Battle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430801",
+      "ItemName": "MooShu Mystical Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512102",
+      "ItemName": "MooShu War Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97926",
+      "ItemName": "Plague Oni's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87776",
+      "ItemName": "Plague Oni's Sapphire Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97764",
+      "ItemName": "Plague Oni's Vacant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97925",
+      "ItemName": "Plagued Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97432",
+      "ItemName": "Plagued Collar of the Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97549",
+      "ItemName": "Plagued Cowl of Aspirations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160596",
+      "ItemName": "Tea Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100443",
+      "ItemName": "Tough Troll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97838",
+      "ItemName": "Tunic of Chimes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97809",
+      "ItemName": "Tunic of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98037",
+      "ItemName": "Vexing Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97886",
+      "ItemName": "Zippy Tunic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,103 @@
+{
+  "Name": "AV-GiantIndigo-R12-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512165",
+      "ItemName": "Avalon Haunting Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603038",
+      "ItemName": "Avalon Stone Slab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512166",
+      "ItemName": "Avalon Tense Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635266",
+      "ItemName": "Catalan's Bite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635341",
+      "ItemName": "Crystal Cave Rose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635419",
+      "ItemName": "Fire-Spitter Dancers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635306",
+      "ItemName": "Great Horned Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603029",
+      "ItemName": "King Artorius Grave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635381",
+      "ItemName": "Knight of Flame Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635314",
+      "ItemName": "Mask of the Ponycorn's Friend",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635265",
+      "ItemName": "Nodor's Brisk Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635234",
+      "ItemName": "Numinous Torc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635637",
+      "ItemName": "Staff of the Wold",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635226",
+      "ItemName": "Strength of the Oak Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635382",
+      "ItemName": "Sunken Giant's Tartan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635420",
+      "ItemName": "Winter Wyrm Cleats",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635636",
+      "ItemName": "Wyrd-Oak Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

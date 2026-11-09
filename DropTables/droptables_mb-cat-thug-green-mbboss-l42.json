@@ -1,0 +1,143 @@
+{
+  "Name": "MB-Cat-Thug-Green-MBBoss-L42",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160390",
+      "ItemName": "Barkford",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100449",
+      "ItemName": "Evil Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160652",
+      "ItemName": "Medium Purple Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160760",
+      "ItemName": "Metal Wall Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5050",
+      "ItemName": "O'Leary's Briney Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77076",
+      "ItemName": "O'Leary's Forest Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97093",
+      "ItemName": "Pops O'Leary Shifty Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77241",
+      "ItemName": "Pops O'Leary Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97376",
+      "ItemName": "Pops O'Leary's Savvy Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77211",
+      "ItemName": "Pops O'Leary's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38992",
+      "ItemName": "Pops O'Leary's Sun Visor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97249",
+      "ItemName": "Pops'  Vest of Invigoration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39065",
+      "ItemName": "Pops' Band of Stability",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97126",
+      "ItemName": "Pops' Deck of Stasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97216",
+      "ItemName": "Pops' Headwrap of Equity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39034",
+      "ItemName": "Pops' Icy Hat of the Feline",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97165",
+      "ItemName": "Pops' Puzzling Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77217",
+      "ItemName": "Pops' Sandals of Expertise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97418",
+      "ItemName": "Pops' Skillful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97183",
+      "ItemName": "Pops' Theraputic Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77140",
+      "ItemName": "Pops' Tunic of Severity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77144",
+      "ItemName": "Pops' Tunic of Subtlety",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97299",
+      "ItemName": "Pops' Uniform of Horrors",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77084",
+      "ItemName": "Pops's Band of the Mender",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160725",
+      "ItemName": "Tall Metal Fence",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

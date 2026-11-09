@@ -1,0 +1,108 @@
+{
+  "Name": "Draconian-Caster-Tan-Boss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146170",
+      "ItemName": "Blade of Ashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126599",
+      "ItemName": "Burning Ring of Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146308",
+      "ItemName": "Cowl of Blazes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126672",
+      "ItemName": "Deck of the Devouring Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160851",
+      "ItemName": "Dragonspyre Statue Base",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146241",
+      "ItemName": "Hood of the Historian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104681",
+      "ItemName": "Ice-Drake's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104846",
+      "ItemName": "Mocassins of the Gale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146164",
+      "ItemName": "Poniard of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104630",
+      "ItemName": "Raiment of the Raven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126637",
+      "ItemName": "Ring of Truthiness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104707",
+      "ItemName": "Robe of the Gale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104768",
+      "ItemName": "Sandals of Scorching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104822",
+      "ItemName": "Shoes of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160860",
+      "ItemName": "Stone Rose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104780",
+      "ItemName": "Tamris' Scaly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146338",
+      "ItemName": "Tamris' Topper of Termination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104632",
+      "ItemName": "Tamris' Tunic of the Talon",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

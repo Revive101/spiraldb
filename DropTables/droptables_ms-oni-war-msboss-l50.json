@@ -1,0 +1,148 @@
+{
+  "Name": "MS-Oni-War-MSBoss-L50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97676",
+      "ItemName": "Cap of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100442",
+      "ItemName": "Firewing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160536",
+      "ItemName": "Grand Imperial Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97953",
+      "ItemName": "Indulgent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97792",
+      "ItemName": "Indulgent Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98003",
+      "ItemName": "Lyrical Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97842",
+      "ItemName": "Lyrical Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160129",
+      "ItemName": "Magma Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430802",
+      "ItemName": "MooShu Battle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430801",
+      "ItemName": "MooShu Mystical Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512102",
+      "ItemName": "MooShu War Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470219",
+      "ItemName": "Red Samoorai Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126145",
+      "ItemName": "Ruby Ring of Focus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98054",
+      "ItemName": "Sandals of the Determined",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160533",
+      "ItemName": "Stone Pedestal Base",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97870",
+      "ItemName": "Tormented Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97822",
+      "ItemName": "Tunic of Impression",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97889",
+      "ItemName": "Vestment of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97778",
+      "ItemName": "War Oni's Astute Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97563",
+      "ItemName": "War Oni's Disillusioned Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97936",
+      "ItemName": "War Oni's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97777",
+      "ItemName": "War Oni's Gripping Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97558",
+      "ItemName": "War Oni's Gripping Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97429",
+      "ItemName": "War Oni's Tempestial Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97561",
+      "ItemName": "War Torn Cowl of Awareness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

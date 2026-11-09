@@ -1,0 +1,48 @@
+{
+  "Name": "FEB-LootTable-003",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126958",
+      "ItemName": "Baton of Appreciation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126956",
+      "ItemName": "Fond Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126959",
+      "ItemName": "Loyalty's Length",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126960",
+      "ItemName": "Putto's Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126945",
+      "ItemName": "Valentine Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126957",
+      "ItemName": "Wand of Amity",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

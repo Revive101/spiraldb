@@ -1,0 +1,138 @@
+{
+  "Name": "Explorers_Gauntlet_Common_04",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "739087",
+      "ItemName": "Azteca Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342151",
+      "ItemName": "Broken Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82897",
+      "ItemName": "Bushy Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342124",
+      "ItemName": "Cephalopod Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342088",
+      "ItemName": "Crab Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739173",
+      "ItemName": "Curving Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469371",
+      "ItemName": "Diving Gear Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739154",
+      "ItemName": "Fish Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181037",
+      "ItemName": "Fish Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160632",
+      "ItemName": "Fishbones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342086",
+      "ItemName": "Giant Crab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739164",
+      "ItemName": "Large Shell",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739148",
+      "ItemName": "Lava Bulb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342150",
+      "ItemName": "Leaning Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342134",
+      "ItemName": "Lesser Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82895",
+      "ItemName": "Palm Shrub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82890",
+      "ItemName": "Pile of Sand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82896",
+      "ItemName": "Potted Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739208",
+      "ItemName": "Shell Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342139",
+      "ItemName": "Shovel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342082",
+      "ItemName": "Spread Tube Coral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82898",
+      "ItemName": "Tall Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342154",
+      "ItemName": "Water-Mole Bowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342113",
+      "ItemName": "Water-Mole Spear",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

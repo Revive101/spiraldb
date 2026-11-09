@@ -1,0 +1,493 @@
+{
+  "Name": "SKB_GH_KingBoar_A_30",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350309",
+      "ItemName": "Adept's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475510",
+      "ItemName": "Allfather's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475511",
+      "ItemName": "Allfather's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475580",
+      "ItemName": "Allfather's Gungnir",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475581",
+      "ItemName": "Allfather's Gungnir",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475482",
+      "ItemName": "Allfather's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475483",
+      "ItemName": "Allfather's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475496",
+      "ItemName": "Allfather's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475497",
+      "ItemName": "Allfather's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374594",
+      "ItemName": "Austrilund Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181122",
+      "ItemName": "Barbaric Wood Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537556",
+      "ItemName": "Broken Viking Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523832",
+      "ItemName": "Conjurer's Timeless Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523834",
+      "ItemName": "Conjurer's Timeless Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523833",
+      "ItemName": "Conjurer's Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479031",
+      "ItemName": "Cooking Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523829",
+      "ItemName": "Diviner's Timeless Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523831",
+      "ItemName": "Diviner's Timeless Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523830",
+      "ItemName": "Diviner's Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470350",
+      "ItemName": "Fenric",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470349",
+      "ItemName": "Fenrir",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470348",
+      "ItemName": "Fenris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181068",
+      "ItemName": "Fire Pit and Kettle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217523",
+      "ItemName": "Gold Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374591",
+      "ItemName": "Grizzleheim Breadboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512150",
+      "ItemName": "Grizzleheim Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374590",
+      "ItemName": "Grizzleheim Furnace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374586",
+      "ItemName": "Grizzleheim Game Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512091",
+      "ItemName": "Grizzleheim Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374589",
+      "ItemName": "Grizzleheim Stone Oven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512149",
+      "ItemName": "Grizzleheim Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789435",
+      "ItemName": "Harpy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374592",
+      "ItemName": "Hrundle Fjord Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100453",
+      "ItemName": "Imp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "184174",
+      "ItemName": "Kitchen Ware Pots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "184173",
+      "ItemName": "Kitchen Ware Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181065",
+      "ItemName": "Medium Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523838",
+      "ItemName": "Necromancer's Timeless Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523840",
+      "ItemName": "Necromancer's Timeless Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523839",
+      "ItemName": "Necromancer's Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473448",
+      "ItemName": "Night Hawk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374593",
+      "ItemName": "Northguard Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475552",
+      "ItemName": "Odin's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475553",
+      "ItemName": "Odin's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475594",
+      "ItemName": "Odin's Gungnir",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475595",
+      "ItemName": "Odin's Gungnir",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475524",
+      "ItemName": "Odin's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475525",
+      "ItemName": "Odin's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475538",
+      "ItemName": "Odin's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475539",
+      "ItemName": "Odin's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257439",
+      "ItemName": "Pesky Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523823",
+      "ItemName": "Pyromancer's Timeless Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523825",
+      "ItemName": "Pyromancer's Timeless Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523824",
+      "ItemName": "Pyromancer's Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589089",
+      "ItemName": "Raven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470159",
+      "ItemName": "Raven (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479030",
+      "ItemName": "Ravenscar Anvil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374582",
+      "ItemName": "Ravenscar Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479032",
+      "ItemName": "Redclaw Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181121",
+      "ItemName": "Rough Wooden Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "440146",
+      "ItemName": "Snow Ram (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523841",
+      "ItemName": "Sorcerer's Timeless Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523843",
+      "ItemName": "Sorcerer's Timeless Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523842",
+      "ItemName": "Sorcerer's Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181120",
+      "ItemName": "Tall Wooden Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "440145",
+      "ItemName": "Tawny Ram (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523826",
+      "ItemName": "Thaumaturge's Timeless Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523828",
+      "ItemName": "Thaumaturge's Timeless Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523827",
+      "ItemName": "Thaumaturge's Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523835",
+      "ItemName": "Theurge's Timeless Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523837",
+      "ItemName": "Theurge's Timeless Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523836",
+      "ItemName": "Theurge's Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523847",
+      "ItemName": "Timeless Arboreal Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523849",
+      "ItemName": "Timeless Arboreal Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523848",
+      "ItemName": "Timeless Arboreal Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523844",
+      "ItemName": "Timeless Astral Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523846",
+      "ItemName": "Timeless Astral Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523845",
+      "ItemName": "Timeless Astral Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537558",
+      "ItemName": "Viking Axe Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537557",
+      "ItemName": "Viking Sword Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181067",
+      "ItemName": "Wild Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181076",
+      "ItemName": "Wild Mushrooms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523850",
+      "ItemName": "Wizard's Timeless Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523852",
+      "ItemName": "Wizard's Timeless Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523851",
+      "ItemName": "Wizard's Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475468",
+      "ItemName": "Wotan's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475469",
+      "ItemName": "Wotan's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475566",
+      "ItemName": "Wotan's Gungnir",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475567",
+      "ItemName": "Wotan's Gungnir",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475440",
+      "ItemName": "Wotan's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475441",
+      "ItemName": "Wotan's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475454",
+      "ItemName": "Wotan's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1475455",
+      "ItemName": "Wotan's Raiment",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

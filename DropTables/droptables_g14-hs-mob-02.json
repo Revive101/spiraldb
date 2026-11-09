@@ -1,0 +1,508 @@
+{
+  "Name": "G14-HS-Mob-02",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1330943",
+      "ItemName": "Ancient Rebus Headgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338111",
+      "ItemName": "Ancient Rebus Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338027",
+      "ItemName": "Ancient Rebus Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338450",
+      "ItemName": "Anubis' Cards of Veracity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330946",
+      "ItemName": "Anubis' Crown of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338534",
+      "ItemName": "Anubis' Staff of Redress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338030",
+      "ItemName": "Anubis' Tunic of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338447",
+      "ItemName": "Array of the Archaic Rebus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355137",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355138",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355139",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355140",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355141",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355142",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338198",
+      "ItemName": "Blade of Anubis' Verdict",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338192",
+      "ItemName": "Blade of the Fire River",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338108",
+      "ItemName": "Boots of the Burning Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338109",
+      "ItemName": "Boots of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338445",
+      "ItemName": "Brisk Breeze Pasteboards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330940",
+      "ItemName": "Burning Scales Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338024",
+      "ItemName": "Burning Scales Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338448",
+      "ItemName": "Case of the Virtuous Soul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338449",
+      "ItemName": "Condemned Soldier's Arcana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356114",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356115",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356116",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356117",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356118",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356119",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330941",
+      "ItemName": "Crown of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338193",
+      "ItemName": "Dagger of the Cold Bones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338197",
+      "ItemName": "Dagger of the Devourer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338195",
+      "ItemName": "Dagger of the Hidden Words",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338446",
+      "ItemName": "Deck of Sand Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338444",
+      "ItemName": "Deck of the Simmering Evil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338110",
+      "ItemName": "Desert Rain Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338026",
+      "ItemName": "Dune Storm Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355186",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355187",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355188",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355189",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355190",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355191",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338112",
+      "ItemName": "Hands of Anubis Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330944",
+      "ItemName": "Hands of Anubis Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338532",
+      "ItemName": "Hands of Anubis Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338028",
+      "ItemName": "Hands of Anubis Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330942",
+      "ItemName": "Headgear of Dune Storms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338196",
+      "ItemName": "Izft's Dirk of Incarnation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338194",
+      "ItemName": "Kris of Thunderous Resolve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355115",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355116",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355117",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355118",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355119",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355120",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355121",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338531",
+      "ItemName": "Rebus Breaker's Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338025",
+      "ItemName": "Robes of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338528",
+      "ItemName": "Rod of the Burning Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338114",
+      "ItemName": "Shoes of Anubis' Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355158",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355159",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355160",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355161",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355162",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355163",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338113",
+      "ItemName": "Soul Devourer's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330945",
+      "ItemName": "Soul Devourer's Greathelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338029",
+      "ItemName": "Soul Devourer's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338529",
+      "ItemName": "Stave of Cold Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338533",
+      "ItemName": "Stave of the Devoured",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355073",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355074",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355075",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355076",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355077",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355078",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355079",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338530",
+      "ItemName": "Wrath of Anubis Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

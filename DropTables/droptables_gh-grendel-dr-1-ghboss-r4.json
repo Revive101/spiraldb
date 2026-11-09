@@ -1,0 +1,158 @@
+{
+  "Name": "GH-Grendel-Dr-1-GHBoss-R4",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136364",
+      "ItemName": "Cowl of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355151",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355152",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355153",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355154",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355155",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355156",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136541",
+      "ItemName": "Fireshroud Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136363",
+      "ItemName": "Frostweaver's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136469",
+      "ItemName": "Jewel of Liveliness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356107",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356108",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356109",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356110",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356111",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356112",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136542",
+      "ItemName": "Robe of the Life Aria",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171115",
+      "ItemName": "Smoke Jumpers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356160",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356161",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356162",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356163",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356164",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356165",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356166",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136260",
+      "ItemName": "Wyrdrazor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

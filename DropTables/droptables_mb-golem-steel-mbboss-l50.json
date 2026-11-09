@@ -1,0 +1,128 @@
+{
+  "Name": "MB-Golem-Steel-MBBoss-L50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "38997",
+      "ItemName": "Bellows' Aristocratic Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5049",
+      "ItemName": "Bellows' Bitter Cold Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77243",
+      "ItemName": "Bellows' Boots of Accuracy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97081",
+      "ItemName": "Bellows' Dirk of Restoration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97267",
+      "ItemName": "Bellows' Famous Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97169",
+      "ItemName": "Bellows' Graceful Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39005",
+      "ItemName": "Bellows' Helm of Civility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97302",
+      "ItemName": "Bellows' Intolerant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97219",
+      "ItemName": "Bellows' Polished Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39021",
+      "ItemName": "Bellows' Pompous Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77166",
+      "ItemName": "Bellows' Robe of Courtesy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77214",
+      "ItemName": "Bellows' Shoes of Disposition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97365",
+      "ItemName": "Bellows' Shoes of the Bubble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97409",
+      "ItemName": "Bellows' Shoes of the Hushed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97082",
+      "ItemName": "Bellows' Stiletto of Tragedy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39053",
+      "ItemName": "Bellows's Band of Numbness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77139",
+      "ItemName": "Bellows's Confined Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100431",
+      "ItemName": "Clockwork Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512127",
+      "ItemName": "Marleybone Theme 4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126153",
+      "ItemName": "Ringlet of Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160707",
+      "ItemName": "Steamer Trunk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160740",
+      "ItemName": "Tall Roof Vent",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

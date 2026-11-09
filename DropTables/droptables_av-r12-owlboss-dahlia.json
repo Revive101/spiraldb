@@ -1,0 +1,103 @@
+{
+  "Name": "AV-R12-OwlBoss-Dahlia",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512162",
+      "ItemName": "Avalon Abbey Road Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512161",
+      "ItemName": "Avalon Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635310",
+      "ItemName": "Chaos Lord's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635341",
+      "ItemName": "Crystal Cave Rose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635424",
+      "ItemName": "Deep Is The Well Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589092",
+      "ItemName": "Dread Grimoire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635269",
+      "ItemName": "Grim Guardian's Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635385",
+      "ItemName": "High Court Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635386",
+      "ItemName": "Horned One's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635423",
+      "ItemName": "Hundred Year Bridge Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635229",
+      "ItemName": "Knight of the Wyrd's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538056",
+      "ItemName": "Owl Sorceress Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635270",
+      "ItemName": "Queen's Ever Sharp Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635230",
+      "ItemName": "Seely Wizard's Torc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635640",
+      "ItemName": "Staff of the Wildgrave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635641",
+      "ItemName": "Stag-Horned Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635309",
+      "ItemName": "Thunderstruck Shroud",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

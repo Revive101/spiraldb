@@ -1,0 +1,158 @@
+{
+  "Name": "NV_Unicorn_Guard_C_04",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577716",
+      "ItemName": "Artillery Officer Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577730",
+      "ItemName": "Artillery Officer Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577712",
+      "ItemName": "Cavalry Officer Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577726",
+      "ItemName": "Cavalry Officer Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577711",
+      "ItemName": "Infantry Officer Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577725",
+      "ItemName": "Infantry Officer Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577714",
+      "ItemName": "Medic Officer Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577728",
+      "ItemName": "Medic Officer Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577715",
+      "ItemName": "Messenger Officer Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577729",
+      "ItemName": "Messenger Officer Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577660",
+      "ItemName": "Regulation Artillery Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577674",
+      "ItemName": "Regulation Artillery Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577656",
+      "ItemName": "Regulation Cavalry Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577670",
+      "ItemName": "Regulation Cavalry Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577655",
+      "ItemName": "Regulation Infantry Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577669",
+      "ItemName": "Regulation Infantry Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577658",
+      "ItemName": "Regulation Medic Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577672",
+      "ItemName": "Regulation Medic Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577659",
+      "ItemName": "Regulation Messenger Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577673",
+      "ItemName": "Regulation Messenger Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577654",
+      "ItemName": "Regulation Scout Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577668",
+      "ItemName": "Regulation Scout Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577657",
+      "ItemName": "Regulation Trooper Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577671",
+      "ItemName": "Regulation Trooper Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577710",
+      "ItemName": "Scout Officer Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577724",
+      "ItemName": "Scout Officer Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577713",
+      "ItemName": "Trooper Officer Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577727",
+      "ItemName": "Trooper Officer Cards",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

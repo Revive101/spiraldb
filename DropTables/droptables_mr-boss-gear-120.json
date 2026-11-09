@@ -1,0 +1,58 @@
+{
+  "Name": "MR-Boss-Gear-120",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1407101",
+      "ItemName": "Ampul of Tetrus Prison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407093",
+      "ItemName": "Khanjar of Tetrus Prison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407109",
+      "ItemName": "Ringlet of Tetrus Prison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407125",
+      "ItemName": "Tetrus Prison Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407085",
+      "ItemName": "Time Warden's Ornate Galesh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407069",
+      "ItemName": "Time Warden's Ornate Kavuk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407117",
+      "ItemName": "Time Warden's Ornate Kilij",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407077",
+      "ItemName": "Time Warden's Ornate Thobe",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

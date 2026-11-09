@@ -1,0 +1,558 @@
+{
+  "Name": "HG-UFD-Boss-150",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1507849",
+      "ItemName": "Dutiful Terrier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548149",
+      "ItemName": "Highlands Champion's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548150",
+      "ItemName": "Highlands Champion's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548151",
+      "ItemName": "Highlands Champion's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548152",
+      "ItemName": "Highlands Champion's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548153",
+      "ItemName": "Highlands Champion's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548181",
+      "ItemName": "Highlands Champion's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548182",
+      "ItemName": "Highlands Champion's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548183",
+      "ItemName": "Highlands Champion's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548184",
+      "ItemName": "Highlands Champion's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548185",
+      "ItemName": "Highlands Champion's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548165",
+      "ItemName": "Highlands Champion's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548166",
+      "ItemName": "Highlands Champion's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548167",
+      "ItemName": "Highlands Champion's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548168",
+      "ItemName": "Highlands Champion's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548169",
+      "ItemName": "Highlands Champion's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548197",
+      "ItemName": "Highlands Fighter's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548198",
+      "ItemName": "Highlands Fighter's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548199",
+      "ItemName": "Highlands Fighter's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548200",
+      "ItemName": "Highlands Fighter's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548201",
+      "ItemName": "Highlands Fighter's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548229",
+      "ItemName": "Highlands Fighter's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548230",
+      "ItemName": "Highlands Fighter's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548231",
+      "ItemName": "Highlands Fighter's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548232",
+      "ItemName": "Highlands Fighter's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548233",
+      "ItemName": "Highlands Fighter's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548213",
+      "ItemName": "Highlands Fighter's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548214",
+      "ItemName": "Highlands Fighter's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548215",
+      "ItemName": "Highlands Fighter's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548216",
+      "ItemName": "Highlands Fighter's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548217",
+      "ItemName": "Highlands Fighter's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548341",
+      "ItemName": "Highlands Hero's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548342",
+      "ItemName": "Highlands Hero's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548343",
+      "ItemName": "Highlands Hero's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548344",
+      "ItemName": "Highlands Hero's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548345",
+      "ItemName": "Highlands Hero's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548373",
+      "ItemName": "Highlands Hero's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548374",
+      "ItemName": "Highlands Hero's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548375",
+      "ItemName": "Highlands Hero's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548376",
+      "ItemName": "Highlands Hero's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548377",
+      "ItemName": "Highlands Hero's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548357",
+      "ItemName": "Highlands Hero's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548358",
+      "ItemName": "Highlands Hero's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548359",
+      "ItemName": "Highlands Hero's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548360",
+      "ItemName": "Highlands Hero's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548361",
+      "ItemName": "Highlands Hero's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548245",
+      "ItemName": "Highlands Militia Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548246",
+      "ItemName": "Highlands Militia Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548247",
+      "ItemName": "Highlands Militia Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548248",
+      "ItemName": "Highlands Militia Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548249",
+      "ItemName": "Highlands Militia Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548277",
+      "ItemName": "Highlands Militia Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548278",
+      "ItemName": "Highlands Militia Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548279",
+      "ItemName": "Highlands Militia Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548280",
+      "ItemName": "Highlands Militia Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548281",
+      "ItemName": "Highlands Militia Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548261",
+      "ItemName": "Highlands Militia Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548262",
+      "ItemName": "Highlands Militia Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548263",
+      "ItemName": "Highlands Militia Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548264",
+      "ItemName": "Highlands Militia Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548265",
+      "ItemName": "Highlands Militia Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548389",
+      "ItemName": "Highlands Raider's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548390",
+      "ItemName": "Highlands Raider's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548391",
+      "ItemName": "Highlands Raider's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548392",
+      "ItemName": "Highlands Raider's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548393",
+      "ItemName": "Highlands Raider's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548421",
+      "ItemName": "Highlands Raider's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548422",
+      "ItemName": "Highlands Raider's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548423",
+      "ItemName": "Highlands Raider's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548424",
+      "ItemName": "Highlands Raider's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548425",
+      "ItemName": "Highlands Raider's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548405",
+      "ItemName": "Highlands Raider's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548406",
+      "ItemName": "Highlands Raider's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548407",
+      "ItemName": "Highlands Raider's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548408",
+      "ItemName": "Highlands Raider's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548409",
+      "ItemName": "Highlands Raider's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548293",
+      "ItemName": "Highlands Soldier's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548294",
+      "ItemName": "Highlands Soldier's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548295",
+      "ItemName": "Highlands Soldier's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548296",
+      "ItemName": "Highlands Soldier's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548297",
+      "ItemName": "Highlands Soldier's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548325",
+      "ItemName": "Highlands Soldier's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548326",
+      "ItemName": "Highlands Soldier's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548327",
+      "ItemName": "Highlands Soldier's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548328",
+      "ItemName": "Highlands Soldier's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548329",
+      "ItemName": "Highlands Soldier's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548309",
+      "ItemName": "Highlands Soldier's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548310",
+      "ItemName": "Highlands Soldier's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548311",
+      "ItemName": "Highlands Soldier's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548312",
+      "ItemName": "Highlands Soldier's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548313",
+      "ItemName": "Highlands Soldier's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548101",
+      "ItemName": "Highlands Warrior's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548102",
+      "ItemName": "Highlands Warrior's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548103",
+      "ItemName": "Highlands Warrior's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548104",
+      "ItemName": "Highlands Warrior's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548105",
+      "ItemName": "Highlands Warrior's Balmoral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548133",
+      "ItemName": "Highlands Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548134",
+      "ItemName": "Highlands Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548135",
+      "ItemName": "Highlands Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548136",
+      "ItemName": "Highlands Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548137",
+      "ItemName": "Highlands Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548117",
+      "ItemName": "Highlands Warrior's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548118",
+      "ItemName": "Highlands Warrior's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548119",
+      "ItemName": "Highlands Warrior's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548120",
+      "ItemName": "Highlands Warrior's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548121",
+      "ItemName": "Highlands Warrior's Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507850",
+      "ItemName": "Loyal Terrier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507851",
+      "ItemName": "Trusty Terrier",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

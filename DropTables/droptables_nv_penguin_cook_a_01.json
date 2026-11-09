@@ -1,0 +1,158 @@
+{
+  "Name": "NV_Penguin_Cook_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577709",
+      "ItemName": "Artillery Officer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577723",
+      "ItemName": "Artillery Officer Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577705",
+      "ItemName": "Cavalry Officer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577719",
+      "ItemName": "Cavalry Officer Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577704",
+      "ItemName": "Infantry Officer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577718",
+      "ItemName": "Infantry Officer Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577707",
+      "ItemName": "Medic Officer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577721",
+      "ItemName": "Medic Officer Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577708",
+      "ItemName": "Messenger Officer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577722",
+      "ItemName": "Messenger Officer Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577653",
+      "ItemName": "Regulation Artillery Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577667",
+      "ItemName": "Regulation Artillery Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577649",
+      "ItemName": "Regulation Cavalry Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577663",
+      "ItemName": "Regulation Cavalry Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577648",
+      "ItemName": "Regulation Infantry Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577662",
+      "ItemName": "Regulation Infantry Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577651",
+      "ItemName": "Regulation Medic Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577665",
+      "ItemName": "Regulation Medic Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577652",
+      "ItemName": "Regulation Messenger Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577666",
+      "ItemName": "Regulation Messenger Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577647",
+      "ItemName": "Regulation Scout Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577661",
+      "ItemName": "Regulation Scout Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577650",
+      "ItemName": "Regulation Trooper Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577664",
+      "ItemName": "Regulation Trooper Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577703",
+      "ItemName": "Scout Officer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577717",
+      "ItemName": "Scout Officer Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577706",
+      "ItemName": "Trooper Officer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577720",
+      "ItemName": "Trooper Officer Medallion",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

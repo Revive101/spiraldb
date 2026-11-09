@@ -1,0 +1,103 @@
+{
+  "Name": "Level-04",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77553",
+      "ItemName": "Adventurer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77586",
+      "ItemName": "Antique Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77579",
+      "ItemName": "Charged Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87224",
+      "ItemName": "Cloak of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77556",
+      "ItemName": "Crown of Seasons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77555",
+      "ItemName": "Martyr's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4696",
+      "ItemName": "Novice's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77615",
+      "ItemName": "Novice's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87237",
+      "ItemName": "Novice's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4832",
+      "ItemName": "Plated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4874",
+      "ItemName": "Roughspun Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4758",
+      "ItemName": "Simple Opal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4850",
+      "ItemName": "Soft Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77614",
+      "ItemName": "Soft Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4868",
+      "ItemName": "Soldiers Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87218",
+      "ItemName": "Sturdy Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77554",
+      "ItemName": "Sturdy Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,73 @@
+{
+  "Name": "DoomKrock_Gauntlet_Common_05",
+  "Description": "Mob loot table (12 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82778",
+      "ItemName": "Krok Balance Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82777",
+      "ItemName": "Krok Bird Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82775",
+      "ItemName": "Krok Fire Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82774",
+      "ItemName": "Krok Ice Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82776",
+      "ItemName": "Krok Insect Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82773",
+      "ItemName": "Krok Moon Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82772",
+      "ItemName": "Krok Skull Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82770",
+      "ItemName": "Krok Snake Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82769",
+      "ItemName": "Krok Storm Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82767",
+      "ItemName": "Krok Sun Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82768",
+      "ItemName": "Krok Tree Plaque",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

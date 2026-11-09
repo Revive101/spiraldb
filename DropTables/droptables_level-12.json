@@ -1,0 +1,313 @@
+{
+  "Name": "Level-12",
+  "Description": "Mob loot table (11 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77586",
+      "ItemName": "Antique Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87182",
+      "ItemName": "Antique Overshirt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87238",
+      "ItemName": "Armored Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87194",
+      "ItemName": "Ashen Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77596",
+      "ItemName": "Bloomshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77617",
+      "ItemName": "Cap of Advantages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77571",
+      "ItemName": "Charbane's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77579",
+      "ItemName": "Charged Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87202",
+      "ItemName": "Chillcloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4732",
+      "ItemName": "Chipped Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77608",
+      "ItemName": "Cowl of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160361",
+      "ItemName": "Dark Stone Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77607",
+      "ItemName": "Double Sided Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4761",
+      "ItemName": "Engraved Amethyst Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4765",
+      "ItemName": "Engraved Citrine Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4763",
+      "ItemName": "Engraved Jade Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4764",
+      "ItemName": "Engraved Onyx Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4762",
+      "ItemName": "Engraved Peridot Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4759",
+      "ItemName": "Engraved Ruby Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4760",
+      "ItemName": "Engraved Sapphire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77594",
+      "ItemName": "Fairy Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87253",
+      "ItemName": "Fairy's Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87179",
+      "ItemName": "Firestorm Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77567",
+      "ItemName": "Flametouched Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4870",
+      "ItemName": "Footwraps of Seasons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77575",
+      "ItemName": "Frostshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77572",
+      "ItemName": "Fur-lined Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4877",
+      "ItemName": "Hardened Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77601",
+      "ItemName": "Hat of Eradication",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77573",
+      "ItemName": "Helm of Audacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77580",
+      "ItemName": "Hood of Storms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77585",
+      "ItemName": "Hood of Tension",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77620",
+      "ItemName": "Imp Lord's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87250",
+      "ItemName": "Insulated Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4775",
+      "ItemName": "Lord's Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4741",
+      "ItemName": "Pinewood Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160347",
+      "ItemName": "Prop House 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87181",
+      "ItemName": "Raiment of Storms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87236",
+      "ItemName": "Robe of All Trades",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87180",
+      "ItemName": "Robe of the Blizzard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87240",
+      "ItemName": "Roughspun Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4876",
+      "ItemName": "Sapphyra's Studded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87200",
+      "ItemName": "Senior Novice's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4873",
+      "ItemName": "Senior Novice's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87201",
+      "ItemName": "Shimmering Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4858",
+      "ItemName": "Slippers of Excitement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87206",
+      "ItemName": "Stormcaller's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4728",
+      "ItemName": "Studded Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4864",
+      "ItemName": "Venemous Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87225",
+      "ItemName": "Vestment of Panic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87219",
+      "ItemName": "Vrixx's Verdant Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77589",
+      "ItemName": "Wondershroud",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

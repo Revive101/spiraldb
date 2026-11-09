@@ -1,0 +1,158 @@
+{
+  "Name": "STRD_BR_ZF_TseTse_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1654610",
+      "ItemName": "Umbra Queen's Chill Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654617",
+      "ItemName": "Umbra Queen's Chill Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654526",
+      "ItemName": "Umbra Queen's Chill Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654547",
+      "ItemName": "Umbra Queen's Chill Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654607",
+      "ItemName": "Umbra Queen's Dusty Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654614",
+      "ItemName": "Umbra Queen's Dusty Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654523",
+      "ItemName": "Umbra Queen's Dusty Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654544",
+      "ItemName": "Umbra Queen's Dusty Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654612",
+      "ItemName": "Umbra Queen's Furious Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654619",
+      "ItemName": "Umbra Queen's Furious Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654528",
+      "ItemName": "Umbra Queen's Furious Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654549",
+      "ItemName": "Umbra Queen's Furious Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654608",
+      "ItemName": "Umbra Queen's Grim Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654615",
+      "ItemName": "Umbra Queen's Grim Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654524",
+      "ItemName": "Umbra Queen's Grim Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654545",
+      "ItemName": "Umbra Queen's Grim Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654609",
+      "ItemName": "Umbra Queen's Scorched Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654616",
+      "ItemName": "Umbra Queen's Scorched Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654525",
+      "ItemName": "Umbra Queen's Scorched Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654546",
+      "ItemName": "Umbra Queen's Scorched Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654613",
+      "ItemName": "Umbra Queen's Shocked Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654620",
+      "ItemName": "Umbra Queen's Shocked Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654529",
+      "ItemName": "Umbra Queen's Shocked Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654550",
+      "ItemName": "Umbra Queen's Shocked Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654611",
+      "ItemName": "Umbra Queen's Wild Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654618",
+      "ItemName": "Umbra Queen's Wild Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654527",
+      "ItemName": "Umbra Queen's Wild Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654548",
+      "ItemName": "Umbra Queen's Wild Dirk",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

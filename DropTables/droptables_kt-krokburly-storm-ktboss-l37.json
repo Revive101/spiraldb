@@ -1,0 +1,158 @@
+{
+  "Name": "KT-KrokBurly-Storm-KTBoss-L37",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5020",
+      "ItemName": "Band of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77683",
+      "ItemName": "Cap of Burning Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38770",
+      "ItemName": "Cloak of Humility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77728",
+      "ItemName": "Cowl of Alacrity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77747",
+      "ItemName": "Cowl of Sensibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77685",
+      "ItemName": "Cowl of Summertime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4947",
+      "ItemName": "Dagger of Dissolution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39444",
+      "ItemName": "Djal's Boots of Ruination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77672",
+      "ItemName": "Djal's Flowering Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77673",
+      "ItemName": "Djal's Hood of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38740",
+      "ItemName": "Djal's Scorching Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4949",
+      "ItemName": "Glacial Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87275",
+      "ItemName": "Maker's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82903",
+      "ItemName": "Purple Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87286",
+      "ItemName": "Quixotic Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5012",
+      "ItemName": "Signet of Ancients",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4965",
+      "ItemName": "Stiletto of Ignition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39445",
+      "ItemName": "Taskmaster's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77674",
+      "ItemName": "Taskmaster's Parched Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38741",
+      "ItemName": "Taskmaster's Polar Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82754",
+      "ItemName": "Turkey Platter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

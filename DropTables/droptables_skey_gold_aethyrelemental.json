@@ -1,0 +1,383 @@
+{
+  "Name": "SKey_Gold_AethyrElemental",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1441534",
+      "ItemName": "Aero Dwarf Potted Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1468016",
+      "ItemName": "Aethyr Cloud (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456630",
+      "ItemName": "Bardic Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456632",
+      "ItemName": "Bardic Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456631",
+      "ItemName": "Bardic Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462292",
+      "ItemName": "Blazing Zanadu Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462300",
+      "ItemName": "Blazing Zanadu Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421921",
+      "ItemName": "Blue Globulin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456642",
+      "ItemName": "Cap of the Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462294",
+      "ItemName": "Crackling Zanadu Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462302",
+      "ItemName": "Crackling Zanadu Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466691",
+      "ItemName": "Dark Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421946",
+      "ItemName": "Dwarven Side Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421941",
+      "ItemName": "Dwarven Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421934",
+      "ItemName": "Fire Dwarf Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421942",
+      "ItemName": "Fire Dwarf Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462293",
+      "ItemName": "Freezing Zanadu Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462301",
+      "ItemName": "Freezing Zanadu Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456648",
+      "ItemName": "Gallant Rogue's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456650",
+      "ItemName": "Gallant Rogue's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456649",
+      "ItemName": "Gallant Rogue's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456621",
+      "ItemName": "Gleeman's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456623",
+      "ItemName": "Gleeman's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456622",
+      "ItemName": "Gleeman's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407008",
+      "ItemName": "Grandmaster Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421919",
+      "ItemName": "Green Globulin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462297",
+      "ItemName": "Grim Zanadu Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462305",
+      "ItemName": "Grim Zanadu Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462299",
+      "ItemName": "Hopeful Zanadu Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462307",
+      "ItemName": "Hopeful Zanadu Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421940",
+      "ItemName": "Ice Dwarf Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421943",
+      "ItemName": "Ice Dwarf Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462295",
+      "ItemName": "Illuminated Zanadu Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462303",
+      "ItemName": "Illuminated Zanadu Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462298",
+      "ItemName": "Immutable Zanadu Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462306",
+      "ItemName": "Immutable Zanadu Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441466",
+      "ItemName": "Kalamar Basket with Handle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441477",
+      "ItemName": "Kalamar Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441479",
+      "ItemName": "Kalamar Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441638",
+      "ItemName": "Nimbari Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421920",
+      "ItemName": "Purple Globulin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456624",
+      "ItemName": "Rhapsodist's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456626",
+      "ItemName": "Rhapsodist's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456625",
+      "ItemName": "Rhapsodist's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456645",
+      "ItemName": "Scribe's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456647",
+      "ItemName": "Scribe's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456646",
+      "ItemName": "Scribe's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456644",
+      "ItemName": "Shoes of the Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456633",
+      "ItemName": "Songster's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456635",
+      "ItemName": "Songster's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456634",
+      "ItemName": "Songster's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456639",
+      "ItemName": "Sonneteer's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456641",
+      "ItemName": "Sonneteer's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456640",
+      "ItemName": "Sonneteer's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466269",
+      "ItemName": "Sycorax's Blizzard Crook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466273",
+      "ItemName": "Sycorax's Crook of Illusions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466270",
+      "ItemName": "Sycorax's Crook of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466271",
+      "ItemName": "Sycorax's Crook of Upheaval",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466272",
+      "ItemName": "Sycorax's Crook of the Lost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466274",
+      "ItemName": "Sycorax's Sandstorm Crook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466268",
+      "ItemName": "Sycorax's Wildfire Crook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456627",
+      "ItemName": "Troubador's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456629",
+      "ItemName": "Troubador's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456628",
+      "ItemName": "Troubador's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456636",
+      "ItemName": "Trouper's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456638",
+      "ItemName": "Trouper's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456637",
+      "ItemName": "Trouper's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456643",
+      "ItemName": "Tunic of the Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462296",
+      "ItemName": "Verdant Zanadu Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462304",
+      "ItemName": "Verdant Zanadu Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1466275",
+      "ItemName": "Witch Crook of Sycorax",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

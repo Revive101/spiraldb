@@ -1,0 +1,88 @@
+{
+  "Name": "CL-UndeadMaiden-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1689431",
+      "ItemName": "Atavistic Balance Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689432",
+      "ItemName": "Atavistic Death Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689433",
+      "ItemName": "Atavistic Fire Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689434",
+      "ItemName": "Atavistic Ice Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689435",
+      "ItemName": "Atavistic Life Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689436",
+      "ItemName": "Atavistic Myth Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689437",
+      "ItemName": "Atavistic Storm Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689498",
+      "ItemName": "Bygone Balance Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689499",
+      "ItemName": "Bygone Death Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689500",
+      "ItemName": "Bygone Fire Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689501",
+      "ItemName": "Bygone Ice Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689502",
+      "ItemName": "Bygone Life Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689503",
+      "ItemName": "Bygone Myth Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689504",
+      "ItemName": "Bygone Storm Band",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

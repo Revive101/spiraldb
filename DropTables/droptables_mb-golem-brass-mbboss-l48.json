@@ -1,0 +1,133 @@
+{
+  "Name": "MB-Golem-Brass-MBBoss-L48",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160759",
+      "ItemName": "Double Wall Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160662",
+      "ItemName": "Jerrycan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512126",
+      "ItemName": "Marleybone Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160765",
+      "ItemName": "Marleybonian Pilot Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160676",
+      "ItemName": "Park Bench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100439",
+      "ItemName": "Rat Magician",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126150",
+      "ItemName": "Ring of Clarity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97079",
+      "ItemName": "Sprockets Basking Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5055",
+      "ItemName": "Sprockets' Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77212",
+      "ItemName": "Sprockets' Charming Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97364",
+      "ItemName": "Sprockets' Enticing Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97318",
+      "ItemName": "Sprockets' Equivalent Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97220",
+      "ItemName": "Sprockets' Hat of the Feline",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39001",
+      "ItemName": "Sprockets' Invigorating Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97395",
+      "ItemName": "Sprockets' Marvelous Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39056",
+      "ItemName": "Sprockets' Medicinal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77208",
+      "ItemName": "Sprockets' Shoes of Ideals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77231",
+      "ItemName": "Sprockets' Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97185",
+      "ItemName": "Sprockets' Urbane Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97268",
+      "ItemName": "Sprockets' Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39020",
+      "ItemName": "Sprockets's Cultured Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77182",
+      "ItemName": "Sprockets's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77145",
+      "ItemName": "Sprockets's Victorian Vest",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

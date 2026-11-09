@@ -1,0 +1,268 @@
+{
+  "Name": "G14-BP-Boss-ChiefWhip",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338359",
+      "ItemName": "Antique Barkingham Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338433",
+      "ItemName": "Arcana of Noble Praxis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330923",
+      "ItemName": "Barkingham Bombin of Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338091",
+      "ItemName": "Barkingham Boots of Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338430",
+      "ItemName": "Barkingham Case of Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338087",
+      "ItemName": "Barkingham Cinder Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338003",
+      "ItemName": "Barkingham Cinder Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338092",
+      "ItemName": "Barkingham Clogs of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330919",
+      "ItemName": "Barkingham Derby of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330924",
+      "ItemName": "Barkingham Derby of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330921",
+      "ItemName": "Barkingham Fog Bowler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338005",
+      "ItemName": "Barkingham Fog Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338089",
+      "ItemName": "Barkingham Fog Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330920",
+      "ItemName": "Barkingham Frost Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338088",
+      "ItemName": "Barkingham Frost Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338004",
+      "ItemName": "Barkingham Frostbreaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338435",
+      "ItemName": "Barkingham Pack of Malaise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338008",
+      "ItemName": "Barkingham Robe of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338090",
+      "ItemName": "Barkingham Shoes of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100429",
+      "ItemName": "Black Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100410",
+      "ItemName": "Blue Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212076",
+      "ItemName": "Crabling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100448",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338432",
+      "ItemName": "Deck of the Roiling Court",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338353",
+      "ItemName": "Duke's Rosy Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338358",
+      "ItemName": "Fallen Palace Guard's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338262",
+      "ItemName": "Grenadier's Vial of Tumult",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338436",
+      "ItemName": "Her Majesty's Regal Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338264",
+      "ItemName": "Hound's Choker of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100414",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338355",
+      "ItemName": "Mr. Hound's Ferocious Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338354",
+      "ItemName": "Official Seal of Barkingham",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338265",
+      "ItemName": "Ornament of Mesmerization",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100434",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338356",
+      "ItemName": "Ringlet of Mesmerization",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338093",
+      "ItemName": "Royal Boots of Alliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330925",
+      "ItemName": "Royal Cap of Alliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338009",
+      "ItemName": "Royal Coat of Alliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338006",
+      "ItemName": "Royal Coat of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225473",
+      "ItemName": "Seraph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338434",
+      "ItemName": "Set of the Thriving Monarch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338268",
+      "ItemName": "Sherlock's Lens of Hegemony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338007",
+      "ItemName": "Smock of Barkingham Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330922",
+      "ItemName": "Topper of Royal Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338267",
+      "ItemName": "Vial of the Palace Menace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338357",
+      "ItemName": "Warder's Band of Recovery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338266",
+      "ItemName": "Watson's Amulet of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338263",
+      "ItemName": "Yeoman's Ampul of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338431",
+      "ItemName": "Yeoman's Crisp Cards",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

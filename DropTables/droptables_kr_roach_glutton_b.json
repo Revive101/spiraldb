@@ -1,0 +1,138 @@
+{
+  "Name": "KR_Roach_Glutton_B",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203144",
+      "ItemName": "Beleaguered Mouse Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203406",
+      "ItemName": "Cell of Survival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203213",
+      "ItemName": "Dragonfly Rider's Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203671",
+      "ItemName": "Edge of the Lost King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203145",
+      "ItemName": "Flame Legs Captain's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203407",
+      "ItemName": "Gallery of the Woebegone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212035",
+      "ItemName": "Khrysalis Boris Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203264",
+      "ItemName": "Last Wood Defender's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203263",
+      "ItemName": "Mantis Guard Stonesteppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203143",
+      "ItemName": "Mantis Shroud of Secrecy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203329",
+      "ItemName": "Mouse Revenant's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203666",
+      "ItemName": "Pepper Grass Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203673",
+      "ItemName": "Razor of the Felled Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203411",
+      "ItemName": "Spiked Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203328",
+      "ItemName": "Stinger's Carcanet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203672",
+      "ItemName": "Sword of Bastion's Revival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203330",
+      "ItemName": "ToeBiter's Cursed Relic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

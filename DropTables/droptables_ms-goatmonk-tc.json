@@ -1,0 +1,48 @@
+{
+  "Name": "MS-GoatMonk-TC",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97587",
+      "ItemName": "Cowl of Humor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97635",
+      "ItemName": "Cowl of Rhyming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97678",
+      "ItemName": "Cowl of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98046",
+      "ItemName": "Footwraps of Generations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97607",
+      "ItemName": "Hat of Discontent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97655",
+      "ItemName": "Stressed Mask",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

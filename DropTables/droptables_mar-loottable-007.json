@@ -1,0 +1,43 @@
+{
+  "Name": "MAR-LootTable-007",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248093",
+      "ItemName": "Adventurer's Shillelagh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248096",
+      "ItemName": "Clover of Prosperity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126928",
+      "ItemName": "Lucky Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248094",
+      "ItemName": "Sacred Heart Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248095",
+      "ItemName": "Staff of Gracious Fortune",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

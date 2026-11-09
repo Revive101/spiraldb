@@ -1,0 +1,978 @@
+{
+  "Name": "KM-Mob-Gear-135",
+  "Description": "Mob loot table (33 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1514730",
+      "ItemName": "Chief's Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515366",
+      "ItemName": "Chief's Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514714",
+      "ItemName": "Chief's Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515023",
+      "ItemName": "Chief's Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515258",
+      "ItemName": "Chief's Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515039",
+      "ItemName": "Chief's Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515031",
+      "ItemName": "Chief's Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514722",
+      "ItemName": "Chief's Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514726",
+      "ItemName": "Chief's Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515362",
+      "ItemName": "Chief's Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514710",
+      "ItemName": "Chief's Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515019",
+      "ItemName": "Chief's Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515254",
+      "ItemName": "Chief's Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515035",
+      "ItemName": "Chief's Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515027",
+      "ItemName": "Chief's Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514718",
+      "ItemName": "Chief's Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514732",
+      "ItemName": "Chief's Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515368",
+      "ItemName": "Chief's Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514716",
+      "ItemName": "Chief's Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515025",
+      "ItemName": "Chief's Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515260",
+      "ItemName": "Chief's Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515041",
+      "ItemName": "Chief's Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515033",
+      "ItemName": "Chief's Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514724",
+      "ItemName": "Chief's Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514727",
+      "ItemName": "Chief's Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515363",
+      "ItemName": "Chief's Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514711",
+      "ItemName": "Chief's Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515020",
+      "ItemName": "Chief's Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515255",
+      "ItemName": "Chief's Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515036",
+      "ItemName": "Chief's Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515028",
+      "ItemName": "Chief's Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514719",
+      "ItemName": "Chief's Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514728",
+      "ItemName": "Chief's Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515364",
+      "ItemName": "Chief's Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514712",
+      "ItemName": "Chief's Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515021",
+      "ItemName": "Chief's Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515256",
+      "ItemName": "Chief's Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515037",
+      "ItemName": "Chief's Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515029",
+      "ItemName": "Chief's Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514720",
+      "ItemName": "Chief's Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514731",
+      "ItemName": "Chief's Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515367",
+      "ItemName": "Chief's Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514715",
+      "ItemName": "Chief's Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515024",
+      "ItemName": "Chief's Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515259",
+      "ItemName": "Chief's Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515040",
+      "ItemName": "Chief's Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515032",
+      "ItemName": "Chief's Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514723",
+      "ItemName": "Chief's Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514729",
+      "ItemName": "Chief's Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515365",
+      "ItemName": "Chief's Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514713",
+      "ItemName": "Chief's Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515022",
+      "ItemName": "Chief's Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515257",
+      "ItemName": "Chief's Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515038",
+      "ItemName": "Chief's Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515030",
+      "ItemName": "Chief's Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514721",
+      "ItemName": "Chief's Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514725",
+      "ItemName": "Chief's Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515361",
+      "ItemName": "Chief's Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514709",
+      "ItemName": "Chief's Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515018",
+      "ItemName": "Chief's Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515253",
+      "ItemName": "Chief's Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515034",
+      "ItemName": "Chief's Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515026",
+      "ItemName": "Chief's Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514717",
+      "ItemName": "Chief's Thermal Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514706",
+      "ItemName": "Lead's Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515358",
+      "ItemName": "Lead's Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514690",
+      "ItemName": "Lead's Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514999",
+      "ItemName": "Lead's Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515249",
+      "ItemName": "Lead's Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515015",
+      "ItemName": "Lead's Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515007",
+      "ItemName": "Lead's Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514698",
+      "ItemName": "Lead's Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514702",
+      "ItemName": "Lead's Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515354",
+      "ItemName": "Lead's Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514686",
+      "ItemName": "Lead's Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514995",
+      "ItemName": "Lead's Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515245",
+      "ItemName": "Lead's Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515011",
+      "ItemName": "Lead's Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515003",
+      "ItemName": "Lead's Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514694",
+      "ItemName": "Lead's Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514708",
+      "ItemName": "Lead's Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515360",
+      "ItemName": "Lead's Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514692",
+      "ItemName": "Lead's Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515001",
+      "ItemName": "Lead's Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515251",
+      "ItemName": "Lead's Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515017",
+      "ItemName": "Lead's Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515009",
+      "ItemName": "Lead's Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514700",
+      "ItemName": "Lead's Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514703",
+      "ItemName": "Lead's Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515355",
+      "ItemName": "Lead's Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514687",
+      "ItemName": "Lead's Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514996",
+      "ItemName": "Lead's Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515246",
+      "ItemName": "Lead's Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515012",
+      "ItemName": "Lead's Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515004",
+      "ItemName": "Lead's Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514695",
+      "ItemName": "Lead's Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514704",
+      "ItemName": "Lead's Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515356",
+      "ItemName": "Lead's Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514688",
+      "ItemName": "Lead's Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514997",
+      "ItemName": "Lead's Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515247",
+      "ItemName": "Lead's Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515013",
+      "ItemName": "Lead's Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515005",
+      "ItemName": "Lead's Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514696",
+      "ItemName": "Lead's Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514707",
+      "ItemName": "Lead's Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515359",
+      "ItemName": "Lead's Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514691",
+      "ItemName": "Lead's Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515000",
+      "ItemName": "Lead's Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515250",
+      "ItemName": "Lead's Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515016",
+      "ItemName": "Lead's Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515008",
+      "ItemName": "Lead's Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514699",
+      "ItemName": "Lead's Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514705",
+      "ItemName": "Lead's Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515357",
+      "ItemName": "Lead's Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514689",
+      "ItemName": "Lead's Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514998",
+      "ItemName": "Lead's Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515248",
+      "ItemName": "Lead's Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515014",
+      "ItemName": "Lead's Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515006",
+      "ItemName": "Lead's Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514697",
+      "ItemName": "Lead's Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514701",
+      "ItemName": "Lead's Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515353",
+      "ItemName": "Lead's Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514685",
+      "ItemName": "Lead's Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514994",
+      "ItemName": "Lead's Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515244",
+      "ItemName": "Lead's Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515010",
+      "ItemName": "Lead's Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515002",
+      "ItemName": "Lead's Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514693",
+      "ItemName": "Lead's Thermal Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514754",
+      "ItemName": "Supervisor Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515374",
+      "ItemName": "Supervisor Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514738",
+      "ItemName": "Supervisor Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515047",
+      "ItemName": "Supervisor Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515267",
+      "ItemName": "Supervisor Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515063",
+      "ItemName": "Supervisor Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515055",
+      "ItemName": "Supervisor Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514746",
+      "ItemName": "Supervisor Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514750",
+      "ItemName": "Supervisor Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515370",
+      "ItemName": "Supervisor Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514734",
+      "ItemName": "Supervisor Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515043",
+      "ItemName": "Supervisor Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515263",
+      "ItemName": "Supervisor Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515059",
+      "ItemName": "Supervisor Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515051",
+      "ItemName": "Supervisor Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514742",
+      "ItemName": "Supervisor Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514756",
+      "ItemName": "Supervisor Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515376",
+      "ItemName": "Supervisor Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514740",
+      "ItemName": "Supervisor Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515049",
+      "ItemName": "Supervisor Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515269",
+      "ItemName": "Supervisor Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515065",
+      "ItemName": "Supervisor Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515057",
+      "ItemName": "Supervisor Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514748",
+      "ItemName": "Supervisor Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514751",
+      "ItemName": "Supervisor Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515371",
+      "ItemName": "Supervisor Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514735",
+      "ItemName": "Supervisor Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515044",
+      "ItemName": "Supervisor Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515264",
+      "ItemName": "Supervisor Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515060",
+      "ItemName": "Supervisor Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515052",
+      "ItemName": "Supervisor Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514743",
+      "ItemName": "Supervisor Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514752",
+      "ItemName": "Supervisor Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515372",
+      "ItemName": "Supervisor Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514736",
+      "ItemName": "Supervisor Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515045",
+      "ItemName": "Supervisor Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515265",
+      "ItemName": "Supervisor Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515061",
+      "ItemName": "Supervisor Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515053",
+      "ItemName": "Supervisor Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514744",
+      "ItemName": "Supervisor Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514755",
+      "ItemName": "Supervisor Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515375",
+      "ItemName": "Supervisor Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514739",
+      "ItemName": "Supervisor Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515048",
+      "ItemName": "Supervisor Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515268",
+      "ItemName": "Supervisor Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515064",
+      "ItemName": "Supervisor Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515056",
+      "ItemName": "Supervisor Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514747",
+      "ItemName": "Supervisor Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514753",
+      "ItemName": "Supervisor Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515373",
+      "ItemName": "Supervisor Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514737",
+      "ItemName": "Supervisor Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515046",
+      "ItemName": "Supervisor Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515266",
+      "ItemName": "Supervisor Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515062",
+      "ItemName": "Supervisor Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515054",
+      "ItemName": "Supervisor Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514745",
+      "ItemName": "Supervisor Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514749",
+      "ItemName": "Supervisor Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515369",
+      "ItemName": "Supervisor Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514733",
+      "ItemName": "Supervisor Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515042",
+      "ItemName": "Supervisor Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515262",
+      "ItemName": "Supervisor Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515058",
+      "ItemName": "Supervisor Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515050",
+      "ItemName": "Supervisor Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514741",
+      "ItemName": "Supervisor Thermal Suit",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

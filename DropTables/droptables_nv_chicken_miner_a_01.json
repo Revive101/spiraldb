@@ -1,0 +1,158 @@
+{
+  "Name": "NV_Chicken_Miner_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577822",
+      "ItemName": "Glistening Balance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577829",
+      "ItemName": "Glistening Balance Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577823",
+      "ItemName": "Glistening Death Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577830",
+      "ItemName": "Glistening Death Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577824",
+      "ItemName": "Glistening Fire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577831",
+      "ItemName": "Glistening Fire Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577825",
+      "ItemName": "Glistening Ice Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577832",
+      "ItemName": "Glistening Ice Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577826",
+      "ItemName": "Glistening Life Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577833",
+      "ItemName": "Glistening Life Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577827",
+      "ItemName": "Glistening Myth Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577834",
+      "ItemName": "Glistening Myth Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577828",
+      "ItemName": "Glistening Storm Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577835",
+      "ItemName": "Glistening Storm Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577766",
+      "ItemName": "Golden Balance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577773",
+      "ItemName": "Golden Balance Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577767",
+      "ItemName": "Golden Death Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577774",
+      "ItemName": "Golden Death Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577768",
+      "ItemName": "Golden Fire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577775",
+      "ItemName": "Golden Fire Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577769",
+      "ItemName": "Golden Ice Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577776",
+      "ItemName": "Golden Ice Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577770",
+      "ItemName": "Golden Life Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577777",
+      "ItemName": "Golden Life Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577771",
+      "ItemName": "Golden Myth Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577778",
+      "ItemName": "Golden Myth Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577772",
+      "ItemName": "Golden Storm Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577779",
+      "ItemName": "Golden Storm Saber",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

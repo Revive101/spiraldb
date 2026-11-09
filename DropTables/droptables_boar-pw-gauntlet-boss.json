@@ -1,0 +1,118 @@
+{
+  "Name": "Boar-PW-Gauntlet-Boss",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243874",
+      "ItemName": "Amulet of Agony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243465",
+      "ItemName": "Compatible Clothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243726",
+      "ItemName": "Equilibrium Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243815",
+      "ItemName": "Everlasting Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243395",
+      "ItemName": "Inspired Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468527",
+      "ItemName": "Lexicon Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243273",
+      "ItemName": "Marinos's Lancet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243438",
+      "ItemName": "Mistral Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243567",
+      "ItemName": "Ring of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243589",
+      "ItemName": "Ring of the Maelstrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243872",
+      "ItemName": "Scarecrow's Sinister Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243260",
+      "ItemName": "Shivering Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243670",
+      "ItemName": "Timeless Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

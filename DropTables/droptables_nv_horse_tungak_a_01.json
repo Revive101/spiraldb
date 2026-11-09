@@ -1,0 +1,158 @@
+{
+  "Name": "NV_Horse_TungAk_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577808",
+      "ItemName": "Glistening Balance Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577815",
+      "ItemName": "Glistening Balance Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577809",
+      "ItemName": "Glistening Death Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577816",
+      "ItemName": "Glistening Death Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577810",
+      "ItemName": "Glistening Fire Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577817",
+      "ItemName": "Glistening Fire Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577811",
+      "ItemName": "Glistening Ice Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577818",
+      "ItemName": "Glistening Ice Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577812",
+      "ItemName": "Glistening Life Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577819",
+      "ItemName": "Glistening Life Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577813",
+      "ItemName": "Glistening Myth Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577820",
+      "ItemName": "Glistening Myth Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577814",
+      "ItemName": "Glistening Storm Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577821",
+      "ItemName": "Glistening Storm Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577752",
+      "ItemName": "Golden Balance Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577759",
+      "ItemName": "Golden Balance Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577753",
+      "ItemName": "Golden Death Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577760",
+      "ItemName": "Golden Death Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577754",
+      "ItemName": "Golden Fire Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577761",
+      "ItemName": "Golden Fire Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577755",
+      "ItemName": "Golden Ice Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577762",
+      "ItemName": "Golden Ice Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577756",
+      "ItemName": "Golden Life Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577763",
+      "ItemName": "Golden Life Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577757",
+      "ItemName": "Golden Myth Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577764",
+      "ItemName": "Golden Myth Lamellar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577758",
+      "ItemName": "Golden Storm Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577765",
+      "ItemName": "Golden Storm Lamellar",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

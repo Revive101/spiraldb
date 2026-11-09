@@ -1,0 +1,333 @@
+{
+  "Name": "MS-Oni-Death-MSBoss-L61",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "164097",
+      "ItemName": "Brogans of Decrepitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97543",
+      "ItemName": "Death Oni's Abstract Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97767",
+      "ItemName": "Death Oni's Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97928",
+      "ItemName": "Death Oni's Introverted Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97431",
+      "ItemName": "Death Oni's Necklace of Doom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87778",
+      "ItemName": "Death Oni's Peridot Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97763",
+      "ItemName": "Death Oni's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100451",
+      "ItemName": "Dire Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97890",
+      "ItemName": "Enlivened Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97793",
+      "ItemName": "Garments of the Observant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160452",
+      "ItemName": "Gong of the Oni",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97626",
+      "ItemName": "Hat of Unison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161047",
+      "ItemName": "Headgear of the Sylph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97578",
+      "ItemName": "Headwraps of Nourishment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100414",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512100",
+      "ItemName": "MooShu Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164077",
+      "ItemName": "Nosferatu's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97969",
+      "ItemName": "Peculiar Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160490",
+      "ItemName": "Samoorai Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98019",
+      "ItemName": "Sandals of Hymns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126144",
+      "ItemName": "Sapphire Ring of Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97988",
+      "ItemName": "Shoes of Dilemma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98039",
+      "ItemName": "Stressed Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97843",
+      "ItemName": "Tunic of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97825",
+      "ItemName": "Vestment of Commotion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160497",
+      "ItemName": "Votive Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470236",
+      "ItemName": "Wing Chun Dummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

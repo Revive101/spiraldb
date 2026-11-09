@@ -1,0 +1,158 @@
+{
+  "Name": "DM_Werewolf_Base_A_08",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1707840",
+      "ItemName": "Ancient Dhampir Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707847",
+      "ItemName": "Ancient Dhampir Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707842",
+      "ItemName": "Ancient Hemavore Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707849",
+      "ItemName": "Ancient Hemavore Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707844",
+      "ItemName": "Ancient Immortal Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707851",
+      "ItemName": "Ancient Immortal Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707841",
+      "ItemName": "Ancient Living Dead Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707848",
+      "ItemName": "Ancient Living Dead Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707843",
+      "ItemName": "Ancient Nightstalker Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707850",
+      "ItemName": "Ancient Nightstalker Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707846",
+      "ItemName": "Ancient Nosferatu Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707853",
+      "ItemName": "Ancient Nosferatu Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707845",
+      "ItemName": "Ancient Vampire Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707852",
+      "ItemName": "Ancient Vampire Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712411",
+      "ItemName": "Fledgling Dhampir Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712432",
+      "ItemName": "Fledgling Dhampir Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712413",
+      "ItemName": "Fledgling Hemavore Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712434",
+      "ItemName": "Fledgling Hemavore Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712415",
+      "ItemName": "Fledgling Immortal Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712436",
+      "ItemName": "Fledgling Immortal Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712412",
+      "ItemName": "Fledgling Living Dead Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712433",
+      "ItemName": "Fledgling Living Dead Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712414",
+      "ItemName": "Fledgling Nightstalker Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712435",
+      "ItemName": "Fledgling Nightstalker Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712417",
+      "ItemName": "Fledgling Nosferatu Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712438",
+      "ItemName": "Fledgling Nosferatu Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712416",
+      "ItemName": "Fledgling Vampire Impaler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712437",
+      "ItemName": "Fledgling Vampire Signet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,83 @@
+{
+  "Name": "AV-Raven",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635263",
+      "ItemName": "Dagger of the King's Court",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635264",
+      "ItemName": "Fire Elf's Toasty Bodkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635232",
+      "ItemName": "Great Wild Wood Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635312",
+      "ItemName": "Helm of Night's Bannerman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635233",
+      "ItemName": "Knight's Noble Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635387",
+      "ItemName": "Loyal Banner's Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635426",
+      "ItemName": "Other Side Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635425",
+      "ItemName": "Owl Friend Talons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635388",
+      "ItemName": "Royal Jouster's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635313",
+      "ItemName": "Shroud of the One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635635",
+      "ItemName": "Staff of the Druid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635342",
+      "ItemName": "Stone of the Other Side",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635634",
+      "ItemName": "Valiant Longsword",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

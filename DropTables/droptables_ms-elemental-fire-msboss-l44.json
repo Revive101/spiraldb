@@ -1,0 +1,153 @@
+{
+  "Name": "MS-Elemental-Fire-MSBoss-L44",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160535",
+      "ItemName": "Ash Pile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97471",
+      "ItemName": "Athame of Attention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97948",
+      "ItemName": "Boots of Cooperation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97618",
+      "ItemName": "Concordant Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470198",
+      "ItemName": "Curved Bookcase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97474",
+      "ItemName": "Dirk of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97703",
+      "ItemName": "Discerning Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97505",
+      "ItemName": "Ember's Deck of Notion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97475",
+      "ItemName": "Ember's Pensive Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97713",
+      "ItemName": "Ember's Ring of Reflection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98061",
+      "ItemName": "Entranced Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97992",
+      "ItemName": "Everburn's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97796",
+      "ItemName": "Everburn's Thoughtful Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97625",
+      "ItemName": "Everburn's Tuned Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98021",
+      "ItemName": "Footwraps of Anthems",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97998",
+      "ItemName": "Footwraps of Chants",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98066",
+      "ItemName": "Footwraps of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97570",
+      "ItemName": "Gallant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97592",
+      "ItemName": "Hat of Enthusiasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97640",
+      "ItemName": "Hat of the Nimble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160608",
+      "ItemName": "Red Leaf Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160446",
+      "ItemName": "Red Stone Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97971",
+      "ItemName": "Sandals of Exertion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98064",
+      "ItemName": "Sandals of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98049",
+      "ItemName": "Sandals of the Quick-Witted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100458",
+      "ItemName": "Sun Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97666",
+      "ItemName": "Zippy Shroud",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

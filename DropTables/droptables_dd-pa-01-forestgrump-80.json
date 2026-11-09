@@ -1,0 +1,308 @@
+{
+  "Name": "DD-PA-01-ForestGrump-80",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82879",
+      "ItemName": "Boat Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352141",
+      "ItemName": "Cap of the Plant Punisher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352142",
+      "ItemName": "Cap of the Plant Punisher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352143",
+      "ItemName": "Cap of the Plant Punisher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352174",
+      "ItemName": "Cap of the Tanglewood Hero",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352175",
+      "ItemName": "Cap of the Tanglewood Hero",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352176",
+      "ItemName": "Cap of the Tanglewood Hero",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82784",
+      "ItemName": "Fire Mummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160630",
+      "ItemName": "Jaques' Saw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359101",
+      "ItemName": "Pigswick Student's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352163",
+      "ItemName": "Plant Punisher's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352164",
+      "ItemName": "Plant Punisher's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352165",
+      "ItemName": "Plant Punisher's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352152",
+      "ItemName": "Plant Punisher's Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352153",
+      "ItemName": "Plant Punisher's Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352154",
+      "ItemName": "Plant Punisher's Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352218",
+      "ItemName": "Plant Punisher's Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352219",
+      "ItemName": "Plant Punisher's Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352220",
+      "ItemName": "Plant Punisher's Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82892",
+      "ItemName": "Purple Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350198",
+      "ItemName": "Rotten Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350199",
+      "ItemName": "Rotten Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350200",
+      "ItemName": "Rotten Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350201",
+      "ItemName": "Rotten Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350202",
+      "ItemName": "Rotten Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350203",
+      "ItemName": "Rotten Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350204",
+      "ItemName": "Rotten Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350162",
+      "ItemName": "Stained Glass Roller",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352196",
+      "ItemName": "Tanglewood Hero's Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352197",
+      "ItemName": "Tanglewood Hero's Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352198",
+      "ItemName": "Tanglewood Hero's Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352185",
+      "ItemName": "Tanglewood Hero's Husk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352186",
+      "ItemName": "Tanglewood Hero's Husk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352187",
+      "ItemName": "Tanglewood Hero's Husk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352229",
+      "ItemName": "Tanglewood Hero's Nettle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352230",
+      "ItemName": "Tanglewood Hero's Nettle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352231",
+      "ItemName": "Tanglewood Hero's Nettle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350161",
+      "ItemName": "Tanglewood Stalker (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352108",
+      "ItemName": "Tanglewood Terror Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352109",
+      "ItemName": "Tanglewood Terror Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352110",
+      "ItemName": "Tanglewood Terror Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352119",
+      "ItemName": "Tanglewood Terror Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352120",
+      "ItemName": "Tanglewood Terror Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352121",
+      "ItemName": "Tanglewood Terror Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352207",
+      "ItemName": "Tanglewood Terror Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352208",
+      "ItemName": "Tanglewood Terror Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352209",
+      "ItemName": "Tanglewood Terror Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352130",
+      "ItemName": "Terror of Tanglewood Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352131",
+      "ItemName": "Terror of Tanglewood Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352132",
+      "ItemName": "Terror of Tanglewood Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350206",
+      "ItemName": "Vampire Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350207",
+      "ItemName": "Vampire Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350208",
+      "ItemName": "Vampire Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350209",
+      "ItemName": "Vampire Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350210",
+      "ItemName": "Vampire Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350211",
+      "ItemName": "Vampire Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350212",
+      "ItemName": "Vampire Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160656",
+      "ItemName": "Watchdog Statue",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,103 @@
+{
+  "Name": "RH-Boss-Jokul-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "532418",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532419",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532458",
+      "ItemName": "Boots of Whispered Flight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532459",
+      "ItemName": "Boots of Whispered Flight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100435",
+      "ItemName": "Grumpy Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532402",
+      "ItemName": "Raven Helm of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532403",
+      "ItemName": "Raven Helm of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532486",
+      "ItemName": "Raven's Claw of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532487",
+      "ItemName": "Raven's Claw of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532510",
+      "ItemName": "Raven's Storied Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532511",
+      "ItemName": "Raven's Storied Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532466",
+      "ItemName": "Ravenking's Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532467",
+      "ItemName": "Ravenking's Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532450",
+      "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532451",
+      "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532410",
+      "ItemName": "Unkind Winter Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532411",
+      "ItemName": "Unkind Winter Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

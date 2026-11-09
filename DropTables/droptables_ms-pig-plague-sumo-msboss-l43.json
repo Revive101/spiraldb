@@ -1,0 +1,143 @@
+{
+  "Name": "MS-Pig-Plague-Sumo-MSBoss-L43",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97698",
+      "ItemName": "Band of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97651",
+      "ItemName": "Cap of Tribulations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97839",
+      "ItemName": "Concordant Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97575",
+      "ItemName": "Cowl of Tact",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97473",
+      "ItemName": "Dagger of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97888",
+      "ItemName": "Dashing Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97671",
+      "ItemName": "Enlivened Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160594",
+      "ItemName": "Hexagonal Stone Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97807",
+      "ItemName": "Impulsive Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97470",
+      "ItemName": "Knife of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97866",
+      "ItemName": "Painful Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98029",
+      "ItemName": "Sandals of Nuisance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98063",
+      "ItemName": "Shoes of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98060",
+      "ItemName": "Shoes of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97603",
+      "ItemName": "Shroud of Conceit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97623",
+      "ItemName": "Shroud of Music",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98065",
+      "ItemName": "Slippers of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160484",
+      "ItemName": "Tatami Mat Arrangement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470191",
+      "ItemName": "Torn Red Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97712",
+      "ItemName": "Usegi Ring of Domain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97725",
+      "ItemName": "Usegi's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97502",
+      "ItemName": "Usegi's Careful Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97877",
+      "ItemName": "Usegi's Dazed Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97657",
+      "ItemName": "Usegi's Dazed Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97442",
+      "ItemName": "Usegi's Speculative Dirk",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

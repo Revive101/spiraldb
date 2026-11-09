@@ -1,0 +1,158 @@
+{
+  "Name": "MB-Cat-Scratcher-Doctor-MBBoss-L50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225458",
+      "ItemName": "Brown Rat Magician",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77165",
+      "ItemName": "Doctor's Robe of the Aurora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97252",
+      "ItemName": "Doctor's Robe of the Kraken",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97076",
+      "ItemName": "Doctor's Surgical Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97379",
+      "ItemName": "Doctor's Urbane Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39037",
+      "ItemName": "Doctor's Visor of Severity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97410",
+      "ItemName": "Dr. Von's Affable Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97301",
+      "ItemName": "Dr. Von's Shrouded Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161030",
+      "ItemName": "Galvanic Glaive",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97083",
+      "ItemName": "Katzenstein's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39057",
+      "ItemName": "Katzenstein's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77244",
+      "ItemName": "Katzenstein's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97203",
+      "ItemName": "Katzenstein's Facemask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38999",
+      "ItemName": "Katzenstein's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5051",
+      "ItemName": "Katzenstein's Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77143",
+      "ItemName": "Katzenstein's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77216",
+      "ItemName": "Katzenstein's Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97168",
+      "ItemName": "Katzenstein's Tragic Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77151",
+      "ItemName": "Katzenstein's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126151",
+      "ItemName": "Loop of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160129",
+      "ItemName": "Magma Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512128",
+      "ItemName": "Marleybone Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346491",
+      "ItemName": "Puppetmaster's Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346490",
+      "ItemName": "Puppetmaster's Facade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346492",
+      "ItemName": "Puppetmaster's Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160686",
+      "ItemName": "Tall Meter Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160685",
+      "ItemName": "Tri-gage Meter Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160684",
+      "ItemName": "Wide Meter Stand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,278 @@
+{
+  "Name": "ME1_Raven_FireStudent_A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160542",
+      "ItemName": "Bamboo Grove",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82726",
+      "ItemName": "Bowl of Tomatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181106",
+      "ItemName": "Broken Stump",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342146",
+      "ItemName": "Celestian Tree Sapling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342148",
+      "ItemName": "Celestian Tree Sprig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260119",
+      "ItemName": "Digmoore Pogo Stick (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342147",
+      "ItemName": "Flowering Celestian Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160696",
+      "ItemName": "Green Foodcart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473338",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473339",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473340",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473324",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473325",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473326",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473331",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473332",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473333",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473367",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473368",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473369",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473296",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473297",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473298",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473282",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473283",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473284",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473289",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473290",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473291",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473353",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473354",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473355",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473317",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473318",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473319",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473303",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473304",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473305",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473310",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473311",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473312",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473360",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473361",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473362",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342149",
+      "ItemName": "Large Willow Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317189",
+      "ItemName": "Olde Town Turn Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317190",
+      "ItemName": "Pyramid Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317195",
+      "ItemName": "Ravenscar Turntable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160617",
+      "ItemName": "Sunflower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82755",
+      "ItemName": "Tall Pumpkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "240100",
+      "ItemName": "Wheel of Cheese",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160586",
+      "ItemName": "Wooden Well",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

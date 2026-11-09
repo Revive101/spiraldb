@@ -1,0 +1,123 @@
+{
+  "Name": "PL-Boss-Furniture",
+  "Description": "Mob loot table (38 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1335126",
+      "ItemName": "Arcanum Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473444",
+      "ItemName": "Arctic Ninja Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589640",
+      "ItemName": "Glacier Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225453",
+      "ItemName": "Ice Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317711",
+      "ItemName": "Nodori Winged Ram",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789210",
+      "ItemName": "Polar Bear Cub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335127",
+      "ItemName": "Polaris Baba Yaga Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335128",
+      "ItemName": "Polaris Frozen Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335138",
+      "ItemName": "Polaris Frozen Forest Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335129",
+      "ItemName": "Polaris Gulag Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335130",
+      "ItemName": "Polaris Gulag Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335131",
+      "ItemName": "Polaris Ice Block Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335132",
+      "ItemName": "Polaris Mine Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335133",
+      "ItemName": "Polaris Mine Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430798",
+      "ItemName": "Polaris Opera Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335134",
+      "ItemName": "Polaris Rasputin Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335135",
+      "ItemName": "Walruskberg Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335136",
+      "ItemName": "Walruskberg Liberated Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335137",
+      "ItemName": "Walruskberg Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653164",
+      "ItemName": "White Winter Owl",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

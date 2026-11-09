@@ -1,0 +1,108 @@
+{
+  "Name": "CL-FishbotGold-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243512",
+      "ItemName": "Band of Principles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342094",
+      "ItemName": "Celestian Forge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243724",
+      "ItemName": "Congruent Clogs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243531",
+      "ItemName": "Crustacean Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243215",
+      "ItemName": "Edge of Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243581",
+      "ItemName": "Loop of Illusions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243324",
+      "ItemName": "Sinister Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243208",
+      "ItemName": "Sliver of Insight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243658",
+      "ItemName": "Spirit Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243301",
+      "ItemName": "Veil of Principles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243812",
+      "ItemName": "Wanderlust Runners",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

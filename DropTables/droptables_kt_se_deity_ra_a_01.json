@@ -1,0 +1,148 @@
+{
+  "Name": "KT_SE_Deity_Ra_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160989",
+      "ItemName": "Beetle Beanbag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82897",
+      "ItemName": "Bushy Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739173",
+      "ItemName": "Curving Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82747",
+      "ItemName": "Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82752",
+      "ItemName": "Green Gem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82906",
+      "ItemName": "Krok Chalkboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82773",
+      "ItemName": "Krok Moon Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82833",
+      "ItemName": "Krok Moon Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82768",
+      "ItemName": "Krok Tree Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82829",
+      "ItemName": "Krok Tree Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82878",
+      "ItemName": "Krokotopia Grand Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392472",
+      "ItemName": "Large Palm Leaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160987",
+      "ItemName": "Lunar-Emblem Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82896",
+      "ItemName": "Potted Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603104",
+      "ItemName": "Selenopolis Blended Grove Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603112",
+      "ItemName": "Selenopolis Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603110",
+      "ItemName": "Selenopolis Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603105",
+      "ItemName": "Selenopolis Field of Reeds Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603106",
+      "ItemName": "Selenopolis Forgotten Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603107",
+      "ItemName": "Selenopolis Forgotten Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603108",
+      "ItemName": "Selenopolis Garden Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603109",
+      "ItemName": "Selenopolis Garden Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603111",
+      "ItemName": "Selenopolis Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603113",
+      "ItemName": "Selenopolis Zigzag Market Com Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603114",
+      "ItemName": "Selenopolis Zigzag Market Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82745",
+      "ItemName": "Tomb Map",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

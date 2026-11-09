@@ -1,0 +1,73 @@
+{
+  "Name": "CL-CrabSoldier-Green-Boss-R9-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243252",
+      "ItemName": "Celestian Sliver of Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243285",
+      "ItemName": "Facade of Fairness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243684",
+      "ItemName": "Mysterious Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243786",
+      "ItemName": "Polar Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243787",
+      "ItemName": "Rime Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243309",
+      "ItemName": "Shroud of Solitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243558",
+      "ItemName": "Striking Celestian Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243556",
+      "ItemName": "Sunken Celestian Circle ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243700",
+      "ItemName": "Turbulent Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243218",
+      "ItemName": "Volcanic Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342157",
+      "ItemName": "Water-Mole Weapon Rack",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

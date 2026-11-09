@@ -1,0 +1,93 @@
+{
+  "Name": "AV-R11-MythDeck",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "404116",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404117",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404118",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404119",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404120",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404121",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404122",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635541",
+      "ItemName": "Silverweave Spread",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

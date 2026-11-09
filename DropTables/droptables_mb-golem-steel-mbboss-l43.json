@@ -1,0 +1,138 @@
+{
+  "Name": "MB-Golem-Steel-MBBoss-L43",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512124",
+      "ItemName": "Marleybone Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160745",
+      "ItemName": "Marleybonian Street Sign",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39060",
+      "ItemName": "Old Smokey's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77213",
+      "ItemName": "Old Smokey's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97085",
+      "ItemName": "Old Smokey's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77209",
+      "ItemName": "Old Smokey's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39004",
+      "ItemName": "Old Smokey's Formal Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5057",
+      "ItemName": "Old Smokey's Froggy Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38994",
+      "ItemName": "Old Smokey's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97180",
+      "ItemName": "Old Smokey's Noble Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39032",
+      "ItemName": "Old Smokey's Proficient Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97263",
+      "ItemName": "Old Smokey's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160700",
+      "ItemName": "Open Furnace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126149",
+      "ItemName": "Power Enfused Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97109",
+      "ItemName": "Smokey's Clever Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77138",
+      "ItemName": "Smokey's Cultured Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97374",
+      "ItemName": "Smokey's Emotional Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77148",
+      "ItemName": "Smokey's Genteel Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39054",
+      "ItemName": "Smokey's Intense Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77161",
+      "ItemName": "Smokey's Pompous Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97094",
+      "ItemName": "Smokey's Pompous Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97314",
+      "ItemName": "Smokey's Robe of Integrity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77242",
+      "ItemName": "Smokey's Sandals of Clarity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87470",
+      "ItemName": "Smokey's Staff of the Sun",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

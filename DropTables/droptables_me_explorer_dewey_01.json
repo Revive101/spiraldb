@@ -1,0 +1,213 @@
+{
+  "Name": "ME_Explorer_Dewey_01",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1204051",
+      "ItemName": "Dying Embers Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257935",
+      "ItemName": "Dying Embers Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505703",
+      "ItemName": "Dying Embers Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690101",
+      "ItemName": "Frosty Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204031",
+      "ItemName": "Frosty Stare Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257933",
+      "ItemName": "Frosty Stare Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505697",
+      "ItemName": "Frosty Stare Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204041",
+      "ItemName": "Shocking Truth Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257934",
+      "ItemName": "Shocking Truth Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505700",
+      "ItemName": "Shocking Truth Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100458",
+      "ItemName": "Sun Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204213",
+      "ItemName": "Tiki Armor of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302088",
+      "ItemName": "Tiki Armor of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505680",
+      "ItemName": "Tiki Armor of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204243",
+      "ItemName": "Tiki Armor of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302091",
+      "ItemName": "Tiki Armor of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505688",
+      "ItemName": "Tiki Armor of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204183",
+      "ItemName": "Tiki Armor of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302085",
+      "ItemName": "Tiki Armor of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505672",
+      "ItemName": "Tiki Armor of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204203",
+      "ItemName": "Tiki Boots of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302087",
+      "ItemName": "Tiki Boots of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505683",
+      "ItemName": "Tiki Boots of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204233",
+      "ItemName": "Tiki Boots of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302090",
+      "ItemName": "Tiki Boots of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505691",
+      "ItemName": "Tiki Boots of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204173",
+      "ItemName": "Tiki Boots of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302084",
+      "ItemName": "Tiki Boots of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505675",
+      "ItemName": "Tiki Boots of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204193",
+      "ItemName": "Tiki Crown of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302086",
+      "ItemName": "Tiki Crown of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505677",
+      "ItemName": "Tiki Crown of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204223",
+      "ItemName": "Tiki Crown of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302089",
+      "ItemName": "Tiki Crown of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505685",
+      "ItemName": "Tiki Crown of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204163",
+      "ItemName": "Tiki Crown of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302083",
+      "ItemName": "Tiki Crown of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505669",
+      "ItemName": "Tiki Crown of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789432",
+      "ItemName": "Tiki Kahuna",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "HG_Gryphon_OwlNyxF_A_01_L100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1642062",
+      "ItemName": "Bookwyrm (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642063",
+      "ItemName": "Bookwyrm (30 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642061",
+      "ItemName": "Bookwyrm (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1642060",
+      "ItemName": "Bookwyrm (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1648144",
+      "ItemName": "Rolly Scrolly",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

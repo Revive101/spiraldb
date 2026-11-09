@@ -1,0 +1,73 @@
+{
+  "Name": "HG_NM_BeardDragon_Base_B_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1596314",
+      "ItemName": "Balanced Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596311",
+      "ItemName": "Deathly Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596308",
+      "ItemName": "Fiery Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560213",
+      "ItemName": "Gator Glider (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560212",
+      "ItemName": "Gator Glider (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1560211",
+      "ItemName": "Gator Glider (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596309",
+      "ItemName": "Icy Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596310",
+      "ItemName": "Lively Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596312",
+      "ItemName": "Mythic Glowbug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596299",
+      "ItemName": "Stormy Ringtail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1596313",
+      "ItemName": "Zappy Glowbug",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,278 @@
+{
+  "Name": "MB-Level-28-30",
+  "Description": "Mob loot table (16 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97309",
+      "ItemName": "Affable Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160670",
+      "ItemName": "Ball of Blue Yarn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77117",
+      "ItemName": "Basking Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160622",
+      "ItemName": "Bone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97353",
+      "ItemName": "Boots of Fabrication",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97384",
+      "ItemName": "Boots of Heartache",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97399",
+      "ItemName": "Boots of the Undisturbed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39026",
+      "ItemName": "Cap of Ideals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38984",
+      "ItemName": "Cap of Symmetry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38978",
+      "ItemName": "Cap of the Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97191",
+      "ItemName": "Cap of the Supreme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97414",
+      "ItemName": "Cat Burglar's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97257",
+      "ItemName": "Charming Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97308",
+      "ItemName": "Cloak of Civility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38981",
+      "ItemName": "Comedian's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77119",
+      "ItemName": "Comedian's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77186",
+      "ItemName": "Crackling Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97140",
+      "ItemName": "Dandy Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97275",
+      "ItemName": "Debonair Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77173",
+      "ItemName": "Delicate Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97099",
+      "ItemName": "Dirk of Nobles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77233",
+      "ItemName": "Distinct Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77155",
+      "ItemName": "Distinguished Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77120",
+      "ItemName": "Dramatic Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160660",
+      "ItemName": "Empty Tin Cans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97157",
+      "ItemName": "Enticing Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97258",
+      "ItemName": "Enticing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97224",
+      "ItemName": "Exquisite Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97102",
+      "ItemName": "Fink's Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77169",
+      "ItemName": "Garment of Preference",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97104",
+      "ItemName": "Graceful Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97174",
+      "ItemName": "Grandiose Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77190",
+      "ItemName": "Halcyon's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97208",
+      "ItemName": "Hat of Excellence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77246",
+      "ItemName": "Jolting Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97291",
+      "ItemName": "Obligatory Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39009",
+      "ItemName": "Opportunists' Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77073",
+      "ItemName": "Ring of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97321",
+      "ItemName": "Robe of Paramount",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97242",
+      "ItemName": "Robe of the Affected",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97241",
+      "ItemName": "Robe of the Aristocrat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77172",
+      "ItemName": "Robe of the Exceptional",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77219",
+      "ItemName": "Sandals of Dedication",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97369",
+      "ItemName": "Sensitive Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77185",
+      "ItemName": "Shoes of Certainty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97367",
+      "ItemName": "Shoes of Inclination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160739",
+      "ItemName": "Short Roof Vent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97382",
+      "ItemName": "Slippers of Grief",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97397",
+      "ItemName": "Slippers of Tranquility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97292",
+      "ItemName": "Sophisticated Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97274",
+      "ItemName": "Urbane Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77156",
+      "ItemName": "Vest of Predominance",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

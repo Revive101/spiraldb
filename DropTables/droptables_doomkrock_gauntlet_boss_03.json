@@ -1,0 +1,283 @@
+{
+  "Name": "DoomKrock_Gauntlet_Boss_03",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1502340",
+      "ItemName": "Apophis' Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502341",
+      "ItemName": "Apophis' Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502342",
+      "ItemName": "Apophis' Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502382",
+      "ItemName": "Apophis' Javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502383",
+      "ItemName": "Apophis' Javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502384",
+      "ItemName": "Apophis' Javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502312",
+      "ItemName": "Apophis' Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502313",
+      "ItemName": "Apophis' Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502314",
+      "ItemName": "Apophis' Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499147",
+      "ItemName": "Apophis' Krokosphinx (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499146",
+      "ItemName": "Apophis' Krokosphinx (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502326",
+      "ItemName": "Apophis' Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502327",
+      "ItemName": "Apophis' Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502328",
+      "ItemName": "Apophis' Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499177",
+      "ItemName": "Apophis' Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499187",
+      "ItemName": "Doohickey",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499191",
+      "ItemName": "Krok Statue Flex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499192",
+      "ItemName": "Krok Statue Thumbs Up",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499189",
+      "ItemName": "Krokotopian Bridge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499190",
+      "ItemName": "Krokotopian Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499188",
+      "ItemName": "Krokotopian Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499186",
+      "ItemName": "Mini Pyramid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502298",
+      "ItemName": "Setesh's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502299",
+      "ItemName": "Setesh's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502300",
+      "ItemName": "Setesh's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502270",
+      "ItemName": "Setesh's Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502271",
+      "ItemName": "Setesh's Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502272",
+      "ItemName": "Setesh's Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499145",
+      "ItemName": "Setesh's Krokosphinx (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499144",
+      "ItemName": "Setesh's Krokosphinx (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502284",
+      "ItemName": "Setesh's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502285",
+      "ItemName": "Setesh's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502286",
+      "ItemName": "Setesh's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499176",
+      "ItemName": "Setesh's Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502368",
+      "ItemName": "Setesh's javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502369",
+      "ItemName": "Setesh's javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502370",
+      "ItemName": "Setesh's javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502256",
+      "ItemName": "Sokar's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502257",
+      "ItemName": "Sokar's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502258",
+      "ItemName": "Sokar's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502354",
+      "ItemName": "Sokar's Javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502355",
+      "ItemName": "Sokar's Javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502356",
+      "ItemName": "Sokar's Javelin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502228",
+      "ItemName": "Sokar's Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502229",
+      "ItemName": "Sokar's Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502230",
+      "ItemName": "Sokar's Khepresh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499143",
+      "ItemName": "Sokar's Krokosphinx (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499142",
+      "ItemName": "Sokar's Krokosphinx (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502242",
+      "ItemName": "Sokar's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502243",
+      "ItemName": "Sokar's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502244",
+      "ItemName": "Sokar's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1499175",
+      "ItemName": "Sokar's Scarab",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

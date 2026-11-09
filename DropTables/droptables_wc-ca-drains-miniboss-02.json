@@ -1,0 +1,53 @@
+{
+  "Name": "WC-CA-Drains-Miniboss-02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489454",
+      "ItemName": "Dragonspyre Soldier Cleaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489320",
+      "ItemName": "Soldier's Fiery Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489321",
+      "ItemName": "Soldier's Icy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489323",
+      "ItemName": "Soldier's Mythic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489450",
+      "ItemName": "Soldier's Mythic War Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489322",
+      "ItemName": "Soldier's Shocking Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489449",
+      "ItemName": "Soldier's Shocking Shortsword",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

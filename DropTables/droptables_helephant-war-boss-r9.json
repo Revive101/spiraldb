@@ -1,0 +1,158 @@
+{
+  "Name": "Helephant-War-Boss-R9",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "161063",
+      "ItemName": "Band of Aid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160811",
+      "ItemName": "Broken Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160880",
+      "ItemName": "Broken Pillar and Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126599",
+      "ItemName": "Burning Ring of Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146292",
+      "ItemName": "Cap of Ancient Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104593",
+      "ItemName": "Coat of Omniscence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104712",
+      "ItemName": "Cyclone Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512191",
+      "ItemName": "Dragonspyre Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146268",
+      "ItemName": "Forest Lord's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146288",
+      "ItemName": "Frostbitten Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146321",
+      "ItemName": "Gurtok Fireshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104612",
+      "ItemName": "Gurtok Firesmock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212075",
+      "ItemName": "Ianthine Spectre",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146179",
+      "ItemName": "Lifegiver's Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146212",
+      "ItemName": "Lightning-charged Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146247",
+      "ItemName": "Mantle of Imagination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146341",
+      "ItemName": "Onyx-banded Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146164",
+      "ItemName": "Poniard of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104630",
+      "ItemName": "Raiment of the Raven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104804",
+      "ItemName": "Reaper's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126614",
+      "ItemName": "Ring of Wyrmkind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104888",
+      "ItemName": "Shoes of the Greatest Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104849",
+      "ItemName": "Slippers of the Hallowed Halls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104867",
+      "ItemName": "Striders of the Thicket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104727",
+      "ItemName": "Surcoat of Glory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104840",
+      "ItemName": "Throne-treading Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104662",
+      "ItemName": "Tunic of Arden's Vale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146267",
+      "ItemName": "Verdant Cap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

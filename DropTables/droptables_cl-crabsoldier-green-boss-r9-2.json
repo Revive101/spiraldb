@@ -1,0 +1,73 @@
+{
+  "Name": "CL-CrabSoldier-Green-Boss-R9-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243332",
+      "ItemName": "Consuming Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243639",
+      "ItemName": "Frostbit Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342138",
+      "ItemName": "Gasoline Can",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243245",
+      "ItemName": "Majestic Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243577",
+      "ItemName": "Ring of Fallacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243701",
+      "ItemName": "Rising Tide Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243431",
+      "ItemName": "Rising Tide Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243741",
+      "ItemName": "Shadow Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243827",
+      "ItemName": "Star Wisher's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243558",
+      "ItemName": "Striking Celestian Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243218",
+      "ItemName": "Volcanic Edge",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

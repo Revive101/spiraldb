@@ -1,0 +1,253 @@
+{
+  "Name": "OneDayRentalMounts",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "470358",
+      "ItemName": "Alphyn (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276461",
+      "ItemName": "Ancient Koi (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733142",
+      "ItemName": "Ankylosaurus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470351",
+      "ItemName": "Auroch (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225480",
+      "ItemName": "Bat Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589219",
+      "ItemName": "Bengal Tiger (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191233",
+      "ItemName": "Black Stallion (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470085",
+      "ItemName": "Blue Dragon (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470093",
+      "ItemName": "Blue Fairy Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470393",
+      "ItemName": "Brown Warg (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "440150",
+      "ItemName": "Bruin Ram (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470238",
+      "ItemName": "Camel (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191222",
+      "ItemName": "Chestnut Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470141",
+      "ItemName": "Crokagator (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470086",
+      "ItemName": "Dark Redwing (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191154",
+      "ItemName": "Enchanted Broom (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470084",
+      "ItemName": "Faithful Dragoness (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470394",
+      "ItemName": "Grey Warg (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470139",
+      "ItemName": "Hippogriff (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191225",
+      "ItemName": "Horned Sweeper (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470536",
+      "ItemName": "Jaguar (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276446",
+      "ItemName": "Manta Ray (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "425083",
+      "ItemName": "Moonlight Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470105",
+      "ItemName": "Nightflame Pegasus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470094",
+      "ItemName": "Orange Fairy Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470143",
+      "ItemName": "Ostrich (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470355",
+      "ItemName": "Owl (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470127",
+      "ItemName": "Panther (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470095",
+      "ItemName": "Purple Fairy Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191221",
+      "ItemName": "Purple Glider (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470346",
+      "ItemName": "Renaissance Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276454",
+      "ItemName": "Rugged Seahorse (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276464",
+      "ItemName": "Sea Turtle (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225478",
+      "ItemName": "Seraph Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470107",
+      "ItemName": "Skyracer Pegasus (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276458",
+      "ItemName": "Snappy Lobster (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "440149",
+      "ItemName": "Snow Ram (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276449",
+      "ItemName": "Spritely Seahorse (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191659",
+      "ItemName": "Starlight Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "425087",
+      "ItemName": "Starshine Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "425085",
+      "ItemName": "Sunshine Pony (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276451",
+      "ItemName": "Swift Gryphon (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "284074",
+      "ItemName": "Swift Shark (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225482",
+      "ItemName": "Swiftshadow Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "440148",
+      "ItemName": "Tawny Ram (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733144",
+      "ItemName": "Triceratops (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191232",
+      "ItemName": "White Mare (1 Day)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,133 @@
+{
+  "Name": "Adv_G14-BP-Monster_Katzenstein_Master",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338359",
+      "ItemName": "Antique Barkingham Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338345",
+      "ItemName": "Band of Royal Infallibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338343",
+      "ItemName": "Barkingham Band of Virtue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338349",
+      "ItemName": "Bones Family Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338350",
+      "ItemName": "Catrin's Aria Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338340",
+      "ItemName": "Chief Whip's Hail Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719497",
+      "ItemName": "Death Potbelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338346",
+      "ItemName": "Duchess' Blazing Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338353",
+      "ItemName": "Duke's Rosy Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338344",
+      "ItemName": "Enfield Circle of Trickery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338358",
+      "ItemName": "Fallen Palace Guard's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338339",
+      "ItemName": "Grenadier's Blasting Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338348",
+      "ItemName": "Jackall's Ring of Duality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338351",
+      "ItemName": "Kaninchen Hunter's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338355",
+      "ItemName": "Mr. Hound's Ferocious Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338354",
+      "ItemName": "Official Seal of Barkingham",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338341",
+      "ItemName": "Ring of Marleybone Fog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338356",
+      "ItemName": "Ringlet of Mesmerization",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338352",
+      "ItemName": "Scratcher's Fingerband",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338342",
+      "ItemName": "Signet of Royal Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338347",
+      "ItemName": "Signet of the Yeoman Guard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719495",
+      "ItemName": "Storm Potbelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338357",
+      "ItemName": "Warder's Band of Recovery",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

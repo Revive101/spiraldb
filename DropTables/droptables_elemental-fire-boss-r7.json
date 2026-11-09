@@ -1,0 +1,303 @@
+{
+  "Name": "Elemental-Fire-Boss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146168",
+      "ItemName": "Athame of the Volcano",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104775",
+      "ItemName": "Blasting Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146218",
+      "ItemName": "Cap of the Unflinching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104732",
+      "ItemName": "Cloak of Forgotten Lore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104642",
+      "ItemName": "Coat of the Cryptid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146284",
+      "ItemName": "Cowl of the Glacier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160807",
+      "ItemName": "Fire-damaged Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146363",
+      "ItemName": "Flamebringer's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126588",
+      "ItemName": "Flamebringer's Fiery Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146161",
+      "ItemName": "Flamebringer's Lancet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146335",
+      "ItemName": "Helm of Oblivion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146315",
+      "ItemName": "Hood of Fulmination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160828",
+      "ItemName": "Magma-filled Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104596",
+      "ItemName": "Robe of Equivalence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104707",
+      "ItemName": "Robe of the Gale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104617",
+      "ItemName": "Salamander's Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104768",
+      "ItemName": "Sandals of Scorching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126592",
+      "ItemName": "Sapphire Studded Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104762",
+      "ItemName": "Slippers of the Glacier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146174",
+      "ItemName": "Soulwoven Stylet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146211",
+      "ItemName": "Stormwatcher's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146286",
+      "ItemName": "Veil of Sleet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

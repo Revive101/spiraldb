@@ -1,0 +1,143 @@
+{
+  "Name": "MB-Cat-Burglar-Yellow-MBBoss-L39",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77226",
+      "ItemName": "Brady's Boots of the Cultured",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39068",
+      "ItemName": "Brady's Conventional Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97129",
+      "ItemName": "Brady's Deck of the Kraken",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97125",
+      "ItemName": "Brady's Distressed Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97405",
+      "ItemName": "Brady's Formal Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77177",
+      "ItemName": "Brady's Frigid Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97204",
+      "ItemName": "Brady's Hat of Extinction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97164",
+      "ItemName": "Brady's Hat of History",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97201",
+      "ItemName": "Brady's Hat of Reverence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97092",
+      "ItemName": "Brady's Provincial Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77083",
+      "ItemName": "Brady's Provincial Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97262",
+      "ItemName": "Brady's Robe of the Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39022",
+      "ItemName": "Brady's Solar Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87478",
+      "ItemName": "Brady's Staff of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97346",
+      "ItemName": "Brady's Stylish Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97366",
+      "ItemName": "Brady's Victorian Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160664",
+      "ItemName": "Crumpled Newspaper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160657",
+      "ItemName": "High Statue Base",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97198",
+      "ItemName": "Sneak's Frightful Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39033",
+      "ItemName": "Sneak's Frosty Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97317",
+      "ItemName": "Sneak's Robe of Parity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160208",
+      "ItemName": "Stack of 3 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97375",
+      "ItemName": "The Sneak's Noble Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97296",
+      "ItemName": "The Sneak's Phobic Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97269",
+      "ItemName": "The Sneak's Puzzling Robes",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

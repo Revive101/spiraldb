@@ -1,0 +1,1033 @@
+{
+  "Name": "PL-Boss-Gear-104",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653139",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653140",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653141",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653142",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653143",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653144",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653145",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369077",
+      "ItemName": "Bleaks Ampul of Pyres",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369078",
+      "ItemName": "Bleaks Amulet of Frost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369111",
+      "ItemName": "Bleaks Band of Snowstorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369082",
+      "ItemName": "Bleaks Choker of Despair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369109",
+      "ItemName": "Bleaks Circle of Pyres",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369050",
+      "ItemName": "Bleaks Cutter of Despair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369045",
+      "ItemName": "Bleaks Cutter of Pyres",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369046",
+      "ItemName": "Bleaks Dagger of Frost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369049",
+      "ItemName": "Bleaks Dagger of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369048",
+      "ItemName": "Bleaks Dirk of Mischief",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369047",
+      "ItemName": "Bleaks Knife of Snowstorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369113",
+      "ItemName": "Bleaks Loop of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369081",
+      "ItemName": "Bleaks Medallion of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369080",
+      "ItemName": "Bleaks Pendant of Mischief",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369114",
+      "ItemName": "Bleaks Seal of Despair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369112",
+      "ItemName": "Bleaks Signet of Mischief",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369079",
+      "ItemName": "Bleaks Torc of Snowstorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369116",
+      "ItemName": "Charmed Ring of the Bleaks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356114",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356115",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356116",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356117",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356118",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356119",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355186",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355187",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355188",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355189",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355190",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355191",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363919",
+      "ItemName": "Evoker's Boots of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363856",
+      "ItemName": "Evoker's Brim of Acuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363855",
+      "ItemName": "Evoker's Brim of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363887",
+      "ItemName": "Evoker's Cloak of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363853",
+      "ItemName": "Evoker's Ember Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363917",
+      "ItemName": "Evoker's Ember Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363858",
+      "ItemName": "Evoker's Forlorn Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363890",
+      "ItemName": "Evoker's Forlorn Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363922",
+      "ItemName": "Evoker's Forlorn Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363859",
+      "ItemName": "Evoker's Gallant Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363891",
+      "ItemName": "Evoker's Gallant Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363923",
+      "ItemName": "Evoker's Gallant Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363885",
+      "ItemName": "Evoker's Garb of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363854",
+      "ItemName": "Evoker's Gelid Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363886",
+      "ItemName": "Evoker's Gelid Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363918",
+      "ItemName": "Evoker's Gelid Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363920",
+      "ItemName": "Evoker's Runners of Acuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363857",
+      "ItemName": "Evoker's Stalwart Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363889",
+      "ItemName": "Evoker's Stalwart Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363921",
+      "ItemName": "Evoker's Stalwart Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363888",
+      "ItemName": "Evoker's Wrap of Acuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248255",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248256",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248257",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248258",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248259",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248260",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248261",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448401",
+      "ItemName": "Fire Moon Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346060",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346061",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346062",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346063",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346064",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346065",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589159",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589160",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589161",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589162",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589163",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589164",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589165",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713154",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713155",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713156",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713157",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713158",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713159",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713160",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359786",
+      "ItemName": "Intrepid Seal Pup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369530",
+      "ItemName": "Kossack Array of Travail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369403",
+      "ItemName": "Kossack Cutlass of Redress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369399",
+      "ItemName": "Kossack Cutlass of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369527",
+      "ItemName": "Kossack Hand of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369531",
+      "ItemName": "Kossack Parcel of Redress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369398",
+      "ItemName": "Kossack Saber of Chills",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369401",
+      "ItemName": "Kossack Saber of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369525",
+      "ItemName": "Kossack Set of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369528",
+      "ItemName": "Kossack Sheaf of Counsel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369526",
+      "ItemName": "Kossack Spread of Chills",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369529",
+      "ItemName": "Kossack Stack of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369400",
+      "ItemName": "Kossack Sword of Counsel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369402",
+      "ItemName": "Kossack Sword of Travail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212071",
+      "ItemName": "Large Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212077",
+      "ItemName": "Large Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212060",
+      "ItemName": "Large Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369084",
+      "ItemName": "Memento of the Bleaks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473647",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473648",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473649",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473650",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473651",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473652",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473653",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359789",
+      "ItemName": "Mountain Yeti",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369115",
+      "ItemName": "Noble Band of the Bleaks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369051",
+      "ItemName": "Noble Bleaks Lancet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369083",
+      "ItemName": "Noble Strand of the Bleaks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363924",
+      "ItemName": "Polarian Evoker's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363860",
+      "ItemName": "Polarian Evoker's Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363892",
+      "ItemName": "Polarian Evoker's Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369404",
+      "ItemName": "Polarian Kossack Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369532",
+      "ItemName": "Polarian Kossack's Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713161",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713162",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713163",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713164",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713165",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713166",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713167",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369397",
+      "ItemName": "Radiant Kossack Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212073",
+      "ItemName": "Regular Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212076",
+      "ItemName": "Regular Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212068",
+      "ItemName": "Regular Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369110",
+      "ItemName": "Ring of the Frosted Bleaks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369052",
+      "ItemName": "Shortblade of the Bleaks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355158",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355159",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355160",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355161",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355162",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355163",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713140",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713141",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713142",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713143",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713144",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713145",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713146",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212072",
+      "ItemName": "Tall Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212075",
+      "ItemName": "Tall Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212069",
+      "ItemName": "Tall Whopper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470720",
+      "ItemName": "The Enchanter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359662",
+      "ItemName": "The Goat Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359663",
+      "ItemName": "The Ice Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217362",
+      "ItemName": "The Kroktop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317802",
+      "ItemName": "The Manticore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217004",
+      "ItemName": "The Stalwart Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217212",
+      "ItemName": "The Stardust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217358",
+      "ItemName": "The Warlock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350129",
+      "ItemName": "Ultra Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350130",
+      "ItemName": "Ultra Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350131",
+      "ItemName": "Ultra Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350132",
+      "ItemName": "Ultra Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350133",
+      "ItemName": "Ultra Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350134",
+      "ItemName": "Ultra Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350135",
+      "ItemName": "Ultra Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350094",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350095",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350096",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350097",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350098",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350099",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350100",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

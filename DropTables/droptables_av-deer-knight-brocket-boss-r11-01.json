@@ -1,0 +1,98 @@
+{
+  "Name": "AV-Deer-Knight-Brocket-Boss-R11-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512163",
+      "ItemName": "Avalon Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512164",
+      "ItemName": "Avalon Glorious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635378",
+      "ItemName": "Bane Wyrm's Tartan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724081",
+      "ItemName": "Carved Table and Benches",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635303",
+      "ItemName": "Catacombs Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635619",
+      "ItemName": "Chivalric Mallet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635336",
+      "ItemName": "Deep Water Rising Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635246",
+      "ItemName": "Dryad's Burning Nettle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635417",
+      "ItemName": "Hospitable Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635302",
+      "ItemName": "Hunter's Helm of Mercy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635416",
+      "ItemName": "Loyal Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635216",
+      "ItemName": "Mystery of the Druids",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635247",
+      "ItemName": "Owl's Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635217",
+      "ItemName": "Proven Armiger's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635618",
+      "ItemName": "Rosewood Persuader",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635377",
+      "ItemName": "Three Color Serpent's Robes",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

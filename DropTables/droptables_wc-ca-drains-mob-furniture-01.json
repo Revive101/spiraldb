@@ -1,0 +1,78 @@
+{
+  "Name": "WC-CA-Drains-Mob-Furniture-01",
+  "Description": "Mob loot table (56 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160235",
+      "ItemName": "Brain Jar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374488",
+      "ItemName": "Crab Alley Chaise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374555",
+      "ItemName": "Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374560",
+      "ItemName": "Ginormous Apple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374545",
+      "ItemName": "Mystic Pizza",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374559",
+      "ItemName": "Roasted Drumstick",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480048",
+      "ItemName": "WC Catacombs Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480049",
+      "ItemName": "WC Catacombs Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480050",
+      "ItemName": "WC Drains Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480051",
+      "ItemName": "WC Drains Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480052",
+      "ItemName": "WC Elsewhere Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374534",
+      "ItemName": "Watermelon Slice",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

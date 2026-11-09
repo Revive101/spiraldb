@@ -1,0 +1,578 @@
+{
+  "Name": "BR_KM_Nothing_Divine_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1712853",
+      "ItemName": "Coldhearted Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712874",
+      "ItemName": "Coldhearted Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712909",
+      "ItemName": "Coldhearted Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712916",
+      "ItemName": "Coldhearted Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712881",
+      "ItemName": "Coldhearted Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712895",
+      "ItemName": "Coldhearted Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712846",
+      "ItemName": "Coldhearted Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712867",
+      "ItemName": "Coldhearted Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712937",
+      "ItemName": "Coldhearted Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712944",
+      "ItemName": "Coldhearted Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712839",
+      "ItemName": "Coldhearted Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712860",
+      "ItemName": "Coldhearted Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712923",
+      "ItemName": "Coldhearted Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712930",
+      "ItemName": "Coldhearted Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712888",
+      "ItemName": "Coldhearted Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712902",
+      "ItemName": "Coldhearted Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712851",
+      "ItemName": "Cursed Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712872",
+      "ItemName": "Cursed Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712907",
+      "ItemName": "Cursed Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712914",
+      "ItemName": "Cursed Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712879",
+      "ItemName": "Cursed Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712893",
+      "ItemName": "Cursed Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712844",
+      "ItemName": "Cursed Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712865",
+      "ItemName": "Cursed Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712935",
+      "ItemName": "Cursed Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712942",
+      "ItemName": "Cursed Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712837",
+      "ItemName": "Cursed Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712858",
+      "ItemName": "Cursed Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712921",
+      "ItemName": "Cursed Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712928",
+      "ItemName": "Cursed Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712886",
+      "ItemName": "Cursed Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712900",
+      "ItemName": "Cursed Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712850",
+      "ItemName": "Horrifying Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712871",
+      "ItemName": "Horrifying Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712906",
+      "ItemName": "Horrifying Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712913",
+      "ItemName": "Horrifying Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712878",
+      "ItemName": "Horrifying Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712892",
+      "ItemName": "Horrifying Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712843",
+      "ItemName": "Horrifying Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712864",
+      "ItemName": "Horrifying Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712934",
+      "ItemName": "Horrifying Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712941",
+      "ItemName": "Horrifying Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712836",
+      "ItemName": "Horrifying Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712857",
+      "ItemName": "Horrifying Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712920",
+      "ItemName": "Horrifying Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712927",
+      "ItemName": "Horrifying Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712885",
+      "ItemName": "Horrifying Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712899",
+      "ItemName": "Horrifying Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712852",
+      "ItemName": "Infernal Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712873",
+      "ItemName": "Infernal Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712908",
+      "ItemName": "Infernal Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712915",
+      "ItemName": "Infernal Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712880",
+      "ItemName": "Infernal Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712894",
+      "ItemName": "Infernal Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712845",
+      "ItemName": "Infernal Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712866",
+      "ItemName": "Infernal Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712936",
+      "ItemName": "Infernal Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712943",
+      "ItemName": "Infernal Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712838",
+      "ItemName": "Infernal Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712859",
+      "ItemName": "Infernal Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712922",
+      "ItemName": "Infernal Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712929",
+      "ItemName": "Infernal Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712887",
+      "ItemName": "Infernal Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712901",
+      "ItemName": "Infernal Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712855",
+      "ItemName": "Notorious Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712876",
+      "ItemName": "Notorious Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712911",
+      "ItemName": "Notorious Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712918",
+      "ItemName": "Notorious Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712883",
+      "ItemName": "Notorious Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712897",
+      "ItemName": "Notorious Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712848",
+      "ItemName": "Notorious Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712869",
+      "ItemName": "Notorious Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712939",
+      "ItemName": "Notorious Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712946",
+      "ItemName": "Notorious Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712841",
+      "ItemName": "Notorious Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712862",
+      "ItemName": "Notorious Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712925",
+      "ItemName": "Notorious Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712932",
+      "ItemName": "Notorious Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712890",
+      "ItemName": "Notorious Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712904",
+      "ItemName": "Notorious Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712854",
+      "ItemName": "Toxic Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712875",
+      "ItemName": "Toxic Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712910",
+      "ItemName": "Toxic Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712917",
+      "ItemName": "Toxic Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712882",
+      "ItemName": "Toxic Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712896",
+      "ItemName": "Toxic Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712847",
+      "ItemName": "Toxic Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712868",
+      "ItemName": "Toxic Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712938",
+      "ItemName": "Toxic Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712945",
+      "ItemName": "Toxic Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712840",
+      "ItemName": "Toxic Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712861",
+      "ItemName": "Toxic Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712924",
+      "ItemName": "Toxic Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712931",
+      "ItemName": "Toxic Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712889",
+      "ItemName": "Toxic Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712903",
+      "ItemName": "Toxic Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712856",
+      "ItemName": "Vicious Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712877",
+      "ItemName": "Vicious Boots of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712912",
+      "ItemName": "Vicious Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712919",
+      "ItemName": "Vicious Chain of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712884",
+      "ItemName": "Vicious Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712898",
+      "ItemName": "Vicious Dirk of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712849",
+      "ItemName": "Vicious Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712870",
+      "ItemName": "Vicious Garb of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712940",
+      "ItemName": "Vicious Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712947",
+      "ItemName": "Vicious Hand of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712842",
+      "ItemName": "Vicious Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712863",
+      "ItemName": "Vicious Mask of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712926",
+      "ItemName": "Vicious Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712933",
+      "ItemName": "Vicious Meter of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712891",
+      "ItemName": "Vicious Seal of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712905",
+      "ItemName": "Vicious Seal of Nothing",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

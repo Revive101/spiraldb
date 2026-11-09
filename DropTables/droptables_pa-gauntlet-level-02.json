@@ -1,0 +1,378 @@
+{
+  "Name": "PA-Gauntlet-Level-02",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243738",
+      "ItemName": "Boots of Catastrophe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243757",
+      "ItemName": "Brimstone Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243523",
+      "ItemName": "Combustible Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243277",
+      "ItemName": "Dagger of Typhoons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243624",
+      "ItemName": "Devoted Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243269",
+      "ItemName": "Dirk of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243285",
+      "ItemName": "Facade of Fairness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243310",
+      "ItemName": "Forgotten Facade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243785",
+      "ItemName": "Frostbit Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243347",
+      "ItemName": "Helm of Burning Ambition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243789",
+      "ItemName": "Ice Rangers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243783",
+      "ItemName": "Icestar Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243288",
+      "ItemName": "Insightful Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243248",
+      "ItemName": "Kris of the Piscean Guard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243554",
+      "ItemName": "Majestic Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243684",
+      "ItemName": "Mysterious Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243804",
+      "ItemName": "Natural Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243363",
+      "ItemName": "Nereus's Hoarfrost Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243786",
+      "ItemName": "Polar Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243619",
+      "ItemName": "Reckless Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243787",
+      "ItemName": "Rime Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243559",
+      "ItemName": "Ring of Rare Origins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243431",
+      "ItemName": "Rising Tide Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243617",
+      "ItemName": "Salgio's Tinder Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243309",
+      "ItemName": "Shroud of Solitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243409",
+      "ItemName": "Storyteller's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243677",
+      "ItemName": "Storyteller's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243297",
+      "ItemName": "Synthesis Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243432",
+      "ItemName": "Thundercloud Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243717",
+      "ItemName": "Tolerant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243596",
+      "ItemName": "Tragic Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243700",
+      "ItemName": "Turbulent Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243587",
+      "ItemName": "Typhoon Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243809",
+      "ItemName": "Virtue Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243389",
+      "ItemName": "Vital Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243679",
+      "ItemName": "Whimsical Surcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243720",
+      "ItemName": "Wraps of Rapport",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

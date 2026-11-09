@@ -1,0 +1,123 @@
+{
+  "Name": "Wizard-Female-Jacket-Black-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160848",
+      "ItemName": "Battle Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126599",
+      "ItemName": "Burning Ring of Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82914",
+      "ItemName": "Clawed Wall Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146180",
+      "ItemName": "Dragon's Claw Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146288",
+      "ItemName": "Frostbitten Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146212",
+      "ItemName": "Lightning-charged Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146231",
+      "ItemName": "Mantle of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146164",
+      "ItemName": "Poniard of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104630",
+      "ItemName": "Raiment of the Raven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104804",
+      "ItemName": "Reaper's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104855",
+      "ItemName": "Redwind's Boastful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146296",
+      "ItemName": "Redwind's Cap of the Chill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146199",
+      "ItemName": "Redwind's Forgotten Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126577",
+      "ItemName": "Redwind's Shocking Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104716",
+      "ItemName": "Redwind's Tunic of the Tornado",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126593",
+      "ItemName": "Rime-edged Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104888",
+      "ItemName": "Shoes of the Greatest Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160972",
+      "ItemName": "Singed Dragon Handbook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104867",
+      "ItemName": "Striders of the Thicket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104727",
+      "ItemName": "Surcoat of Glory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104666",
+      "ItemName": "Vestment of the Spring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

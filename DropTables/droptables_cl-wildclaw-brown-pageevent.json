@@ -1,0 +1,48 @@
+{
+  "Name": "CL-Wildclaw-Brown-PageEvent",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160825",
+      "ItemName": "Dragon Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160920",
+      "ItemName": "Dragon Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160804",
+      "ItemName": "Dragonfire Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160914",
+      "ItemName": "Dragonmoon Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374360",
+      "ItemName": "Spellwrit Wildclaw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160516",
+      "ItemName": "Tall Dragon Vase",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

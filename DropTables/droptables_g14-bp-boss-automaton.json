@@ -1,0 +1,488 @@
+{
+  "Name": "G14-BP-Boss-Automaton",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338257",
+      "ItemName": "Amulet of the Misty Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330923",
+      "ItemName": "Barkingham Bombin of Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338091",
+      "ItemName": "Barkingham Boots of Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338087",
+      "ItemName": "Barkingham Cinder Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338003",
+      "ItemName": "Barkingham Cinder Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338092",
+      "ItemName": "Barkingham Clogs of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338182",
+      "ItemName": "Barkingham Dagger of Nerve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330919",
+      "ItemName": "Barkingham Derby of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330924",
+      "ItemName": "Barkingham Derby of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330921",
+      "ItemName": "Barkingham Fog Bowler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338005",
+      "ItemName": "Barkingham Fog Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338089",
+      "ItemName": "Barkingham Fog Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330920",
+      "ItemName": "Barkingham Frost Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338088",
+      "ItemName": "Barkingham Frost Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338004",
+      "ItemName": "Barkingham Frostbreaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338255",
+      "ItemName": "Barkingham Hearthfire Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338180",
+      "ItemName": "Barkingham Knife of Floods",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338008",
+      "ItemName": "Barkingham Robe of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338090",
+      "ItemName": "Barkingham Shoes of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338256",
+      "ItemName": "Barkingham Vial of Numbing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100429",
+      "ItemName": "Black Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100410",
+      "ItemName": "Blue Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338021",
+      "ItemName": "Ceremonial Array of Triumph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789470",
+      "ItemName": "Clockwork Paladin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212076",
+      "ItemName": "Crabling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338269",
+      "ItemName": "Crown Jewel Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338258",
+      "ItemName": "Crown's Charm of Adroitness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100448",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338439",
+      "ItemName": "Deck of the Ferocious Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358938",
+      "ItemName": "Deck of the Ferocious Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358952",
+      "ItemName": "Deck of the Ferocious Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338260",
+      "ItemName": "Empire's Torc of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338274",
+      "ItemName": "Enfield Trickster's Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338262",
+      "ItemName": "Grenadier's Vial of Tumult",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338264",
+      "ItemName": "Hound's Choker of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338440",
+      "ItemName": "Jackall's Mystifying Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358939",
+      "ItemName": "Jackall's Mystifying Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358953",
+      "ItemName": "Jackall's Mystifying Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338261",
+      "ItemName": "Jackall's Vial of Duplicity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338271",
+      "ItemName": "Lanyon Scratcher's Bauble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100414",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719496",
+      "ItemName": "Life Potbelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338272",
+      "ItemName": "Locket of the Opera Nova",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338275",
+      "ItemName": "Mycroft's Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338259",
+      "ItemName": "Necklace of the Monarchy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338265",
+      "ItemName": "Ornament of Mesmerization",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338015",
+      "ItemName": "Outfit of the Forlorn Watch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338010",
+      "ItemName": "Palace Guard's Firebreaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338179",
+      "ItemName": "Palace Guard's Ice Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338012",
+      "ItemName": "Palace Guard's Rain Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338441",
+      "ItemName": "Queen's Case of Resilience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358940",
+      "ItemName": "Queen's Case of Resilience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358954",
+      "ItemName": "Queen's Case of Resilience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338270",
+      "ItemName": "Queen's Jewel of Barkingham",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338017",
+      "ItemName": "Raiment of the Royal Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100434",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338443",
+      "ItemName": "Regal Gallery of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358942",
+      "ItemName": "Regal Gallery of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358956",
+      "ItemName": "Regal Gallery of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338181",
+      "ItemName": "Royal Bodkin of Awareness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338093",
+      "ItemName": "Royal Boots of Alliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330925",
+      "ItemName": "Royal Cap of Alliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338018",
+      "ItemName": "Royal Ceremonial Snowgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338009",
+      "ItemName": "Royal Coat of Alliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338006",
+      "ItemName": "Royal Coat of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338184",
+      "ItemName": "Royal Dagger of Allegiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338022",
+      "ItemName": "Royal Outfit of Remembrance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338023",
+      "ItemName": "Royal Uniform of Accord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338019",
+      "ItemName": "Royal Uniform of Whirlwind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338020",
+      "ItemName": "Royal Vestment of Charisma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225473",
+      "ItemName": "Seraph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338437",
+      "ItemName": "Sherlock's Brilliant Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358936",
+      "ItemName": "Sherlock's Brilliant Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358950",
+      "ItemName": "Sherlock's Brilliant Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338268",
+      "ItemName": "Sherlock's Lens of Hegemony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338007",
+      "ItemName": "Smock of Barkingham Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330922",
+      "ItemName": "Topper of Royal Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338273",
+      "ItemName": "Torc of The Woman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338442",
+      "ItemName": "Trickster's Pack of Lies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358941",
+      "ItemName": "Trickster's Pack of Lies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358955",
+      "ItemName": "Trickster's Pack of Lies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338267",
+      "ItemName": "Vial of the Palace Menace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338266",
+      "ItemName": "Watson's Amulet of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338438",
+      "ItemName": "Watson's Cold Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358937",
+      "ItemName": "Watson's Cold Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358951",
+      "ItemName": "Watson's Cold Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338263",
+      "ItemName": "Yeoman's Ampul of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338183",
+      "ItemName": "Yeoman's Athame of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338013",
+      "ItemName": "Yeoman's Cloak of Reverie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338178",
+      "ItemName": "Yeoman's Dagger of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338014",
+      "ItemName": "Yeoman's Robe of Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338016",
+      "ItemName": "Yeoman's Vestment of Unity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338011",
+      "ItemName": "Yeoman's Winter Uniform",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

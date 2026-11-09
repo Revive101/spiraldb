@@ -1,0 +1,358 @@
+{
+  "Name": "CE_TreasureTower_Fire_F30",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1254217",
+      "ItemName": "Cast Symbol Fire (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254218",
+      "ItemName": "Cast Symbol Fire (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160293",
+      "ItemName": "Crate of Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414381",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414382",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414383",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414384",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414385",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414386",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414387",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414388",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414389",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414390",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414391",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414392",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414393",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414394",
+      "ItemName": "Dalia's Blazing Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414367",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414368",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414369",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414370",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414371",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414372",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414373",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414374",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414375",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414376",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414377",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414378",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414379",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414380",
+      "ItemName": "Dalia's Smoldering Hairdo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414395",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414396",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414397",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414398",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414399",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414400",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414401",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414402",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414403",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414404",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414405",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414406",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414407",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414408",
+      "ItemName": "Dalia's Sweltering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374487",
+      "ItemName": "Fishy Bird Cage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414661",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414662",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414663",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414664",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414665",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414666",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414667",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414668",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414669",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414670",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414671",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414672",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414673",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414674",
+      "ItemName": "Headmaster's Glowing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160229",
+      "ItemName": "Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160983",
+      "ItemName": "Portrait of Lydia Greyrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160982",
+      "ItemName": "Professor Ambrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160399",
+      "ItemName": "Professor Balestrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160395",
+      "ItemName": "Professor Falmea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374549",
+      "ItemName": "Ravenwood Librarian's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160208",
+      "ItemName": "Stack of 3 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164419",
+      "ItemName": "Theater Masks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

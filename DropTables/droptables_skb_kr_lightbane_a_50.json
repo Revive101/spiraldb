@@ -1,0 +1,333 @@
+{
+  "Name": "SKB_KR_Lightbane_A_50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1617061",
+      "ItemName": "Burrower's Conjuration Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614704",
+      "ItemName": "Burrower's Conjuration Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614431",
+      "ItemName": "Burrower's Conjuration Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617180",
+      "ItemName": "Burrower's Conjuration Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614417",
+      "ItemName": "Burrower's Conjuration Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614823",
+      "ItemName": "Burrower's Conjuration Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614424",
+      "ItemName": "Burrower's Conjuration Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617062",
+      "ItemName": "Burrower's Divination Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614705",
+      "ItemName": "Burrower's Divination Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614432",
+      "ItemName": "Burrower's Divination Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617181",
+      "ItemName": "Burrower's Divination Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614418",
+      "ItemName": "Burrower's Divination Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614824",
+      "ItemName": "Burrower's Divination Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614425",
+      "ItemName": "Burrower's Divination Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617057",
+      "ItemName": "Burrower's Necromancy Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614700",
+      "ItemName": "Burrower's Necromancy Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614427",
+      "ItemName": "Burrower's Necromancy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617176",
+      "ItemName": "Burrower's Necromancy Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614413",
+      "ItemName": "Burrower's Necromancy Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614819",
+      "ItemName": "Burrower's Necromancy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614420",
+      "ItemName": "Burrower's Necromancy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617058",
+      "ItemName": "Burrower's Pyromancy Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614701",
+      "ItemName": "Burrower's Pyromancy Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614428",
+      "ItemName": "Burrower's Pyromancy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617177",
+      "ItemName": "Burrower's Pyromancy Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614414",
+      "ItemName": "Burrower's Pyromancy Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614820",
+      "ItemName": "Burrower's Pyromancy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614421",
+      "ItemName": "Burrower's Pyromancy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617056",
+      "ItemName": "Burrower's Sorcery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614699",
+      "ItemName": "Burrower's Sorcery Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614426",
+      "ItemName": "Burrower's Sorcery Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617175",
+      "ItemName": "Burrower's Sorcery Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614412",
+      "ItemName": "Burrower's Sorcery Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614818",
+      "ItemName": "Burrower's Sorcery Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614419",
+      "ItemName": "Burrower's Sorcery Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617059",
+      "ItemName": "Burrower's Thaumaturgy Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614702",
+      "ItemName": "Burrower's Thaumaturgy Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614429",
+      "ItemName": "Burrower's Thaumaturgy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617178",
+      "ItemName": "Burrower's Thaumaturgy Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614415",
+      "ItemName": "Burrower's Thaumaturgy Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614821",
+      "ItemName": "Burrower's Thaumaturgy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614422",
+      "ItemName": "Burrower's Thaumaturgy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617060",
+      "ItemName": "Burrower's Theurgy Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614703",
+      "ItemName": "Burrower's Theurgy Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614430",
+      "ItemName": "Burrower's Theurgy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617179",
+      "ItemName": "Burrower's Theurgy Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614416",
+      "ItemName": "Burrower's Theurgy Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614822",
+      "ItemName": "Burrower's Theurgy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614423",
+      "ItemName": "Burrower's Theurgy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614942",
+      "ItemName": "Conjuror's Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614943",
+      "ItemName": "Diviner's Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204444",
+      "ItemName": "Dual Dragonflyer (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217523",
+      "ItemName": "Gold Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257608",
+      "ItemName": "Monarch Butterfly (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614938",
+      "ItemName": "Necromancer's Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614939",
+      "ItemName": "Pyromancer's Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534337",
+      "ItemName": "RainyPoly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534335",
+      "ItemName": "RimyPoly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1534336",
+      "ItemName": "RoilyPoly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614937",
+      "ItemName": "Sorcerer's Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204448",
+      "ItemName": "Stonehopper (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614940",
+      "ItemName": "Thaumaturge's Mystic Sphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1614941",
+      "ItemName": "Theurgist's Mystic Sphere",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,333 @@
+{
+  "Name": "GH-Level-03",
+  "Description": "Mob loot table (9 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136625",
+      "ItemName": "Arctic Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355137",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355138",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355139",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355140",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355141",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355142",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356127",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356128",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356129",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356130",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356131",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356132",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356133",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136486",
+      "ItemName": "Burnished Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136627",
+      "ItemName": "Cloak of Nephele",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136589",
+      "ItemName": "Coat of Utility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136586",
+      "ItemName": "Coldgrave Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171146",
+      "ItemName": "Conservator's Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473093",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473094",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473095",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473096",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473097",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473098",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136393",
+      "ItemName": "Crown of Hardiness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136591",
+      "ItemName": "Drape of Magnitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136581",
+      "ItemName": "Flamefollower's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171145",
+      "ItemName": "Fountain Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171144",
+      "ItemName": "Glacier Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355144",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355145",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355146",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355147",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355148",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355149",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136491",
+      "ItemName": "Ice Crystal Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136588",
+      "ItemName": "Jerkin of the Just",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136624",
+      "ItemName": "Jerkin of the Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136582",
+      "ItemName": "Longcoat of the Librarian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136623",
+      "ItemName": "Maelstrom Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136583",
+      "ItemName": "Mythologist's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136368",
+      "ItemName": "Penumbra Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136278",
+      "ItemName": "Poniard of the Last Rune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136587",
+      "ItemName": "Robe of Mourning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136622",
+      "ItemName": "Robe of Subsistence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171143",
+      "ItemName": "Scorched Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136279",
+      "ItemName": "Shortblade of Valor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136628",
+      "ItemName": "Smock of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355158",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355159",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355160",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355161",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355162",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355163",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136584",
+      "ItemName": "Survivalist's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136590",
+      "ItemName": "Vestment of Poise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171147",
+      "ItemName": "Wild Rover's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136585",
+      "ItemName": "Wrap of the Woods",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

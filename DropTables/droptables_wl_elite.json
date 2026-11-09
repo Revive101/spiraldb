@@ -1,0 +1,98 @@
+{
+  "Name": "WL_Elite",
+  "Description": "Mob loot table (28 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1603014",
+      "ItemName": "Wallaru Billabong Resort Com Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603015",
+      "ItemName": "Wallaru Billabong Resort Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603016",
+      "ItemName": "Wallaru Doom Moon Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603017",
+      "ItemName": "Wallaru Doom Moon Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603018",
+      "ItemName": "Wallaru Eucalyptus Forest Com Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603019",
+      "ItemName": "Wallaru Eucalyptus Forest Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603020",
+      "ItemName": "Wallaru Hope Springs Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650001",
+      "ItemName": "Wallaru Nightmare Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603021",
+      "ItemName": "Wallaru Outback Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603022",
+      "ItemName": "Wallaru Outback Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603023",
+      "ItemName": "Wallaru Ranch Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650000",
+      "ItemName": "Wallaru Starry Sky Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603024",
+      "ItemName": "Wallaru The Dreaming Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603025",
+      "ItemName": "Wallaru The Dreaming Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603026",
+      "ItemName": "Wallaru Wobbegong Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603027",
+      "ItemName": "Wallaru Wobbegong Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

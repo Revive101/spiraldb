@@ -1,0 +1,158 @@
+{
+  "Name": "WL_Vapor_Monster_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1628429",
+      "ItemName": "Dynamic Enforcer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628450",
+      "ItemName": "Dynamic Enforcer's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628597",
+      "ItemName": "Dynamic Protector's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628611",
+      "ItemName": "Dynamic Protector's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628427",
+      "ItemName": "Furious Enforcer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628448",
+      "ItemName": "Furious Enforcer's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628595",
+      "ItemName": "Furious Protector's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628609",
+      "ItemName": "Furious Protector's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628425",
+      "ItemName": "Just Enforcer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628446",
+      "ItemName": "Just Enforcer's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628593",
+      "ItemName": "Just Protector's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628607",
+      "ItemName": "Just Protector's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628430",
+      "ItemName": "Legendary Enforcer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628451",
+      "ItemName": "Legendary Enforcer's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628598",
+      "ItemName": "Legendary Protector's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628612",
+      "ItemName": "Legendary Protector's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628426",
+      "ItemName": "Morbid Enforcer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628447",
+      "ItemName": "Morbid Enforcer's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628594",
+      "ItemName": "Morbid Protector's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628608",
+      "ItemName": "Morbid Protector's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628428",
+      "ItemName": "Steely Enforcer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628449",
+      "ItemName": "Steely Enforcer's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628596",
+      "ItemName": "Steely Protector's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628610",
+      "ItemName": "Steely Protector's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628431",
+      "ItemName": "Thunderous Enforcer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628452",
+      "ItemName": "Thunderous Enforcer's Gavel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628599",
+      "ItemName": "Thunderous Protector's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628613",
+      "ItemName": "Thunderous Protector's Gavel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

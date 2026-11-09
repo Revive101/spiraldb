@@ -1,0 +1,103 @@
+{
+  "Name": "KT-KrokPharaoh-StormBird-KTBoss-L28",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5018",
+      "ItemName": "Band of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87298",
+      "ItemName": "Cloak of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39429",
+      "ItemName": "Durable Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38767",
+      "ItemName": "Frigid Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77714",
+      "ItemName": "Hat of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77704",
+      "ItemName": "Headwrap of Originality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77702",
+      "ItemName": "Helm of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77715",
+      "ItemName": "Hood of the Phantom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5017",
+      "ItemName": "Loop of Quietude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87297",
+      "ItemName": "Meti's Robes of Peace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87339",
+      "ItemName": "Meti's Staff of Talent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82881",
+      "ItemName": "Prince Meti Karanahn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77781",
+      "ItemName": "Prince Meti's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4984",
+      "ItemName": "Prince's Peridot Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39434",
+      "ItemName": "Slippers of Burning Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77774",
+      "ItemName": "Soothsayer's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77682",
+      "ItemName": "Sweltering Helm",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

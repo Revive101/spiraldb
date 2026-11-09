@@ -1,0 +1,103 @@
+{
+  "Name": "Tri-Gauntlet-Squid",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "468162",
+      "ItemName": "Balance Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468163",
+      "ItemName": "Death Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346495",
+      "ItemName": "Delectable Hooves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468164",
+      "ItemName": "Fire Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455356",
+      "ItemName": "Firestarter's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455357",
+      "ItemName": "Frostbit Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455355",
+      "ItemName": "Hangman's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455358",
+      "ItemName": "Hood of Esprit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455354",
+      "ItemName": "Hood of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468165",
+      "ItemName": "Ice Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468166",
+      "ItemName": "Life Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468167",
+      "ItemName": "Myth Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346493",
+      "ItemName": "Savory Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455360",
+      "ItemName": "Skyscream Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468168",
+      "ItemName": "Storm Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346494",
+      "ItemName": "Tasty Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455359",
+      "ItemName": "Tricksy Hood",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

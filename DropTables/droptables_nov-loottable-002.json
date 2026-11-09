@@ -1,0 +1,38 @@
+{
+  "Name": "NOV-LootTable-002",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126551",
+      "ItemName": "Turkey Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248154",
+      "ItemName": "Wand of the Thankful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248153",
+      "ItemName": "Wand of the Withering Day",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248152",
+      "ItemName": "Wand on the Cob",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

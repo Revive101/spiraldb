@@ -1,0 +1,213 @@
+{
+  "Name": "DS-Boss-MAW",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160810",
+      "ItemName": "Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470452",
+      "ItemName": "Dragon Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160825",
+      "ItemName": "Dragon Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160908",
+      "ItemName": "Dragon Wall Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160843",
+      "ItemName": "Dragonclaw Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384421",
+      "ItemName": "Dragonhorn Disciple's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384420",
+      "ItemName": "Dragonhorn Helm of Balance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384419",
+      "ItemName": "Dragonhorn Helm of Death",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384414",
+      "ItemName": "Dragonhorn Helm of Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384415",
+      "ItemName": "Dragonhorn Helm of Ice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384418",
+      "ItemName": "Dragonhorn Helm of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384417",
+      "ItemName": "Dragonhorn Helm of Myth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1384416",
+      "ItemName": "Dragonhorn Helm of Storm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160902",
+      "ItemName": "Dragonspyre Platform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160892",
+      "ItemName": "Dragonspyre Ruins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160909",
+      "ItemName": "Dragonwing Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160855",
+      "ItemName": "Great Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160852",
+      "ItemName": "Regal Dragon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355158",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355159",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355160",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355161",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355162",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355163",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,73 @@
+{
+  "Name": "RH-Boss-Yeti-Housing",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "181059",
+      "ItemName": "Dewberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225447",
+      "ItemName": "Diseased Wildclaw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181110",
+      "ItemName": "Felled Birch Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181086",
+      "ItemName": "Felled Evergreen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181058",
+      "ItemName": "Leaf-bare Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473441",
+      "ItemName": "Primal Wildclaw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181085",
+      "ItemName": "Purple Dewberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225404",
+      "ItemName": "Silverback Wildclaw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181094",
+      "ItemName": "Stumpworm Stump",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181054",
+      "ItemName": "Tanglebrush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181055",
+      "ItemName": "Wild Brush",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

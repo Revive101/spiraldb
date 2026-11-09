@@ -1,0 +1,108 @@
+{
+  "Name": "Colossus-Magma-Boss-R7-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126636",
+      "ItemName": "Band of Brotherhood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146307",
+      "ItemName": "Brimstone Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126685",
+      "ItemName": "Deck of Nature's Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104680",
+      "ItemName": "Firevein's Cloak of Cooling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104791",
+      "ItemName": "Firevein's Flaming Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146357",
+      "ItemName": "Firevein's Omnipotent Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146336",
+      "ItemName": "Gallows Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146352",
+      "ItemName": "Headgear of Resistance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146165",
+      "ItemName": "Poniard of the Wyrms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104659",
+      "ItemName": "Robe of the Earth Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104618",
+      "ItemName": "Robe of the Efreet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104728",
+      "ItemName": "Robe of the Magister",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104868",
+      "ItemName": "Shoes of the Gardener",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160809",
+      "ItemName": "Singed Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160832",
+      "ItemName": "Stone Plinth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104886",
+      "ItemName": "Storyteller's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104845",
+      "ItemName": "Thunderbird Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126574",
+      "ItemName": "Tornado Wring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

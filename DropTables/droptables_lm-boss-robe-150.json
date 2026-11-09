@@ -1,0 +1,98 @@
+{
+  "Name": "LM-Boss-Robe-150",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537026",
+      "ItemName": "Magician's Balance Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537025",
+      "ItemName": "Magician's Death Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537020",
+      "ItemName": "Magician's Fire Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537021",
+      "ItemName": "Magician's Ice Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537024",
+      "ItemName": "Magician's Life Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537023",
+      "ItemName": "Magician's Myth Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537027",
+      "ItemName": "Magician's Power Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537022",
+      "ItemName": "Magician's Storm Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537050",
+      "ItemName": "Malevolent Balance Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537049",
+      "ItemName": "Malevolent Death Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537044",
+      "ItemName": "Malevolent Fire Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537045",
+      "ItemName": "Malevolent Ice Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537048",
+      "ItemName": "Malevolent Life Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537047",
+      "ItemName": "Malevolent Myth Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537051",
+      "ItemName": "Malevolent Power Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537046",
+      "ItemName": "Malevolent Storm Cloak",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

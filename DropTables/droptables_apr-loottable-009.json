@@ -1,0 +1,138 @@
+{
+  "Name": "APR-LootTable-009",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248118",
+      "ItemName": "Baton of New Beginnings",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473654",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473655",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473656",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473657",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473658",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473659",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473660",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355087",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355088",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355089",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355090",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355091",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355092",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355093",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248120",
+      "ItemName": "Hopper Topper Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359796",
+      "ItemName": "Lovely Ladybug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359797",
+      "ItemName": "Lovely Leopard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363264",
+      "ItemName": "Mummy Costume Bodywraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346195",
+      "ItemName": "Pet Egg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257144",
+      "ItemName": "Rescue Rover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248119",
+      "ItemName": "Spring Fledgling Baton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257820",
+      "ItemName": "Stormrider Hare (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248117",
+      "ItemName": "Wand of the March Hare",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

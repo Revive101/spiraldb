@@ -1,0 +1,58 @@
+{
+  "Name": "EM2-Mob-Deck-127",
+  "Description": "Mob loot table (9 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462402",
+      "ItemName": "Bodacious Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462397",
+      "ItemName": "Chill Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462403",
+      "ItemName": "Choice Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462398",
+      "ItemName": "Gnarly Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462401",
+      "ItemName": "Heavy Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462399",
+      "ItemName": "Mondo Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462396",
+      "ItemName": "Rad Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462400",
+      "ItemName": "Righteous Kalamar Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

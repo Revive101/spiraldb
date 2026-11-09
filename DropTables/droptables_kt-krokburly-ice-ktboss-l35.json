@@ -1,0 +1,113 @@
+{
+  "Name": "KT-KrokBurly-Ice-KTBoss-L35",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4968",
+      "ItemName": "Amahte's Dagger of Sagas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4913",
+      "ItemName": "Amulet of Eyes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4952",
+      "ItemName": "Athame of Pyramids",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82893",
+      "ItemName": "Blue Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87283",
+      "ItemName": "Cloak of the Phantom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77759",
+      "ItemName": "Footwraps of the Mirage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82887",
+      "ItemName": "Khai Amahte Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77738",
+      "ItemName": "Khai's Entrancing Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5032",
+      "ItemName": "Powerful Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38769",
+      "ItemName": "Robe of Composure",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39420",
+      "ItemName": "Sandals of Vision",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77754",
+      "ItemName": "Shoes of Originality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77772",
+      "ItemName": "Shoes of the Augur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87300",
+      "ItemName": "Soothsayer's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77791",
+      "ItemName": "Sorcerer's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39439",
+      "ItemName": "Stout Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38753",
+      "ItemName": "Torrid Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87314",
+      "ItemName": "Vest of Somnolence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87271",
+      "ItemName": "Vestment of Vision",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

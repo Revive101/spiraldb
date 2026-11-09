@@ -1,0 +1,148 @@
+{
+  "Name": "MS-Pig-Death-Sumo-MSBoss-L47",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97471",
+      "ItemName": "Athame of Attention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98004",
+      "ItemName": "Boots of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160297",
+      "ItemName": "Crate of Pumpkins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97474",
+      "ItemName": "Dirk of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97703",
+      "ItemName": "Discerning Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98061",
+      "ItemName": "Entranced Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98066",
+      "ItemName": "Footwraps of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97624",
+      "ItemName": "Headwraps of Resonance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97672",
+      "ItemName": "Hood of the Resolute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97602",
+      "ItemName": "Mask of Impression",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97981",
+      "ItemName": "Meticulous Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160512",
+      "ItemName": "Ornate Round Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98032",
+      "ItemName": "Problematic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470197",
+      "ItemName": "Round Stone Stanchion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160498",
+      "ItemName": "Sacred Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98064",
+      "ItemName": "Sandals of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97954",
+      "ItemName": "Shoes of the Observant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97576",
+      "ItemName": "Shroud of Afterthoughts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98055",
+      "ItemName": "Slippers of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97675",
+      "ItemName": "Tamauji's Cap of the Spry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97514",
+      "ItemName": "Tamauji's Deck of Disillusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97479",
+      "ItemName": "Tamauji's Discerning Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97694",
+      "ItemName": "Tamauji's Pensive Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97722",
+      "ItemName": "Tamauji's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97895",
+      "ItemName": "Tamauji's Tunic of Stamina",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97650",
+      "ItemName": "Tormented Mask",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

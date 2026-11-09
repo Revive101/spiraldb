@@ -1,0 +1,108 @@
+{
+  "Name": "CL-FishbotYellow-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243572",
+      "ItemName": "Band of Bliss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243512",
+      "ItemName": "Band of Principles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342099",
+      "ItemName": "Crab Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243265",
+      "ItemName": "Living Thorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243345",
+      "ItemName": "Maglump's Blistering Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243630",
+      "ItemName": "Maglump's Cinder Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243532",
+      "ItemName": "Researcher's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243858",
+      "ItemName": "Shoes of the Storm Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243208",
+      "ItemName": "Sliver of Insight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243398",
+      "ItemName": "Wanderlust Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243750",
+      "ItemName": "Wrath Walkers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,223 @@
+{
+  "Name": "Wraith-WCBoss-L29",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225455",
+      "ItemName": "Blue Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473654",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473655",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473656",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473657",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473658",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473659",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473660",
+      "ItemName": "Boon Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4836",
+      "ItemName": "Branded Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160290",
+      "ItemName": "Dark Wood Crate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4667",
+      "ItemName": "Elven Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4780",
+      "ItemName": "Fine Jade Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355087",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355088",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355089",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355090",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355091",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355092",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355093",
+      "ItemName": "Happy Holidaisy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77604",
+      "ItemName": "Helm of Nightmares",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161065",
+      "ItemName": "Jacket of Withstanding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160379",
+      "ItemName": "Large Cypress Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4798",
+      "ItemName": "Lord Nightshade's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87158",
+      "ItemName": "Lord Nightshade's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87160",
+      "ItemName": "Lord Nightshade's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359796",
+      "ItemName": "Lovely Ladybug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359797",
+      "ItemName": "Lovely Leopard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100421",
+      "ItemName": "Midnight Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161035",
+      "ItemName": "Midsummer's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160222",
+      "ItemName": "Nightshade's Bones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4686",
+      "ItemName": "Nightshade's Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77541",
+      "ItemName": "Nightshade's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77536",
+      "ItemName": "Nightshade's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4799",
+      "ItemName": "Nightshade's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4738",
+      "ItemName": "Reaper's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257144",
+      "ItemName": "Rescue Rover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87163",
+      "ItemName": "Robe of Horror",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87204",
+      "ItemName": "Robe of the Lifeblood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160300",
+      "ItemName": "Royal Sofa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4853",
+      "ItemName": "Trollskin Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164085",
+      "ItemName": "Watchtower Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

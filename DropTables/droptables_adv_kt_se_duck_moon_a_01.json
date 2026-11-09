@@ -1,0 +1,158 @@
+{
+  "Name": "Adv_KT_SE_Duck_Moon_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1673511",
+      "ItemName": "Avatar's Boots of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673507",
+      "ItemName": "Avatar's Boots of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673506",
+      "ItemName": "Avatar's Boots of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673510",
+      "ItemName": "Avatar's Boots of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673509",
+      "ItemName": "Avatar's Boots of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673512",
+      "ItemName": "Avatar's Boots of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673508",
+      "ItemName": "Avatar's Boots of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673584",
+      "ItemName": "Avatar's Cards of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673580",
+      "ItemName": "Avatar's Cards of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673579",
+      "ItemName": "Avatar's Cards of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673583",
+      "ItemName": "Avatar's Cards of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673582",
+      "ItemName": "Avatar's Cards of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673585",
+      "ItemName": "Avatar's Cards of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673581",
+      "ItemName": "Avatar's Cards of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673656",
+      "ItemName": "Manifest Boots of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673652",
+      "ItemName": "Manifest Boots of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673651",
+      "ItemName": "Manifest Boots of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673655",
+      "ItemName": "Manifest Boots of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673654",
+      "ItemName": "Manifest Boots of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673657",
+      "ItemName": "Manifest Boots of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673653",
+      "ItemName": "Manifest Boots of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673635",
+      "ItemName": "Manifest Cards of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673631",
+      "ItemName": "Manifest Cards of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673630",
+      "ItemName": "Manifest Cards of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673634",
+      "ItemName": "Manifest Cards of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673633",
+      "ItemName": "Manifest Cards of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673636",
+      "ItemName": "Manifest Cards of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673632",
+      "ItemName": "Manifest Cards of Wrath",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

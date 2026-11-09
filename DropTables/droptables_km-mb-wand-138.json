@@ -1,0 +1,138 @@
+{
+  "Name": "KM-MB-Wand-138",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1515275",
+      "ItemName": "Director Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515271",
+      "ItemName": "Director Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515277",
+      "ItemName": "Director Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515272",
+      "ItemName": "Director Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515273",
+      "ItemName": "Director Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515276",
+      "ItemName": "Director Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515274",
+      "ItemName": "Director Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515270",
+      "ItemName": "Director Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515284",
+      "ItemName": "Executive Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515280",
+      "ItemName": "Executive Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515286",
+      "ItemName": "Executive Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515281",
+      "ItemName": "Executive Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515282",
+      "ItemName": "Executive Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515285",
+      "ItemName": "Executive Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515283",
+      "ItemName": "Executive Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515279",
+      "ItemName": "Executive Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515293",
+      "ItemName": "Producer's Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515289",
+      "ItemName": "Producer's Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515295",
+      "ItemName": "Producer's Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515290",
+      "ItemName": "Producer's Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515291",
+      "ItemName": "Producer's Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515294",
+      "ItemName": "Producer's Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515292",
+      "ItemName": "Producer's Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515288",
+      "ItemName": "Producer's Thermal Meter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

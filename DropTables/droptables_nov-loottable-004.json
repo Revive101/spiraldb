@@ -1,0 +1,38 @@
+{
+  "Name": "NOV-LootTable-004",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248160",
+      "ItemName": "Nature's Last Dance Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248158",
+      "ItemName": "Staff of the Harvest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126551",
+      "ItemName": "Turkey Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248159",
+      "ItemName": "Wand of Nature's Ebb",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

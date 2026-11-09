@@ -1,0 +1,68 @@
+{
+  "Name": "WC-CrabKing-Henry-R2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87217",
+      "ItemName": "Adventurer's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87221",
+      "ItemName": "Barkskin Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87235",
+      "ItemName": "Cloak of the Watchful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4733",
+      "ItemName": "Jeweled Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4841",
+      "ItemName": "Northland Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4800",
+      "ItemName": "Princely Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87163",
+      "ItemName": "Robe of Horror",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87204",
+      "ItemName": "Robe of the Lifeblood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87199",
+      "ItemName": "Soot Stained Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87211",
+      "ItemName": "Tunic of Disturbance",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

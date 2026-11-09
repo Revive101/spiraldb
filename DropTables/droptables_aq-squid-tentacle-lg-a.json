@@ -1,0 +1,88 @@
+{
+  "Name": "AQ-Squid-Tentacle-Lg-A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212000",
+      "ItemName": "Aquila Atlantea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212004",
+      "ItemName": "Aquila Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212003",
+      "ItemName": "Aquila Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212005",
+      "ItemName": "Aquila Epic Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212001",
+      "ItemName": "Aquila Olympus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212002",
+      "ItemName": "Aquila Tartarus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696701",
+      "ItemName": "Charm of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696706",
+      "ItemName": "Charm of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696704",
+      "ItemName": "Charm of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696702",
+      "ItemName": "Charm of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696705",
+      "ItemName": "Charm of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696707",
+      "ItemName": "Charm of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696703",
+      "ItemName": "Charm of Gorgon's Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203035",
+      "ItemName": "Deck of Immortal Might",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

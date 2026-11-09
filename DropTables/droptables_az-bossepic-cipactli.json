@@ -1,0 +1,283 @@
+{
+  "Name": "AZ-BossEpic-Cipactli",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730317",
+      "ItemName": "Apocalypto Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512208",
+      "ItemName": "Azteca Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512209",
+      "ItemName": "Azteca Dungeon Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512222",
+      "ItemName": "Azteca Post Apocalypse Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512212",
+      "ItemName": "Azteca Swamp Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730243",
+      "ItemName": "Blade of the Green Song",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730209",
+      "ItemName": "Brilliant Night Mask Memento",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730452",
+      "ItemName": "Brutal Ice Arrow Rod",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730428",
+      "ItemName": "Cipactli's Lost Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730424",
+      "ItemName": "Cold Codex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730288",
+      "ItemName": "Falling Star Chac's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739223",
+      "ItemName": "Gold Nugget",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730205",
+      "ItemName": "Golden Death Head Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730360",
+      "ItemName": "Moon Caiman's Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730398",
+      "ItemName": "Moon Caiman's Scaly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739171",
+      "ItemName": "Ornate Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739172",
+      "ItemName": "Palma Dino",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730319",
+      "ItemName": "Ring of Aztlan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730237",
+      "ItemName": "Savage Spike Horn Cutter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730250",
+      "ItemName": "Seven Stabs of the Sky Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730853",
+      "ItemName": "Storm Caiman's Sparking Eye",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730247",
+      "ItemName": "Vibrant Green Flower Thorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730423",
+      "ItemName": "White Fire Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730403",
+      "ItemName": "Winged Tooth Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730291",
+      "ItemName": "Winged Tooth Knight's Crown",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

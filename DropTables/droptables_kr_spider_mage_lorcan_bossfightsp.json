@@ -1,0 +1,298 @@
+{
+  "Name": "KR_Spider_Mage_Lorcan_BossfightSP",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1557007",
+      "ItemName": "Aged Hundred Legger Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592867",
+      "ItemName": "Aged Hundred Legger Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557005",
+      "ItemName": "Boots of the QuietBlade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548994",
+      "ItemName": "Burrower Crown of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592852",
+      "ItemName": "Burrower Hat of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592848",
+      "ItemName": "Charred Hat of the Burn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548990",
+      "ItemName": "Charred Mantle of the Burn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592856",
+      "ItemName": "Devil's Flower Aegis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548997",
+      "ItemName": "Devil's Flower Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592851",
+      "ItemName": "Digger Drone Hat of Duty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548993",
+      "ItemName": "Digger Drone Helm of Duty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557002",
+      "ItemName": "Digger's Boots of Symmetry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592860",
+      "ItemName": "Digger's Brimstone Aegis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557001",
+      "ItemName": "Digger's Brimstone Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592862",
+      "ItemName": "Digger's Stompers of Symmetry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592847",
+      "ItemName": "Fallen Knight Death Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548989",
+      "ItemName": "Fallen Knight Death Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592857",
+      "ItemName": "Frozen In Time Aegis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548998",
+      "ItemName": "Frozen In Time Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592846",
+      "ItemName": "Gorge Digger's Sturdy Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548988",
+      "ItemName": "Gorge Digger's Sturdy Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592855",
+      "ItemName": "Grave Digger Drone's Aegis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548996",
+      "ItemName": "Grave Digger Drone's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592864",
+      "ItemName": "Kermes Fire Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557004",
+      "ItemName": "Kermes Fire Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557006",
+      "ItemName": "Leaf Shield Clogs of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592866",
+      "ItemName": "Leaf Shield Stompers of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592854",
+      "ItemName": "Mantis Captain's Aegis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548995",
+      "ItemName": "Mantis Captain's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548992",
+      "ItemName": "Mantis Cover of Readiness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592849",
+      "ItemName": "Mantis Hat of Cold Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592850",
+      "ItemName": "Mantis Hat of Readiness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548991",
+      "ItemName": "Mantis Helm of Cold Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592859",
+      "ItemName": "Mantis Prophet's Aegis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557000",
+      "ItemName": "Mantis Prophet's Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592858",
+      "ItemName": "Mouse Aegis of Persistence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548999",
+      "ItemName": "Mouse Armor of Persistence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557003",
+      "ItemName": "Mouse Boots of Mourning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557008",
+      "ItemName": "Mouse Shoes of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592868",
+      "ItemName": "Mouse Stompers of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592863",
+      "ItemName": "Mouse Stompers of Mourning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592833",
+      "ItemName": "Shadow Queen Box of Ashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592835",
+      "ItemName": "Shadow Queen Box of Cells",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592834",
+      "ItemName": "Shadow Queen Box of Crystals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592837",
+      "ItemName": "Shadow Queen Box of Drops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592831",
+      "ItemName": "Shadow Queen Box of Dust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592832",
+      "ItemName": "Shadow Queen Box of Graves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592836",
+      "ItemName": "Shadow Queen Box of Memes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592825",
+      "ItemName": "Shadow Queen Deck of Ashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592827",
+      "ItemName": "Shadow Queen Deck of Cells",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592826",
+      "ItemName": "Shadow Queen Deck of Crystals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592829",
+      "ItemName": "Shadow Queen Deck of Drops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592823",
+      "ItemName": "Shadow Queen Deck of Dust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592824",
+      "ItemName": "Shadow Queen Deck of Graves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592828",
+      "ItemName": "Shadow Queen Deck of Memes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592865",
+      "ItemName": "Stompers of the QuietBlade",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

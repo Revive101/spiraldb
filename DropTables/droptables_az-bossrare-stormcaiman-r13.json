@@ -1,0 +1,108 @@
+{
+  "Name": "AZ-BossRare-StormCaiman-R13",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512208",
+      "ItemName": "Azteca Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512212",
+      "ItemName": "Azteca Swamp Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730393",
+      "ItemName": "Black Sun Chac's Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730316",
+      "ItemName": "Broken Spears Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730313",
+      "ItemName": "Celestial Codex Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730396",
+      "ItemName": "Eagle Lord's Cloud Dancers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730310",
+      "ItemName": "Falling Star's End Time Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730450",
+      "ItemName": "Heart of the Sky Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739196",
+      "ItemName": "Quetzal Straw Nest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730449",
+      "ItemName": "Rod of the Black Sun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730236",
+      "ItemName": "Smoking Mirror's Final Touch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730425",
+      "ItemName": "Storm Caimans Pyramid Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730353",
+      "ItemName": "Storm Owl's Favored Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730418",
+      "ItemName": "Storm Sun Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739142",
+      "ItemName": "Tall Drum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730247",
+      "ItemName": "Vibrant Green Flower Thorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739143",
+      "ItemName": "Wide Drum",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

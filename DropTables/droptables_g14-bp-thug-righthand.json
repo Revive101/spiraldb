@@ -1,0 +1,163 @@
+{
+  "Name": "G14-BP-Thug-RightHand",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338433",
+      "ItemName": "Arcana of Noble Praxis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338426",
+      "ItemName": "Barkingham Cards of Acumen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338430",
+      "ItemName": "Barkingham Case of Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338435",
+      "ItemName": "Barkingham Pack of Malaise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338429",
+      "ItemName": "Barkingham Set of Integrity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338423",
+      "ItemName": "Case of the Royal Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338105",
+      "ItemName": "Ceremonial Boots of Triumph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338439",
+      "ItemName": "Deck of the Ferocious Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338427",
+      "ItemName": "Deck of the Lush Kingdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338432",
+      "ItemName": "Deck of the Roiling Court",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338424",
+      "ItemName": "Frosted Deck of Barkingham",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338428",
+      "ItemName": "Haze Over Barkingham Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338436",
+      "ItemName": "Her Majesty's Regal Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338440",
+      "ItemName": "Jackall's Mystifying Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1719498",
+      "ItemName": "Myth Potbelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338441",
+      "ItemName": "Queen's Case of Resilience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338425",
+      "ItemName": "Rains of Barkingham Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338101",
+      "ItemName": "Rangers of the Royal Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338443",
+      "ItemName": "Regal Gallery of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338103",
+      "ItemName": "Royal Boots of Whirlwind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338102",
+      "ItemName": "Royal Ceremonial Snowshoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338104",
+      "ItemName": "Royal Footgear of Charisma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338107",
+      "ItemName": "Royal Footguards of Accord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338106",
+      "ItemName": "Royal Shoes of Remembrance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338434",
+      "ItemName": "Set of the Thriving Monarch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338437",
+      "ItemName": "Sherlock's Brilliant Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338442",
+      "ItemName": "Trickster's Pack of Lies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338438",
+      "ItemName": "Watson's Cold Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338431",
+      "ItemName": "Yeoman's Crisp Cards",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

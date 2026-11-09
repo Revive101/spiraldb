@@ -1,0 +1,158 @@
+{
+  "Name": "NV_Horse_HordeSoldier_C_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577857",
+      "ItemName": "Glistening Balance Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577843",
+      "ItemName": "Glistening Balance Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577858",
+      "ItemName": "Glistening Death Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577844",
+      "ItemName": "Glistening Death Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577859",
+      "ItemName": "Glistening Fire Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577845",
+      "ItemName": "Glistening Fire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577860",
+      "ItemName": "Glistening Ice Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577846",
+      "ItemName": "Glistening Ice Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577861",
+      "ItemName": "Glistening Life Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577847",
+      "ItemName": "Glistening Life Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577862",
+      "ItemName": "Glistening Myth Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577848",
+      "ItemName": "Glistening Myth Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577863",
+      "ItemName": "Glistening Storm Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577849",
+      "ItemName": "Glistening Storm Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577801",
+      "ItemName": "Golden Balance Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577787",
+      "ItemName": "Golden Balance Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577802",
+      "ItemName": "Golden Death Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577788",
+      "ItemName": "Golden Death Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577803",
+      "ItemName": "Golden Fire Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577789",
+      "ItemName": "Golden Fire Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577804",
+      "ItemName": "Golden Ice Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577790",
+      "ItemName": "Golden Ice Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577805",
+      "ItemName": "Golden Life Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577791",
+      "ItemName": "Golden Life Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577806",
+      "ItemName": "Golden Myth Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577792",
+      "ItemName": "Golden Myth Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577807",
+      "ItemName": "Golden Storm Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577793",
+      "ItemName": "Golden Storm Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

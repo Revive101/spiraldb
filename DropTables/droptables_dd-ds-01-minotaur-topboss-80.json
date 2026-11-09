@@ -1,0 +1,278 @@
+{
+  "Name": "DD-DS-01-Minotaur-TopBoss-80",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1335053",
+      "ItemName": "Baddle Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335052",
+      "ItemName": "Baddle of the Bands Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352053",
+      "ItemName": "Headbanger's Getup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352054",
+      "ItemName": "Headbanger's Getup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352055",
+      "ItemName": "Headbanger's Getup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352097",
+      "ItemName": "Headbanger's Hit Rig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352098",
+      "ItemName": "Headbanger's Hit Rig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352099",
+      "ItemName": "Headbanger's Hit Rig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352064",
+      "ItemName": "Headbanger's Spiked Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352065",
+      "ItemName": "Headbanger's Spiked Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352066",
+      "ItemName": "Headbanger's Spiked Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352042",
+      "ItemName": "Headbanger's Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352043",
+      "ItemName": "Headbanger's Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352044",
+      "ItemName": "Headbanger's Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160856",
+      "ItemName": "Headmaster Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160859",
+      "ItemName": "Oni Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82911",
+      "ItemName": "Pilloried Skeleton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350275",
+      "ItemName": "Playable Electric Violin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350273",
+      "ItemName": "Playable Frankenjammer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350278",
+      "ItemName": "Playable Keytar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350277",
+      "ItemName": "Playable Moody Groovers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350274",
+      "ItemName": "Playable Polka Dot Flying V",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350279",
+      "ItemName": "Playable Sassaphone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350280",
+      "ItemName": "Playable Synthesizer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350276",
+      "ItemName": "Playable Xanadu Smashers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160819",
+      "ItemName": "Plundered Crystal Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352086",
+      "ItemName": "Rocker's Beat Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352087",
+      "ItemName": "Rocker's Beat Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352088",
+      "ItemName": "Rocker's Beat Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352020",
+      "ItemName": "Rocker's Stagewear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352021",
+      "ItemName": "Rocker's Stagewear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352022",
+      "ItemName": "Rocker's Stagewear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352031",
+      "ItemName": "Rocker's Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352032",
+      "ItemName": "Rocker's Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352033",
+      "ItemName": "Rocker's Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352009",
+      "ItemName": "Rocker's Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352010",
+      "ItemName": "Rocker's Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352011",
+      "ItemName": "Rocker's Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350163",
+      "ItemName": "Rockin' Roller",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338976",
+      "ItemName": "Rockstar High Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338977",
+      "ItemName": "Rockstar High Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338978",
+      "ItemName": "Rockstar High Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338998",
+      "ItemName": "Rockstar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338999",
+      "ItemName": "Rockstar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352000",
+      "ItemName": "Rockstar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338987",
+      "ItemName": "Rockstar Threads",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338988",
+      "ItemName": "Rockstar Threads",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338989",
+      "ItemName": "Rockstar Threads",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352075",
+      "ItemName": "Rockstar Thump Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352076",
+      "ItemName": "Rockstar Thump Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352077",
+      "ItemName": "Rockstar Thump Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350160",
+      "ItemName": "White-Striped Ziger (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

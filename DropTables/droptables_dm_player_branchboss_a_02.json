@@ -1,0 +1,158 @@
+{
+  "Name": "DM_Player_BranchBoss_A_02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1707817",
+      "ItemName": "Armor of False Promises",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707814",
+      "ItemName": "Armor of the Burnt Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707818",
+      "ItemName": "Armor of the Changing Tide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707815",
+      "ItemName": "Armor of the Coldhearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707813",
+      "ItemName": "Armor of the Doomed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707816",
+      "ItemName": "Armor of the Living Lie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707812",
+      "ItemName": "Armor of the Turning Wheel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712486",
+      "ItemName": "Broken Branch Loss Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712423",
+      "ItemName": "Broken Branch Loss Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712481",
+      "ItemName": "Broken Branch Luckless Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712418",
+      "ItemName": "Broken Branch Luckless Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712485",
+      "ItemName": "Broken Branch Neglect Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712422",
+      "ItemName": "Broken Branch Neglect Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712487",
+      "ItemName": "Broken Branch Panic Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712424",
+      "ItemName": "Broken Branch Panic Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712483",
+      "ItemName": "Broken Branch Rage Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712420",
+      "ItemName": "Broken Branch Rage Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712484",
+      "ItemName": "Broken Branch Sorrow Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712421",
+      "ItemName": "Broken Branch Sorrow Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712482",
+      "ItemName": "Broken Branch Terror Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712419",
+      "ItemName": "Broken Branch Terror Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707866",
+      "ItemName": "Ring of False Promises",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707863",
+      "ItemName": "Ring of the Burnt Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707867",
+      "ItemName": "Ring of the Changing Tide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707864",
+      "ItemName": "Ring of the Coldhearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707862",
+      "ItemName": "Ring of the Doomed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707865",
+      "ItemName": "Ring of the Living Lie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707861",
+      "ItemName": "Ring of the Turning Wheel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

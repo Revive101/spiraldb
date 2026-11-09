@@ -1,0 +1,123 @@
+{
+  "Name": "Gobbler-Hick-Baron-WCBoss-L22",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4724",
+      "ItemName": "Amethyst Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4778",
+      "ItemName": "Baron's Sparking Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4859",
+      "ItemName": "Baron's Vivacious Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77599",
+      "ItemName": "Blooming Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160271",
+      "ItemName": "Carved Endtable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87235",
+      "ItemName": "Cloak of the Watchful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160295",
+      "ItemName": "Crate of Pies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160296",
+      "ItemName": "Crate of Pudding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160364",
+      "ItemName": "Frozen Stone Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4854",
+      "ItemName": "Greebly's Boots of Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87252",
+      "ItemName": "Greebly's Frost Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4671",
+      "ItemName": "Greebly's Gemstone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4739",
+      "ItemName": "Greebly's Steaknife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87209",
+      "ItemName": "Greebly's Storm Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77584",
+      "ItemName": "Greebly's Windshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512196",
+      "ItemName": "Grumpy Gobblers Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160383",
+      "ItemName": "Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4852",
+      "ItemName": "Shoes of the Troll King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4673",
+      "ItemName": "Swooping Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160231",
+      "ItemName": "Tall Sundae",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512119",
+      "ItemName": "Wizard City Combat Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

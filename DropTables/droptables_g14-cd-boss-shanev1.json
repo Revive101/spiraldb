@@ -1,0 +1,193 @@
+{
+  "Name": "G14-CD-Boss-ShaneV1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338305",
+      "ItemName": "Amulet of Neverwhere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338551",
+      "ItemName": "Bludgeon of the Dark Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338129",
+      "ItemName": "Brimstone Boots of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338045",
+      "ItemName": "Brimstone Gear of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330961",
+      "ItemName": "Brimstone Helm of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338048",
+      "ItemName": "Darkmoor Armor of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338046",
+      "ItemName": "Darkmoor Armor of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330964",
+      "ItemName": "Darkmoor Barbut of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338132",
+      "ItemName": "Darkmoor Boots of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330962",
+      "ItemName": "Darkmoor Helmet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338051",
+      "ItemName": "Darkmoor Herald's Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330967",
+      "ItemName": "Darkmoor Herald's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338309",
+      "ItemName": "Death Seeker's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330966",
+      "ItemName": "Depths of Darkmoor Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338050",
+      "ItemName": "Depths of Darkmoor Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338134",
+      "ItemName": "Depths of Darkmoor Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338306",
+      "ItemName": "FlyGob's Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330965",
+      "ItemName": "Helm of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338135",
+      "ItemName": "Herald of Darkmoor's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338549",
+      "ItemName": "Mace of the Dark Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338555",
+      "ItemName": "Mace of the Outer Void",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338553",
+      "ItemName": "Mace of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338552",
+      "ItemName": "Morning Star of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338554",
+      "ItemName": "Morning Star of Misery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338049",
+      "ItemName": "Plate of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338131",
+      "ItemName": "Raging Blackwater's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330963",
+      "ItemName": "Raging Blackwater's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338047",
+      "ItemName": "Raging Blackwater's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338130",
+      "ItemName": "Sabatons of Frozen Furor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338133",
+      "ItemName": "Sabatons of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338308",
+      "ItemName": "Spirit of Darkmoor's Jewel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338304",
+      "ItemName": "Talisman of the Daystar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338310",
+      "ItemName": "Travelling Dead's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338307",
+      "ItemName": "Universal Memento",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338550",
+      "ItemName": "Virge of the Bitter Ghost",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

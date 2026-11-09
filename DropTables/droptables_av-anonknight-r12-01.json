@@ -1,0 +1,133 @@
+{
+  "Name": "AV-AnonKnight-R12-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512164",
+      "ItemName": "Avalon Glorious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512165",
+      "ItemName": "Avalon Haunting Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635310",
+      "ItemName": "Chaos Lord's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635341",
+      "ItemName": "Crystal Cave Rose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635424",
+      "ItemName": "Deep Is The Well Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635269",
+      "ItemName": "Grim Guardian's Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635385",
+      "ItemName": "High Court Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635386",
+      "ItemName": "Horned One's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635423",
+      "ItemName": "Hundred Year Bridge Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635229",
+      "ItemName": "Knight of the Wyrd's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346128",
+      "ItemName": "Krokopatra Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346126",
+      "ItemName": "Krokopatra Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603049",
+      "ItemName": "Large Avalon Crystals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346131",
+      "ItemName": "Meowiarty Archmage Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346132",
+      "ItemName": "Meowiarty Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635270",
+      "ItemName": "Queen's Ever Sharp Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346123",
+      "ItemName": "Rattlebones Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346124",
+      "ItemName": "Rattlebones Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635230",
+      "ItemName": "Seely Wizard's Torc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635640",
+      "ItemName": "Staff of the Wildgrave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635641",
+      "ItemName": "Stag-Horned Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635309",
+      "ItemName": "Thunderstruck Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

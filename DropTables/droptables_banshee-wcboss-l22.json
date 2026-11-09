@@ -1,0 +1,123 @@
+{
+  "Name": "Banshee-WCBoss-L22",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4680",
+      "ItemName": "Bastilla's Deadly Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87246",
+      "ItemName": "Bastilla's Dread Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4737",
+      "ItemName": "Bastilla's Flame Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77592",
+      "ItemName": "Bastilla's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4781",
+      "ItemName": "Bastilla's Onyx Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4794",
+      "ItemName": "Bastilla's Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4865",
+      "ItemName": "Bastilla's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160266",
+      "ItemName": "Carved Armoire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4682",
+      "ItemName": "Choker of Ferocity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4685",
+      "ItemName": "Choker of Swarms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77613",
+      "ItemName": "Cowl of Comparison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100448",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160311",
+      "ItemName": "Fire Stone Fence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4793",
+      "ItemName": "Gravewynd's Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87255",
+      "ItemName": "Gravewynd's Earth Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87227",
+      "ItemName": "Gravewynd's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77621",
+      "ItemName": "Sapphyra's Studded Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4866",
+      "ItemName": "Slippers of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160386",
+      "ItemName": "Small Snowy Pine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77606",
+      "ItemName": "Troubled Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512118",
+      "ItemName": "Wizard City Theme 3",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

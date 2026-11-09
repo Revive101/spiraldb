@@ -1,0 +1,173 @@
+{
+  "Name": "KT-KrokPharaoh-FireTut-KTBoss-L36",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5020",
+      "ItemName": "Band of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77683",
+      "ItemName": "Cap of Burning Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38770",
+      "ItemName": "Cloak of Humility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38742",
+      "ItemName": "Cloak of the Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77728",
+      "ItemName": "Cowl of Alacrity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77747",
+      "ItemName": "Cowl of Sensibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77685",
+      "ItemName": "Cowl of Summertime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4944",
+      "ItemName": "Dagger of Silence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100463",
+      "ItemName": "Fire Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4949",
+      "ItemName": "Glacial Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87275",
+      "ItemName": "Maker's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77670",
+      "ItemName": "Manu's Hood of Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39449",
+      "ItemName": "Manu's Scorching Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38743",
+      "ItemName": "Manu's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39443",
+      "ItemName": "Parched Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39448",
+      "ItemName": "Polar Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82888",
+      "ItemName": "Prince Manu Nirini Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87286",
+      "ItemName": "Quixotic Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82823",
+      "ItemName": "Raised Fire Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82716",
+      "ItemName": "Red Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77671",
+      "ItemName": "Runed Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160991",
+      "ItemName": "Serpent Seat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5012",
+      "ItemName": "Signet of Ancients",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4965",
+      "ItemName": "Stiletto of Ignition",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

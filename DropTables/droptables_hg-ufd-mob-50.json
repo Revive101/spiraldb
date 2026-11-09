@@ -1,0 +1,153 @@
+{
+  "Name": "HG-UFD-Mob-50",
+  "Description": "Mob loot table (9 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "724089",
+      "ItemName": "Adult Birch Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641563",
+      "ItemName": "Black Dragon Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160382",
+      "ItemName": "Dead Briar Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545070",
+      "ItemName": "Ettin Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545074",
+      "ItemName": "Ettin Fanatic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545071",
+      "ItemName": "Ettin Spectator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538030",
+      "ItemName": "Farmer's Equipment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538055",
+      "ItemName": "Halls of Avalon Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522479",
+      "ItemName": "Large Autumnal Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724095",
+      "ItemName": "Large Swirl Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538026",
+      "ItemName": "Lord's Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538024",
+      "ItemName": "Medium Berry Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522485",
+      "ItemName": "Modest Autumnal Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538044",
+      "ItemName": "Mushroom Cottage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641561",
+      "ItemName": "Pendragon Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522486",
+      "ItemName": "Short Autumnal Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470462",
+      "ItemName": "Single Candle Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545077",
+      "ItemName": "Slugfest Fan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1545076",
+      "ItemName": "Slugfest Spectator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522478",
+      "ItemName": "Small Autumnal Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522481",
+      "ItemName": "Small Wintry Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522484",
+      "ItemName": "Tall Autumnal Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538021",
+      "ItemName": "Tattered Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470410",
+      "ItemName": "Tower Bell",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641562",
+      "ItemName": "White Dragon Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641571",
+      "ItemName": "Wooden Mirror",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160334",
+      "ItemName": "Wraith Statue",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

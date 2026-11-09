@@ -1,0 +1,978 @@
+{
+  "Name": "LM-Mob-Gear-142",
+  "Description": "Mob loot table (40 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537181",
+      "ItemName": "Lemurian Ancient One Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537585",
+      "ItemName": "Lemurian Ancient One Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535851",
+      "ItemName": "Lemurian Ancient One Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537197",
+      "ItemName": "Lemurian Ancient One Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535859",
+      "ItemName": "Lemurian Ancient One Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535867",
+      "ItemName": "Lemurian Ancient One Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537468",
+      "ItemName": "Lemurian Ancient One Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537189",
+      "ItemName": "Lemurian Ancient One Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537129",
+      "ItemName": "Lemurian Barbarian Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537565",
+      "ItemName": "Lemurian Barbarian Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535799",
+      "ItemName": "Lemurian Barbarian Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537145",
+      "ItemName": "Lemurian Barbarian Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535807",
+      "ItemName": "Lemurian Barbarian Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535815",
+      "ItemName": "Lemurian Barbarian Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537446",
+      "ItemName": "Lemurian Barbarian Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537137",
+      "ItemName": "Lemurian Barbarian Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537175",
+      "ItemName": "Lemurian Cold Steel Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537579",
+      "ItemName": "Lemurian Cold Steel Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535845",
+      "ItemName": "Lemurian Cold Steel Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537191",
+      "ItemName": "Lemurian Cold Steel Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535853",
+      "ItemName": "Lemurian Cold Steel Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535861",
+      "ItemName": "Lemurian Cold Steel Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537462",
+      "ItemName": "Lemurian Cold Steel Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537183",
+      "ItemName": "Lemurian Cold Steel Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537155",
+      "ItemName": "Lemurian Deadly Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537575",
+      "ItemName": "Lemurian Deadly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535825",
+      "ItemName": "Lemurian Deadly Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537171",
+      "ItemName": "Lemurian Deadly Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535833",
+      "ItemName": "Lemurian Deadly Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535841",
+      "ItemName": "Lemurian Deadly Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537457",
+      "ItemName": "Lemurian Deadly Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537163",
+      "ItemName": "Lemurian Deadly Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537176",
+      "ItemName": "Lemurian Deflector Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537580",
+      "ItemName": "Lemurian Deflector Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535846",
+      "ItemName": "Lemurian Deflector Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537192",
+      "ItemName": "Lemurian Deflector Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535854",
+      "ItemName": "Lemurian Deflector Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535862",
+      "ItemName": "Lemurian Deflector Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537463",
+      "ItemName": "Lemurian Deflector Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537184",
+      "ItemName": "Lemurian Deflector Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537127",
+      "ItemName": "Lemurian Detective Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537563",
+      "ItemName": "Lemurian Detective Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535797",
+      "ItemName": "Lemurian Detective Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537143",
+      "ItemName": "Lemurian Detective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535805",
+      "ItemName": "Lemurian Detective Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535813",
+      "ItemName": "Lemurian Detective Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537444",
+      "ItemName": "Lemurian Detective Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537135",
+      "ItemName": "Lemurian Detective Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537152",
+      "ItemName": "Lemurian Electric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537572",
+      "ItemName": "Lemurian Electric Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535822",
+      "ItemName": "Lemurian Electric Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537168",
+      "ItemName": "Lemurian Electric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535830",
+      "ItemName": "Lemurian Electric Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535838",
+      "ItemName": "Lemurian Electric Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537454",
+      "ItemName": "Lemurian Electric Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537160",
+      "ItemName": "Lemurian Electric Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537150",
+      "ItemName": "Lemurian Eruption Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537570",
+      "ItemName": "Lemurian Eruption Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535820",
+      "ItemName": "Lemurian Eruption Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537166",
+      "ItemName": "Lemurian Eruption Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535828",
+      "ItemName": "Lemurian Eruption Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535836",
+      "ItemName": "Lemurian Eruption Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537452",
+      "ItemName": "Lemurian Eruption Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537158",
+      "ItemName": "Lemurian Eruption Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537153",
+      "ItemName": "Lemurian Ferocious Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537573",
+      "ItemName": "Lemurian Ferocious Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535823",
+      "ItemName": "Lemurian Ferocious Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537169",
+      "ItemName": "Lemurian Ferocious Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535831",
+      "ItemName": "Lemurian Ferocious Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535839",
+      "ItemName": "Lemurian Ferocious Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537455",
+      "ItemName": "Lemurian Ferocious Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537161",
+      "ItemName": "Lemurian Ferocious Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537174",
+      "ItemName": "Lemurian Firewall Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537578",
+      "ItemName": "Lemurian Firewall Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535844",
+      "ItemName": "Lemurian Firewall Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537190",
+      "ItemName": "Lemurian Firewall Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535852",
+      "ItemName": "Lemurian Firewall Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535860",
+      "ItemName": "Lemurian Firewall Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537461",
+      "ItemName": "Lemurian Firewall Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537182",
+      "ItemName": "Lemurian Firewall Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537133",
+      "ItemName": "Lemurian Founder's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537569",
+      "ItemName": "Lemurian Founder's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535803",
+      "ItemName": "Lemurian Founder's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537149",
+      "ItemName": "Lemurian Founder's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535811",
+      "ItemName": "Lemurian Founder's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535819",
+      "ItemName": "Lemurian Founder's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537450",
+      "ItemName": "Lemurian Founder's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537141",
+      "ItemName": "Lemurian Founder's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537151",
+      "ItemName": "Lemurian Freezer Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537571",
+      "ItemName": "Lemurian Freezer Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535821",
+      "ItemName": "Lemurian Freezer Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537167",
+      "ItemName": "Lemurian Freezer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535829",
+      "ItemName": "Lemurian Freezer Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535837",
+      "ItemName": "Lemurian Freezer Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537453",
+      "ItemName": "Lemurian Freezer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537159",
+      "ItemName": "Lemurian Freezer Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537156",
+      "ItemName": "Lemurian Hex Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537576",
+      "ItemName": "Lemurian Hex Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535826",
+      "ItemName": "Lemurian Hex Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537172",
+      "ItemName": "Lemurian Hex Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535834",
+      "ItemName": "Lemurian Hex Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535842",
+      "ItemName": "Lemurian Hex Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537458",
+      "ItemName": "Lemurian Hex Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537164",
+      "ItemName": "Lemurian Hex Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537131",
+      "ItemName": "Lemurian Horror Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537567",
+      "ItemName": "Lemurian Horror Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535801",
+      "ItemName": "Lemurian Horror Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537147",
+      "ItemName": "Lemurian Horror Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535809",
+      "ItemName": "Lemurian Horror Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535817",
+      "ItemName": "Lemurian Horror Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537448",
+      "ItemName": "Lemurian Horror Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537139",
+      "ItemName": "Lemurian Horror Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537130",
+      "ItemName": "Lemurian Jungle Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537566",
+      "ItemName": "Lemurian Jungle Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535800",
+      "ItemName": "Lemurian Jungle Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537146",
+      "ItemName": "Lemurian Jungle Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535808",
+      "ItemName": "Lemurian Jungle Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535816",
+      "ItemName": "Lemurian Jungle Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537447",
+      "ItemName": "Lemurian Jungle Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537138",
+      "ItemName": "Lemurian Jungle Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537154",
+      "ItemName": "Lemurian Lifeforce Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537574",
+      "ItemName": "Lemurian Lifeforce Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535824",
+      "ItemName": "Lemurian Lifeforce Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537170",
+      "ItemName": "Lemurian Lifeforce Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535832",
+      "ItemName": "Lemurian Lifeforce Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535840",
+      "ItemName": "Lemurian Lifeforce Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537456",
+      "ItemName": "Lemurian Lifeforce Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537162",
+      "ItemName": "Lemurian Lifeforce Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537157",
+      "ItemName": "Lemurian Old Judge Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537577",
+      "ItemName": "Lemurian Old Judge Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535827",
+      "ItemName": "Lemurian Old Judge Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537173",
+      "ItemName": "Lemurian Old Judge Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535835",
+      "ItemName": "Lemurian Old Judge Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535843",
+      "ItemName": "Lemurian Old Judge Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537459",
+      "ItemName": "Lemurian Old Judge Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537165",
+      "ItemName": "Lemurian Old Judge Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537178",
+      "ItemName": "Lemurian Preservation Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537582",
+      "ItemName": "Lemurian Preservation Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535848",
+      "ItemName": "Lemurian Preservation Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537194",
+      "ItemName": "Lemurian Preservation Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535856",
+      "ItemName": "Lemurian Preservation Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535864",
+      "ItemName": "Lemurian Preservation Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537465",
+      "ItemName": "Lemurian Preservation Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537186",
+      "ItemName": "Lemurian Preservation Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537128",
+      "ItemName": "Lemurian Science Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537564",
+      "ItemName": "Lemurian Science Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535798",
+      "ItemName": "Lemurian Science Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537144",
+      "ItemName": "Lemurian Science Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535806",
+      "ItemName": "Lemurian Science Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535814",
+      "ItemName": "Lemurian Science Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537445",
+      "ItemName": "Lemurian Science Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537136",
+      "ItemName": "Lemurian Science Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537180",
+      "ItemName": "Lemurian Stability Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537584",
+      "ItemName": "Lemurian Stability Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535850",
+      "ItemName": "Lemurian Stability Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537196",
+      "ItemName": "Lemurian Stability Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535858",
+      "ItemName": "Lemurian Stability Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535866",
+      "ItemName": "Lemurian Stability Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537467",
+      "ItemName": "Lemurian Stability Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537188",
+      "ItemName": "Lemurian Stability Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537132",
+      "ItemName": "Lemurian Teleological Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537568",
+      "ItemName": "Lemurian Teleological Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535802",
+      "ItemName": "Lemurian Teleological Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537148",
+      "ItemName": "Lemurian Teleological Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535810",
+      "ItemName": "Lemurian Teleological Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535818",
+      "ItemName": "Lemurian Teleological Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537449",
+      "ItemName": "Lemurian Teleological Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537140",
+      "ItemName": "Lemurian Teleological Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537177",
+      "ItemName": "Lemurian Undaunting Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537581",
+      "ItemName": "Lemurian Undaunting Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535847",
+      "ItemName": "Lemurian Undaunting Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537193",
+      "ItemName": "Lemurian Undaunting Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535855",
+      "ItemName": "Lemurian Undaunting Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535863",
+      "ItemName": "Lemurian Undaunting Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537464",
+      "ItemName": "Lemurian Undaunting Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537185",
+      "ItemName": "Lemurian Undaunting Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537179",
+      "ItemName": "Lemurian Undead Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537583",
+      "ItemName": "Lemurian Undead Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535849",
+      "ItemName": "Lemurian Undead Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537195",
+      "ItemName": "Lemurian Undead Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535857",
+      "ItemName": "Lemurian Undead Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535865",
+      "ItemName": "Lemurian Undead Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537466",
+      "ItemName": "Lemurian Undead Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537187",
+      "ItemName": "Lemurian Undead Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537126",
+      "ItemName": "Lemurian Volcanic Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537562",
+      "ItemName": "Lemurian Volcanic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535796",
+      "ItemName": "Lemurian Volcanic Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537142",
+      "ItemName": "Lemurian Volcanic Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535804",
+      "ItemName": "Lemurian Volcanic Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535812",
+      "ItemName": "Lemurian Volcanic Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537443",
+      "ItemName": "Lemurian Volcanic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537134",
+      "ItemName": "Lemurian Volcanic Talisman",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

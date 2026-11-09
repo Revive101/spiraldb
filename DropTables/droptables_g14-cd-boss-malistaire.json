@@ -1,0 +1,448 @@
+{
+  "Name": "G14-CD-Boss-Malistaire",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338468",
+      "ItemName": "Arcana of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338060",
+      "ItemName": "Armor of the Cold Hearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338383",
+      "ItemName": "Blackwater's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338216",
+      "ItemName": "Blade of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338551",
+      "ItemName": "Bludgeon of the Dark Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338143",
+      "ItemName": "Boots of Malistaire's Ire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338129",
+      "ItemName": "Brimstone Boots of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338045",
+      "ItemName": "Brimstone Gear of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330961",
+      "ItemName": "Brimstone Helm of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338297",
+      "ItemName": "Brimstone Torc of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338466",
+      "ItemName": "Cards of the Blue Ague",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330979",
+      "ItemName": "Cowl of Undying Malistaire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338048",
+      "ItemName": "Darkmoor Armor of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338046",
+      "ItemName": "Darkmoor Armor of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330964",
+      "ItemName": "Darkmoor Barbut of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338132",
+      "ItemName": "Darkmoor Boots of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338298",
+      "ItemName": "Darkmoor Frost Collar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330962",
+      "ItemName": "Darkmoor Helmet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338051",
+      "ItemName": "Darkmoor Herald's Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330967",
+      "ItemName": "Darkmoor Herald's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338465",
+      "ItemName": "Darkmoor's Brimstone Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338471",
+      "ItemName": "Darkmoor's Case of Scrutiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338064",
+      "ItemName": "Death Lord's Cloak of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338148",
+      "ItemName": "Death Lord's Greaves of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330980",
+      "ItemName": "Death Lord's Veil of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338469",
+      "ItemName": "Deck of Unchecked Passion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330966",
+      "ItemName": "Depths of Darkmoor Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338050",
+      "ItemName": "Depths of Darkmoor Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338134",
+      "ItemName": "Depths of Darkmoor Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338217",
+      "ItemName": "Dirk of Unnatural Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338213",
+      "ItemName": "Dragon's Tooth of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338065",
+      "ItemName": "Drape of the Exalted One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338302",
+      "ItemName": "Embodiment of Death Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338384",
+      "ItemName": "Gargoyle's Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330965",
+      "ItemName": "Helm of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338219",
+      "ItemName": "Herald of Darkmoor's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338387",
+      "ItemName": "Herald of Darkmoor's Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338135",
+      "ItemName": "Herald of Darkmoor's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330976",
+      "ItemName": "Hood of the Cold Hearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338300",
+      "ItemName": "Kan Davasi Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338062",
+      "ItemName": "Kan Davasi Victor's Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338146",
+      "ItemName": "Kan Davasi Victor's Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330978",
+      "ItemName": "Kan Davasi Victor's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338214",
+      "ItemName": "Kris of Cold Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338568",
+      "ItemName": "Lord of Death's Dragonstaff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338549",
+      "ItemName": "Mace of the Dark Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338555",
+      "ItemName": "Mace of the Outer Void",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338553",
+      "ItemName": "Mace of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338145",
+      "ItemName": "Malistaire's Boots of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338061",
+      "ItemName": "Malistaire's Cloak of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330977",
+      "ItemName": "Malistaire's Cowl of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330981",
+      "ItemName": "Masque of the Exalted One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338552",
+      "ItemName": "Morning Star of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338554",
+      "ItemName": "Morning Star of Misery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338301",
+      "ItemName": "Pendant of Love's Grace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338049",
+      "ItemName": "Plate of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338564",
+      "ItemName": "Quarterstaff of Cold Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338131",
+      "ItemName": "Raging Blackwater's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330963",
+      "ItemName": "Raging Blackwater's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338047",
+      "ItemName": "Raging Blackwater's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338299",
+      "ItemName": "Relic of the Fetid Lagoon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338386",
+      "ItemName": "Ring of Mortis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338059",
+      "ItemName": "Robes of Malistaire's Ire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338130",
+      "ItemName": "Sabatons of Frozen Furor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338149",
+      "ItemName": "Sabatons of the Exalted One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338133",
+      "ItemName": "Sabatons of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338218",
+      "ItemName": "Sharp Edge of the Void",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338144",
+      "ItemName": "Shoes of the Cold Hearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330975",
+      "ItemName": "Shroud of Malistaire's Ire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338381",
+      "ItemName": "Signet of the Howling Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338563",
+      "ItemName": "Staff of Malistaire's Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338565",
+      "ItemName": "Staff of the Dragon's Maw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338566",
+      "ItemName": "Staff of the Twisted Mind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338567",
+      "ItemName": "Staff of the Undying Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338569",
+      "ItemName": "Staff of the Void Stalker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338215",
+      "ItemName": "Thunderclap Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338467",
+      "ItemName": "Thunderous Darkmoor Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338147",
+      "ItemName": "Undying Malistaire's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338063",
+      "ItemName": "Undying Malistaire's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338303",
+      "ItemName": "Vial From the Fetid Lagoon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338550",
+      "ItemName": "Virge of the Bitter Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338470",
+      "ItemName": "Von Shane's Hand of Doom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338382",
+      "ItemName": "Wolfbane Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338385",
+      "ItemName": "von Shane Family Signet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

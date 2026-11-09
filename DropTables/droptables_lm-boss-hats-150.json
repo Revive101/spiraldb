@@ -1,0 +1,98 @@
+{
+  "Name": "LM-Boss-Hats-150",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537018",
+      "ItemName": "Magician's Balance Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537017",
+      "ItemName": "Magician's Death Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537012",
+      "ItemName": "Magician's Fire Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537013",
+      "ItemName": "Magician's Ice Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537016",
+      "ItemName": "Magician's Life Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537015",
+      "ItemName": "Magician's Myth Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537019",
+      "ItemName": "Magician's Power Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537014",
+      "ItemName": "Magician's Storm Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537042",
+      "ItemName": "Malevolent Balance Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537041",
+      "ItemName": "Malevolent Death Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537036",
+      "ItemName": "Malevolent Fire Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537037",
+      "ItemName": "Malevolent Ice Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537040",
+      "ItemName": "Malevolent Life Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537039",
+      "ItemName": "Malevolent Myth Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537043",
+      "ItemName": "Malevolent Power Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537038",
+      "ItemName": "Malevolent Storm Cap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

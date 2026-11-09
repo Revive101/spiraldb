@@ -1,0 +1,88 @@
+{
+  "Name": "Wizard-Female-Band-Black-Boss-R8-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1592363",
+      "ItemName": "Chronius' Continuum Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548923",
+      "ItemName": "Chronius' Continuum Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592362",
+      "ItemName": "Crystalline Queen's Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548922",
+      "ItemName": "Crystalline Queen's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592359",
+      "ItemName": "Kraysys' Astral Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548919",
+      "ItemName": "Kraysys' Astral Carcanet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592364",
+      "ItemName": "Markmaker's Lightning Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548924",
+      "ItemName": "Markmaker's Lightning Locket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592358",
+      "ItemName": "Shadowmark's Amulet of Making",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548918",
+      "ItemName": "Shadowmark's Charm of Making",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592360",
+      "ItemName": "Snowcrusher's Flame Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548920",
+      "ItemName": "Snowcrusher's Flame Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592361",
+      "ItemName": "Spiderkeeper's Frost Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548921",
+      "ItemName": "Spiderkeeper's Frostcharm",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

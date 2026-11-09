@@ -1,0 +1,138 @@
+{
+  "Name": "ME_Clock_Lucia_01",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "667458",
+      "ItemName": "Avenging Helm of Glory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302011",
+      "ItemName": "Avenging Helm of Glory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667494",
+      "ItemName": "Boots of Walking Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302015",
+      "ItemName": "Boots of Walking Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667393",
+      "ItemName": "Flashing Dragon Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257914",
+      "ItemName": "Flashing Dragon Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667375",
+      "ItemName": "Glinting Dragon Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257912",
+      "ItemName": "Glinting Dragon Lance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667476",
+      "ItemName": "Glorious Avenger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302013",
+      "ItemName": "Glorious Avenger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667485",
+      "ItemName": "Helmet of Royal Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302014",
+      "ItemName": "Helmet of Royal Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667467",
+      "ItemName": "Marvelous Avenging Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302012",
+      "ItemName": "Marvelous Avenging Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667503",
+      "ItemName": "Royal Armor of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302016",
+      "ItemName": "Royal Armor of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667384",
+      "ItemName": "Sinister Dragon Pike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257913",
+      "ItemName": "Sinister Dragon Pike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667530",
+      "ItemName": "Smoldering Vengeance Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302019",
+      "ItemName": "Smoldering Vengeance Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667521",
+      "ItemName": "Smoldering Vengeance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302018",
+      "ItemName": "Smoldering Vengeance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667512",
+      "ItemName": "Smoldering Vengeance Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302017",
+      "ItemName": "Smoldering Vengeance Helm",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

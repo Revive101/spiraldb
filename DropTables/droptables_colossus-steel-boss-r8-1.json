@@ -1,0 +1,113 @@
+{
+  "Name": "Colossus-Steel-Boss-R8-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146125",
+      "ItemName": "Blade of the Homunculus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146177",
+      "ItemName": "Claw of Conciliation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104714",
+      "ItemName": "Coat of the Zephyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512131",
+      "ItemName": "Dragonspyre Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146273",
+      "ItemName": "Hood of the Homunculus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104776",
+      "ItemName": "Mocassins of the Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146342",
+      "ItemName": "Reaper's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126593",
+      "ItemName": "Rime-edged Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104833",
+      "ItemName": "Sandals of the Generous Earth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104783",
+      "ItemName": "Sandals of the Homunculus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126615",
+      "ItemName": "Seal of the Gallium Paladin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146126",
+      "ItemName": "Searing Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160884",
+      "ItemName": "Short Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146271",
+      "ItemName": "Shroud of the Green",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126566",
+      "ItemName": "Signet of the Homunculus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104644",
+      "ItemName": "Surcoat of the Homunculus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104643",
+      "ItemName": "Tunic of Tradition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160821",
+      "ItemName": "Upright Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104611",
+      "ItemName": "Vestment of the Inferno",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

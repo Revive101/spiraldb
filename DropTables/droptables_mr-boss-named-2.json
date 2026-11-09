@@ -1,0 +1,68 @@
+{
+  "Name": "MR-Boss-Named-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1407099",
+      "ItemName": "Tetrus Ampul of Isolation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407098",
+      "ItemName": "Tetrus Ampul of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407108",
+      "ItemName": "Tetrus Ringlet of Fusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407106",
+      "ItemName": "Tetrus Ringlet of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407105",
+      "ItemName": "Tetrus Ringlet of Rumination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407064",
+      "ItemName": "Time Warden Downpour Kavuk ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407083",
+      "ItemName": "Time Warden Galesh of Gloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407081",
+      "ItemName": "Time Warden Galesh of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407068",
+      "ItemName": "Time Warden Kavuk of Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407063",
+      "ItemName": "Time Warden Snowdrift Kavuk",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

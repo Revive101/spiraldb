@@ -1,0 +1,38 @@
+{
+  "Name": "NOV-LootTable-003",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248155",
+      "ItemName": "Corncob Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248156",
+      "ItemName": "Scepter of Chill Wind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126551",
+      "ItemName": "Turkey Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248157",
+      "ItemName": "Wand of the Fallen Leaves",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

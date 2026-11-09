@@ -1,0 +1,203 @@
+{
+  "Name": "AV-JadeOni",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350309",
+      "ItemName": "Adept's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161049",
+      "ItemName": "Angelic Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97658",
+      "ItemName": "Brooding Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98053",
+      "ItemName": "Dashing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470199",
+      "ItemName": "Decorative Cannon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164099",
+      "ItemName": "Even Footing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98022",
+      "ItemName": "Gogi Berry Stained Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97674",
+      "ItemName": "Headwraps of the Zealous",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97610",
+      "ItemName": "Helm of Disquiet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160575",
+      "ItemName": "Imperial Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126987",
+      "ItemName": "Jade Oni",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87779",
+      "ItemName": "Jade Oni's Amethyst Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97433",
+      "ItemName": "Jade Oni's Amulet of Duplicity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97927",
+      "ItemName": "Jade Oni's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97544",
+      "ItemName": "Jade Oni's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97762",
+      "ItemName": "Jade Oni's Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97546",
+      "ItemName": "Jade Oni's Shroud of Nothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97766",
+      "ItemName": "Jade Oni's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346128",
+      "ItemName": "Krokopatra Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346126",
+      "ItemName": "Krokopatra Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346131",
+      "ItemName": "Meowiarty Archmage Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346132",
+      "ItemName": "Meowiarty Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512088",
+      "ItemName": "MooShu Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512101",
+      "ItemName": "MooShu Plague Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97808",
+      "ItemName": "Peculiar Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346123",
+      "ItemName": "Rattlebones Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346124",
+      "ItemName": "Rattlebones Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97972",
+      "ItemName": "Slippers of Enthusiasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98002",
+      "ItemName": "Slippers of Inflection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160573",
+      "ItemName": "Statue Base",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160488",
+      "ItemName": "Statue of Koto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97858",
+      "ItemName": "Tunic of Anthems",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97827",
+      "ItemName": "Tunic of Discontent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164079",
+      "ItemName": "Tunic of Fiery Renewal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97899",
+      "ItemName": "Vestment of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

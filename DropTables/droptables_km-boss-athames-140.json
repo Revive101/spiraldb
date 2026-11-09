@@ -1,0 +1,138 @@
+{
+  "Name": "KM-Boss-Athames-140",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1515141",
+      "ItemName": "Guten Artisan Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515145",
+      "ItemName": "Guten Candymancer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515144",
+      "ItemName": "Guten Dreamsearcher Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515138",
+      "ItemName": "Guten Freshbaker Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515140",
+      "ItemName": "Guten Sciencer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515143",
+      "ItemName": "Guten Sentamentalist Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515142",
+      "ItemName": "Guten Sweetsmith Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515139",
+      "ItemName": "Guten Wonderneer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515189",
+      "ItemName": "Uber Artisan Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515193",
+      "ItemName": "Uber Candymancer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515192",
+      "ItemName": "Uber Dreamsearcher Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515186",
+      "ItemName": "Uber Freshbaker Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515188",
+      "ItemName": "Uber Sciencer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515191",
+      "ItemName": "Uber Sentamentalist Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515190",
+      "ItemName": "Uber Sweetsmith Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515187",
+      "ItemName": "Uber Wonderneer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515165",
+      "ItemName": "Wunderbar Artisan Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515169",
+      "ItemName": "Wunderbar Candymancer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515168",
+      "ItemName": "Wunderbar Dreamsearcher Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515162",
+      "ItemName": "Wunderbar Freshbaker Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515164",
+      "ItemName": "Wunderbar Sciencer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515167",
+      "ItemName": "Wunderbar Sentamentalist Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515166",
+      "ItemName": "Wunderbar Sweetsmith Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515163",
+      "ItemName": "Wunderbar Wonderneer Knife",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

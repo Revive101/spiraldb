@@ -1,0 +1,268 @@
+{
+  "Name": "AQ-MiniBoss-30",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "171201",
+      "ItemName": "Boots of Composure",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171196",
+      "ItemName": "Boots of the Vortex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171186",
+      "ItemName": "Broghans of the Wanderer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136414",
+      "ItemName": "Cap of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136422",
+      "ItemName": "Cap of the Stratosphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136416",
+      "ItemName": "Circlet of the Unavoidable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136656",
+      "ItemName": "Drape of the Deep Blue Sea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136289",
+      "ItemName": "Edge of Veracity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136425",
+      "ItemName": "Firebloom Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171179",
+      "ItemName": "Firewalking Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136291",
+      "ItemName": "Forgebright Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171180",
+      "ItemName": "Frigid Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136424",
+      "ItemName": "Frostwoven Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136660",
+      "ItemName": "Garment of Generality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136418",
+      "ItemName": "Headgear of Revival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136294",
+      "ItemName": "Hepatizon Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136657",
+      "ItemName": "Jerkin of the Seer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136658",
+      "ItemName": "Lifeweave Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171200",
+      "ItemName": "Long Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136420",
+      "ItemName": "Mantle of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136290",
+      "ItemName": "Mortal Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136659",
+      "ItemName": "Raiment of Lamentation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136654",
+      "ItemName": "Robe of the Raging Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171198",
+      "ItemName": "Sapient Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819570",
+      "ItemName": "Senator's Devious Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819612",
+      "ItemName": "Senator's Devious Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819591",
+      "ItemName": "Senator's Devious Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819611",
+      "ItemName": "Senator's Guiding Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819571",
+      "ItemName": "Senator's Judicial Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819613",
+      "ItemName": "Senator's Judicial Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819592",
+      "ItemName": "Senator's Judicial Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819569",
+      "ItemName": "Senator's Laurel of Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819566",
+      "ItemName": "Senator's Mantle of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819610",
+      "ItemName": "Senator's Poetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819568",
+      "ItemName": "Senator's Poetic Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819589",
+      "ItemName": "Senator's Poetic Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819565",
+      "ItemName": "Senator's Radiant Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819607",
+      "ItemName": "Senator's Radiant Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819586",
+      "ItemName": "Senator's Radiant Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819567",
+      "ItemName": "Senator's Raincloud Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819609",
+      "ItemName": "Senator's Raincloud Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819588",
+      "ItemName": "Senator's Raincloud Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819590",
+      "ItemName": "Senator's Stirring Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819608",
+      "ItemName": "Senator's Wintry Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819587",
+      "ItemName": "Senator's Wintry Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136296",
+      "ItemName": "Snow-forged Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136247",
+      "ItemName": "Talisman of the Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136295",
+      "ItemName": "Telluric Stylet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136283",
+      "ItemName": "Vigilant Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136655",
+      "ItemName": "Winterweave Coat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

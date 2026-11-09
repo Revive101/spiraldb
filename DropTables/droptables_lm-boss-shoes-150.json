@@ -1,0 +1,98 @@
+{
+  "Name": "LM-Boss-Shoes-150",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537034",
+      "ItemName": "Magician's Balance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537033",
+      "ItemName": "Magician's Death Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537028",
+      "ItemName": "Magician's Fire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537029",
+      "ItemName": "Magician's Ice Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537032",
+      "ItemName": "Magician's Life Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537031",
+      "ItemName": "Magician's Myth Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537035",
+      "ItemName": "Magician's Power Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537030",
+      "ItemName": "Magician's Storm Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537058",
+      "ItemName": "Malevolent Balance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537057",
+      "ItemName": "Malevolent Death Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537052",
+      "ItemName": "Malevolent Fire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537053",
+      "ItemName": "Malevolent Ice Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537056",
+      "ItemName": "Malevolent Life Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537055",
+      "ItemName": "Malevolent Myth Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537059",
+      "ItemName": "Malevolent Power Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537054",
+      "ItemName": "Malevolent Storm Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,58 @@
+{
+  "Name": "WC-CA-Drains-Boss-04",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489406",
+      "ItemName": "Dragonspyre Vanguard's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489405",
+      "ItemName": "Vanguard's Balanced Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489404",
+      "ItemName": "Vanguard's Deadly Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489399",
+      "ItemName": "Vanguard's Fiery Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489400",
+      "ItemName": "Vanguard's Icy Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489402",
+      "ItemName": "Vanguard's Mythic Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489401",
+      "ItemName": "Vanguard's Shocking Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489403",
+      "ItemName": "Vanguard's Vibrant Dagger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

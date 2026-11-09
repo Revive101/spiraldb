@@ -1,0 +1,148 @@
+{
+  "Name": "KT-KrokPharaoh-StormBand-KTBoss-L35",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "38752",
+      "ItemName": "Ardent Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4967",
+      "ItemName": "Athame of Adaption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38766",
+      "ItemName": "Bitter Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87313",
+      "ItemName": "Cloak of Respite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87274",
+      "ItemName": "Cloak of the Designer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87326",
+      "ItemName": "Cloak of the Sage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77761",
+      "ItemName": "Conjurer's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77778",
+      "ItemName": "Dusty Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82831",
+      "ItemName": "Krok Storm Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39437",
+      "ItemName": "Pyromancer's Lambent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87282",
+      "ItemName": "Robe of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77788",
+      "ItemName": "Sandals of Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5023",
+      "ItemName": "Seal of the Conqueror",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77773",
+      "ItemName": "Slippers of Revelations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4916",
+      "ItemName": "Son of Storms' Sigil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87301",
+      "ItemName": "Son of Storms's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77726",
+      "ItemName": "Soothsayer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82844",
+      "ItemName": "Storm Chameleon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77769",
+      "ItemName": "Theurge's Shoes of Marvel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

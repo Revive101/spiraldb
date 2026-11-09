@@ -1,0 +1,98 @@
+{
+  "Name": "AV-Wyrm-Firespitter-R11-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512162",
+      "ItemName": "Avalon Abbey Road Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512161",
+      "ItemName": "Avalon Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635243",
+      "ItemName": "Badger's Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635614",
+      "ItemName": "Bludgeon of Confidence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635299",
+      "ItemName": "Champion of Order's Icy Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635298",
+      "ItemName": "Chaos Knight's Blazing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635412",
+      "ItemName": "Courageous Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635212",
+      "ItemName": "Druid's Amulet of Courage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635373",
+      "ItemName": "Fire-Spitter Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635413",
+      "ItemName": "Noble Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635213",
+      "ItemName": "Pendant of Armiger's Tenacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635334",
+      "ItemName": "Toasty Band of the Fire Elves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635242",
+      "ItemName": "Weirwood's Thorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603039",
+      "ItemName": "Wide Red Rose Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635374",
+      "ItemName": "Winter Wyrm's Cloak",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

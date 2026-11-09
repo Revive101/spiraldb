@@ -1,0 +1,263 @@
+{
+  "Name": "AQ-MiniBoss-70",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635409",
+      "ItemName": "Boots of Giant Dancing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635405",
+      "ItemName": "Boots of the Lake Shore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635249",
+      "ItemName": "Brave Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635358",
+      "ItemName": "Courageous Armiger's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635411",
+      "ItemName": "Courtly Armored Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635406",
+      "ItemName": "Deep Water Splashers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635291",
+      "ItemName": "Fire Elf Champion's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635410",
+      "ItemName": "Froudling Creepers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635294",
+      "ItemName": "Great Faerie Knight Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635362",
+      "ItemName": "Hospitable Armiger's Tartan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635251",
+      "ItemName": "Hound's Tooth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635407",
+      "ItemName": "Jouster's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635364",
+      "ItemName": "Jouster's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635361",
+      "ItemName": "Just Armiger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635296",
+      "ItemName": "Last Knight's Guard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635293",
+      "ItemName": "Lightning Lizard Rider's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635363",
+      "ItemName": "Loyal Armiger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635253",
+      "ItemName": "Loyal Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635360",
+      "ItemName": "Merciful Armiger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635295",
+      "ItemName": "Mother Oak's Guard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635359",
+      "ItemName": "Noble Armiger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635252",
+      "ItemName": "Noble Hunter's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635254",
+      "ItemName": "Old Green Beard's Needle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635297",
+      "ItemName": "Order's Princely Guard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635292",
+      "ItemName": "Paladin's Frosty Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635256",
+      "ItemName": "Savage Hunter's Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819614",
+      "ItemName": "Senator's  Shoes of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819574",
+      "ItemName": "Senator's Downpour Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819616",
+      "ItemName": "Senator's Downpour Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819595",
+      "ItemName": "Senator's Downpour Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819572",
+      "ItemName": "Senator's Embering Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819577",
+      "ItemName": "Senator's Forlorn Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819619",
+      "ItemName": "Senator's Forlorn Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819598",
+      "ItemName": "Senator's Forlorn Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819573",
+      "ItemName": "Senator's Frigid Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819615",
+      "ItemName": "Senator's Frigid Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819594",
+      "ItemName": "Senator's Frigid Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819576",
+      "ItemName": "Senator's Laurel of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819618",
+      "ItemName": "Senator's Sandals of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819575",
+      "ItemName": "Senator's Scholarly Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819617",
+      "ItemName": "Senator's Scholarly Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819596",
+      "ItemName": "Senator's Scholarly Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819578",
+      "ItemName": "Senator's Stately Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819620",
+      "ItemName": "Senator's Stately Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819599",
+      "ItemName": "Senator's Stately Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819593",
+      "ItemName": "Senator's Toga of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819597",
+      "ItemName": "Senator's Toga of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635408",
+      "ItemName": "Whitehaven Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635250",
+      "ItemName": "Wild Tangle Blade",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

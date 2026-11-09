@@ -1,0 +1,88 @@
+{
+  "Name": "Helephant-Fire-R9",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1592355",
+      "ItemName": "Gurtok Apotheosis Coil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548930",
+      "ItemName": "Gurtok Apotheosis Ringlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548928",
+      "ItemName": "Gurtok Celsius Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592353",
+      "ItemName": "Gurtok Celsius Coil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548931",
+      "ItemName": "Gurtok Fulgis Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592356",
+      "ItemName": "Gurtok Fulgis Coil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592352",
+      "ItemName": "Gurtok Ignus Coil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548927",
+      "ItemName": "Gurtok Ignus Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592351",
+      "ItemName": "Gurtok Mortis Coil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548926",
+      "ItemName": "Gurtok Mortis Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592350",
+      "ItemName": "Gurtok Oroboros Coil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548925",
+      "ItemName": "Gurtok Oroboros Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592354",
+      "ItemName": "Gurtok Vivus Coil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548929",
+      "ItemName": "Gurtok Vivus Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

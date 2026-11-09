@@ -1,0 +1,88 @@
+{
+  "Name": "Minion75_11Boss",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "540267",
+      "ItemName": "Big Five Trackers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540266",
+      "ItemName": "Charging Bull's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540263",
+      "ItemName": "Cold Storm Trackers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540268",
+      "ItemName": "Finely Balanced Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635398",
+      "ItemName": "Friend of the Fire Elf Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635404",
+      "ItemName": "Hanging Stones Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540262",
+      "ItemName": "Ironhide Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635403",
+      "ItemName": "Long as Night Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635402",
+      "ItemName": "Luck Smithed Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635401",
+      "ItemName": "Ponycorn Hoofers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635399",
+      "ItemName": "Slick Road Grippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635400",
+      "ItemName": "Splashing Stream Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540264",
+      "ItemName": "Steppers of Ice and Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540265",
+      "ItemName": "Witch Doctor's Juju Rangers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

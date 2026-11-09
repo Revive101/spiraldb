@@ -1,0 +1,38 @@
+{
+  "Name": "KR_Hornet_Drone_A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203197",
+      "ItemName": "Battle-Worn Burrower Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603156",
+      "ItemName": "Burrower Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203198",
+      "ItemName": "Kermes Fire Miner's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203199",
+      "ItemName": "Mantis Plate of Frostfall",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,213 @@
+{
+  "Name": "KT-Ghost-Blue-KTBoss-L28",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5024",
+      "ItemName": "Advocate's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4938",
+      "ItemName": "Ancient Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4945",
+      "ItemName": "Athame of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5029",
+      "ItemName": "Band of Energy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82749",
+      "ItemName": "Blue Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87334",
+      "ItemName": "Ceremonial Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87281",
+      "ItemName": "Conjurer's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77725",
+      "ItemName": "Cowl of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4948",
+      "ItemName": "Cryptkeeper's Shortsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39421",
+      "ItemName": "Diviner's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38764",
+      "ItemName": "Durable Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4950",
+      "ItemName": "Flamedancer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87296",
+      "ItemName": "Garments of the Augur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77752",
+      "ItemName": "Hood of the Stronghold",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82845",
+      "ItemName": "Ice Chameleon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5011",
+      "ItemName": "Loop of Talent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5031",
+      "ItemName": "Loop of Tall Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4972",
+      "ItemName": "Mummified Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5007",
+      "ItemName": "Partisan's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4906",
+      "ItemName": "Pendant of the Icy Soul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4970",
+      "ItemName": "Pharaohs Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38751",
+      "ItemName": "Pyromancer's Lambent Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5019",
+      "ItemName": "Ring of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87270",
+      "ItemName": "Robe of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87309",
+      "ItemName": "Robes of Dormancy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87268",
+      "ItemName": "Rugged Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87354",
+      "ItemName": "Scavenger's Staff of Sagas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77799",
+      "ItemName": "Shoes of the Fortress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77770",
+      "ItemName": "Soul Scavenger's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87329",
+      "ItemName": "Soul Scavenger's Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87322",
+      "ItemName": "Threadbare Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5005",
+      "ItemName": "Victor's Signet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

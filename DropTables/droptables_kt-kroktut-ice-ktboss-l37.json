@@ -1,0 +1,173 @@
+{
+  "Name": "KT-KrokTut-Ice-KTBoss-L37",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4913",
+      "ItemName": "Amulet of Eyes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100419",
+      "ItemName": "Arctic Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4967",
+      "ItemName": "Athame of Adaption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4943",
+      "ItemName": "Athame of the Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5033",
+      "ItemName": "Band of the Bastion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160989",
+      "ItemName": "Beetle Beanbag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38742",
+      "ItemName": "Cloak of the Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4969",
+      "ItemName": "Dagger of Downpour",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164071",
+      "ItemName": "Harvest Foe's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164091",
+      "ItemName": "Ill-omened Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160251",
+      "ItemName": "Knotted Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82768",
+      "ItemName": "Krok Tree Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77666",
+      "ItemName": "Krokhotep's Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38736",
+      "ItemName": "Krokhotep's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77661",
+      "ItemName": "Krokhotep's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77667",
+      "ItemName": "Krokhotep's Desert Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39452",
+      "ItemName": "Krokhotep's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39454",
+      "ItemName": "Krokhotep's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38734",
+      "ItemName": "Krokhotep's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160987",
+      "ItemName": "Lunar-Emblem Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39443",
+      "ItemName": "Parched Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5009",
+      "ItemName": "Pharaoh's Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39448",
+      "ItemName": "Polar Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5032",
+      "ItemName": "Powerful Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160396",
+      "ItemName": "Professor Greyrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77671",
+      "ItemName": "Runed Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5023",
+      "ItemName": "Seal of the Conqueror",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87327",
+      "ItemName": "Shroud of Rationality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77726",
+      "ItemName": "Soothsayer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87314",
+      "ItemName": "Vest of Somnolence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161041",
+      "ItemName": "Woodsman's Veil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

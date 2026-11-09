@@ -1,0 +1,138 @@
+{
+  "Name": "KT-Banshee-Blue-KTBoss-L29",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4938",
+      "ItemName": "Ancient Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87315",
+      "ItemName": "Balmy Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77725",
+      "ItemName": "Cowl of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39421",
+      "ItemName": "Diviner's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4909",
+      "ItemName": "Djeserit's Lucky Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39419",
+      "ItemName": "Djeserit's Shoes of Artistry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87310",
+      "ItemName": "Garments of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77704",
+      "ItemName": "Headwrap of Originality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77752",
+      "ItemName": "Hood of the Stronghold",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77684",
+      "ItemName": "Mask of Humidity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38751",
+      "ItemName": "Pyromancer's Lambent Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77707",
+      "ItemName": "Queen's Helm of Designs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5019",
+      "ItemName": "Ring of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87270",
+      "ItemName": "Robe of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87328",
+      "ItemName": "Robe of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87309",
+      "ItemName": "Robes of Dormancy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77760",
+      "ItemName": "Rough-hewn Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77762",
+      "ItemName": "Shoes of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77799",
+      "ItemName": "Shoes of the Fortress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77793",
+      "ItemName": "Slippers of Sensibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87323",
+      "ItemName": "Sorcerer's Maroon Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82834",
+      "ItemName": "Storm Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77790",
+      "ItemName": "Threadbare Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5005",
+      "ItemName": "Victor's Signet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

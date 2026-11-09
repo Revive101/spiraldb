@@ -1,0 +1,43 @@
+{
+  "Name": "1-270-DSCommon-20",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160877",
+      "ItemName": "Broken Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160880",
+      "ItemName": "Broken Pillar and Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160796",
+      "ItemName": "Broken Wood Plank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160875",
+      "ItemName": "Magma Blister",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160888",
+      "ItemName": "Pointed Rock Shard",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,338 @@
+{
+  "Name": "EM2-Mob-Gear-127",
+  "Description": "Mob loot table (17 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462370",
+      "ItemName": "Bodacious Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462282",
+      "ItemName": "Bodacious Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462402",
+      "ItemName": "Bodacious Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462194",
+      "ItemName": "Bodacious Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462274",
+      "ItemName": "Bodacious Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462178",
+      "ItemName": "Bodacious Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462290",
+      "ItemName": "Bodacious Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462186",
+      "ItemName": "Bodacious Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462365",
+      "ItemName": "Chill Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462277",
+      "ItemName": "Chill Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462397",
+      "ItemName": "Chill Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462189",
+      "ItemName": "Chill Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462269",
+      "ItemName": "Chill Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462173",
+      "ItemName": "Chill Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462285",
+      "ItemName": "Chill Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462181",
+      "ItemName": "Chill Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462371",
+      "ItemName": "Choice Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462283",
+      "ItemName": "Choice Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462403",
+      "ItemName": "Choice Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462195",
+      "ItemName": "Choice Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462275",
+      "ItemName": "Choice Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462179",
+      "ItemName": "Choice Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462291",
+      "ItemName": "Choice Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462187",
+      "ItemName": "Choice Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462366",
+      "ItemName": "Gnarly Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462278",
+      "ItemName": "Gnarly Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462398",
+      "ItemName": "Gnarly Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462190",
+      "ItemName": "Gnarly Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462270",
+      "ItemName": "Gnarly Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462174",
+      "ItemName": "Gnarly Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462286",
+      "ItemName": "Gnarly Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462182",
+      "ItemName": "Gnarly Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462369",
+      "ItemName": "Heavy Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462281",
+      "ItemName": "Heavy Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462401",
+      "ItemName": "Heavy Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462193",
+      "ItemName": "Heavy Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462273",
+      "ItemName": "Heavy Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462177",
+      "ItemName": "Heavy Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462289",
+      "ItemName": "Heavy Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462185",
+      "ItemName": "Heavy Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462367",
+      "ItemName": "Mondo Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462279",
+      "ItemName": "Mondo Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462399",
+      "ItemName": "Mondo Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462191",
+      "ItemName": "Mondo Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462271",
+      "ItemName": "Mondo Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462175",
+      "ItemName": "Mondo Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462287",
+      "ItemName": "Mondo Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462183",
+      "ItemName": "Mondo Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462364",
+      "ItemName": "Rad Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462276",
+      "ItemName": "Rad Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462396",
+      "ItemName": "Rad Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462188",
+      "ItemName": "Rad Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462268",
+      "ItemName": "Rad Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462172",
+      "ItemName": "Rad Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462284",
+      "ItemName": "Rad Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462180",
+      "ItemName": "Rad Kalamar Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462368",
+      "ItemName": "Righteous Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462280",
+      "ItemName": "Righteous Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462400",
+      "ItemName": "Righteous Kalamar Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462192",
+      "ItemName": "Righteous Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462272",
+      "ItemName": "Righteous Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462176",
+      "ItemName": "Righteous Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462288",
+      "ItemName": "Righteous Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462184",
+      "ItemName": "Righteous Kalamar Tunic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

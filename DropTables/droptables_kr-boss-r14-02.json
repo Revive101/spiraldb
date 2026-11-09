@@ -1,0 +1,128 @@
+{
+  "Name": "KR-Boss-R14-02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203267",
+      "ItemName": "Boots of the BurrowBuilder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203338",
+      "ItemName": "BurrowBuilder's Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203339",
+      "ItemName": "Charm of the Fierce Mantis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203683",
+      "ItemName": "Cudgel of Frostbite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203142",
+      "ItemName": "Dragonfly Rider's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203337",
+      "ItemName": "FireWing's Jewel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203216",
+      "ItemName": "Flame Legs Captain's Mail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203669",
+      "ItemName": "Ice-Forged Burrower Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203408",
+      "ItemName": "LimeBlight's Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203266",
+      "ItemName": "Mantis Chitin Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203410",
+      "ItemName": "Pack of Frozen Souls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203386",
+      "ItemName": "Sabina's Dagger of Revival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203684",
+      "ItemName": "Staff of the Sand Devil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248067",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248068",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248069",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248070",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248071",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248072",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217214",
+      "ItemName": "The Savvy Satyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212038",
+      "ItemName": "Wizard City Dreamworld Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "Adv_DM_Scholomari_PriestessF_B_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1707737",
+      "ItemName": "Chilling Abomination Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707734",
+      "ItemName": "Doomed Abomination Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707739",
+      "ItemName": "Mythic Abomination Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707738",
+      "ItemName": "Sanguine Abomination Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707735",
+      "ItemName": "Scary Abomination Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707869",
+      "ItemName": "Scholomantic Death Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707874",
+      "ItemName": "Scholomantic Destructive Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707870",
+      "ItemName": "Scholomantic Devilish Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707873",
+      "ItemName": "Scholomantic Fortune Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707868",
+      "ItemName": "Scholomantic Justice Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707871",
+      "ItemName": "Scholomantic Strength Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707872",
+      "ItemName": "Scholomantic Worldly Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707740",
+      "ItemName": "Shocking Abomination Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707736",
+      "ItemName": "Tense Abomination Amulet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

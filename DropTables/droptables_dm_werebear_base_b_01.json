@@ -1,0 +1,88 @@
+{
+  "Name": "DM_Werebear_Base_B_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1707791",
+      "ItemName": "Ancient Dhampir Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707793",
+      "ItemName": "Ancient Hemavore Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707795",
+      "ItemName": "Ancient Immortal Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707792",
+      "ItemName": "Ancient Living Dead Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707794",
+      "ItemName": "Ancient Nightstalker Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707797",
+      "ItemName": "Ancient Nosferatu Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707796",
+      "ItemName": "Ancient Vampire Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712460",
+      "ItemName": "Fledgling Dhampir Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712462",
+      "ItemName": "Fledgling Hemavore Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712464",
+      "ItemName": "Fledgling Immortal Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712461",
+      "ItemName": "Fledgling Living Dead Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712463",
+      "ItemName": "Fledgling Nightstalker Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712466",
+      "ItemName": "Fledgling Nosferatu Regalia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712465",
+      "ItemName": "Fledgling Vampire Regalia",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}
