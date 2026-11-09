@@ -9,7 +9,127 @@
   "MaxGold": 135,
   "ExperienceAmount": 895,
   "TrainingPoints": 0,
-  "Items": [],
+  "Items": [
+    {
+      "ItemId": "171148",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Fire",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "171149",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Ice",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "171150",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Storm",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "171151",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Myth",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "171152",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Life",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "171153",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Death",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "171154",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Balance",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    }
+  ],
   "CreatedAt": "2026-10-14T18:12:00.803372Z",
   "ModifiedAt": "2026-10-14T18:12:00.803372Z",
   "CreatedBy": "quest_builder",

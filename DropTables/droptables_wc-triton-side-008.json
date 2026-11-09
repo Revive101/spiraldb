@@ -15,6 +15,125 @@
       "ItemName": "",
       "Notes": "",
       "Requirements": null
+    },
+    {
+      "ItemId": "77543",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Fire",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "77544",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Ice",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "77545",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Storm",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "77546",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Myth",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "77547",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Life",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "77548",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Death",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
+    },
+    {
+      "ItemId": "77549",
+      "ItemName": "",
+      "Notes": "",
+      "Requirements": {
+        "m_requirements": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ReqSchoolOfFocus, Imcodec.ObjectProperty",
+            "m_magicSchool": "Balance",
+            "m_applyNOT": false,
+            "m_operator": "ROP_AND"
+          }
+        ],
+        "m_applyNOT": false,
+        "m_operator": "ROP_AND"
+      }
     }
   ],
   "CreatedAt": "2026-10-14T18:12:05.604075Z",
