@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "treasure-card-inventory.schema.json",
+  "title": "TreasureCardInventory",
+  "type": "object",
+  "properties": {
+    "TemplateID": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "TreasureCards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "SpellName": {
+            "type": "string"
+          },
+          "Price": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "SpellName",
+          "Price"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "TemplateID",
+    "TreasureCards"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "quest-template.schema.json",
+  "title": "QuestTemplate",
+  "type": "object",
+  "properties": {
+    "$type": {
+      "type": "string"
+    },
+    "m_questName": {
+      "type": "string"
+    },
+    "m_questNameID": {
+      "type": "integer"
+    },
+    "m_questTitle": {
+      "type": "string"
+    },
+    "m_questInfo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "m_questPrep": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "m_questUnderway": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "m_questComplete": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "m_startGoals": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "m_goals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "m_goalName": {
+            "type": "string"
+          },
+          "m_goalNameID": {
+            "type": "integer"
+          },
+          "m_goalTitle": {
+            "type": "string"
+          },
+          "m_goalType": {
+            "type": "string"
+          },
+          "m_autoQualify": {
+            "type": "boolean"
+          },
+          "m_autoComplete": {
+            "type": "boolean"
+          },
+          "m_destinationZone": {
+            "type": "string"
+          },
+          "m_locationName": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "m_goalName",
+          "m_goalNameID",
+          "m_goalTitle",
+          "m_goalType",
+          "m_autoQualify",
+          "m_autoComplete"
+        ]
+      }
+    },
+    "m_startResults": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "m_endResults": {
+      "type": "object",
+      "properties": {
+        "m_results": {
+          "type": "array"
+        }
+      },
+      "required": [
+        "m_results"
+      ]
+    },
+    "m_requirements": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "m_prepRequirements": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "m_pruneRequirements": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "m_prepAlways": {
+      "type": "boolean"
+    },
+    "m_clientTags": {
+      "type": [
+        "array",
+        "null"
+      ]
+    },
+    "m_goalLogic": {
+      "type": "array"
+    },
+    "m_questLevel": {
+      "type": "integer"
+    },
+    "m_questRepeat": {
+      "type": "integer"
+    },
+    "m_onStartQuestScript": {
+      "type": "string"
+    },
+    "m_onEndQuestScript": {
+      "type": "string"
+    },
+    "m_dialogList": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "m_missionDoors": {
+      "type": [
+        "array",
+        "null"
+      ]
+    },
+    "m_dynaMods": {
+      "type": [
+        "array",
+        "null"
+      ]
+    },
+    "m_isHidden": {
+      "type": "boolean"
+    },
+    "m_outdated": {
+      "type": "boolean"
+    },
+    "m_noQuestHelper": {
+      "type": "boolean"
+    },
+    "m_mainline": {
+      "type": "boolean"
+    },
+    "m_defaultDialogAnimation": {
+      "type": [
+        "array",
+        "null"
+      ]
+    },
+    "m_skipQHAutoSelect": {
+      "type": "boolean"
+    },
+    "m_questEffectInfoList": {
+      "type": [
+        "array",
+        "null"
+      ]
+    },
+    "m_forceInteraction": {
+      "type": "boolean"
+    },
+    "m_checkInventoryForCrafting": {
+      "type": "boolean"
+    },
+    "m_playAsYourPetNPC": {
+      "type": "boolean"
+    },
+    "m_activityType": {
+      "enum": [
+        "ACTIVITY_NotActivity",
+        "ACTIVITY_Spell",
+        "ACTIVITY_Pet"
+      ]
+    },
+    "m_behaviors": {
+      "type": [
+        "array",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "m_questName",
+    "m_questNameID",
+    "m_questTitle",
+    "m_startGoals",
+    "m_goals",
+    "m_endResults",
+    "m_questLevel",
+    "m_activityType"
+  ],
+  "additionalProperties": true,
+  "description": "Nested requirement/result/dialog structures are intentionally loose; only top-level shape and goal basics are enforced."
+}

@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "crown-shop-tab.schema.json",
+  "title": "CrownShopTab",
+  "type": "object",
+  "properties": {
+    "tabId": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    },
+    "categoryIds": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tags": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "categoryId": {
+            "type": "integer"
+          },
+          "parentTabId": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "icon": {
+            "type": "string"
+          },
+          "tags": {
+            "type": "string"
+          },
+          "flags": {
+            "type": "object",
+            "properties": {
+              "allowMultipleBuy": {
+                "type": "boolean"
+              },
+              "dontFilterOwnedRecoItems": {
+                "type": "boolean"
+              },
+              "forceDisallowMultipleBuy": {
+                "type": "boolean"
+              },
+              "isEverythingCategory": {
+                "type": "boolean"
+              },
+              "isGroupElixirsCategory": {
+                "type": "boolean"
+              },
+              "isHousesCategory": {
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "allowMultipleBuy",
+              "dontFilterOwnedRecoItems",
+              "forceDisallowMultipleBuy",
+              "isEverythingCategory",
+              "isGroupElixirsCategory",
+              "isHousesCategory"
+            ],
+            "additionalProperties": false
+          },
+          "description": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "categoryId",
+          "parentTabId",
+          "name",
+          "icon",
+          "tags",
+          "flags"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "templateId": {
+            "type": "integer"
+          },
+          "crownsCost": {
+            "type": "integer"
+          },
+          "goldCost": {
+            "type": "integer"
+          },
+          "displayPriority": {
+            "type": "array"
+          }
+        },
+        "required": [
+          "templateId",
+          "crownsCost",
+          "displayPriority"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "tabId",
+    "name",
+    "icon",
+    "categoryIds",
+    "tags",
+    "description",
+    "categories"
+  ],
+  "additionalProperties": false
+}
