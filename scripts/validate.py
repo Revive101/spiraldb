@@ -13,6 +13,7 @@ MAP = {
     "DropTables": "drop-table",
     "GlobalRegistry": "global-registry",
     "NpcBank": "npc-bank",
+    "NpcDropTable": "npc-drop-table",
     "NpcInventory": "npc-inventory",
     "NpcSeamstress": "npc-seamstress",
     "NpcSpellInventory": "npc-spell-inventory",
