@@ -2,6 +2,18 @@
   "TemplateID": 38204,
   "Spells": [
     {
+      "TemplateID": 1714865811,
+      "RequiredSpellID": 1889156557,
+      "Level": 18,
+      "TrainingPoints": 0
+    },
+    {
+      "TemplateID": 1929565140,
+      "RequiredSpellID": 1569212953,
+      "Level": 75,
+      "TrainingPoints": 0
+    },
+    {
       "TemplateID": 84361,
       "RequiredSpellID": 0,
       "Level": 1
@@ -22,6 +34,11 @@
       "Level": 10
     },
     {
+      "TemplateID": 784677378,
+      "RequiredSpellID": 2071077573,
+      "Level": 15
+    },
+    {
       "TemplateID": 2071077573,
       "RequiredSpellID": 1889156557,
       "Level": 16
@@ -40,6 +57,11 @@
       "TemplateID": 84793363,
       "RequiredSpellID": 1792950125,
       "Level": 26
+    },
+    {
+      "TemplateID": 248210062,
+      "RequiredSpellID": 1792950125,
+      "Level": 28
     },
     {
       "TemplateID": 1437424064,
@@ -87,6 +109,16 @@
       "Level": 50
     },
     {
+      "TemplateID": 1408643162,
+      "RequiredSpellID": 775630999,
+      "Level": 50
+    },
+    {
+      "TemplateID": 1392148352,
+      "RequiredSpellID": 1408643162,
+      "Level": 60
+    },
+    {
       "TemplateID": 312384304,
       "RequiredSpellID": 1946678757,
       "Level": 70
@@ -95,6 +127,21 @@
       "TemplateID": 1915532365,
       "RequiredSpellID": 1946678757,
       "Level": 70
+    },
+    {
+      "TemplateID": 1569212953,
+      "RequiredSpellID": 1392148352,
+      "Level": 70
+    },
+    {
+      "TemplateID": 474579317,
+      "RequiredSpellID": 1569212953,
+      "Level": 80
+    },
+    {
+      "TemplateID": 1216397273,
+      "RequiredSpellID": 474579317,
+      "Level": 90
     },
     {
       "TemplateID": 303995696,
