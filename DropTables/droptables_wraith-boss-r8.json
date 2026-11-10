@@ -1,0 +1,323 @@
+{
+  "Name": "Wraith-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146168",
+      "ItemName": "Athame of the Volcano",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126561",
+      "ItemName": "Band of Balance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146218",
+      "ItemName": "Cap of the Unflinching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146334",
+      "ItemName": "Coif of Quietus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146284",
+      "ItemName": "Cowl of the Glacier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146335",
+      "ItemName": "Helm of Oblivion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146270",
+      "ItemName": "Hood of the Ranger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126638",
+      "ItemName": "Ring of the Carbuncle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104707",
+      "ItemName": "Robe of the Gale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104617",
+      "ItemName": "Salamander's Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104768",
+      "ItemName": "Sandals of Scorching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104834",
+      "ItemName": "Sandals of Zest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126592",
+      "ItemName": "Sapphire Studded Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146172",
+      "ItemName": "Sliver of Doubt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104684",
+      "ItemName": "Snowflower Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104730",
+      "ItemName": "Storyteller's Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104755",
+      "ItemName": "Sylvia Drake's Chilled Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104636",
+      "ItemName": "Sylvia Drake's Funeral Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104808",
+      "ItemName": "Undying Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

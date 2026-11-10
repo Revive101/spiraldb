@@ -1,0 +1,123 @@
+{
+  "Name": "Cyclops-RedHelmet-WCBoss-L18",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77569",
+      "ItemName": "Akilles' Blazing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4676",
+      "ItemName": "Amulet of the Fay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87221",
+      "ItemName": "Barkskin Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100410",
+      "ItemName": "Blue Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346502",
+      "ItemName": "Bolt Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87207",
+      "ItemName": "Canvas Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77581",
+      "ItemName": "Cloudburst Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4844",
+      "ItemName": "Cloudburst Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160332",
+      "ItemName": "Cyclops Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160407",
+      "ItemName": "Dark Wall Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160378",
+      "ItemName": "Elm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4855",
+      "ItemName": "Goldleaf Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4779",
+      "ItemName": "Hallowed Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4720",
+      "ItemName": "Jade Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4733",
+      "ItemName": "Jeweled Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4841",
+      "ItemName": "Northland Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160099",
+      "ItemName": "Resplendent Rod",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160098",
+      "ItemName": "Scepter of Tribute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77583",
+      "ItemName": "Stormweave Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77588",
+      "ItemName": "Trollskin Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87211",
+      "ItemName": "Tunic of Disturbance",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

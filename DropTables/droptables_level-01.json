@@ -1,0 +1,63 @@
+{
+  "Name": "Level-01",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77552",
+      "ItemName": "Canvas Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77551",
+      "ItemName": "Frost-touched Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77572",
+      "ItemName": "Fur-lined Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77615",
+      "ItemName": "Novice's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87237",
+      "ItemName": "Novice's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4874",
+      "ItemName": "Roughspun Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4850",
+      "ItemName": "Soft Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77550",
+      "ItemName": "Soot Stained Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87218",
+      "ItemName": "Sturdy Coat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

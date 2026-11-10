@@ -1,0 +1,63 @@
+{
+  "Name": "Gauntlet-01-Nightglider",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "191452",
+      "ItemName": "Jewel of Nullification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502505",
+      "ItemName": "Nightglider's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191457",
+      "ItemName": "Philosopher's Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191455",
+      "ItemName": "Ring of Winterbite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191456",
+      "ItemName": "Seal of Salvation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191453",
+      "ItemName": "Signet of the Sepulcher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191454",
+      "ItemName": "Simmering Sigil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191458",
+      "ItemName": "Stormtossed Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512187",
+      "ItemName": "Wizard City Pet Derby Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

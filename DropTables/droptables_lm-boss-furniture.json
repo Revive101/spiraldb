@@ -1,0 +1,158 @@
+{
+  "Name": "LM-Boss-Furniture",
+  "Description": "Mob loot table (34 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1536045",
+      "ItemName": "Arcanum Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511217",
+      "ItemName": "Cargo",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536042",
+      "ItemName": "Lemuria Action Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536025",
+      "ItemName": "Lemuria Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536032",
+      "ItemName": "Lemuria Forest Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536033",
+      "ItemName": "Lemuria Forest Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536043",
+      "ItemName": "Lemuria Heroic Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536026",
+      "ItemName": "Lemuria Jungle Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536027",
+      "ItemName": "Lemuria Jungle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536028",
+      "ItemName": "Lemuria Lab Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536029",
+      "ItemName": "Lemuria Mandoria Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536030",
+      "ItemName": "Lemuria Mandoria Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536041",
+      "ItemName": "Lemuria Minds Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536031",
+      "ItemName": "Lemuria Mystery Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536024",
+      "ItemName": "Lemuria Noir Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536023",
+      "ItemName": "Lemuria Noir Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536034",
+      "ItemName": "Lemuria Sky City Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536035",
+      "ItemName": "Lemuria Sky City Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536046",
+      "ItemName": "Lemuria Telos Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536047",
+      "ItemName": "Lemuria Telos Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536048",
+      "ItemName": "Lemuria Telos Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536049",
+      "ItemName": "Lemuria Telos Theme 4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536050",
+      "ItemName": "Lemuria Telos Theme 5",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536051",
+      "ItemName": "Lemuria Telos Theme 6",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536052",
+      "ItemName": "Lemuria Telos Theme 7",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1536036",
+      "ItemName": "Lemuria Ursai Village Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511214",
+      "ItemName": "Periodic Table Poster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511225",
+      "ItemName": "Puzzle Cube",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "FEB-LootTable-008",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248083",
+      "ItemName": "Baton of Instigation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126969",
+      "ItemName": "Cupig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248082",
+      "ItemName": "Staff of Entwinement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248084",
+      "ItemName": "Staff of the Sureshot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126945",
+      "ItemName": "Valentine Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248081",
+      "ItemName": "Wand of Sincerity",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

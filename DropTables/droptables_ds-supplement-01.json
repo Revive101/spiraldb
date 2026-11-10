@@ -1,0 +1,83 @@
+{
+  "Name": "DS-Supplement-01",
+  "Description": "Mob loot table (40 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "104588",
+      "ItemName": "Arbiter's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104669",
+      "ItemName": "Arboreal Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146182",
+      "ItemName": "Dragon's Eye Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104841",
+      "ItemName": "Dragonclaw Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126618",
+      "ItemName": "Dragonscale Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104608",
+      "ItemName": "Final Curtain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146216",
+      "ItemName": "Hood of the Vigilant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160896",
+      "ItemName": "Long Corner Wall Ruins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104624",
+      "ItemName": "Robe of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104646",
+      "ItemName": "Robe of the Greatest Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160974",
+      "ItemName": "Singed Magic Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104687",
+      "ItemName": "Smock of the Frost Giant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104718",
+      "ItemName": "Whirlwind Wrap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

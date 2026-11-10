@@ -1,0 +1,163 @@
+{
+  "Name": "G14-BP-Boss-CatThug",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "100429",
+      "ItemName": "Black Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100410",
+      "ItemName": "Blue Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338099",
+      "ItemName": "Boots of the Forlorn Watch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212076",
+      "ItemName": "Crabling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100448",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330931",
+      "ItemName": "Hat of the Forlorn Watch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100414",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338520",
+      "ItemName": "Noble Trophy of Equality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338094",
+      "ItemName": "Palace Guard's Firewalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330928",
+      "ItemName": "Palace Guard's Rain Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338096",
+      "ItemName": "Palace Guard's Rain Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330926",
+      "ItemName": "Palace Guard's Stovepipe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100434",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338514",
+      "ItemName": "Regal Token of Luminosity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338518",
+      "ItemName": "Relic of Imperial Perpetuum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338515",
+      "ItemName": "Relic of the Reign of Ice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338517",
+      "ItemName": "Royal Bequest of Eidolon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225473",
+      "ItemName": "Seraph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338519",
+      "ItemName": "Solemn Kingdom Heirloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338516",
+      "ItemName": "Trophy of the Raucous Court",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338097",
+      "ItemName": "Yeoman's Boots of Reverie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330930",
+      "ItemName": "Yeoman's Cap of Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338098",
+      "ItemName": "Yeoman's Shoes of Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330929",
+      "ItemName": "Yeoman's Top Hat of Reverie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330932",
+      "ItemName": "Yeoman's Topper of Unity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338100",
+      "ItemName": "Yeoman's Walkers of Unity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338095",
+      "ItemName": "Yeoman's Winter Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330927",
+      "ItemName": "Yeoman's Winter Top",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

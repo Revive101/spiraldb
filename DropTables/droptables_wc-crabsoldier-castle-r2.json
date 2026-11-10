@@ -1,0 +1,48 @@
+{
+  "Name": "WC-CrabSoldier-Castle-R2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4676",
+      "ItemName": "Amulet of the Fay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77603",
+      "ItemName": "Blightshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77575",
+      "ItemName": "Frostshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77622",
+      "ItemName": "Helm of Supremacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87240",
+      "ItemName": "Roughspun Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77589",
+      "ItemName": "Wondershroud",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

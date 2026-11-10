@@ -1,0 +1,123 @@
+{
+  "Name": "Spider-Crystal-3-Boss-R9",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146177",
+      "ItemName": "Claw of Conciliation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104714",
+      "ItemName": "Coat of the Zephyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160816",
+      "ItemName": "Crystal Storage Chest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104837",
+      "ItemName": "Crystalline Queen's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104701",
+      "ItemName": "Crystalline Queen's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104836",
+      "ItemName": "Crystalline Queen's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104702",
+      "ItemName": "Crystalline Queen's Shard Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146221",
+      "ItemName": "Crystalline Queen's Shard Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126629",
+      "ItemName": "Crystalline Queen's Shard Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146163",
+      "ItemName": "Crystalline Queen's Shardblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512130",
+      "ItemName": "Dragonspyre Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160798",
+      "ItemName": "Gemcutter Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104776",
+      "ItemName": "Mocassins of the Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146342",
+      "ItemName": "Reaper's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126593",
+      "ItemName": "Rime-edged Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104833",
+      "ItemName": "Sandals of the Generous Earth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126615",
+      "ItemName": "Seal of the Gallium Paladin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146126",
+      "ItemName": "Searing Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146271",
+      "ItemName": "Shroud of the Green",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104643",
+      "ItemName": "Tunic of Tradition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104611",
+      "ItemName": "Vestment of the Inferno",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

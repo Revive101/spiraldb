@@ -1,0 +1,228 @@
+{
+  "Name": "KR-BossEpic-Morganthe",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1592889",
+      "ItemName": "Amulet of the Grand Prophecy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592891",
+      "ItemName": "Amulet of the Shadow Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592890",
+      "ItemName": "Amulet of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557009",
+      "ItemName": "Athame of the Chosen One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557029",
+      "ItemName": "Band of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557015",
+      "ItemName": "Blade of the Shadow Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557011",
+      "ItemName": "Edge of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557019",
+      "ItemName": "Gem of the Grand Prophecy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557026",
+      "ItemName": "Geometry of Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557024",
+      "ItemName": "Insignia of the Dark Woman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557020",
+      "ItemName": "Jewel of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592871",
+      "ItemName": "Kris of Shadow and Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592870",
+      "ItemName": "Kris of the Chosen One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592876",
+      "ItemName": "Kris of the Shadow Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592872",
+      "ItemName": "Kris of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592892",
+      "ItemName": "Lady of Spiders' Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557022",
+      "ItemName": "Lady of Spiders' Lure",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557027",
+      "ItemName": "Lady of Spiders' Royal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592882",
+      "ItemName": "Lady of Spiders' Royal Sigil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557023",
+      "ItemName": "Loop of the Umbra Legion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557010",
+      "ItemName": "Mercy of Shadow and Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592886",
+      "ItemName": "Morganthe's Amulet of Amber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557014",
+      "ItemName": "Morganthe's Bite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592888",
+      "ItemName": "Morganthe's Dark Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557018",
+      "ItemName": "Morganthe's Dark Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592875",
+      "ItemName": "Morganthe's Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557016",
+      "ItemName": "Morganthe's Shadow of Amber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557021",
+      "ItemName": "Relic of the Shadow Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557025",
+      "ItemName": "Seal of the Shadow Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592887",
+      "ItemName": "Shadow Queen's Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557017",
+      "ItemName": "Shadow Queen's Grace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592873",
+      "ItemName": "Shadow Spider's Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557012",
+      "ItemName": "Shadow Spider's Sting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592881",
+      "ItemName": "Sigil of Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592879",
+      "ItemName": "Sigil of the Dark Woman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592880",
+      "ItemName": "Sigil of the Shadow Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592883",
+      "ItemName": "Sigil of the Shadow Queen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592884",
+      "ItemName": "Sigil of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592878",
+      "ItemName": "Sigil of the Umbra Legion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557028",
+      "ItemName": "Signet of the Shadow Queen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557013",
+      "ItemName": "The Dark Woman's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592874",
+      "ItemName": "The Dark Woman's Kris",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

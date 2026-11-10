@@ -1,0 +1,68 @@
+{
+  "Name": "MR-Boss-Named-3",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1407097",
+      "ItemName": "Tetrus Ampul of Rumination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407095",
+      "ItemName": "Tetrus Ampul of Sleet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407107",
+      "ItemName": "Tetrus Ringlet of Isolation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407102",
+      "ItemName": "Tetrus Ringlet of Scalding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407103",
+      "ItemName": "Tetrus Ringlet of Sleet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407078",
+      "ItemName": "Time Warden Galesh of Pyres",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407067",
+      "ItemName": "Time Warden Kavuk of Gloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407062",
+      "ItemName": "Time Warden Kavuk of Pyres",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407082",
+      "ItemName": "Time Warden Shoes of Triumph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407079",
+      "ItemName": "Time Warden Snowdrift Galesh",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

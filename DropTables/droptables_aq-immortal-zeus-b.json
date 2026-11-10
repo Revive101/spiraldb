@@ -1,0 +1,168 @@
+{
+  "Name": "AQ-Immortal-Zeus-B",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212001",
+      "ItemName": "Aquila Olympus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819522",
+      "ItemName": "Armor of Zeus' Law",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819707",
+      "ItemName": "Bolt of Zeus' Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819511",
+      "ItemName": "Clangor From Olympus Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819515",
+      "ItemName": "Helm of the Heavens",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819706",
+      "ItemName": "Staff of Zeus' Curses",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819704",
+      "ItemName": "Zeus' Bolt of Genius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203010",
+      "ItemName": "Zeus' Boots of Ambition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203009",
+      "ItemName": "Zeus' Cloud Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819512",
+      "ItemName": "Zeus' Divine Right Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819509",
+      "ItemName": "Zeus' Eternal Flame Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203007",
+      "ItemName": "Zeus' Flamewalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819517",
+      "ItemName": "Zeus' Frozen Skies Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819519",
+      "ItemName": "Zeus' Garb of Mischief",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819702",
+      "ItemName": "Zeus' Hailstone Bolt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819513",
+      "ItemName": "Zeus' Helm of Kings",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819514",
+      "ItemName": "Zeus' Helm of the Moribund",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819510",
+      "ItemName": "Zeus' Helmet of Blizzards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203008",
+      "ItemName": "Zeus' Iceshelf Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203013",
+      "ItemName": "Zeus' Majestic Skyriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819518",
+      "ItemName": "Zeus' Ominous Skies Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819705",
+      "ItemName": "Zeus' Scepter of Creation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819516",
+      "ItemName": "Zeus' Skyforged Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819701",
+      "ItemName": "Zeus' Smoke Cloud Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203012",
+      "ItemName": "Zeus' Soulless Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203011",
+      "ItemName": "Zeus' Striders of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819703",
+      "ItemName": "Zeus' Thunderstrike Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819520",
+      "ItemName": "Zeus' War Eagle Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819521",
+      "ItemName": "Zeus' Wicked Ploy Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

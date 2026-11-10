@@ -1,0 +1,78 @@
+{
+  "Name": "Skeleton-Silver-WCBoss-L04",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77565",
+      "ItemName": "Firestorm Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4814",
+      "ItemName": "Footwraps of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4815",
+      "ItemName": "Frost Wolf Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4810",
+      "ItemName": "Frost-touched Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225459",
+      "ItemName": "Myth Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87237",
+      "ItemName": "Novice's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346123",
+      "ItemName": "Rattlebones Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346124",
+      "ItemName": "Rattlebones Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77600",
+      "ItemName": "Rattlebones' Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4862",
+      "ItemName": "Rattlebones' Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4874",
+      "ItemName": "Roughspun Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4875",
+      "ItemName": "Slippers of Rites",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

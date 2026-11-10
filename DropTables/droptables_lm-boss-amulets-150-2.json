@@ -1,0 +1,228 @@
+{
+  "Name": "LM-Boss-Amulets-150-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537348",
+      "ItemName": "Magician's Balance Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537356",
+      "ItemName": "Magician's Balance Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537347",
+      "ItemName": "Magician's Death Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537355",
+      "ItemName": "Magician's Death Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537342",
+      "ItemName": "Magician's Fire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537350",
+      "ItemName": "Magician's Fire Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537343",
+      "ItemName": "Magician's Ice Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537351",
+      "ItemName": "Magician's Ice Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537346",
+      "ItemName": "Magician's Life Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537354",
+      "ItemName": "Magician's Life Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537345",
+      "ItemName": "Magician's Myth Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537353",
+      "ItemName": "Magician's Myth Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537344",
+      "ItemName": "Magician's Storm Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537352",
+      "ItemName": "Magician's Storm Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537372",
+      "ItemName": "Malevolent Balance Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537380",
+      "ItemName": "Malevolent Balance Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537371",
+      "ItemName": "Malevolent Death Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537379",
+      "ItemName": "Malevolent Death Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537366",
+      "ItemName": "Malevolent Fire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537374",
+      "ItemName": "Malevolent Fire Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537367",
+      "ItemName": "Malevolent Ice Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537375",
+      "ItemName": "Malevolent Ice Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537370",
+      "ItemName": "Malevolent Life Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537378",
+      "ItemName": "Malevolent Life Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537369",
+      "ItemName": "Malevolent Myth Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537377",
+      "ItemName": "Malevolent Myth Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537368",
+      "ItemName": "Malevolent Storm Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537376",
+      "ItemName": "Malevolent Storm Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537396",
+      "ItemName": "Merciless Balance Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537404",
+      "ItemName": "Merciless Balance Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537395",
+      "ItemName": "Merciless Death Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537403",
+      "ItemName": "Merciless Death Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537390",
+      "ItemName": "Merciless Fire Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537398",
+      "ItemName": "Merciless Fire Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537391",
+      "ItemName": "Merciless Ice Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537399",
+      "ItemName": "Merciless Ice Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537394",
+      "ItemName": "Merciless Life Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537402",
+      "ItemName": "Merciless Life Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537393",
+      "ItemName": "Merciless Myth Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537401",
+      "ItemName": "Merciless Myth Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537392",
+      "ItemName": "Merciless Storm Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537400",
+      "ItemName": "Merciless Storm Talisman",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

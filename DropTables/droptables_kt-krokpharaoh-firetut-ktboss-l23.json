@@ -1,0 +1,138 @@
+{
+  "Name": "KT-KrokPharaoh-FireTut-KTBoss-L23",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82705",
+      "ItemName": "Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5029",
+      "ItemName": "Band of Energy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87334",
+      "ItemName": "Ceremonial Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4948",
+      "ItemName": "Cryptkeeper's Shortsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4950",
+      "ItemName": "Flamedancer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87296",
+      "ItemName": "Garments of the Augur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77715",
+      "ItemName": "Hood of the Phantom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5011",
+      "ItemName": "Loop of Talent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4972",
+      "ItemName": "Mummified Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77800",
+      "ItemName": "Quartermaster's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77733",
+      "ItemName": "Quartermaster's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87284",
+      "ItemName": "Quartermaster's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87343",
+      "ItemName": "Quartermaster's Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82891",
+      "ItemName": "Red Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87268",
+      "ItemName": "Rugged Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39434",
+      "ItemName": "Slippers of Burning Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217004",
+      "ItemName": "The Stalwart Guardian",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,863 @@
+{
+  "Name": "Theater-Gauntlet-Boss-40",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473120",
+      "ItemName": "Assailing Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470085",
+      "ItemName": "Blue Dragon (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160811",
+      "ItemName": "Broken Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212293",
+      "ItemName": "Crimson Spectre",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470086",
+      "ItemName": "Dark Redwing (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87115",
+      "ItemName": "Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160810",
+      "ItemName": "Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160825",
+      "ItemName": "Dragon Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160799",
+      "ItemName": "Dragon Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160920",
+      "ItemName": "Dragon Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160219",
+      "ItemName": "Dragon Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160908",
+      "ItemName": "Dragon Wall Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470096",
+      "ItemName": "Dragon Wings (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160843",
+      "ItemName": "Dragonclaw Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160804",
+      "ItemName": "Dragonfire Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160871",
+      "ItemName": "Dragonflame Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160824",
+      "ItemName": "Dragonhorn Trophy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160865",
+      "ItemName": "Dragonmoon Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160837",
+      "ItemName": "Dragonmoon Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160914",
+      "ItemName": "Dragonmoon Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468416",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468417",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468418",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468419",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468420",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468421",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468422",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667254",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667255",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737041",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257942",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468423",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468424",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468425",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468426",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468427",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468428",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468429",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667258",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667259",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737043",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257944",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468430",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468431",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468432",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468433",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468434",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468435",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468436",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667256",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667257",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737042",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257943",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468443",
+      "ItemName": "Dragonrider's Balance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667650",
+      "ItemName": "Dragonrider's Balance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667651",
+      "ItemName": "Dragonrider's Balance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740128",
+      "ItemName": "Dragonrider's Balance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257883",
+      "ItemName": "Dragonrider's Balance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468442",
+      "ItemName": "Dragonrider's Death Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468438",
+      "ItemName": "Dragonrider's Fire Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468440",
+      "ItemName": "Dragonrider's Life Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468441",
+      "ItemName": "Dragonrider's Myth Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468437",
+      "ItemName": "Dragonrider's Storm Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468409",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468410",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468411",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468412",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468413",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468414",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468415",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667250",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667251",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737039",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257940",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468395",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468396",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468397",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468398",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468399",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468400",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468401",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667248",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667249",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737038",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257939",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468402",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468403",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468404",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468405",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468406",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468407",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468408",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667252",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667253",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737040",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257941",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468388",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468389",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468390",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468391",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468392",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468393",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468394",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667244",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667245",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737036",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257937",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468374",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468375",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468376",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468377",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468378",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468379",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468380",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667242",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667243",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737035",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257936",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468381",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468382",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468383",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468384",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468385",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468386",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468387",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667246",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667247",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737037",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257938",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160866",
+      "ItemName": "Dragonskull Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160838",
+      "ItemName": "Dragonskull Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160915",
+      "ItemName": "Dragonskull Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160909",
+      "ItemName": "Dragonwing Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439029",
+      "ItemName": "Dramaturgy MacDeath Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439030",
+      "ItemName": "Dramaturgy Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439028",
+      "ItemName": "Dramaturgy Stagehand Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439027",
+      "ItemName": "Dramaturgy Student Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470084",
+      "ItemName": "Faithful Dragoness (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160855",
+      "ItemName": "Great Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160852",
+      "ItemName": "Regal Dragon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "175580",
+      "ItemName": "Sea Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160972",
+      "ItemName": "Singed Dragon Handbook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317109",
+      "ItemName": "Skeletal Gladiator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355158",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355159",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355160",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355161",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355162",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355163",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160977",
+      "ItemName": "Snapdragon Flowerbed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160981",
+      "ItemName": "Snapdragons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160516",
+      "ItemName": "Tall Dragon Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473119",
+      "ItemName": "Utility Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473118",
+      "ItemName": "Vigilant Dragon",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

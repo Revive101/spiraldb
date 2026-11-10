@@ -1,0 +1,123 @@
+{
+  "Name": "MS-Colossus-Stone-MSBoss-L41",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97704",
+      "ItemName": "Band of Hope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98062",
+      "ItemName": "Boots of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98017",
+      "ItemName": "Boots of the Triad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470215",
+      "ItemName": "Branch Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97601",
+      "ItemName": "Cowl of Watchfulness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97670",
+      "ItemName": "Hat of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97574",
+      "ItemName": "Hat of the Observant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97649",
+      "ItemName": "Helm of Struggling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97622",
+      "ItemName": "Hood of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97469",
+      "ItemName": "Kris of the Pensive Ones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97697",
+      "ItemName": "Ring of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97967",
+      "ItemName": "Sandals of Humor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97472",
+      "ItemName": "Shortblade of a Daydreamer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160448",
+      "ItemName": "Stone Temple Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98042",
+      "ItemName": "Stonebreaker's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97458",
+      "ItemName": "Stonebreaker's Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97636",
+      "ItemName": "Stonebreaker's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87493",
+      "ItemName": "Stonebreaker's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97812",
+      "ItemName": "Stonebreaker's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97464",
+      "ItemName": "Student's Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160521",
+      "ItemName": "Throwing Star Case",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,158 @@
+{
+  "Name": "STRD_BR_CL_Mithraya_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1654533",
+      "ItemName": "Umbra Queen's Chill Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654554",
+      "ItemName": "Umbra Queen's Chill Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654540",
+      "ItemName": "Umbra Queen's Chill Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654561",
+      "ItemName": "Umbra Queen's Chill Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654530",
+      "ItemName": "Umbra Queen's Dusty Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654551",
+      "ItemName": "Umbra Queen's Dusty Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654537",
+      "ItemName": "Umbra Queen's Dusty Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654558",
+      "ItemName": "Umbra Queen's Dusty Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654535",
+      "ItemName": "Umbra Queen's Furious Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654556",
+      "ItemName": "Umbra Queen's Furious Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654542",
+      "ItemName": "Umbra Queen's Furious Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654563",
+      "ItemName": "Umbra Queen's Furious Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654531",
+      "ItemName": "Umbra Queen's Grim Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654552",
+      "ItemName": "Umbra Queen's Grim Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654538",
+      "ItemName": "Umbra Queen's Grim Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654559",
+      "ItemName": "Umbra Queen's Grim Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654532",
+      "ItemName": "Umbra Queen's Scorched Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654553",
+      "ItemName": "Umbra Queen's Scorched Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654539",
+      "ItemName": "Umbra Queen's Scorched Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654560",
+      "ItemName": "Umbra Queen's Scorched Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654536",
+      "ItemName": "Umbra Queen's Shocked Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654557",
+      "ItemName": "Umbra Queen's Shocked Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654543",
+      "ItemName": "Umbra Queen's Shocked Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654564",
+      "ItemName": "Umbra Queen's Shocked Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654534",
+      "ItemName": "Umbra Queen's Wild Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654555",
+      "ItemName": "Umbra Queen's Wild Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654541",
+      "ItemName": "Umbra Queen's Wild Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654562",
+      "ItemName": "Umbra Queen's Wild Totem",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,898 @@
+{
+  "Name": "PL-Mob-Gear-102",
+  "Description": "Mob loot table (14 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1363980",
+      "ItemName": "Ampul of the Polarian Mage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589146",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589147",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589148",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589149",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589150",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589151",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473444",
+      "ItemName": "Arctic Ninja Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355137",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355138",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355139",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355140",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355141",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355142",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369012",
+      "ItemName": "Band of the Polarian Mage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473125",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473126",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473127",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473128",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473129",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473130",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589195",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589196",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589197",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589198",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589199",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589200",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713119",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713120",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713121",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713122",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713123",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713124",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713125",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356127",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356128",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356129",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356130",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356131",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356132",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356133",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356114",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356115",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356116",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356117",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356118",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356119",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473093",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473094",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473095",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473096",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473097",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473098",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589640",
+      "ItemName": "Glacier Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713175",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713176",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713177",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713178",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713179",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713180",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713181",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473159",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473160",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473161",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473162",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473163",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473164",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473165",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225453",
+      "ItemName": "Ice Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473638",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473639",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473640",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473641",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473642",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473643",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473644",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363947",
+      "ItemName": "Mage's Blade of Aplomb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363975",
+      "ItemName": "Mage's Blustery Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363943",
+      "ItemName": "Mage's Blustery Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369007",
+      "ItemName": "Mage's Blustery Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369455",
+      "ItemName": "Mage's Blustery Stack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369327",
+      "ItemName": "Mage's Blustery Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369459",
+      "ItemName": "Mage's Cards of Aplomb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369456",
+      "ItemName": "Mage's Case of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369008",
+      "ItemName": "Mage's Circle of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363979",
+      "ItemName": "Mage's Collar of Aplomb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363944",
+      "ItemName": "Mage's Dirk of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363978",
+      "ItemName": "Mage's Dolorous Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363946",
+      "ItemName": "Mage's Dolorous Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369458",
+      "ItemName": "Mage's Dolorous Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369010",
+      "ItemName": "Mage's Dolorous Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369330",
+      "ItemName": "Mage's Dolorous Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369009",
+      "ItemName": "Mage's Hardy Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363977",
+      "ItemName": "Mage's Hardy Carcanet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363945",
+      "ItemName": "Mage's Hardy Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369457",
+      "ItemName": "Mage's Hardy Spread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369329",
+      "ItemName": "Mage's Hardy Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363948",
+      "ItemName": "Mage's Roughhewn Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369011",
+      "ItemName": "Mage's Signet of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363973",
+      "ItemName": "Mage's Smoldering Bauble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369005",
+      "ItemName": "Mage's Smoldering Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369453",
+      "ItemName": "Mage's Smoldering Parcel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363941",
+      "ItemName": "Mage's Smoldering Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369325",
+      "ItemName": "Mage's Smoldering Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369331",
+      "ItemName": "Mage's Stave of Aplomb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363976",
+      "ItemName": "Mage's Torc of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369328",
+      "ItemName": "Mage's Wand of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363942",
+      "ItemName": "Mage's Wintry Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363974",
+      "ItemName": "Mage's Wintry Chaplet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369454",
+      "ItemName": "Mage's Wintry Fascicle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369006",
+      "ItemName": "Mage's Wintry Ringlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369326",
+      "ItemName": "Mage's Wintry Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317711",
+      "ItemName": "Nodori Winged Ram",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589187",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589188",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589189",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589190",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589191",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589192",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589193",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789210",
+      "ItemName": "Polar Bear Cub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369460",
+      "ItemName": "Polarian Mage's Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369332",
+      "ItemName": "Polarian Mage's Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713168",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713169",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713170",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713171",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713172",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713173",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713174",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589181",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589182",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589183",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589184",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589185",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589186",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363717",
+      "ItemName": "Urville Boots of Flames",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363719",
+      "ItemName": "Urville Boots of Snowgusts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363688",
+      "ItemName": "Urville Cherkesska of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363689",
+      "ItemName": "Urville Chokha of Elation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363685",
+      "ItemName": "Urville Cloak of Flames",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363722",
+      "ItemName": "Urville Footgear of Anguish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363657",
+      "ItemName": "Urville Fur Hat of Elation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363659",
+      "ItemName": "Urville Fur Hat of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363655",
+      "ItemName": "Urville Fur Hat of Snowgusts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363690",
+      "ItemName": "Urville Jacket of Anguish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363691",
+      "ItemName": "Urville Longcoat of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363658",
+      "ItemName": "Urville Papakh of Anguish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363653",
+      "ItemName": "Urville Papakh of Flames",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363656",
+      "ItemName": "Urville Papakh of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363654",
+      "ItemName": "Urville Papakh of Wintertide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363686",
+      "ItemName": "Urville Robes of Wintertide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363718",
+      "ItemName": "Urville Shoes of Wintertide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363687",
+      "ItemName": "Urville Snowgusts Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363692",
+      "ItemName": "Urville Station Cherkesska",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363660",
+      "ItemName": "Urville Station Papakh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363724",
+      "ItemName": "Urville Station Snowboots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363723",
+      "ItemName": "Urville Striders of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363721",
+      "ItemName": "Urville Trekkers of Elation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363720",
+      "ItemName": "Urville Walkers of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653164",
+      "ItemName": "White Winter Owl",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

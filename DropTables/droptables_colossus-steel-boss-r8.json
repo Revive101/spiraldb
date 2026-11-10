@@ -1,0 +1,118 @@
+{
+  "Name": "Colossus-Steel-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126636",
+      "ItemName": "Band of Brotherhood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104756",
+      "ItemName": "Blizzard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104679",
+      "ItemName": "Chilling Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104598",
+      "ItemName": "Coat of Impartiality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104635",
+      "ItemName": "Crow's Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160869",
+      "ItemName": "Dark Sun Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126685",
+      "ItemName": "Deck of Nature's Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160219",
+      "ItemName": "Dragon Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104873",
+      "ItemName": "Footgear of the Tempest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146336",
+      "ItemName": "Gallows Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146259",
+      "ItemName": "Herbalist's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146362",
+      "ItemName": "Mantle of Fortitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146332",
+      "ItemName": "Mantle of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126562",
+      "ItemName": "Ring of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104659",
+      "ItemName": "Robe of the Earth Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146167",
+      "ItemName": "Scaled Smallsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104822",
+      "ItemName": "Shoes of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104868",
+      "ItemName": "Shoes of the Gardener",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104778",
+      "ItemName": "Vault Protector's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146248",
+      "ItemName": "Vault Protector's Cowl",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

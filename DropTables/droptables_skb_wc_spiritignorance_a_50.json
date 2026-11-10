@@ -1,0 +1,203 @@
+{
+  "Name": "SKB_WC_SpiritIgnorance_A_50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1456630",
+      "ItemName": "Bardic Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456632",
+      "ItemName": "Bardic Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456631",
+      "ItemName": "Bardic Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164216",
+      "ItemName": "Black Checker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160235",
+      "ItemName": "Brain Jar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160246",
+      "ItemName": "Candle and Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160221",
+      "ItemName": "Carved Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164217",
+      "ItemName": "Chessboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160219",
+      "ItemName": "Dragon Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160234",
+      "ItemName": "Empty Jar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160214",
+      "ItemName": "Floor Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456621",
+      "ItemName": "Gleeman's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456623",
+      "ItemName": "Gleeman's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456622",
+      "ItemName": "Gleeman's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100432",
+      "ItemName": "Green Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160245",
+      "ItemName": "Large Candle Holder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470092",
+      "ItemName": "Purple Fairy Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164215",
+      "ItemName": "Red Checker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100434",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456624",
+      "ItemName": "Rhapsodist's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456626",
+      "ItemName": "Rhapsodist's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456625",
+      "ItemName": "Rhapsodist's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276462",
+      "ItemName": "Sea Turtle (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160247",
+      "ItemName": "Small Candle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276456",
+      "ItemName": "Snappy Lobster (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456633",
+      "ItemName": "Songster's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456635",
+      "ItemName": "Songster's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456634",
+      "ItemName": "Songster's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456639",
+      "ItemName": "Sonneteer's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456641",
+      "ItemName": "Sonneteer's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456640",
+      "ItemName": "Sonneteer's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456627",
+      "ItemName": "Troubador's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456629",
+      "ItemName": "Troubador's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456628",
+      "ItemName": "Troubador's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456636",
+      "ItemName": "Trouper's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456638",
+      "ItemName": "Trouper's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456637",
+      "ItemName": "Trouper's Tunic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

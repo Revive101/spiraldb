@@ -1,0 +1,403 @@
+{
+  "Name": "Explorers_Gauntlet_Boss_02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "713119",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713120",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713121",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713122",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713123",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713124",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713125",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342084",
+      "ItemName": "Clam Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342077",
+      "ItemName": "Coconut Drink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683108",
+      "ItemName": "Coral Crab Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342085",
+      "ItemName": "Crab Chimney",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342120",
+      "ItemName": "Crab Claw Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342087",
+      "ItemName": "Crab Lean-To",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342090",
+      "ItemName": "Diving Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204049",
+      "ItemName": "Dying Embers Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204050",
+      "ItemName": "Dying Embers Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204051",
+      "ItemName": "Dying Embers Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181070",
+      "ItemName": "Fish Drying Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690101",
+      "ItemName": "Frosty Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204029",
+      "ItemName": "Frosty Stare Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204030",
+      "ItemName": "Frosty Stare Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204031",
+      "ItemName": "Frosty Stare Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342103",
+      "ItemName": "Outrigger Paddles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204039",
+      "ItemName": "Shocking Truth Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204040",
+      "ItemName": "Shocking Truth Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204041",
+      "ItemName": "Shocking Truth Tiki Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342136",
+      "ItemName": "Skinny Tiki Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683109",
+      "ItemName": "Spiral Crab Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100458",
+      "ItemName": "Sun Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342132",
+      "ItemName": "Tall Tiki Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204211",
+      "ItemName": "Tiki Armor of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204212",
+      "ItemName": "Tiki Armor of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204213",
+      "ItemName": "Tiki Armor of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204241",
+      "ItemName": "Tiki Armor of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204242",
+      "ItemName": "Tiki Armor of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204243",
+      "ItemName": "Tiki Armor of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204181",
+      "ItemName": "Tiki Armor of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204182",
+      "ItemName": "Tiki Armor of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204183",
+      "ItemName": "Tiki Armor of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204201",
+      "ItemName": "Tiki Boots of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204202",
+      "ItemName": "Tiki Boots of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204203",
+      "ItemName": "Tiki Boots of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204231",
+      "ItemName": "Tiki Boots of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204232",
+      "ItemName": "Tiki Boots of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204233",
+      "ItemName": "Tiki Boots of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204171",
+      "ItemName": "Tiki Boots of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204172",
+      "ItemName": "Tiki Boots of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204173",
+      "ItemName": "Tiki Boots of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204191",
+      "ItemName": "Tiki Crown of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204192",
+      "ItemName": "Tiki Crown of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204193",
+      "ItemName": "Tiki Crown of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204221",
+      "ItemName": "Tiki Crown of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204222",
+      "ItemName": "Tiki Crown of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204223",
+      "ItemName": "Tiki Crown of Riptides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204161",
+      "ItemName": "Tiki Crown of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204162",
+      "ItemName": "Tiki Crown of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204163",
+      "ItemName": "Tiki Crown of Sacred Songs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789432",
+      "ItemName": "Tiki Kahuna",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342118",
+      "ItemName": "Wall Starfish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342108",
+      "ItemName": "Water-Mole Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342131",
+      "ItemName": "Water-Mole Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342109",
+      "ItemName": "Water-Mole Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683107",
+      "ItemName": "Water-Mole Tribal Shield",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

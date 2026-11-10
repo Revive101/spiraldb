@@ -1,0 +1,138 @@
+{
+  "Name": "DD-DS-01-Minotaur-Boss-40",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355101",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355102",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355103",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355104",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355105",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355106",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355107",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160835",
+      "ItemName": "Inferno Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160833",
+      "ItemName": "Phoenix Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355108",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356138",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356139",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356140",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356141",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356142",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356143",
+      "ItemName": "Prickly Bear Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160840",
+      "ItemName": "Thunder Obelisk",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

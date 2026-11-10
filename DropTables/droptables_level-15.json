@@ -1,0 +1,373 @@
+{
+  "Name": "Level-15",
+  "Description": "Mob loot table (12 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87217",
+      "ItemName": "Adventurer's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4709",
+      "ItemName": "Antiquated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87256",
+      "ItemName": "Antiquated Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4742",
+      "ItemName": "Antique Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4849",
+      "ItemName": "Antique Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77586",
+      "ItemName": "Antique Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77603",
+      "ItemName": "Blightshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4834",
+      "ItemName": "Boots of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4840",
+      "ItemName": "Boots of Obstruction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4706",
+      "ItemName": "Branded Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87247",
+      "ItemName": "Branded Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87207",
+      "ItemName": "Canvas Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77610",
+      "ItemName": "Carbonshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87213",
+      "ItemName": "Charged Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77579",
+      "ItemName": "Charged Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4710",
+      "ItemName": "Charged Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87259",
+      "ItemName": "Charged Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87202",
+      "ItemName": "Chillcloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77581",
+      "ItemName": "Cloudburst Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4844",
+      "ItemName": "Cloudburst Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4705",
+      "ItemName": "Dagger of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4727",
+      "ItemName": "Dulled Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77568",
+      "ItemName": "Embershroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4708",
+      "ItemName": "Fairy's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4726",
+      "ItemName": "Fine Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87165",
+      "ItemName": "Fireguard Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87166",
+      "ItemName": "Frost Wolf Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160330",
+      "ItemName": "Frozen Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77572",
+      "ItemName": "Fur-lined Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4855",
+      "ItemName": "Goldleaf Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87169",
+      "ItemName": "Hallowed Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4877",
+      "ItemName": "Hardened Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77574",
+      "ItemName": "Hardened Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87222",
+      "ItemName": "Healer's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77587",
+      "ItemName": "Helm of Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4730",
+      "ItemName": "Honed Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77580",
+      "ItemName": "Hood of Storms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77620",
+      "ItemName": "Imp Lord's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4707",
+      "ItemName": "Insulated Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87170",
+      "ItemName": "Martyr's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160350",
+      "ItemName": "Prop Mountains 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87195",
+      "ItemName": "Robe of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87234",
+      "ItemName": "Robe of Savvy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87240",
+      "ItemName": "Roughspun Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87231",
+      "ItemName": "Sapphyra's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87171",
+      "ItemName": "Scholarly Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87200",
+      "ItemName": "Senior Novice's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4852",
+      "ItemName": "Shoes of the Troll King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87199",
+      "ItemName": "Soot Stained Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87206",
+      "ItemName": "Stormcaller's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4843",
+      "ItemName": "Stormforged Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87167",
+      "ItemName": "Stormforged Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4695",
+      "ItemName": "Sturdy Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160232",
+      "ItemName": "Sundae",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4704",
+      "ItemName": "Symmetrical Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4867",
+      "ItemName": "Symmetrical Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87168",
+      "ItemName": "Trollskin Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77588",
+      "ItemName": "Trollskin Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87211",
+      "ItemName": "Tunic of Disturbance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77602",
+      "ItemName": "Venomous Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87239",
+      "ItemName": "Vestment of Essence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87228",
+      "ItemName": "Vestment of Tremors",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77618",
+      "ItemName": "Vrixx's Verdant Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4847",
+      "ItemName": "Windrunners",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

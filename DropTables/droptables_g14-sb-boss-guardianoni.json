@@ -1,0 +1,88 @@
+{
+  "Name": "G14-SB-Boss-GuardianOni",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338162",
+      "ItemName": "Asura's Steel of Malcontent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338493",
+      "ItemName": "Fingers of Fire Dramyin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338494",
+      "ItemName": "Frosty Himoolayan Dranyen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338499",
+      "ItemName": "Himoolayan Harmony Maker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338495",
+      "ItemName": "Himoolayan Lute of Snowfall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338160",
+      "ItemName": "Hoof's Bewildering Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338159",
+      "ItemName": "Kris of the Calamitous Hoof",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338497",
+      "ItemName": "Lute of the Hale & Hearty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338498",
+      "ItemName": "Monk's Instrument of Death",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338157",
+      "ItemName": "Monk's Steel of Combustion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338161",
+      "ItemName": "Monk's Thorn of Fortitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338163",
+      "ItemName": "Pagoda of Harmony Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338158",
+      "ItemName": "Point of the Icy Himoolayas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338496",
+      "ItemName": "Song of Shangri-Baa",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

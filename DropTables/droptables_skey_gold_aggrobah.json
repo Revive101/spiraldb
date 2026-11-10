@@ -1,0 +1,188 @@
+{
+  "Name": "Skey_Gold_Aggrobah",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350309",
+      "ItemName": "Adept's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402940",
+      "ItemName": "Array of Mighty Istanboa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392441",
+      "ItemName": "Cactus Pods",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414269",
+      "ItemName": "Charmbeak's Karma Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414266",
+      "ItemName": "Drake Ancestral Signet ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392450",
+      "ItemName": "Dusty Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405228",
+      "ItemName": "Eerem Courtier's Givehs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405164",
+      "ItemName": "Eerem Courtier's Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405196",
+      "ItemName": "Eerem Courtier's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405260",
+      "ItemName": "Eerem Courtier's Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402876",
+      "ItemName": "Eerem Courtier's Spread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405292",
+      "ItemName": "Eerem Courtier's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402908",
+      "ItemName": "Eerem Palace Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350310",
+      "ItemName": "Expert's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392444",
+      "ItemName": "Folded Blankets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414268",
+      "ItemName": "Ghost Dog's Dire Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392443",
+      "ItemName": "Green Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414265",
+      "ItemName": "Hagakure's Monsoon Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405484",
+      "ItemName": "Istanboa Pendant of Might",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405452",
+      "ItemName": "Khanjar of Mighty Istanboa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392449",
+      "ItemName": "Lined Cabinet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392826",
+      "ItemName": "Mini Mimic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414267",
+      "ItemName": "Mithraya Vivid Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414263",
+      "ItemName": "Mithraya's Blazing Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405388",
+      "ItemName": "Necklace of Eerem Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414264",
+      "ItemName": "Prince's Glacial Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405356",
+      "ItemName": "Razor of Eerem Palace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392442",
+      "ItemName": "Red Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414270",
+      "ItemName": "Stellar Protector's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392446",
+      "ItemName": "Wicker Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392451",
+      "ItemName": "Wicker Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

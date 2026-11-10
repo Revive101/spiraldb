@@ -1,0 +1,43 @@
+{
+  "Name": "1-270-DSCommon-60",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160918",
+      "ItemName": "Dark Sun Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160914",
+      "ItemName": "Dragonmoon Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160916",
+      "ItemName": "Drake Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160912",
+      "ItemName": "Inferno Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160913",
+      "ItemName": "Snowflake Plaque",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

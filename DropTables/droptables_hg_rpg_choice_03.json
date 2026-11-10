@@ -1,0 +1,183 @@
+{
+  "Name": "HG_RPG_Choice_03",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1686948",
+      "ItemName": "Array of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686983",
+      "ItemName": "Array of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689032",
+      "ItemName": "Array of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686942",
+      "ItemName": "Array of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686977",
+      "ItemName": "Array of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689026",
+      "ItemName": "Array of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686947",
+      "ItemName": "Array of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686982",
+      "ItemName": "Array of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689031",
+      "ItemName": "Array of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686945",
+      "ItemName": "Array of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686980",
+      "ItemName": "Array of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689029",
+      "ItemName": "Array of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686944",
+      "ItemName": "Array of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686979",
+      "ItemName": "Array of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689028",
+      "ItemName": "Array of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686946",
+      "ItemName": "Array of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686981",
+      "ItemName": "Array of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689030",
+      "ItemName": "Array of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686943",
+      "ItemName": "Array of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686978",
+      "ItemName": "Array of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689027",
+      "ItemName": "Array of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479632",
+      "ItemName": "Druid Symbol Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470680",
+      "ItemName": "Eagle War Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643122",
+      "ItemName": "Elephant Sword Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537543",
+      "ItemName": "Frozen Attacking Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641577",
+      "ItemName": "Gold Swords and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643187",
+      "ItemName": "Gorilla Tree Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643196",
+      "ItemName": "Large Wooden Elephant Head",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350275",
+      "ItemName": "Playable Electric Violin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350278",
+      "ItemName": "Playable Keytar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537559",
+      "ItemName": "Raven Claw Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643126",
+      "ItemName": "Tall Gorilla Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1520343",
+      "ItemName": "Wolf Standee",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

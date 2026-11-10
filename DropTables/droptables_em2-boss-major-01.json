@@ -1,0 +1,168 @@
+{
+  "Name": "EM2-Boss-Major-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462354",
+      "ItemName": "Balanced Paradox Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462362",
+      "ItemName": "Balanced Paradox Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462353",
+      "ItemName": "Deathly Paradox Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462361",
+      "ItemName": "Deathly Paradox Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462355",
+      "ItemName": "Divine Paradox Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462363",
+      "ItemName": "Divine Paradox Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439017",
+      "ItemName": "Empyrea Brain Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439018",
+      "ItemName": "Empyrea Brain Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439019",
+      "ItemName": "Empyrea Brain Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439014",
+      "ItemName": "Empyrea Dance Hall Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441525",
+      "ItemName": "Empyrea Mandalla Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441526",
+      "ItemName": "Empyrea Mandalla Destroyed Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439020",
+      "ItemName": "Empyrea Medulla Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441527",
+      "ItemName": "Empyrea Nexus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441528",
+      "ItemName": "Empyrea Nimbus Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441529",
+      "ItemName": "Empyrea Nimbus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441530",
+      "ItemName": "Empyrea Reverie Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441531",
+      "ItemName": "Empyrea Reverie Dream Shrine Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441532",
+      "ItemName": "Empyrea Reverie Hive Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439021",
+      "ItemName": "Empyrea Sewer Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462348",
+      "ItemName": "Fiery Paradox Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462356",
+      "ItemName": "Fiery Paradox Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462349",
+      "ItemName": "Icy Paradox Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462357",
+      "ItemName": "Icy Paradox Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462352",
+      "ItemName": "Lively Paradox Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462360",
+      "ItemName": "Lively Paradox Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462351",
+      "ItemName": "Mythic Paradox Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462359",
+      "ItemName": "Mythic Paradox Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462350",
+      "ItemName": "Stormy Paradox Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462358",
+      "ItemName": "Stormy Paradox Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

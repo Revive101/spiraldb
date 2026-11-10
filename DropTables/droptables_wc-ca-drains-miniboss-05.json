@@ -1,0 +1,53 @@
+{
+  "Name": "WC-CA-Drains-Miniboss-05",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489454",
+      "ItemName": "Dragonspyre Soldier Cleaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489390",
+      "ItemName": "Dragonspyre Soldier's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489389",
+      "ItemName": "Soldier's Balanced Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489388",
+      "ItemName": "Soldier's Deadly Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489450",
+      "ItemName": "Soldier's Mythic War Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489387",
+      "ItemName": "Soldier's Vibrant Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489451",
+      "ItemName": "Soldier's Vibrant Saber",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

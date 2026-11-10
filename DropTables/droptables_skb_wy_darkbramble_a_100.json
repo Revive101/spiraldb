@@ -1,0 +1,288 @@
+{
+  "Name": "SKB_WY_DarkBramble_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350313",
+      "ItemName": "Artisan's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350762",
+      "ItemName": "Cornflower Wysterian Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683120",
+      "ItemName": "Dragonship Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350754",
+      "ItemName": "Elephantine Ottoman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683119",
+      "ItemName": "Estate Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447026",
+      "ItemName": "Fantastic Unicorn (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350751",
+      "ItemName": "Filigreed Wysterian Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350763",
+      "ItemName": "Golden Blossom Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254254",
+      "ItemName": "Greenman Sapling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447023",
+      "ItemName": "Mystic Unicorn (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317673",
+      "ItemName": "Ninja Piggle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257611",
+      "ItemName": "Pegasus Pony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317197",
+      "ItemName": "Pigswick Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359101",
+      "ItemName": "Pigswick Student's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350752",
+      "ItemName": "Pigswick Student's Seat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683118",
+      "ItemName": "Proud Pegasus Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350760",
+      "ItemName": "Short Wysterian Potted Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683121",
+      "ItemName": "Small Wooden Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683117",
+      "ItemName": "Spiral Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350755",
+      "ItemName": "Splendid Wysterian Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350756",
+      "ItemName": "Stately Wysterian Wooden Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350758",
+      "ItemName": "Tall Wysterian Potted Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512153",
+      "ItemName": "Wysteria Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317848",
+      "ItemName": "Wysteria Cupboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512093",
+      "ItemName": "Wysteria Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512151",
+      "ItemName": "Wysteria Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512152",
+      "ItemName": "Wysteria Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317847",
+      "ItemName": "Wysteria Throw Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317849",
+      "ItemName": "Wysteria Towel Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418372",
+      "ItemName": "Wysteria Warrior's Armet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418373",
+      "ItemName": "Wysteria Warrior's Armet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418470",
+      "ItemName": "Wysteria Warrior's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418471",
+      "ItemName": "Wysteria Warrior's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418400",
+      "ItemName": "Wysteria Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418401",
+      "ItemName": "Wysteria Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418512",
+      "ItemName": "Wysteria Warrior's Broadsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418513",
+      "ItemName": "Wysteria Warrior's Broadsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418498",
+      "ItemName": "Wysteria Warrior's Claymore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418499",
+      "ItemName": "Wysteria Warrior's Claymore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418428",
+      "ItemName": "Wysteria Warrior's Cuirass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418429",
+      "ItemName": "Wysteria Warrior's Cuirass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418414",
+      "ItemName": "Wysteria Warrior's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418415",
+      "ItemName": "Wysteria Warrior's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418526",
+      "ItemName": "Wysteria Warrior's Longsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418527",
+      "ItemName": "Wysteria Warrior's Longsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418386",
+      "ItemName": "Wysteria Warrior's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418387",
+      "ItemName": "Wysteria Warrior's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418442",
+      "ItemName": "Wysteria Warrior's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418443",
+      "ItemName": "Wysteria Warrior's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418484",
+      "ItemName": "Wysteria Warrior's Sollerets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418485",
+      "ItemName": "Wysteria Warrior's Sollerets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418456",
+      "ItemName": "Wysteria Warrior's Warhelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418457",
+      "ItemName": "Wysteria Warrior's Warhelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350753",
+      "ItemName": "Wysterian Artist's Easel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

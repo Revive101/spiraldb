@@ -1,0 +1,138 @@
+{
+  "Name": "Warrior-Male-Grunt-Tan-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "104828",
+      "ItemName": "Boots of Revelation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126599",
+      "ItemName": "Burning Ring of Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146177",
+      "ItemName": "Claw of Conciliation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126678",
+      "ItemName": "Deck of the Gallium Paladin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160916",
+      "ItemName": "Drake Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126567",
+      "ItemName": "Final Orbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146288",
+      "ItemName": "Frostbitten Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146272",
+      "ItemName": "Hood of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146212",
+      "ItemName": "Lightning-charged Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146364",
+      "ItemName": "Mantle of Order",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160883",
+      "ItemName": "Medium Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146164",
+      "ItemName": "Poniard of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104630",
+      "ItemName": "Raiment of the Raven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104804",
+      "ItemName": "Reaper's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126655",
+      "ItemName": "Saber of the Gallium Paladin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104852",
+      "ItemName": "Sandals of the Lost Epoch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126615",
+      "ItemName": "Seal of the Gallium Paladin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104888",
+      "ItemName": "Shoes of the Greatest Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146229",
+      "ItemName": "Shroud of the Sylph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104867",
+      "ItemName": "Striders of the Thicket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104727",
+      "ItemName": "Surcoat of Glory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146192",
+      "ItemName": "Thunder Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104713",
+      "ItemName": "Tunic of Typhoons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104611",
+      "ItemName": "Vestment of the Inferno",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

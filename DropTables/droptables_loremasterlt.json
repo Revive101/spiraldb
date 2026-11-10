@@ -1,0 +1,268 @@
+{
+  "Name": "LoremasterLT",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126561",
+      "ItemName": "Band of Balance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146320",
+      "ItemName": "Blazing Bonnet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126660",
+      "ItemName": "Branch of the World Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104635",
+      "ItemName": "Crow's Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126683",
+      "ItemName": "Deck of Last Departure",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126685",
+      "ItemName": "Deck of Nature's Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126682",
+      "ItemName": "Deck of Perfect Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126672",
+      "ItemName": "Deck of the Devouring Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126673",
+      "ItemName": "Deck of the Ice Wyrm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126567",
+      "ItemName": "Final Orbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146132",
+      "ItemName": "Firewinter's Ice Spark Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126588",
+      "ItemName": "Flamebringer's Fiery Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146161",
+      "ItemName": "Flamebringer's Lancet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104811",
+      "ItemName": "Footgear of Corporeality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146249",
+      "ItemName": "Headdress of Refutation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126586",
+      "ItemName": "Heartwood Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146270",
+      "ItemName": "Hood of the Ranger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146198",
+      "ItemName": "Infinity's Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126684",
+      "ItemName": "Karuvian Deck of Eternity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146115",
+      "ItemName": "Lancet of Equality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126652",
+      "ItemName": "Lightning Rod",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146362",
+      "ItemName": "Mantle of Fortitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146231",
+      "ItemName": "Mantle of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104776",
+      "ItemName": "Mocassins of the Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126648",
+      "ItemName": "Pillar of Ice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146164",
+      "ItemName": "Poniard of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146342",
+      "ItemName": "Reaper's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126593",
+      "ItemName": "Rime-edged Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126576",
+      "ItemName": "Ring of the Harpy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104852",
+      "ItemName": "Sandals of the Lost Epoch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126657",
+      "ItemName": "Scepter of the Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126677",
+      "ItemName": "Sea Lord's Deck of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126581",
+      "ItemName": "Seal of the Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146126",
+      "ItemName": "Searing Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104793",
+      "ItemName": "Shoes of the Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104762",
+      "ItemName": "Slippers of the Glacier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104875",
+      "ItemName": "Slippers of the Slipstream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104684",
+      "ItemName": "Snowflower Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126645",
+      "ItemName": "Soulbrand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126639",
+      "ItemName": "Staff of the Justicar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146120",
+      "ItemName": "Steelwielder's Skewer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126642",
+      "ItemName": "Terminus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146192",
+      "ItemName": "Thunder Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104643",
+      "ItemName": "Tunic of Tradition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104713",
+      "ItemName": "Tunic of Typhoons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146286",
+      "ItemName": "Veil of Sleet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104611",
+      "ItemName": "Vestment of the Inferno",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104666",
+      "ItemName": "Vestment of the Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104835",
+      "ItemName": "Vineyard Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104591",
+      "ItemName": "Wrap of Equity",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

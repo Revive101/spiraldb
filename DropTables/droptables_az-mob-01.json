@@ -1,0 +1,453 @@
+{
+  "Name": "AZ-Mob-01",
+  "Description": "Mob loot table (11 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589146",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589147",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589148",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589149",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589150",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589151",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730379",
+      "ItemName": "Black Butterfly Guard's Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589195",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589196",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589197",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589198",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589199",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589200",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739180",
+      "ItemName": "Broadhead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730267",
+      "ItemName": "Coatl Lord's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730381",
+      "ItemName": "Death Moon's Chosen Gliders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730376",
+      "ItemName": "Fiery Chac's Great Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730263",
+      "ItemName": "Glorious Feathered Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730261",
+      "ItemName": "Helm of the Broken Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730264",
+      "ItemName": "High Chac's Guarded Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730377",
+      "ItemName": "Ice Age Tyrant's Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730382",
+      "ItemName": "Jaguar Prince's Leapers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730266",
+      "ItemName": "Mask of the Calavera",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589187",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589188",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589189",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589190",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589191",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589192",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589193",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739230",
+      "ItemName": "Quetzal Feathers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473132",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473133",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473134",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473135",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473136",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473137",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589181",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589182",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589183",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589184",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589185",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589186",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730380",
+      "ItemName": "Smoking Obsidian Rangers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730262",
+      "ItemName": "Song of the Lizard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730378",
+      "ItemName": "Storm Owl's Favored Trackers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730268",
+      "ItemName": "Sweet Kiss of Death Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346046",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346047",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346048",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346049",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346050",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346051",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730265",
+      "ItemName": "Tyrant of Beasts Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355073",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355074",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355075",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355076",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355077",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355078",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355079",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346053",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346054",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346055",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346056",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346057",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346058",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

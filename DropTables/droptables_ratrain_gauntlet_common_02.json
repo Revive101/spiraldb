@@ -1,0 +1,68 @@
+{
+  "Name": "RATrain_Gauntlet_Common_02",
+  "Description": "Mob loot table (8 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1522002",
+      "ItemName": "Bottle Collection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522018",
+      "ItemName": "Cactus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522011",
+      "ItemName": "Cloth Covered Country Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522004",
+      "ItemName": "Fish Drying Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522008",
+      "ItemName": "Grand Steamer Trunk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522019",
+      "ItemName": "Hanging Keyring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522005",
+      "ItemName": "Horse Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522015",
+      "ItemName": "Ranch Fence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522009",
+      "ItemName": "Rugged Bunk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522006",
+      "ItemName": "Tribal Woven Rug",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

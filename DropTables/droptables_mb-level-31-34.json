@@ -1,0 +1,223 @@
+{
+  "Name": "MB-Level-31-34",
+  "Description": "Mob loot table (30 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77154",
+      "ItemName": "Alluring Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160731",
+      "ItemName": "Angled Gravemarker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97240",
+      "ItemName": "Artificial Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77247",
+      "ItemName": "Boots of the Nucleus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38979",
+      "ItemName": "Brisk Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38983",
+      "ItemName": "Cap of the Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38980",
+      "ItemName": "Cap of the Inventor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38982",
+      "ItemName": "Cap of the Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97227",
+      "ItemName": "Cat Burglar's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77171",
+      "ItemName": "Cloak of Clarity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77153",
+      "ItemName": "Cloak of Fascination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160733",
+      "ItemName": "Crossbone Gravestone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97273",
+      "ItemName": "Dexterous Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77234",
+      "ItemName": "Exacting Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97141",
+      "ItemName": "Exclusive Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97255",
+      "ItemName": "Fancy Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77189",
+      "ItemName": "Footwraps of Anguish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97288",
+      "ItemName": "Garment of the Supreme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97290",
+      "ItemName": "High Quality Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97106",
+      "ItemName": "Informant's Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97289",
+      "ItemName": "Marvelous Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77184",
+      "ItemName": "Opportunists' Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97305",
+      "ItemName": "Polished Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77082",
+      "ItemName": "Ring of Effect",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77074",
+      "ItemName": "Ring of the Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97306",
+      "ItemName": "Robe of Excellence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77170",
+      "ItemName": "Robe of Ideals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97272",
+      "ItemName": "Robe of Superiority",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97256",
+      "ItemName": "Robe of the Bubble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77187",
+      "ItemName": "Sandals of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97271",
+      "ItemName": "Savvy Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97368",
+      "ItemName": "Shoes of Sentiments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97398",
+      "ItemName": "Shoes of The Windless",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97354",
+      "ItemName": "Shoes of the Chimera",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77220",
+      "ItemName": "Shoes of the Devoted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77188",
+      "ItemName": "Slippers of Gusto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97383",
+      "ItemName": "Slippers of the Worrier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97239",
+      "ItemName": "Stylish Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160625",
+      "ItemName": "Tin Can",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97307",
+      "ItemName": "Vestment of Expertise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97107",
+      "ItemName": "Watchman's Athame",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

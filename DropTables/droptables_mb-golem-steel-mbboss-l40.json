@@ -1,0 +1,143 @@
+{
+  "Name": "MB-Golem-Steel-MBBoss-L40",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77227",
+      "ItemName": "Alluring Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5048",
+      "ItemName": "Amulet of Chilled Creatures",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97148",
+      "ItemName": "Animated Canine Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97091",
+      "ItemName": "Aristocrat's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160250",
+      "ItemName": "Blue Knotted Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160699",
+      "ItemName": "Closed Furnace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97122",
+      "ItemName": "Deck of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97127",
+      "ItemName": "Deck of the Aurora",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77245",
+      "ItemName": "Delicate Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97361",
+      "ItemName": "Fancy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77167",
+      "ItemName": "Feline's Fiery Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97282",
+      "ItemName": "Flowering Canine Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97182",
+      "ItemName": "Flowering Canine Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97200",
+      "ItemName": "Genteel Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39018",
+      "ItemName": "Glowing Canine Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97320",
+      "ItemName": "Mugsy's Robe of Equity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77071",
+      "ItemName": "Mysterious Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97406",
+      "ItemName": "Pleasing Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97136",
+      "ItemName": "Precious Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160722",
+      "ItemName": "Small Smoke Stack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97266",
+      "ItemName": "Smooth Spun Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87472",
+      "ItemName": "Staff of the Ice Wyvern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97250",
+      "ItemName": "Uniform of the Inventor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77180",
+      "ItemName": "Uniform of the Proficient",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97170",
+      "ItemName": "Victorian Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

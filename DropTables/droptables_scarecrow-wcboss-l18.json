@@ -1,0 +1,113 @@
+{
+  "Name": "Scarecrow-WCBoss-L18",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87217",
+      "ItemName": "Adventurer's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4840",
+      "ItemName": "Boots of Obstruction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87213",
+      "ItemName": "Charged Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4667",
+      "ItemName": "Elven Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346481",
+      "ItemName": "Elven Storm Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4780",
+      "ItemName": "Fine Jade Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87215",
+      "ItemName": "Harvest Lord's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160360",
+      "ItemName": "Heated Stone Tower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77604",
+      "ItemName": "Helm of Nightmares",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77587",
+      "ItemName": "Helm of Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4722",
+      "ItemName": "Peridot Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160230",
+      "ItemName": "Pumpkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4738",
+      "ItemName": "Reaper's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87204",
+      "ItemName": "Robe of the Lifeblood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87199",
+      "ItemName": "Soot Stained Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160265",
+      "ItemName": "Tall Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4853",
+      "ItemName": "Trollskin Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4847",
+      "ItemName": "Windrunners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512115",
+      "ItemName": "Wizard City Haunted Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

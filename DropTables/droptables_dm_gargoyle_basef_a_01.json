@@ -1,0 +1,88 @@
+{
+  "Name": "DM_Gargoyle_BaseF_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1712430",
+      "ItemName": "Broken Branch Loss Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712425",
+      "ItemName": "Broken Branch Luckless Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712429",
+      "ItemName": "Broken Branch Neglect Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712431",
+      "ItemName": "Broken Branch Panic Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712427",
+      "ItemName": "Broken Branch Rage Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712428",
+      "ItemName": "Broken Branch Sorrow Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712426",
+      "ItemName": "Broken Branch Terror Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707859",
+      "ItemName": "Dagger of False Promises",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707856",
+      "ItemName": "Dagger of the Burnt Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707860",
+      "ItemName": "Dagger of the Changing Tide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707857",
+      "ItemName": "Dagger of the Coldhearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707855",
+      "ItemName": "Dagger of the Doomed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707858",
+      "ItemName": "Dagger of the Living Lie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707854",
+      "ItemName": "Dagger of the Turning Wheel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

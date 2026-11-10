@@ -1,0 +1,978 @@
+{
+  "Name": "KM-Mob-Gear-132",
+  "Description": "Mob loot table (98 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1514658",
+      "ItemName": "Consultant Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515342",
+      "ItemName": "Consultant Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514642",
+      "ItemName": "Consultant Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514951",
+      "ItemName": "Consultant Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515232",
+      "ItemName": "Consultant Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514967",
+      "ItemName": "Consultant Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514959",
+      "ItemName": "Consultant Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514650",
+      "ItemName": "Consultant Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514654",
+      "ItemName": "Consultant Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515338",
+      "ItemName": "Consultant Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514638",
+      "ItemName": "Consultant Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514947",
+      "ItemName": "Consultant Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515228",
+      "ItemName": "Consultant Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514963",
+      "ItemName": "Consultant Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514955",
+      "ItemName": "Consultant Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514646",
+      "ItemName": "Consultant Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514660",
+      "ItemName": "Consultant Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515344",
+      "ItemName": "Consultant Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514644",
+      "ItemName": "Consultant Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514953",
+      "ItemName": "Consultant Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515234",
+      "ItemName": "Consultant Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514969",
+      "ItemName": "Consultant Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514961",
+      "ItemName": "Consultant Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514652",
+      "ItemName": "Consultant Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514655",
+      "ItemName": "Consultant Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515339",
+      "ItemName": "Consultant Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514639",
+      "ItemName": "Consultant Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514948",
+      "ItemName": "Consultant Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515229",
+      "ItemName": "Consultant Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514964",
+      "ItemName": "Consultant Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514956",
+      "ItemName": "Consultant Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514647",
+      "ItemName": "Consultant Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514656",
+      "ItemName": "Consultant Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515340",
+      "ItemName": "Consultant Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514640",
+      "ItemName": "Consultant Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514949",
+      "ItemName": "Consultant Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515230",
+      "ItemName": "Consultant Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514965",
+      "ItemName": "Consultant Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514957",
+      "ItemName": "Consultant Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514648",
+      "ItemName": "Consultant Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514659",
+      "ItemName": "Consultant Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515343",
+      "ItemName": "Consultant Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514643",
+      "ItemName": "Consultant Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514952",
+      "ItemName": "Consultant Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515233",
+      "ItemName": "Consultant Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514968",
+      "ItemName": "Consultant Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514960",
+      "ItemName": "Consultant Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514651",
+      "ItemName": "Consultant Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514657",
+      "ItemName": "Consultant Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515341",
+      "ItemName": "Consultant Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514641",
+      "ItemName": "Consultant Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514950",
+      "ItemName": "Consultant Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515231",
+      "ItemName": "Consultant Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514966",
+      "ItemName": "Consultant Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514958",
+      "ItemName": "Consultant Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514649",
+      "ItemName": "Consultant Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514653",
+      "ItemName": "Consultant Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515337",
+      "ItemName": "Consultant Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514637",
+      "ItemName": "Consultant Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514946",
+      "ItemName": "Consultant Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515227",
+      "ItemName": "Consultant Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514962",
+      "ItemName": "Consultant Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514954",
+      "ItemName": "Consultant Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514645",
+      "ItemName": "Consultant Thermal Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514682",
+      "ItemName": "Contractor Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515350",
+      "ItemName": "Contractor Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514666",
+      "ItemName": "Contractor Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514975",
+      "ItemName": "Contractor Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515241",
+      "ItemName": "Contractor Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514991",
+      "ItemName": "Contractor Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514983",
+      "ItemName": "Contractor Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514674",
+      "ItemName": "Contractor Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514678",
+      "ItemName": "Contractor Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515346",
+      "ItemName": "Contractor Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514662",
+      "ItemName": "Contractor Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514971",
+      "ItemName": "Contractor Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515237",
+      "ItemName": "Contractor Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514987",
+      "ItemName": "Contractor Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514979",
+      "ItemName": "Contractor Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514670",
+      "ItemName": "Contractor Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514684",
+      "ItemName": "Contractor Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515352",
+      "ItemName": "Contractor Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514668",
+      "ItemName": "Contractor Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514977",
+      "ItemName": "Contractor Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515243",
+      "ItemName": "Contractor Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514993",
+      "ItemName": "Contractor Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514985",
+      "ItemName": "Contractor Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514676",
+      "ItemName": "Contractor Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514679",
+      "ItemName": "Contractor Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515347",
+      "ItemName": "Contractor Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514663",
+      "ItemName": "Contractor Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514972",
+      "ItemName": "Contractor Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515238",
+      "ItemName": "Contractor Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514988",
+      "ItemName": "Contractor Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514980",
+      "ItemName": "Contractor Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514671",
+      "ItemName": "Contractor Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514680",
+      "ItemName": "Contractor Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515348",
+      "ItemName": "Contractor Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514664",
+      "ItemName": "Contractor Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514973",
+      "ItemName": "Contractor Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515239",
+      "ItemName": "Contractor Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514989",
+      "ItemName": "Contractor Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514981",
+      "ItemName": "Contractor Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514672",
+      "ItemName": "Contractor Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514683",
+      "ItemName": "Contractor Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515351",
+      "ItemName": "Contractor Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514667",
+      "ItemName": "Contractor Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514976",
+      "ItemName": "Contractor Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515242",
+      "ItemName": "Contractor Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514992",
+      "ItemName": "Contractor Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514984",
+      "ItemName": "Contractor Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514675",
+      "ItemName": "Contractor Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514681",
+      "ItemName": "Contractor Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515349",
+      "ItemName": "Contractor Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514665",
+      "ItemName": "Contractor Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514974",
+      "ItemName": "Contractor Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515240",
+      "ItemName": "Contractor Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514990",
+      "ItemName": "Contractor Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514982",
+      "ItemName": "Contractor Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514673",
+      "ItemName": "Contractor Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514677",
+      "ItemName": "Contractor Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515345",
+      "ItemName": "Contractor Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514661",
+      "ItemName": "Contractor Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514970",
+      "ItemName": "Contractor Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515236",
+      "ItemName": "Contractor Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514986",
+      "ItemName": "Contractor Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514978",
+      "ItemName": "Contractor Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514669",
+      "ItemName": "Contractor Thermal Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514634",
+      "ItemName": "Specialist Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515334",
+      "ItemName": "Specialist Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514618",
+      "ItemName": "Specialist Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514927",
+      "ItemName": "Specialist Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515223",
+      "ItemName": "Specialist Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514943",
+      "ItemName": "Specialist Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514935",
+      "ItemName": "Specialist Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514626",
+      "ItemName": "Specialist Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514630",
+      "ItemName": "Specialist Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515330",
+      "ItemName": "Specialist Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514614",
+      "ItemName": "Specialist Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514923",
+      "ItemName": "Specialist Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515219",
+      "ItemName": "Specialist Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514939",
+      "ItemName": "Specialist Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514931",
+      "ItemName": "Specialist Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514622",
+      "ItemName": "Specialist Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514636",
+      "ItemName": "Specialist Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515336",
+      "ItemName": "Specialist Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514620",
+      "ItemName": "Specialist Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514929",
+      "ItemName": "Specialist Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515225",
+      "ItemName": "Specialist Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514945",
+      "ItemName": "Specialist Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514937",
+      "ItemName": "Specialist Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514628",
+      "ItemName": "Specialist Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514631",
+      "ItemName": "Specialist Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515331",
+      "ItemName": "Specialist Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514615",
+      "ItemName": "Specialist Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514924",
+      "ItemName": "Specialist Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515220",
+      "ItemName": "Specialist Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514940",
+      "ItemName": "Specialist Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514932",
+      "ItemName": "Specialist Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514623",
+      "ItemName": "Specialist Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514632",
+      "ItemName": "Specialist Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515332",
+      "ItemName": "Specialist Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514616",
+      "ItemName": "Specialist Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514925",
+      "ItemName": "Specialist Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515221",
+      "ItemName": "Specialist Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514941",
+      "ItemName": "Specialist Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514933",
+      "ItemName": "Specialist Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514624",
+      "ItemName": "Specialist Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514635",
+      "ItemName": "Specialist Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515335",
+      "ItemName": "Specialist Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514619",
+      "ItemName": "Specialist Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514928",
+      "ItemName": "Specialist Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515224",
+      "ItemName": "Specialist Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514944",
+      "ItemName": "Specialist Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514936",
+      "ItemName": "Specialist Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514627",
+      "ItemName": "Specialist Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514633",
+      "ItemName": "Specialist Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515333",
+      "ItemName": "Specialist Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514617",
+      "ItemName": "Specialist Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514926",
+      "ItemName": "Specialist Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515222",
+      "ItemName": "Specialist Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514942",
+      "ItemName": "Specialist Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514934",
+      "ItemName": "Specialist Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514625",
+      "ItemName": "Specialist Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514629",
+      "ItemName": "Specialist Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515329",
+      "ItemName": "Specialist Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514613",
+      "ItemName": "Specialist Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514922",
+      "ItemName": "Specialist Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515218",
+      "ItemName": "Specialist Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514938",
+      "ItemName": "Specialist Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514930",
+      "ItemName": "Specialist Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514621",
+      "ItemName": "Specialist Thermal Suit",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

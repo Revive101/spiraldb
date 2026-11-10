@@ -1,0 +1,73 @@
+{
+  "Name": "CL-CrabSoldier-Brown--Boss-R9-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "342107",
+      "ItemName": "Celestian Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243758",
+      "ItemName": "Cinder Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243523",
+      "ItemName": "Combustible Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243269",
+      "ItemName": "Dirk of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243811",
+      "ItemName": "Festive Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243659",
+      "ItemName": "Longcoat of Long Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243245",
+      "ItemName": "Majestic Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243407",
+      "ItemName": "Mythical Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243577",
+      "ItemName": "Ring of Fallacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243384",
+      "ItemName": "Tangleroot's Spirit Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243457",
+      "ItemName": "Tunic of Tolerance",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,93 @@
+{
+  "Name": "MS-Goat-Peasant-Diseased-2-MSBoss-L42",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "470216",
+      "ItemName": "Bonsai Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97473",
+      "ItemName": "Dagger of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97470",
+      "ItemName": "Knife of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160571",
+      "ItemName": "Monk Shrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160439",
+      "ItemName": "Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87775",
+      "ItemName": "Ruby Blade of the Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98063",
+      "ItemName": "Shoes of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98060",
+      "ItemName": "Shoes of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160479",
+      "ItemName": "Skull Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98065",
+      "ItemName": "Slippers of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97814",
+      "ItemName": "Zaneki's Cloak of Solitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97700",
+      "ItemName": "Zaneki's Entranced Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97444",
+      "ItemName": "Zaneki's Knife of Cognition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97955",
+      "ItemName": "Zaneki's Sandals of Tact",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97956",
+      "ItemName": "Zaneki's Slippers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

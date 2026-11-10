@@ -1,0 +1,143 @@
+{
+  "Name": "Kraken-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "104756",
+      "ItemName": "Blizzard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104870",
+      "ItemName": "Boots of the Emerald Grove",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104679",
+      "ItemName": "Chilling Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104598",
+      "ItemName": "Coat of Impartiality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160897",
+      "ItemName": "Draconic Street Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160804",
+      "ItemName": "Dragonfire Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104705",
+      "ItemName": "Dragonscale Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104790",
+      "ItemName": "Firewalker's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146259",
+      "ItemName": "Herbalist's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146361",
+      "ItemName": "Hood of Propriety",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146269",
+      "ItemName": "Hood of the Gnome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104595",
+      "ItemName": "Judge's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104658",
+      "ItemName": "Leafy Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146332",
+      "ItemName": "Mantle of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146173",
+      "ItemName": "Needle of the Eye",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146316",
+      "ItemName": "Pyromancer's Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126562",
+      "ItemName": "Ring of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146167",
+      "ItemName": "Scaled Smallsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126677",
+      "ItemName": "Sea Lord's Deck of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146245",
+      "ItemName": "Sea Lord's Hurricane Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104758",
+      "ItemName": "Sea Lord's Iceberg Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126610",
+      "ItemName": "Seal of the Vigilant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104822",
+      "ItemName": "Shoes of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225436",
+      "ItemName": "Storm Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146227",
+      "ItemName": "Veil of Clouds",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

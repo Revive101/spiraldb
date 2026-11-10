@@ -1,0 +1,268 @@
+{
+  "Name": "RATrain_Gauntlet_Boss_02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1522010",
+      "ItemName": "Card Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519921",
+      "ItemName": "Cool Rancher's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519922",
+      "ItemName": "Cool Rancher's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519923",
+      "ItemName": "Cool Rancher's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519906",
+      "ItemName": "Cool Rancher's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519907",
+      "ItemName": "Cool Rancher's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519908",
+      "ItemName": "Cool Rancher's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519891",
+      "ItemName": "Cool Rancher's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519892",
+      "ItemName": "Cool Rancher's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519893",
+      "ItemName": "Cool Rancher's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522021",
+      "ItemName": "Decorative Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523011",
+      "ItemName": "Desert Wrangler's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523012",
+      "ItemName": "Desert Wrangler's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523013",
+      "ItemName": "Desert Wrangler's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519996",
+      "ItemName": "Desert Wrangler's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519997",
+      "ItemName": "Desert Wrangler's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519998",
+      "ItemName": "Desert Wrangler's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519981",
+      "ItemName": "Desert Wrangler's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519982",
+      "ItemName": "Desert Wrangler's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519983",
+      "ItemName": "Desert Wrangler's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507362",
+      "ItemName": "Moseyin' Armadillo (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507361",
+      "ItemName": "Moseyin' Armadillo (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519966",
+      "ItemName": "Prairie Rambler's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519967",
+      "ItemName": "Prairie Rambler's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519968",
+      "ItemName": "Prairie Rambler's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519951",
+      "ItemName": "Prairie Rambler's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519952",
+      "ItemName": "Prairie Rambler's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519953",
+      "ItemName": "Prairie Rambler's Duster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519936",
+      "ItemName": "Prairie Rambler's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519937",
+      "ItemName": "Prairie Rambler's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1519938",
+      "ItemName": "Prairie Rambler's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523042",
+      "ItemName": "Rambler's Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523044",
+      "ItemName": "Rambler's Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507401",
+      "ItemName": "Rambler's Runner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507368",
+      "ItemName": "Ramblin' Armadillo (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507367",
+      "ItemName": "Ramblin' Armadillo (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522014",
+      "ItemName": "Ranch Gate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523027",
+      "ItemName": "Rancher's Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523028",
+      "ItemName": "Rancher's Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523029",
+      "ItemName": "Rancher's Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507403",
+      "ItemName": "Rancher's Runner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522007",
+      "ItemName": "Red Brick Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507365",
+      "ItemName": "Trusty Armadillo (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507364",
+      "ItemName": "Trusty Armadillo (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1522017",
+      "ItemName": "Wooden Outhouse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523057",
+      "ItemName": "Wrangler's Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523058",
+      "ItemName": "Wrangler's Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523059",
+      "ItemName": "Wrangler's Frontier Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507402",
+      "ItemName": "Wrangler's Runner",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

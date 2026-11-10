@@ -1,0 +1,98 @@
+{
+  "Name": "EM-Boss-Brain-01",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1430574",
+      "ItemName": "Cabal Banner of Disruption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430534",
+      "ItemName": "Cabal Cloak of Disruption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430570",
+      "ItemName": "Cabalist Banner of Finality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430573",
+      "ItemName": "Cabalist Banner of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430569",
+      "ItemName": "Cabalist Banner of the First",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430571",
+      "ItemName": "Cabalist Chaotic Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430530",
+      "ItemName": "Cabalist Chaotic Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430572",
+      "ItemName": "Cabalist Cleansing Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430528",
+      "ItemName": "Cabalist Cleansing Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430533",
+      "ItemName": "Cabalist Cloak of Finality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430529",
+      "ItemName": "Cabalist Cloak of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430532",
+      "ItemName": "Cabalist Cloak of the First",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430575",
+      "ItemName": "Cabalist Schism Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439020",
+      "ItemName": "Empyrea Medulla Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430568",
+      "ItemName": "Nostalgic Cabal Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430531",
+      "ItemName": "Nostalgic Cabal Cloak",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

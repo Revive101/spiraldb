@@ -1,0 +1,138 @@
+{
+  "Name": "MS-Wraith-MSBoss-L56",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97547",
+      "ItemName": "Defiler's Helm of Anticipation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97768",
+      "ItemName": "Defiler's Tunic of Aspirations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126143",
+      "ItemName": "Electrified Band of Mayhem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98036",
+      "ItemName": "Footwraps of Unrest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97642",
+      "ItemName": "Hood of the Agile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470225",
+      "ItemName": "House Stage Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160599",
+      "ItemName": "Lotus Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82927",
+      "ItemName": "Low Jade Table ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97791",
+      "ItemName": "Mindful Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97952",
+      "ItemName": "Mindful Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512099",
+      "ItemName": "MooShu Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97545",
+      "ItemName": "Oyotomi's Cowl of Vacancy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87777",
+      "ItemName": "Oyotomi's Jade Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97922",
+      "ItemName": "Oyotomi's Shoes of Egoism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97428",
+      "ItemName": "Oyotomi's Snowstorm Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97594",
+      "ItemName": "Precautionary Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160223",
+      "ItemName": "Rib Cage of the Defiler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97810",
+      "ItemName": "Robe of Exertion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98005",
+      "ItemName": "Shoes of Music",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97985",
+      "ItemName": "Slippers of Conceit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160529",
+      "ItemName": "Stone Lantern Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97841",
+      "ItemName": "Vestment of Inflection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97874",
+      "ItemName": "Vestment of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160511",
+      "ItemName": "White Ceramic Vase",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

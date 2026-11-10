@@ -1,0 +1,178 @@
+{
+  "Name": "KR_Bee_Warrior_H",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653139",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653140",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653141",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653142",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653143",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653144",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653145",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203197",
+      "ItemName": "Battle-Worn Burrower Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346060",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346061",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346062",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346063",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346064",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346065",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203198",
+      "ItemName": "Kermes Fire Miner's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603175",
+      "ItemName": "Last Wood Bush 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203199",
+      "ItemName": "Mantis Plate of Frostfall",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

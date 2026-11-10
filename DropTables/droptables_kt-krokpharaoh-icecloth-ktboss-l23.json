@@ -1,0 +1,143 @@
+{
+  "Name": "KT-KrokPharaoh-IceCloth-KTBoss-L23",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77691",
+      "ItemName": "Bitter Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82710",
+      "ItemName": "Blue Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77798",
+      "ItemName": "Boots of the Citadel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4960",
+      "ItemName": "Dirk of Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77701",
+      "ItemName": "Diviner's Hat of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77702",
+      "ItemName": "Helm of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82842",
+      "ItemName": "Krok Bird Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87346",
+      "ItemName": "Nekhbet's Arctic Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77764",
+      "ItemName": "Nekhbet's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87272",
+      "ItemName": "Nekhbet's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4980",
+      "ItemName": "Nekhbet's Ruby Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77743",
+      "ItemName": "Nekhbet's Shrewd Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4942",
+      "ItemName": "Parched Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5027",
+      "ItemName": "Ring of the Badlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77711",
+      "ItemName": "Rough-hewn Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5016",
+      "ItemName": "Sparkling Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87333",
+      "ItemName": "Sphinx's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77678",
+      "ItemName": "Stout Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87292",
+      "ItemName": "Sturdy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77742",
+      "ItemName": "Threadbare Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87318",
+      "ItemName": "Vest of the Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38763",
+      "ItemName": "Vest of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87305",
+      "ItemName": "Vestment of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38762",
+      "ItemName": "Vestment of the Arctic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4955",
+      "ItemName": "Whirlwind Dagger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

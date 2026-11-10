@@ -1,0 +1,158 @@
+{
+  "Name": "OCT-LootTable-004",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126412",
+      "ItemName": "Black Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248129",
+      "ItemName": "Blubbering Pumpkin Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126403",
+      "ItemName": "Boo Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248130",
+      "ItemName": "Cackling Pumpkin Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248128",
+      "ItemName": "Chuckling Pumpkin Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126397",
+      "ItemName": "Cool Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126400",
+      "ItemName": "Cyclops Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346189",
+      "ItemName": "Ghost Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126401",
+      "ItemName": "Goofy Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126395",
+      "ItemName": "Hallowe'en Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126399",
+      "ItemName": "Hallowe'en Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126398",
+      "ItemName": "Hallowe'en Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126402",
+      "ItemName": "Happy Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126404",
+      "ItemName": "Kitty Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363265",
+      "ItemName": "Mummy Costume Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363263",
+      "ItemName": "Mummy Costume Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346193",
+      "ItemName": "Nightmare",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126396",
+      "ItemName": "Ninja Pig Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126406",
+      "ItemName": "Ninja Pig Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126405",
+      "ItemName": "Ninja Pig Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126416",
+      "ItemName": "Pirate Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126418",
+      "ItemName": "Plain Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126415",
+      "ItemName": "Scary Pumpkin Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317646",
+      "ItemName": "Spooky Bob",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363262",
+      "ItemName": "Vampire Costume Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363261",
+      "ItemName": "Vampire Costume Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363260",
+      "ItemName": "Vampire Costume Wig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248131",
+      "ItemName": "Witch's Scary Sweeper",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

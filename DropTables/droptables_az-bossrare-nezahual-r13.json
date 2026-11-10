@@ -1,0 +1,178 @@
+{
+  "Name": "AZ-BossRare-Nezahual-R13",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512209",
+      "ItemName": "Azteca Dungeon Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512211",
+      "ItemName": "Azteca Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739202",
+      "ItemName": "Azteca Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730240",
+      "ItemName": "Black Sky Barbed Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730243",
+      "ItemName": "Blade of the Green Song",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730422",
+      "ItemName": "Calendar of the Spiral King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730310",
+      "ItemName": "Falling Star's End Time Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730352",
+      "ItemName": "Ice Age Tyrant's Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730429",
+      "ItemName": "Jaguar Paw Pyramid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739224",
+      "ItemName": "Jaguar Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730392",
+      "ItemName": "Keeper of the Codex Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730394",
+      "ItemName": "Rangers of the Hungry Lizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730445",
+      "ItemName": "Rod of Icy Tears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730250",
+      "ItemName": "Seven Stabs of the Sky Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739137",
+      "ItemName": "Star Dino Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730446",
+      "ItemName": "Storm Quetzal's Charged Mace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730418",
+      "ItemName": "Storm Sun Gallery",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

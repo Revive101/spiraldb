@@ -1,0 +1,228 @@
+{
+  "Name": "MR-Boss-Furniture",
+  "Description": "Mob loot table (57 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473093",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473094",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473095",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473096",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473097",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473098",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473159",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473160",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473161",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473162",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473163",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473164",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473165",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473638",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473639",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473640",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473641",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473642",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473643",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473644",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392164",
+      "ItemName": "MaCaw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335273",
+      "ItemName": "Mirage Canyon Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335276",
+      "ItemName": "Mirage Canyon Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335277",
+      "ItemName": "Mirage Canyon Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335261",
+      "ItemName": "Mirage Caravan Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335262",
+      "ItemName": "Mirage Chronoverge Com Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335263",
+      "ItemName": "Mirage Chronoverge Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335265",
+      "ItemName": "Mirage City Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335281",
+      "ItemName": "Mirage City Tense Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335264",
+      "ItemName": "Mirage City Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335274",
+      "ItemName": "Mirage City Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335275",
+      "ItemName": "Mirage Den of Thieves Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335266",
+      "ItemName": "Mirage Desert Canyons Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335260",
+      "ItemName": "Mirage Desert Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335267",
+      "ItemName": "Mirage Jungle Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335268",
+      "ItemName": "Mirage Jungle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335279",
+      "ItemName": "Mirage Magic Carpet Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335280",
+      "ItemName": "Mirage Nomad Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335269",
+      "ItemName": "Mirage Palace Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335270",
+      "ItemName": "Mirage Serpent Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335278",
+      "ItemName": "Mirage Spider Speaks Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

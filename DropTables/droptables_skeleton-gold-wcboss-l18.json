@@ -1,0 +1,98 @@
+{
+  "Name": "Skeleton-Gold-WCBoss-L18",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4849",
+      "ItemName": "Antique Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4834",
+      "ItemName": "Boots of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87233",
+      "ItemName": "Cloak of Vigilance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77611",
+      "ItemName": "Cowl of the Discreet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4727",
+      "ItemName": "Dulled Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4835",
+      "ItemName": "Fireguard Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4670",
+      "ItemName": "Flash Frozen Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77574",
+      "ItemName": "Hardened Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4736",
+      "ItemName": "Knife of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87195",
+      "ItemName": "Robe of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4782",
+      "ItemName": "Skullsplitter's Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160259",
+      "ItemName": "Small Orange Symbol Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4846",
+      "ItemName": "Stormcaller's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4867",
+      "ItemName": "Symmetrical Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160338",
+      "ItemName": "Triton Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77602",
+      "ItemName": "Venomous Cowl",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

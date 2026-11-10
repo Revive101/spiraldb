@@ -1,0 +1,93 @@
+{
+  "Name": "CL-AnglerBoss-R10-3",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1689424",
+      "ItemName": "Atavistic Balance Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689425",
+      "ItemName": "Atavistic Death Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689426",
+      "ItemName": "Atavistic Fire Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689427",
+      "ItemName": "Atavistic Ice Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689428",
+      "ItemName": "Atavistic Life Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689429",
+      "ItemName": "Atavistic Myth Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689430",
+      "ItemName": "Atavistic Storm Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689491",
+      "ItemName": "Bygone Balance Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689492",
+      "ItemName": "Bygone Death Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689493",
+      "ItemName": "Bygone Fire Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689494",
+      "ItemName": "Bygone Ice Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689495",
+      "ItemName": "Bygone Life Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689496",
+      "ItemName": "Bygone Myth Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689497",
+      "ItemName": "Bygone Storm Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350310",
+      "ItemName": "Expert's Socket Wrench",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

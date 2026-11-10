@@ -1,0 +1,118 @@
+{
+  "Name": "CL-SharkWarrior-Tiger-R9-3",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243874",
+      "ItemName": "Amulet of Agony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342076",
+      "ItemName": "Celestian Noble Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243374",
+      "ItemName": "Diamond Dust Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243222",
+      "ItemName": "Dirk of the Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243346",
+      "ItemName": "Fire-Forged Flame Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243625",
+      "ItemName": "Firestar Surcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243877",
+      "ItemName": "Jewel of the Dragons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243273",
+      "ItemName": "Marinos's Lancet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243723",
+      "ItemName": "Mutual Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243666",
+      "ItemName": "Neelus's Inspired Surcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243589",
+      "ItemName": "Ring of the Maelstrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243568",
+      "ItemName": "Signet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243746",
+      "ItemName": "Sinister Stalkers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

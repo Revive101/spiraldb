@@ -1,0 +1,163 @@
+{
+  "Name": "MR-Boss-GrandfatherSpider-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1407008",
+      "ItemName": "Grandmaster Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407124",
+      "ItemName": "Tetrus Deck of Fusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407123",
+      "ItemName": "Tetrus Deck of Isolation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407122",
+      "ItemName": "Tetrus Deck of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407121",
+      "ItemName": "Tetrus Deck of Rumination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407118",
+      "ItemName": "Tetrus Deck of Scalding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407119",
+      "ItemName": "Tetrus Deck of Sleet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407120",
+      "ItemName": "Tetrus Deck of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407092",
+      "ItemName": "Tetrus Khanjar of Fusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407091",
+      "ItemName": "Tetrus Khanjar of Isolation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407090",
+      "ItemName": "Tetrus Khanjar of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407089",
+      "ItemName": "Tetrus Khanjar of Rumination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407086",
+      "ItemName": "Tetrus Khanjar of Scalding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407087",
+      "ItemName": "Tetrus Khanjar of Sleet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407088",
+      "ItemName": "Tetrus Khanjar of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407112",
+      "ItemName": "Time Warden Downpour Kilij",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407072",
+      "ItemName": "Time Warden Downpour Thobe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407115",
+      "ItemName": "Time Warden Kilij of Gloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407110",
+      "ItemName": "Time Warden Kilij of Pyres",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407113",
+      "ItemName": "Time Warden Kilij of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407114",
+      "ItemName": "Time Warden Kilij of Triumph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407116",
+      "ItemName": "Time Warden Kilij of Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407111",
+      "ItemName": "Time Warden Snowdrift Kilij",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407071",
+      "ItemName": "Time Warden Snowdrift Thobe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407075",
+      "ItemName": "Time Warden Thobe of Gloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407070",
+      "ItemName": "Time Warden Thobe of Pyres",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407073",
+      "ItemName": "Time Warden Thobe of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407074",
+      "ItemName": "Time Warden Thobe of Triumph",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407076",
+      "ItemName": "Time Warden Thobe of Truth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,153 @@
+{
+  "Name": "GH-Raven-Mage-4-GHBoss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136670",
+      "ItemName": "Coat of Veracity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355186",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355187",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355188",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355189",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355190",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355191",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136644",
+      "ItemName": "Insulated Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136447",
+      "ItemName": "Mantle of Euphoria",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355115",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355116",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355117",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355118",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355119",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355120",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355121",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136298",
+      "ItemName": "Orichalcum Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356099",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356100",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356101",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356102",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356103",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356104",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356105",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136511",
+      "ItemName": "Storied Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136668",
+      "ItemName": "Vestment of Loss",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

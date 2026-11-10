@@ -1,0 +1,118 @@
+{
+  "Name": "GH-Colossus-Silver-Runed-GHBoss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "171202",
+      "ItemName": "Footwraps of the Icedrake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136493",
+      "ItemName": "Frostbright Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136407",
+      "ItemName": "Hoarfrost Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136494",
+      "ItemName": "Living Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136286",
+      "ItemName": "Mending Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136630",
+      "ItemName": "Postulant's Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356120",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356121",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356122",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356123",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356124",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356125",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356126",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

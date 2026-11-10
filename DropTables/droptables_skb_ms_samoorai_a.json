@@ -1,0 +1,2603 @@
+{
+  "Name": "SKB_MS_Samoorai_A",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "589083",
+      "ItemName": "Amber Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276459",
+      "ItemName": "Ancient Koi (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532872",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532873",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532874",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532875",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667357",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740073",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257990",
+      "ItemName": "August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532888",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532889",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532890",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532891",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667363",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740082",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257992",
+      "ItemName": "August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532880",
+      "ItemName": "August Sage Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532881",
+      "ItemName": "August Sage Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532882",
+      "ItemName": "August Sage Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532883",
+      "ItemName": "August Sage Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667360",
+      "ItemName": "August Sage Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740091",
+      "ItemName": "August Sage Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257991",
+      "ItemName": "August Sage Shoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663031",
+      "ItemName": "Balanced August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663038",
+      "ItemName": "Balanced August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663045",
+      "ItemName": "Balanced August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663052",
+      "ItemName": "Balanced August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663059",
+      "ItemName": "Balanced August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663066",
+      "ItemName": "Balanced August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663073",
+      "ItemName": "Balanced August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654800",
+      "ItemName": "Balanced August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654821",
+      "ItemName": "Balanced August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654842",
+      "ItemName": "Balanced August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654863",
+      "ItemName": "Balanced August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654884",
+      "ItemName": "Balanced August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654905",
+      "ItemName": "Balanced August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654926",
+      "ItemName": "Balanced August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654639",
+      "ItemName": "Balanced August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654660",
+      "ItemName": "Balanced August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654681",
+      "ItemName": "Balanced August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654702",
+      "ItemName": "Balanced August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654723",
+      "ItemName": "Balanced August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654744",
+      "ItemName": "Balanced August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654765",
+      "ItemName": "Balanced August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654646",
+      "ItemName": "Balanced August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654667",
+      "ItemName": "Balanced August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654688",
+      "ItemName": "Balanced August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654709",
+      "ItemName": "Balanced August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654730",
+      "ItemName": "Balanced August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654751",
+      "ItemName": "Balanced August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654772",
+      "ItemName": "Balanced August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654933",
+      "ItemName": "Balanced August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654940",
+      "ItemName": "Balanced August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654947",
+      "ItemName": "Balanced August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654954",
+      "ItemName": "Balanced August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654961",
+      "ItemName": "Balanced August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654968",
+      "ItemName": "Balanced August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654975",
+      "ItemName": "Balanced August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654786",
+      "ItemName": "Balanced August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654807",
+      "ItemName": "Balanced August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654828",
+      "ItemName": "Balanced August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654849",
+      "ItemName": "Balanced August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654870",
+      "ItemName": "Balanced August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654891",
+      "ItemName": "Balanced August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654912",
+      "ItemName": "Balanced August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654653",
+      "ItemName": "Balanced August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654674",
+      "ItemName": "Balanced August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654695",
+      "ItemName": "Balanced August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654716",
+      "ItemName": "Balanced August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654737",
+      "ItemName": "Balanced August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654758",
+      "ItemName": "Balanced August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654779",
+      "ItemName": "Balanced August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654982",
+      "ItemName": "Balanced Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654989",
+      "ItemName": "Balanced Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654996",
+      "ItemName": "Balanced Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663003",
+      "ItemName": "Balanced Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663010",
+      "ItemName": "Balanced Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663017",
+      "ItemName": "Balanced Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663024",
+      "ItemName": "Balanced Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191448",
+      "ItemName": "Bengal Tiger (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532732",
+      "ItemName": "Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532733",
+      "ItemName": "Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532734",
+      "ItemName": "Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532735",
+      "ItemName": "Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667239",
+      "ItemName": "Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740175",
+      "ItemName": "Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257903",
+      "ItemName": "Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532856",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532857",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532858",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532859",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667359",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740090",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257988",
+      "ItemName": "Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532864",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532865",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532866",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532867",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667362",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740081",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257989",
+      "ItemName": "Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532848",
+      "ItemName": "Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532849",
+      "ItemName": "Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532850",
+      "ItemName": "Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532851",
+      "ItemName": "Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667356",
+      "ItemName": "Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740072",
+      "ItemName": "Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257987",
+      "ItemName": "Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357155",
+      "ItemName": "Conical of Takanobu's Rage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663032",
+      "ItemName": "Deadly August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663039",
+      "ItemName": "Deadly August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663046",
+      "ItemName": "Deadly August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663053",
+      "ItemName": "Deadly August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663060",
+      "ItemName": "Deadly August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663067",
+      "ItemName": "Deadly August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663074",
+      "ItemName": "Deadly August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654801",
+      "ItemName": "Deadly August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654822",
+      "ItemName": "Deadly August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654843",
+      "ItemName": "Deadly August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654864",
+      "ItemName": "Deadly August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654885",
+      "ItemName": "Deadly August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654906",
+      "ItemName": "Deadly August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654927",
+      "ItemName": "Deadly August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654640",
+      "ItemName": "Deadly August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654661",
+      "ItemName": "Deadly August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654682",
+      "ItemName": "Deadly August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654703",
+      "ItemName": "Deadly August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654724",
+      "ItemName": "Deadly August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654745",
+      "ItemName": "Deadly August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654766",
+      "ItemName": "Deadly August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654647",
+      "ItemName": "Deadly August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654668",
+      "ItemName": "Deadly August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654689",
+      "ItemName": "Deadly August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654710",
+      "ItemName": "Deadly August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654731",
+      "ItemName": "Deadly August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654752",
+      "ItemName": "Deadly August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654773",
+      "ItemName": "Deadly August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654934",
+      "ItemName": "Deadly August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654941",
+      "ItemName": "Deadly August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654948",
+      "ItemName": "Deadly August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654955",
+      "ItemName": "Deadly August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654962",
+      "ItemName": "Deadly August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654969",
+      "ItemName": "Deadly August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654976",
+      "ItemName": "Deadly August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654787",
+      "ItemName": "Deadly August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654808",
+      "ItemName": "Deadly August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654829",
+      "ItemName": "Deadly August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654850",
+      "ItemName": "Deadly August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654871",
+      "ItemName": "Deadly August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654892",
+      "ItemName": "Deadly August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654913",
+      "ItemName": "Deadly August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654654",
+      "ItemName": "Deadly August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654675",
+      "ItemName": "Deadly August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654696",
+      "ItemName": "Deadly August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654717",
+      "ItemName": "Deadly August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654738",
+      "ItemName": "Deadly August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654759",
+      "ItemName": "Deadly August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654780",
+      "ItemName": "Deadly August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654983",
+      "ItemName": "Deadly Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654990",
+      "ItemName": "Deadly Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654997",
+      "ItemName": "Deadly Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663004",
+      "ItemName": "Deadly Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663011",
+      "ItemName": "Deadly Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663018",
+      "ItemName": "Deadly Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663025",
+      "ItemName": "Deadly Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654984",
+      "ItemName": "Fiery Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654991",
+      "ItemName": "Fiery Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654998",
+      "ItemName": "Fiery Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663005",
+      "ItemName": "Fiery Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663012",
+      "ItemName": "Fiery Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663019",
+      "ItemName": "Fiery Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663026",
+      "ItemName": "Fiery Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663033",
+      "ItemName": "Fiery Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663040",
+      "ItemName": "Fiery Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663047",
+      "ItemName": "Fiery Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663054",
+      "ItemName": "Fiery Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663061",
+      "ItemName": "Fiery Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663068",
+      "ItemName": "Fiery Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663075",
+      "ItemName": "Fiery Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654802",
+      "ItemName": "Fiery Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654823",
+      "ItemName": "Fiery Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654844",
+      "ItemName": "Fiery Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654865",
+      "ItemName": "Fiery Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654886",
+      "ItemName": "Fiery Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654907",
+      "ItemName": "Fiery Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654928",
+      "ItemName": "Fiery Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654655",
+      "ItemName": "Fiery Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654676",
+      "ItemName": "Fiery Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654697",
+      "ItemName": "Fiery Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654718",
+      "ItemName": "Fiery Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654739",
+      "ItemName": "Fiery Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654760",
+      "ItemName": "Fiery Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654781",
+      "ItemName": "Fiery Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654648",
+      "ItemName": "Fiery Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654669",
+      "ItemName": "Fiery Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654690",
+      "ItemName": "Fiery Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654711",
+      "ItemName": "Fiery Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654732",
+      "ItemName": "Fiery Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654753",
+      "ItemName": "Fiery Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654774",
+      "ItemName": "Fiery Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654641",
+      "ItemName": "Fiery Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654662",
+      "ItemName": "Fiery Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654683",
+      "ItemName": "Fiery Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654704",
+      "ItemName": "Fiery Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654725",
+      "ItemName": "Fiery Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654746",
+      "ItemName": "Fiery Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654767",
+      "ItemName": "Fiery Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654935",
+      "ItemName": "Fiery Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654942",
+      "ItemName": "Fiery Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654949",
+      "ItemName": "Fiery Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654956",
+      "ItemName": "Fiery Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654963",
+      "ItemName": "Fiery Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654970",
+      "ItemName": "Fiery Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654977",
+      "ItemName": "Fiery Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654788",
+      "ItemName": "Fiery Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654809",
+      "ItemName": "Fiery Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654830",
+      "ItemName": "Fiery Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654851",
+      "ItemName": "Fiery Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654872",
+      "ItemName": "Fiery Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654893",
+      "ItemName": "Fiery Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654914",
+      "ItemName": "Fiery Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357178",
+      "ItemName": "Footgear of Takanobu's Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100329",
+      "ItemName": "Goat Monk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217523",
+      "ItemName": "Gold Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357156",
+      "ItemName": "Hat of Takanobu's Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663034",
+      "ItemName": "Icy Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663041",
+      "ItemName": "Icy Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663048",
+      "ItemName": "Icy Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663055",
+      "ItemName": "Icy Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663062",
+      "ItemName": "Icy Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663069",
+      "ItemName": "Icy Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663076",
+      "ItemName": "Icy Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654803",
+      "ItemName": "Icy Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654824",
+      "ItemName": "Icy Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654845",
+      "ItemName": "Icy Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654866",
+      "ItemName": "Icy Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654887",
+      "ItemName": "Icy Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654908",
+      "ItemName": "Icy Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654929",
+      "ItemName": "Icy Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654936",
+      "ItemName": "Icy Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654943",
+      "ItemName": "Icy Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654950",
+      "ItemName": "Icy Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654957",
+      "ItemName": "Icy Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654964",
+      "ItemName": "Icy Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654971",
+      "ItemName": "Icy Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654978",
+      "ItemName": "Icy Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654642",
+      "ItemName": "Icy Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654663",
+      "ItemName": "Icy Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654684",
+      "ItemName": "Icy Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654705",
+      "ItemName": "Icy Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654726",
+      "ItemName": "Icy Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654747",
+      "ItemName": "Icy Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654768",
+      "ItemName": "Icy Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654789",
+      "ItemName": "Icy Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654810",
+      "ItemName": "Icy Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654831",
+      "ItemName": "Icy Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654852",
+      "ItemName": "Icy Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654873",
+      "ItemName": "Icy Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654894",
+      "ItemName": "Icy Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654915",
+      "ItemName": "Icy Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654656",
+      "ItemName": "Icy Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654677",
+      "ItemName": "Icy Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654698",
+      "ItemName": "Icy Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654719",
+      "ItemName": "Icy Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654740",
+      "ItemName": "Icy Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654761",
+      "ItemName": "Icy Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654782",
+      "ItemName": "Icy Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654649",
+      "ItemName": "Icy Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654670",
+      "ItemName": "Icy Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654691",
+      "ItemName": "Icy Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654712",
+      "ItemName": "Icy Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654733",
+      "ItemName": "Icy Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654754",
+      "ItemName": "Icy Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654775",
+      "ItemName": "Icy Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654985",
+      "ItemName": "Icy Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654992",
+      "ItemName": "Icy Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654999",
+      "ItemName": "Icy Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663006",
+      "ItemName": "Icy Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663013",
+      "ItemName": "Icy Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663020",
+      "ItemName": "Icy Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663027",
+      "ItemName": "Icy Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532824",
+      "ItemName": "Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532825",
+      "ItemName": "Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532827",
+      "ItemName": "Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667355",
+      "ItemName": "Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740071",
+      "ItemName": "Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257984",
+      "ItemName": "Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532832",
+      "ItemName": "Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532833",
+      "ItemName": "Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532835",
+      "ItemName": "Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667358",
+      "ItemName": "Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740089",
+      "ItemName": "Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257985",
+      "ItemName": "Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532840",
+      "ItemName": "Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532841",
+      "ItemName": "Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532843",
+      "ItemName": "Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667361",
+      "ItemName": "Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740080",
+      "ItemName": "Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257986",
+      "ItemName": "Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589082",
+      "ItemName": "Ivory Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589080",
+      "ItemName": "Jade Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357231",
+      "ItemName": "Katana of Takanobu's Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357170",
+      "ItemName": "Kimono of Takanobu's Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654987",
+      "ItemName": "Mystic Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654994",
+      "ItemName": "Mystic Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663001",
+      "ItemName": "Mystic Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663008",
+      "ItemName": "Mystic Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663015",
+      "ItemName": "Mystic Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663022",
+      "ItemName": "Mystic Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663029",
+      "ItemName": "Mystic Blazing Naginata",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663036",
+      "ItemName": "Mystic Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663043",
+      "ItemName": "Mystic Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663050",
+      "ItemName": "Mystic Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663057",
+      "ItemName": "Mystic Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663064",
+      "ItemName": "Mystic Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663071",
+      "ItemName": "Mystic Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663078",
+      "ItemName": "Mystic Chrysanthemum Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654805",
+      "ItemName": "Mystic Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654826",
+      "ItemName": "Mystic Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654847",
+      "ItemName": "Mystic Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654868",
+      "ItemName": "Mystic Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654889",
+      "ItemName": "Mystic Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654910",
+      "ItemName": "Mystic Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654931",
+      "ItemName": "Mystic Chrysanthemum Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654658",
+      "ItemName": "Mystic Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654679",
+      "ItemName": "Mystic Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654700",
+      "ItemName": "Mystic Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654721",
+      "ItemName": "Mystic Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654742",
+      "ItemName": "Mystic Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654763",
+      "ItemName": "Mystic Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654784",
+      "ItemName": "Mystic Chrysanthemum Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654651",
+      "ItemName": "Mystic Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654672",
+      "ItemName": "Mystic Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654693",
+      "ItemName": "Mystic Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654714",
+      "ItemName": "Mystic Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654735",
+      "ItemName": "Mystic Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654756",
+      "ItemName": "Mystic Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654777",
+      "ItemName": "Mystic Chrysanthemum Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654644",
+      "ItemName": "Mystic Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654665",
+      "ItemName": "Mystic Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654686",
+      "ItemName": "Mystic Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654707",
+      "ItemName": "Mystic Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654728",
+      "ItemName": "Mystic Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654749",
+      "ItemName": "Mystic Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654770",
+      "ItemName": "Mystic Chrysanthemum Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654938",
+      "ItemName": "Mystic Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654945",
+      "ItemName": "Mystic Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654952",
+      "ItemName": "Mystic Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654959",
+      "ItemName": "Mystic Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654966",
+      "ItemName": "Mystic Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654973",
+      "ItemName": "Mystic Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654980",
+      "ItemName": "Mystic Chrysanthemum Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654791",
+      "ItemName": "Mystic Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654812",
+      "ItemName": "Mystic Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654833",
+      "ItemName": "Mystic Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654854",
+      "ItemName": "Mystic Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654875",
+      "ItemName": "Mystic Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654896",
+      "ItemName": "Mystic Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654917",
+      "ItemName": "Mystic Chrysanthemum Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100330",
+      "ItemName": "Ninja Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589079",
+      "ItemName": "Onyx Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357163",
+      "ItemName": "Raiment of Takanobu's Rage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357164",
+      "ItemName": "Robes of Takanobu's Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589081",
+      "ItemName": "Ruby Shenlong Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "458071",
+      "ItemName": "Samoorai",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276462",
+      "ItemName": "Sea Turtle (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663037",
+      "ItemName": "Shocking August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663044",
+      "ItemName": "Shocking August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663051",
+      "ItemName": "Shocking August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663058",
+      "ItemName": "Shocking August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663065",
+      "ItemName": "Shocking August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663072",
+      "ItemName": "Shocking August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663079",
+      "ItemName": "Shocking August Sage Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654806",
+      "ItemName": "Shocking August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654827",
+      "ItemName": "Shocking August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654848",
+      "ItemName": "Shocking August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654869",
+      "ItemName": "Shocking August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654890",
+      "ItemName": "Shocking August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654911",
+      "ItemName": "Shocking August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654932",
+      "ItemName": "Shocking August Sage Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654645",
+      "ItemName": "Shocking August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654666",
+      "ItemName": "Shocking August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654687",
+      "ItemName": "Shocking August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654708",
+      "ItemName": "Shocking August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654729",
+      "ItemName": "Shocking August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654750",
+      "ItemName": "Shocking August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654771",
+      "ItemName": "Shocking August Sage Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654652",
+      "ItemName": "Shocking August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654673",
+      "ItemName": "Shocking August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654694",
+      "ItemName": "Shocking August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654715",
+      "ItemName": "Shocking August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654736",
+      "ItemName": "Shocking August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654757",
+      "ItemName": "Shocking August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654778",
+      "ItemName": "Shocking August Sage Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654939",
+      "ItemName": "Shocking August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654946",
+      "ItemName": "Shocking August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654953",
+      "ItemName": "Shocking August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654960",
+      "ItemName": "Shocking August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654967",
+      "ItemName": "Shocking August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654974",
+      "ItemName": "Shocking August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654981",
+      "ItemName": "Shocking August Sage Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654792",
+      "ItemName": "Shocking August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654813",
+      "ItemName": "Shocking August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654834",
+      "ItemName": "Shocking August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654855",
+      "ItemName": "Shocking August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654876",
+      "ItemName": "Shocking August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654897",
+      "ItemName": "Shocking August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654918",
+      "ItemName": "Shocking August Sage Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654659",
+      "ItemName": "Shocking August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654680",
+      "ItemName": "Shocking August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654701",
+      "ItemName": "Shocking August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654722",
+      "ItemName": "Shocking August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654743",
+      "ItemName": "Shocking August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654764",
+      "ItemName": "Shocking August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654785",
+      "ItemName": "Shocking August Sage Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654988",
+      "ItemName": "Shocking Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654995",
+      "ItemName": "Shocking Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663002",
+      "ItemName": "Shocking Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663009",
+      "ItemName": "Shocking Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663016",
+      "ItemName": "Shocking Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663023",
+      "ItemName": "Shocking Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663030",
+      "ItemName": "Shocking Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357172",
+      "ItemName": "Shoes of Takanobu's Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532740",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532741",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532742",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532743",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667240",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740176",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257904",
+      "ItemName": "Sweeping Longspear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357228",
+      "ItemName": "Takanobu's Blade of Impulse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357177",
+      "ItemName": "Takanobu's Boots of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357175",
+      "ItemName": "Takanobu's Boots of Impulse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357173",
+      "ItemName": "Takanobu's Boots of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357160",
+      "ItemName": "Takanobu's Conical of Fright",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357162",
+      "ItemName": "Takanobu's Conical of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357167",
+      "ItemName": "Takanobu's Drape of Impulse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357226",
+      "ItemName": "Takanobu's Edge of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357171",
+      "ItemName": "Takanobu's Footgear of Rage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357229",
+      "ItemName": "Takanobu's Frightening Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357166",
+      "ItemName": "Takanobu's Garb of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357158",
+      "ItemName": "Takanobu's Helm of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357224",
+      "ItemName": "Takanobu's Katana of Rage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357168",
+      "ItemName": "Takanobu's Kimono of Fright",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357165",
+      "ItemName": "Takanobu's Kimono of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357161",
+      "ItemName": "Takanobu's Sedge of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357159",
+      "ItemName": "Takanobu's Sedge of Impulse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357157",
+      "ItemName": "Takanobu's Sedge of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357176",
+      "ItemName": "Takanobu's Shoes of Fright",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357174",
+      "ItemName": "Takanobu's Shoes of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357227",
+      "ItemName": "Takanobu's Steel of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357230",
+      "ItemName": "Takanobu's Sword of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357225",
+      "ItemName": "Takanobu's Vengeance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357169",
+      "ItemName": "Takanobu's Vestment of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532748",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532749",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532750",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532751",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667241",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740177",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257905",
+      "ItemName": "Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663035",
+      "ItemName": "Vivid Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663042",
+      "ItemName": "Vivid Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663049",
+      "ItemName": "Vivid Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663056",
+      "ItemName": "Vivid Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663063",
+      "ItemName": "Vivid Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663070",
+      "ItemName": "Vivid Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663077",
+      "ItemName": "Vivid Imperial Court Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654804",
+      "ItemName": "Vivid Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654825",
+      "ItemName": "Vivid Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654846",
+      "ItemName": "Vivid Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654867",
+      "ItemName": "Vivid Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654888",
+      "ItemName": "Vivid Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654909",
+      "ItemName": "Vivid Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654930",
+      "ItemName": "Vivid Imperial Court Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654937",
+      "ItemName": "Vivid Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654944",
+      "ItemName": "Vivid Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654951",
+      "ItemName": "Vivid Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654958",
+      "ItemName": "Vivid Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654965",
+      "ItemName": "Vivid Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654972",
+      "ItemName": "Vivid Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654979",
+      "ItemName": "Vivid Imperial Court Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654643",
+      "ItemName": "Vivid Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654664",
+      "ItemName": "Vivid Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654685",
+      "ItemName": "Vivid Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654706",
+      "ItemName": "Vivid Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654727",
+      "ItemName": "Vivid Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654748",
+      "ItemName": "Vivid Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654769",
+      "ItemName": "Vivid Imperial Court Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654790",
+      "ItemName": "Vivid Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654811",
+      "ItemName": "Vivid Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654832",
+      "ItemName": "Vivid Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654853",
+      "ItemName": "Vivid Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654874",
+      "ItemName": "Vivid Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654895",
+      "ItemName": "Vivid Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654916",
+      "ItemName": "Vivid Imperial Court Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654657",
+      "ItemName": "Vivid Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654678",
+      "ItemName": "Vivid Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654699",
+      "ItemName": "Vivid Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654720",
+      "ItemName": "Vivid Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654741",
+      "ItemName": "Vivid Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654762",
+      "ItemName": "Vivid Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654783",
+      "ItemName": "Vivid Imperial Court Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654650",
+      "ItemName": "Vivid Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654671",
+      "ItemName": "Vivid Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654692",
+      "ItemName": "Vivid Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654713",
+      "ItemName": "Vivid Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654734",
+      "ItemName": "Vivid Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654755",
+      "ItemName": "Vivid Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654776",
+      "ItemName": "Vivid Imperial Court Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654986",
+      "ItemName": "Vivid Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654993",
+      "ItemName": "Vivid Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663000",
+      "ItemName": "Vivid Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663007",
+      "ItemName": "Vivid Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663014",
+      "ItemName": "Vivid Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663021",
+      "ItemName": "Vivid Thunder Chasing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663028",
+      "ItemName": "Vivid Thunder Chasing Spear",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

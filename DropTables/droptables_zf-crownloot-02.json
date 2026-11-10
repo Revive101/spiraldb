@@ -1,0 +1,53 @@
+{
+  "Name": "ZF-CrownLoot-02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "532303",
+      "ItemName": "Flameborn Sidhe Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532304",
+      "ItemName": "Frostborn Sidhe Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532308",
+      "ItemName": "Restless Cloak of Oblivion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532307",
+      "ItemName": "Sidhe Cloak of Attunement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532306",
+      "ItemName": "Squamish Cloak of the Sidhe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532309",
+      "ItemName": "Storyborn Cloak of Mist",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532305",
+      "ItemName": "Vestment of the Thornwood",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

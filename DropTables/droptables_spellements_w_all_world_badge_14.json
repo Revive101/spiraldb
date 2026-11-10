@@ -1,0 +1,53 @@
+{
+  "Name": "Spellements_W_All_World_Badge_14",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653139",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653140",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653141",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653142",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653143",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653144",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653145",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

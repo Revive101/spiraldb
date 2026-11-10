@@ -1,0 +1,53 @@
+{
+  "Name": "KrokBurly-Ice-1-PageEvent",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160843",
+      "ItemName": "Dragonclaw Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160824",
+      "ItemName": "Dragonhorn Trophy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160837",
+      "ItemName": "Dragonmoon Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160915",
+      "ItemName": "Dragonskull Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160977",
+      "ItemName": "Snapdragon Flowerbed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160981",
+      "ItemName": "Snapdragons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374358",
+      "ItemName": "Spellwrit Stalker",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

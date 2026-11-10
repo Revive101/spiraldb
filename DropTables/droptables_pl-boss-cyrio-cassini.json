@@ -1,0 +1,533 @@
+{
+  "Name": "PL-Boss-Cyrio-Cassini",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653139",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653140",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653141",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653142",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653143",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653144",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653145",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335126",
+      "ItemName": "Arcanum Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356114",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356115",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356116",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356117",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356118",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356119",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448401",
+      "ItemName": "Fire Moon Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589159",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589160",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589161",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589162",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589163",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589164",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589165",
+      "ItemName": "Goose Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342164",
+      "ItemName": "Medium Enchanted Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342193",
+      "ItemName": "Medium Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473647",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473648",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473649",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473650",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473651",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473652",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473653",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335127",
+      "ItemName": "Polaris Baba Yaga Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335128",
+      "ItemName": "Polaris Frozen Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335138",
+      "ItemName": "Polaris Frozen Forest Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335129",
+      "ItemName": "Polaris Gulag Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335130",
+      "ItemName": "Polaris Gulag Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335131",
+      "ItemName": "Polaris Ice Block Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335132",
+      "ItemName": "Polaris Mine Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335133",
+      "ItemName": "Polaris Mine Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430798",
+      "ItemName": "Polaris Opera Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335134",
+      "ItemName": "Polaris Rasputin Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342194",
+      "ItemName": "Small Enchanted Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342195",
+      "ItemName": "Small Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350136",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350137",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350138",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350139",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350140",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350142",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350143",
+      "ItemName": "Ultra Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335135",
+      "ItemName": "Walruskberg Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335136",
+      "ItemName": "Walruskberg Liberated Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335137",
+      "ItemName": "Walruskberg Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346053",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346054",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346055",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346056",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346057",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346058",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

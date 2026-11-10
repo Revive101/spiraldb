@@ -1,0 +1,48 @@
+{
+  "Name": "APR-LootTable-004",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82964",
+      "ItemName": "Hatchling Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346195",
+      "ItemName": "Pet Egg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82965",
+      "ItemName": "Scepter of Spring's Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82966",
+      "ItemName": "Spring Bunny Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82963",
+      "ItemName": "Staff of the White Rabbit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257820",
+      "ItemName": "Stormrider Hare (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,193 @@
+{
+  "Name": "HG_NM_Gator_ScientistMullet_C_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1598874",
+      "ItemName": "Balanced Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598867",
+      "ItemName": "Balanced Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598671",
+      "ItemName": "Balanced Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598860",
+      "ItemName": "Balanced Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739101",
+      "ItemName": "Bundle of Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724104",
+      "ItemName": "Cord of Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598875",
+      "ItemName": "Deadly Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598868",
+      "ItemName": "Deadly Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598672",
+      "ItemName": "Deadly Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598861",
+      "ItemName": "Deadly Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598876",
+      "ItemName": "Fiery Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598869",
+      "ItemName": "Fiery Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598673",
+      "ItemName": "Fiery Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598862",
+      "ItemName": "Fiery Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598877",
+      "ItemName": "Icy Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598870",
+      "ItemName": "Icy Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598674",
+      "ItemName": "Icy Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598863",
+      "ItemName": "Icy Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160379",
+      "ItemName": "Large Cypress Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598878",
+      "ItemName": "Lively Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598871",
+      "ItemName": "Lively Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598675",
+      "ItemName": "Lively Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598864",
+      "ItemName": "Lively Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739179",
+      "ItemName": "Minuteman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598879",
+      "ItemName": "Mythic Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598872",
+      "ItemName": "Mythic Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598676",
+      "ItemName": "Mythic Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598865",
+      "ItemName": "Mythic Night Mire Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683110",
+      "ItemName": "Open Campfire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374491",
+      "ItemName": "Seaweed Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160380",
+      "ItemName": "Small Cypress Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598880",
+      "ItemName": "Stormy Night Mire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598873",
+      "ItemName": "Stormy Night Mire Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598677",
+      "ItemName": "Stormy Night Mire Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1598866",
+      "ItemName": "Stormy Night Mire Top Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

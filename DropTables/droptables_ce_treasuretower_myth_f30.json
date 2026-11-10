@@ -1,0 +1,358 @@
+{
+  "Name": "CE_TreasureTower_Myth_F30",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1254226",
+      "ItemName": "Cast Symbol Myth (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254225",
+      "ItemName": "Cast Symbol Myth (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160293",
+      "ItemName": "Crate of Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414521",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414522",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414523",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414524",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414525",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414526",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414527",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414528",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414529",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414530",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414531",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414532",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414533",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414534",
+      "ItemName": "Cyrus's Scholarly Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414493",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414494",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414495",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414496",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414497",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414498",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414499",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414500",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414501",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414502",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414503",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414504",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414505",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414506",
+      "ItemName": "Cyrus's Secret Skullcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414507",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414508",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414509",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414510",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414511",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414512",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414513",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414514",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414515",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414516",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414517",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414518",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414519",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414520",
+      "ItemName": "Drake's Reflection Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374487",
+      "ItemName": "Fishy Bird Cage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414703",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414704",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414705",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414706",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414707",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414708",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414709",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414710",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414711",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414712",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414713",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414714",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414715",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414716",
+      "ItemName": "Headmaster's Dream Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160229",
+      "ItemName": "Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160983",
+      "ItemName": "Portrait of Lydia Greyrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160982",
+      "ItemName": "Professor Ambrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160399",
+      "ItemName": "Professor Balestrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160395",
+      "ItemName": "Professor Falmea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374549",
+      "ItemName": "Ravenwood Librarian's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160208",
+      "ItemName": "Stack of 3 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164419",
+      "ItemName": "Theater Masks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

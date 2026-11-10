@@ -1,0 +1,128 @@
+{
+  "Name": "MS-Pig-War-Sumo-MSBoss-L40",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97704",
+      "ItemName": "Band of Hope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97633",
+      "ItemName": "Blended Wool Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98062",
+      "ItemName": "Boots of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97606",
+      "ItemName": "Cap of Dilemma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97585",
+      "ItemName": "Cap of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82921",
+      "ItemName": "Green Futon Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97860",
+      "ItemName": "Hingen's Cloak of the Nimble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97462",
+      "ItemName": "Hingen's Dirk of Prudence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97604",
+      "ItemName": "Hingen's Helm of Pictures",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87489",
+      "ItemName": "Hingen's Staff of Egoism",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98058",
+      "ItemName": "Hingen's Steadfast Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97469",
+      "ItemName": "Kris of the Pensive Ones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97705",
+      "ItemName": "Logical Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160550",
+      "ItemName": "Low Wooden Fence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160436",
+      "ItemName": "Marble Bench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470214",
+      "ItemName": "Night Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97697",
+      "ItemName": "Ring of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97983",
+      "ItemName": "Shoes of Watchfulness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97472",
+      "ItemName": "Shortblade of a Daydreamer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97677",
+      "ItemName": "Shroud of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97654",
+      "ItemName": "Shroud of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98034",
+      "ItemName": "Tormented Sandals",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

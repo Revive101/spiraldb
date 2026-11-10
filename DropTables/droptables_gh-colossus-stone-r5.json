@@ -1,0 +1,188 @@
+{
+  "Name": "GH-Colossus-Stone-R5",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "171171",
+      "ItemName": "Annalist Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355137",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355138",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355139",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355140",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355141",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355142",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356127",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356128",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356129",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356130",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356131",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356132",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356133",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136488",
+      "ItemName": "Circle of the Icefloe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136379",
+      "ItemName": "Headgear of Health",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355144",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355145",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355146",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355147",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355148",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355149",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136281",
+      "ItemName": "Irontalon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136621",
+      "ItemName": "Robe of the Theorem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355158",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355159",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355160",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355161",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355162",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355163",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171175",
+      "ItemName": "Wraps of the Last Wake",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

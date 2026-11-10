@@ -1,0 +1,43 @@
+{
+  "Name": "MAR-LootTable-008",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248097",
+      "ItemName": "Curmudgeon's Cudgel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248099",
+      "ItemName": "Golden Windfall Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248100",
+      "ItemName": "Little Clover Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126928",
+      "ItemName": "Lucky Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248098",
+      "ItemName": "Staff of the Defender",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

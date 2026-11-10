@@ -1,0 +1,108 @@
+{
+  "Name": "KT-Ghost-Yellow-KTBoss-L28",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87298",
+      "ItemName": "Cloak of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39429",
+      "ItemName": "Durable Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38767",
+      "ItemName": "Frigid Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87310",
+      "ItemName": "Garments of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77714",
+      "ItemName": "Hat of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77702",
+      "ItemName": "Helm of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77715",
+      "ItemName": "Hood of the Phantom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5028",
+      "ItemName": "Jewel of Obliteration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82829",
+      "ItemName": "Krok Tree Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5022",
+      "ItemName": "Loop of the Defender",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82892",
+      "ItemName": "Purple Ancient Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39434",
+      "ItemName": "Slippers of Burning Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77774",
+      "ItemName": "Soothsayer's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77682",
+      "ItemName": "Sweltering Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4985",
+      "ItemName": "Tempestra's Onyx Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77771",
+      "ItemName": "Tempestra's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77696",
+      "ItemName": "Tempestra's Severe Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87342",
+      "ItemName": "Tempestra's Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "RH-Boss-Wyrm-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "100419",
+      "ItemName": "Arctic Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532434",
+      "ItemName": "Boots of Steel Wings",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532435",
+      "ItemName": "Boots of Steel Wings",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532442",
+      "ItemName": "Everwinter Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532443",
+      "ItemName": "Everwinter Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532534",
+      "ItemName": "Nevermore Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532535",
+      "ItemName": "Nevermore Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100457",
+      "ItemName": "Snow Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532426",
+      "ItemName": "Steel Raven Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532427",
+      "ItemName": "Steel Raven Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532494",
+      "ItemName": "Trickster's Lying Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532495",
+      "ItemName": "Trickster's Lying Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532478",
+      "ItemName": "Unkind Axe of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532479",
+      "ItemName": "Unkind Axe of Winter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

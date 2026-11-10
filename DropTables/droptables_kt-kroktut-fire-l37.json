@@ -1,0 +1,243 @@
+{
+  "Name": "KT-KrokTut-Fire-L37",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4913",
+      "ItemName": "Amulet of Eyes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4967",
+      "ItemName": "Athame of Adaption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5033",
+      "ItemName": "Band of the Bastion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5006",
+      "ItemName": "Band of the Contender",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346489",
+      "ItemName": "Birdcaller's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346488",
+      "ItemName": "Birdcaller's Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346487",
+      "ItemName": "Birdcaller's Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38742",
+      "ItemName": "Cloak of the Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4969",
+      "ItemName": "Dagger of Downpour",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473159",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473160",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473161",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473162",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473163",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473164",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473165",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100335",
+      "ItemName": "Inferno Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82849",
+      "ItemName": "Krok Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82770",
+      "ItemName": "Krok Snake Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39450",
+      "ItemName": "Krokenkahmen's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77663",
+      "ItemName": "Krokenkahmen's Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38733",
+      "ItemName": "Krokenkahmen's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77664",
+      "ItemName": "Krokenkahmen's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39451",
+      "ItemName": "Krokenkahmen's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39455",
+      "ItemName": "Krokenkahmen's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38737",
+      "ItemName": "Krokenkahmen's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160735",
+      "ItemName": "Krokotopian Sphinx",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39443",
+      "ItemName": "Parched Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39448",
+      "ItemName": "Polar Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5032",
+      "ItemName": "Powerful Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82901",
+      "ItemName": "Purple Krok Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77671",
+      "ItemName": "Runed Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5023",
+      "ItemName": "Seal of the Conqueror",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4962",
+      "ItemName": "Shortblade of Ruination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87327",
+      "ItemName": "Shroud of Rationality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161056",
+      "ItemName": "Signet of Significance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77726",
+      "ItemName": "Soothsayer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87314",
+      "ItemName": "Vest of Somnolence",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,163 @@
+{
+  "Name": "AQ-Immortal-Poseidon-B",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212000",
+      "ItemName": "Aquila Atlantea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203024",
+      "ItemName": "Boots of the Uncharted Sea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819538",
+      "ItemName": "Helm of the Frozen Wave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819543",
+      "ItemName": "Helmet of Tranquil Seas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819547",
+      "ItemName": "Poseidon's Armor of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819550",
+      "ItemName": "Poseidon's Armor of Depths",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819548",
+      "ItemName": "Poseidon's Armor of Fervor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819715",
+      "ItemName": "Poseidon's Backdraft Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203021",
+      "ItemName": "Poseidon's Boots of Vapors",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819541",
+      "ItemName": "Poseidon's Brim of Ardor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819537",
+      "ItemName": "Poseidon's Cowl of Flares",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203025",
+      "ItemName": "Poseidon's Crest Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819549",
+      "ItemName": "Poseidon's Doldrums Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203026",
+      "ItemName": "Poseidon's Engulfing Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819544",
+      "ItemName": "Poseidon's Firestream Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819545",
+      "ItemName": "Poseidon's Glacial Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203022",
+      "ItemName": "Poseidon's Icebound Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819546",
+      "ItemName": "Poseidon's Maelstrom Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819716",
+      "ItemName": "Poseidon's Numbing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819721",
+      "ItemName": "Poseidon's Open Seas Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819540",
+      "ItemName": "Poseidon's Sea Spray Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819719",
+      "ItemName": "Poseidon's Staff of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819539",
+      "ItemName": "Poseidon's Torrential Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203023",
+      "ItemName": "Poseidon's Waterskimmers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819720",
+      "ItemName": "Poseidon's Wavemaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203027",
+      "ItemName": "Poseidon's Wavewalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819542",
+      "ItemName": "Poseidon's Whirlpool Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819718",
+      "ItemName": "Staff of Poseidon's Angst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819717",
+      "ItemName": "Trident of Shock Waves",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

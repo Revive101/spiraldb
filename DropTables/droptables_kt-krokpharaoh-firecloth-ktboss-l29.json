@@ -1,0 +1,178 @@
+{
+  "Name": "KT-KrokPharaoh-FireCloth-KTBoss-L29",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5024",
+      "ItemName": "Advocate's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4945",
+      "ItemName": "Athame of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87281",
+      "ItemName": "Conjurer's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77725",
+      "ItemName": "Cowl of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82758",
+      "ItemName": "Dim Scarab Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39421",
+      "ItemName": "Diviner's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38764",
+      "ItemName": "Durable Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87310",
+      "ItemName": "Garments of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77704",
+      "ItemName": "Headwrap of Originality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5031",
+      "ItemName": "Loop of Tall Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5007",
+      "ItemName": "Partisan's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4970",
+      "ItemName": "Pharaohs Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77705",
+      "ItemName": "Pioneer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87328",
+      "ItemName": "Robe of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77760",
+      "ItemName": "Rough-hewn Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5036",
+      "ItemName": "Shai Nirini's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4911",
+      "ItemName": "Shai's Amulet of Screams",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87307",
+      "ItemName": "Shai's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77762",
+      "ItemName": "Shoes of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82822",
+      "ItemName": "Short Krokotopian Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77793",
+      "ItemName": "Slippers of Sensibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87323",
+      "ItemName": "Sorcerer's Maroon Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77790",
+      "ItemName": "Threadbare Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87322",
+      "ItemName": "Threadbare Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87302",
+      "ItemName": "Vest of Alacrity",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

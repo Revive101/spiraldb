@@ -1,0 +1,93 @@
+{
+  "Name": "AV-Knight-Redthorn-R11-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "641564",
+      "ItemName": "Armor Display",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635332",
+      "ItemName": "Black Annie's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635405",
+      "ItemName": "Boots of the Lake Shore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635331",
+      "ItemName": "Circle of High Order",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635358",
+      "ItemName": "Courageous Armiger's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635406",
+      "ItemName": "Deep Water Splashers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635291",
+      "ItemName": "Fire Elf Champion's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635294",
+      "ItemName": "Great Faerie Knight Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635407",
+      "ItemName": "Jouster's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635361",
+      "ItemName": "Just Armiger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635293",
+      "ItemName": "Lightning Lizard Rider's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635360",
+      "ItemName": "Merciful Armiger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635359",
+      "ItemName": "Noble Armiger's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635292",
+      "ItemName": "Paladin's Frosty Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635408",
+      "ItemName": "Whitehaven Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

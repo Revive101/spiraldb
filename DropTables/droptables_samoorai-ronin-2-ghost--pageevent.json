@@ -1,0 +1,43 @@
+{
+  "Name": "Samoorai-Ronin-2-Ghost--PageEvent",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160810",
+      "ItemName": "Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160799",
+      "ItemName": "Dragon Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160219",
+      "ItemName": "Dragon Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160852",
+      "ItemName": "Regal Dragon Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374359",
+      "ItemName": "Spellwrit Ronin",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

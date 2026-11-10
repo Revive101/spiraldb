@@ -1,0 +1,88 @@
+{
+  "Name": "NV_Monkey_Noble_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1588154",
+      "ItemName": "Abstract Aeon Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577899",
+      "ItemName": "Abstract Masterpiece Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588157",
+      "ItemName": "Crystalline Aeon Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577902",
+      "ItemName": "Crystalline Masterpiece Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588159",
+      "ItemName": "Dreamscape Aeon Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577904",
+      "ItemName": "Dreamscape Masterpiece Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588160",
+      "ItemName": "Fractal Aeon Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577905",
+      "ItemName": "Fractal Masterpiece Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588158",
+      "ItemName": "Inspired Aeon Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577903",
+      "ItemName": "Inspired Masterpiece Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588155",
+      "ItemName": "Macabre Aeon Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577900",
+      "ItemName": "Macabre Masterpiece Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1588156",
+      "ItemName": "Primordial Aeon Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577901",
+      "ItemName": "Primordial Masterpiece Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

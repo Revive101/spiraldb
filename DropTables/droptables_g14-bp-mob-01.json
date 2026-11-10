@@ -1,0 +1,438 @@
+{
+  "Name": "G14-BP-Mob-01",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338345",
+      "ItemName": "Band of Royal Infallibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338343",
+      "ItemName": "Barkingham Band of Virtue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330923",
+      "ItemName": "Barkingham Bombin of Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338091",
+      "ItemName": "Barkingham Boots of Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338087",
+      "ItemName": "Barkingham Cinder Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338092",
+      "ItemName": "Barkingham Clogs of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330919",
+      "ItemName": "Barkingham Derby of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330924",
+      "ItemName": "Barkingham Derby of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330921",
+      "ItemName": "Barkingham Fog Bowler",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338089",
+      "ItemName": "Barkingham Fog Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330920",
+      "ItemName": "Barkingham Frost Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338088",
+      "ItemName": "Barkingham Frost Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338090",
+      "ItemName": "Barkingham Shoes of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338340",
+      "ItemName": "Chief Whip's Hail Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338344",
+      "ItemName": "Enfield Circle of Trickery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338339",
+      "ItemName": "Grenadier's Blasting Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355115",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355116",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355117",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355118",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355119",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355120",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355121",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356099",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356100",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356101",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356102",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356103",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356104",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356105",
+      "ItemName": "Pink Laugh-o-Dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338341",
+      "ItemName": "Ring of Marleybone Fog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338093",
+      "ItemName": "Royal Boots of Alliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330925",
+      "ItemName": "Royal Cap of Alliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338342",
+      "ItemName": "Signet of Royal Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330922",
+      "ItemName": "Topper of Royal Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355073",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355074",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355075",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355076",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355077",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355078",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355079",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

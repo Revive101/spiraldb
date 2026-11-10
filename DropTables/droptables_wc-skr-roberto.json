@@ -1,0 +1,163 @@
+{
+  "Name": "WC-SKR-Roberto",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350309",
+      "ItemName": "Adept's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4825",
+      "ItemName": "Amethyst Studded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87189",
+      "ItemName": "Amethyst Studded Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4742",
+      "ItemName": "Antique Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77547",
+      "ItemName": "Cap of the Teacher's Pet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4829",
+      "ItemName": "Citrine Studded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87193",
+      "ItemName": "Citrine Studded Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191226",
+      "ItemName": "Enchanted Broom (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77548",
+      "ItemName": "Gold-flecked Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77544",
+      "ItemName": "Goldleaf Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191228",
+      "ItemName": "Horned Sweeper (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4827",
+      "ItemName": "Jade Studded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87191",
+      "ItemName": "Jade Studded Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4828",
+      "ItemName": "Onyx Studded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87192",
+      "ItemName": "Onyx Studded Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4826",
+      "ItemName": "Peridot Studded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87190",
+      "ItemName": "Peridot Studded Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191227",
+      "ItemName": "Purple Glider (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446422",
+      "ItemName": "Roberto's Rapier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4823",
+      "ItemName": "Ruby Studded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87187",
+      "ItemName": "Ruby Studded Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4824",
+      "ItemName": "Sapphire Studded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87188",
+      "ItemName": "Sapphire Studded Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77545",
+      "ItemName": "Student's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77549",
+      "ItemName": "Twice Stitched Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77546",
+      "ItemName": "Valedictorian's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77543",
+      "ItemName": "Verdant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

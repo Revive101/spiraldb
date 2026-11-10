@@ -1,0 +1,108 @@
+{
+  "Name": "EM-SideBoss-Gear-125",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1421954",
+      "ItemName": "Brass Monkey Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430582",
+      "ItemName": "Cabal Deck of Disruption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430566",
+      "ItemName": "Cabal Ring of Disruption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430578",
+      "ItemName": "Cabalist Chaotic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430562",
+      "ItemName": "Cabalist Chaotic Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430576",
+      "ItemName": "Cabalist Cleansing Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430560",
+      "ItemName": "Cabalist Cleansing Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430581",
+      "ItemName": "Cabalist Deck of Finality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430577",
+      "ItemName": "Cabalist Deck of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430580",
+      "ItemName": "Cabalist Deck of the First",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430565",
+      "ItemName": "Cabalist Ring of Finality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430561",
+      "ItemName": "Cabalist Ring of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430564",
+      "ItemName": "Cabalist Ring of the First",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430583",
+      "ItemName": "Cabalist Schism Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430567",
+      "ItemName": "Cabalist Schism Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430579",
+      "ItemName": "Nostalgic Cabal Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430563",
+      "ItemName": "Nostalgic Cabal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421920",
+      "ItemName": "Purple Globulin",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,888 @@
+{
+  "Name": "KM-Boss-End-01",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1514848",
+      "ItemName": "Guten Artisan Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515404",
+      "ItemName": "Guten Artisan Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514832",
+      "ItemName": "Guten Artisan Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515141",
+      "ItemName": "Guten Artisan Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515157",
+      "ItemName": "Guten Artisan Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515149",
+      "ItemName": "Guten Artisan Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514840",
+      "ItemName": "Guten Artisan Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515299",
+      "ItemName": "Guten Artisan Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514844",
+      "ItemName": "Guten Candymancer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515303",
+      "ItemName": "Guten Candymancer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514851",
+      "ItemName": "Guten Dreamsearcher Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515407",
+      "ItemName": "Guten Dreamsearcher Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514835",
+      "ItemName": "Guten Dreamsearcher Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515144",
+      "ItemName": "Guten Dreamsearcher Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515160",
+      "ItemName": "Guten Dreamsearcher Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515152",
+      "ItemName": "Guten Dreamsearcher Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514843",
+      "ItemName": "Guten Dreamsearcher Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515302",
+      "ItemName": "Guten Dreamsearcher Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514845",
+      "ItemName": "Guten Freshbaker Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515401",
+      "ItemName": "Guten Freshbaker Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514829",
+      "ItemName": "Guten Freshbaker Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515138",
+      "ItemName": "Guten Freshbaker Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515154",
+      "ItemName": "Guten Freshbaker Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515146",
+      "ItemName": "Guten Freshbaker Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514837",
+      "ItemName": "Guten Freshbaker Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515296",
+      "ItemName": "Guten Freshbaker Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514847",
+      "ItemName": "Guten Sciencer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515403",
+      "ItemName": "Guten Sciencer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514831",
+      "ItemName": "Guten Sciencer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515140",
+      "ItemName": "Guten Sciencer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515156",
+      "ItemName": "Guten Sciencer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515148",
+      "ItemName": "Guten Sciencer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514839",
+      "ItemName": "Guten Sciencer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515298",
+      "ItemName": "Guten Sciencer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514850",
+      "ItemName": "Guten Sentamentalist Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515406",
+      "ItemName": "Guten Sentamentalist Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514834",
+      "ItemName": "Guten Sentamentalist Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515143",
+      "ItemName": "Guten Sentamentalist Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515159",
+      "ItemName": "Guten Sentamentalist Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515151",
+      "ItemName": "Guten Sentamentalist Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514842",
+      "ItemName": "Guten Sentamentalist Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515301",
+      "ItemName": "Guten Sentamentalist Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514849",
+      "ItemName": "Guten Sweetsmith Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515405",
+      "ItemName": "Guten Sweetsmith Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514833",
+      "ItemName": "Guten Sweetsmith Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515142",
+      "ItemName": "Guten Sweetsmith Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515158",
+      "ItemName": "Guten Sweetsmith Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515150",
+      "ItemName": "Guten Sweetsmith Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514841",
+      "ItemName": "Guten Sweetsmith Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515300",
+      "ItemName": "Guten Sweetsmith Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514846",
+      "ItemName": "Guten Wonderneer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515402",
+      "ItemName": "Guten Wonderneer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514830",
+      "ItemName": "Guten Wonderneer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515139",
+      "ItemName": "Guten Wonderneer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515155",
+      "ItemName": "Guten Wonderneer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515147",
+      "ItemName": "Guten Wonderneer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514838",
+      "ItemName": "Guten Wonderneer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515297",
+      "ItemName": "Guten Wonderneer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514896",
+      "ItemName": "Uber Artisan Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515420",
+      "ItemName": "Uber Artisan Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514880",
+      "ItemName": "Uber Artisan Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515189",
+      "ItemName": "Uber Artisan Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515205",
+      "ItemName": "Uber Artisan Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515197",
+      "ItemName": "Uber Artisan Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514888",
+      "ItemName": "Uber Artisan Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515317",
+      "ItemName": "Uber Artisan Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514892",
+      "ItemName": "Uber Candymancer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515321",
+      "ItemName": "Uber Candymancer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514899",
+      "ItemName": "Uber Dreamsearcher Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515423",
+      "ItemName": "Uber Dreamsearcher Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514883",
+      "ItemName": "Uber Dreamsearcher Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515192",
+      "ItemName": "Uber Dreamsearcher Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515208",
+      "ItemName": "Uber Dreamsearcher Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515200",
+      "ItemName": "Uber Dreamsearcher Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514891",
+      "ItemName": "Uber Dreamsearcher Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515320",
+      "ItemName": "Uber Dreamsearcher Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514893",
+      "ItemName": "Uber Freshbaker Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515417",
+      "ItemName": "Uber Freshbaker Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514877",
+      "ItemName": "Uber Freshbaker Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515186",
+      "ItemName": "Uber Freshbaker Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515202",
+      "ItemName": "Uber Freshbaker Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515194",
+      "ItemName": "Uber Freshbaker Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514885",
+      "ItemName": "Uber Freshbaker Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515314",
+      "ItemName": "Uber Freshbaker Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514895",
+      "ItemName": "Uber Sciencer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515419",
+      "ItemName": "Uber Sciencer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514879",
+      "ItemName": "Uber Sciencer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515188",
+      "ItemName": "Uber Sciencer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515204",
+      "ItemName": "Uber Sciencer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515196",
+      "ItemName": "Uber Sciencer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514887",
+      "ItemName": "Uber Sciencer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515316",
+      "ItemName": "Uber Sciencer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514898",
+      "ItemName": "Uber Sentamentalist Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515422",
+      "ItemName": "Uber Sentamentalist Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514882",
+      "ItemName": "Uber Sentamentalist Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515191",
+      "ItemName": "Uber Sentamentalist Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515207",
+      "ItemName": "Uber Sentamentalist Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515199",
+      "ItemName": "Uber Sentamentalist Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514890",
+      "ItemName": "Uber Sentamentalist Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515319",
+      "ItemName": "Uber Sentamentalist Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514897",
+      "ItemName": "Uber Sweetsmith Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515421",
+      "ItemName": "Uber Sweetsmith Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514881",
+      "ItemName": "Uber Sweetsmith Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515190",
+      "ItemName": "Uber Sweetsmith Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515206",
+      "ItemName": "Uber Sweetsmith Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515198",
+      "ItemName": "Uber Sweetsmith Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514889",
+      "ItemName": "Uber Sweetsmith Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515318",
+      "ItemName": "Uber Sweetsmith Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514894",
+      "ItemName": "Uber Wonderneer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515418",
+      "ItemName": "Uber Wonderneer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514878",
+      "ItemName": "Uber Wonderneer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515187",
+      "ItemName": "Uber Wonderneer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515203",
+      "ItemName": "Uber Wonderneer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515195",
+      "ItemName": "Uber Wonderneer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514886",
+      "ItemName": "Uber Wonderneer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515315",
+      "ItemName": "Uber Wonderneer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514872",
+      "ItemName": "Wunderbar Artisan Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515412",
+      "ItemName": "Wunderbar Artisan Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514856",
+      "ItemName": "Wunderbar Artisan Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515165",
+      "ItemName": "Wunderbar Artisan Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515181",
+      "ItemName": "Wunderbar Artisan Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515173",
+      "ItemName": "Wunderbar Artisan Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514864",
+      "ItemName": "Wunderbar Artisan Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515308",
+      "ItemName": "Wunderbar Artisan Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514868",
+      "ItemName": "Wunderbar Candymancer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515312",
+      "ItemName": "Wunderbar Candymancer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514875",
+      "ItemName": "Wunderbar Dreamsearcher Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515415",
+      "ItemName": "Wunderbar Dreamsearcher Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514859",
+      "ItemName": "Wunderbar Dreamsearcher Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515168",
+      "ItemName": "Wunderbar Dreamsearcher Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515184",
+      "ItemName": "Wunderbar Dreamsearcher Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515176",
+      "ItemName": "Wunderbar Dreamsearcher Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514867",
+      "ItemName": "Wunderbar Dreamsearcher Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515311",
+      "ItemName": "Wunderbar Dreamsearcher Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514869",
+      "ItemName": "Wunderbar Freshbaker Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515409",
+      "ItemName": "Wunderbar Freshbaker Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514853",
+      "ItemName": "Wunderbar Freshbaker Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515162",
+      "ItemName": "Wunderbar Freshbaker Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515178",
+      "ItemName": "Wunderbar Freshbaker Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515170",
+      "ItemName": "Wunderbar Freshbaker Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514861",
+      "ItemName": "Wunderbar Freshbaker Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515305",
+      "ItemName": "Wunderbar Freshbaker Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514871",
+      "ItemName": "Wunderbar Sciencer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515411",
+      "ItemName": "Wunderbar Sciencer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514855",
+      "ItemName": "Wunderbar Sciencer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515164",
+      "ItemName": "Wunderbar Sciencer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515180",
+      "ItemName": "Wunderbar Sciencer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515172",
+      "ItemName": "Wunderbar Sciencer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514863",
+      "ItemName": "Wunderbar Sciencer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515307",
+      "ItemName": "Wunderbar Sciencer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514874",
+      "ItemName": "Wunderbar Sentamentalist Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515414",
+      "ItemName": "Wunderbar Sentamentalist Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514858",
+      "ItemName": "Wunderbar Sentamentalist Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515167",
+      "ItemName": "Wunderbar Sentamentalist Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515183",
+      "ItemName": "Wunderbar Sentamentalist Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515175",
+      "ItemName": "Wunderbar Sentamentalist Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514866",
+      "ItemName": "Wunderbar Sentamentalist Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515310",
+      "ItemName": "Wunderbar Sentamentalist Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514873",
+      "ItemName": "Wunderbar Sweetsmith Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515413",
+      "ItemName": "Wunderbar Sweetsmith Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514857",
+      "ItemName": "Wunderbar Sweetsmith Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515166",
+      "ItemName": "Wunderbar Sweetsmith Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515182",
+      "ItemName": "Wunderbar Sweetsmith Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515174",
+      "ItemName": "Wunderbar Sweetsmith Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514865",
+      "ItemName": "Wunderbar Sweetsmith Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515309",
+      "ItemName": "Wunderbar Sweetsmith Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514870",
+      "ItemName": "Wunderbar Wonderneer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515410",
+      "ItemName": "Wunderbar Wonderneer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514854",
+      "ItemName": "Wunderbar Wonderneer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515163",
+      "ItemName": "Wunderbar Wonderneer Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515179",
+      "ItemName": "Wunderbar Wonderneer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515171",
+      "ItemName": "Wunderbar Wonderneer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514862",
+      "ItemName": "Wunderbar Wonderneer Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515306",
+      "ItemName": "Wunderbar Wonderneer Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

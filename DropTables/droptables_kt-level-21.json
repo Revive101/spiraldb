@@ -1,0 +1,293 @@
+{
+  "Name": "KT-Level-21",
+  "Description": "Mob loot table (18 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77691",
+      "ItemName": "Bitter Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77677",
+      "ItemName": "Blazing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77798",
+      "ItemName": "Boots of the Citadel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39425",
+      "ItemName": "Boots of the Whirlwind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82897",
+      "ItemName": "Bushy Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87321",
+      "ItemName": "Cloak of Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77729",
+      "ItemName": "Cryptkeeper's Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4960",
+      "ItemName": "Dirk of Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77701",
+      "ItemName": "Diviner's Hat of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87269",
+      "ItemName": "Diviner's Tunic of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39431",
+      "ItemName": "Footwraps of the Arctic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77710",
+      "ItemName": "Hat of the Mirage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77732",
+      "ItemName": "Headwrap of Annihilation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77750",
+      "ItemName": "Helm of the Citadel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82776",
+      "ItemName": "Krok Insect Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87308",
+      "ItemName": "Necromancer's Ivory Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4942",
+      "ItemName": "Parched Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82750",
+      "ItemName": "Red Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5027",
+      "ItemName": "Ring of the Badlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87295",
+      "ItemName": "Robe of the Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77711",
+      "ItemName": "Rough-hewn Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87280",
+      "ItemName": "Rough-hewn Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77700",
+      "ItemName": "Rugged Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39441",
+      "ItemName": "Sandals of Energy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77767",
+      "ItemName": "Sandals of Refuge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77757",
+      "ItemName": "Sandals of Tall Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77776",
+      "ItemName": "Shoes of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77786",
+      "ItemName": "Shoes of the Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5016",
+      "ItemName": "Sparkling Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77749",
+      "ItemName": "Sphinx's Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87333",
+      "ItemName": "Sphinx's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77678",
+      "ItemName": "Stout Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38750",
+      "ItemName": "Stout Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87292",
+      "ItemName": "Sturdy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77690",
+      "ItemName": "Thaumaturge's Cowl of Awe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77742",
+      "ItemName": "Threadbare Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87318",
+      "ItemName": "Vest of the Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38763",
+      "ItemName": "Vest of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87305",
+      "ItemName": "Vestment of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38762",
+      "ItemName": "Vestment of the Arctic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4955",
+      "ItemName": "Whirlwind Dagger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

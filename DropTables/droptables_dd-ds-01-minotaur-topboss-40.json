@@ -1,0 +1,213 @@
+{
+  "Name": "DD-DS-01-Minotaur-TopBoss-40",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160870",
+      "ItemName": "Arboreal Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335053",
+      "ItemName": "Baddle Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335052",
+      "ItemName": "Baddle of the Bands Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160867",
+      "ItemName": "Drake Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352049",
+      "ItemName": "Headbanger's Getup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352050",
+      "ItemName": "Headbanger's Getup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352093",
+      "ItemName": "Headbanger's Hit Rig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352094",
+      "ItemName": "Headbanger's Hit Rig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352060",
+      "ItemName": "Headbanger's Spiked Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352061",
+      "ItemName": "Headbanger's Spiked Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352038",
+      "ItemName": "Headbanger's Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352039",
+      "ItemName": "Headbanger's Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350275",
+      "ItemName": "Playable Electric Violin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350273",
+      "ItemName": "Playable Frankenjammer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350278",
+      "ItemName": "Playable Keytar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350277",
+      "ItemName": "Playable Moody Groovers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350274",
+      "ItemName": "Playable Polka Dot Flying V",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350279",
+      "ItemName": "Playable Sassaphone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350280",
+      "ItemName": "Playable Synthesizer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350276",
+      "ItemName": "Playable Xanadu Smashers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352082",
+      "ItemName": "Rocker's Beat Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352083",
+      "ItemName": "Rocker's Beat Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352016",
+      "ItemName": "Rocker's Stagewear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352017",
+      "ItemName": "Rocker's Stagewear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352027",
+      "ItemName": "Rocker's Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352028",
+      "ItemName": "Rocker's Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352005",
+      "ItemName": "Rocker's Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352006",
+      "ItemName": "Rocker's Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350163",
+      "ItemName": "Rockin' Roller",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338972",
+      "ItemName": "Rockstar High Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338973",
+      "ItemName": "Rockstar High Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338994",
+      "ItemName": "Rockstar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338995",
+      "ItemName": "Rockstar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338983",
+      "ItemName": "Rockstar Threads",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338984",
+      "ItemName": "Rockstar Threads",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352071",
+      "ItemName": "Rockstar Thump Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352072",
+      "ItemName": "Rockstar Thump Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160864",
+      "ItemName": "Snowflake Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350160",
+      "ItemName": "White-Striped Ziger (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

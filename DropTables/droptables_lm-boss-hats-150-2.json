@@ -1,0 +1,248 @@
+{
+  "Name": "LM-Boss-Hats-150-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537018",
+      "ItemName": "Magician's Balance Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537527",
+      "ItemName": "Magician's Balance Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537017",
+      "ItemName": "Magician's Death Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537526",
+      "ItemName": "Magician's Death Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537012",
+      "ItemName": "Magician's Fire Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537521",
+      "ItemName": "Magician's Fire Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537013",
+      "ItemName": "Magician's Ice Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537522",
+      "ItemName": "Magician's Ice Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537016",
+      "ItemName": "Magician's Life Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537525",
+      "ItemName": "Magician's Life Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537015",
+      "ItemName": "Magician's Myth Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537524",
+      "ItemName": "Magician's Myth Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537019",
+      "ItemName": "Magician's Power Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537528",
+      "ItemName": "Magician's Power Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537014",
+      "ItemName": "Magician's Storm Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537523",
+      "ItemName": "Magician's Storm Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537042",
+      "ItemName": "Malevolent Balance Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537536",
+      "ItemName": "Malevolent Balance Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537041",
+      "ItemName": "Malevolent Death Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537535",
+      "ItemName": "Malevolent Death Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537036",
+      "ItemName": "Malevolent Fire Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537530",
+      "ItemName": "Malevolent Fire Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537037",
+      "ItemName": "Malevolent Ice Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537531",
+      "ItemName": "Malevolent Ice Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537040",
+      "ItemName": "Malevolent Life Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537534",
+      "ItemName": "Malevolent Life Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537039",
+      "ItemName": "Malevolent Myth Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537533",
+      "ItemName": "Malevolent Myth Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537043",
+      "ItemName": "Malevolent Power Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537537",
+      "ItemName": "Malevolent Power Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537038",
+      "ItemName": "Malevolent Storm Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537532",
+      "ItemName": "Malevolent Storm Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537066",
+      "ItemName": "Merciless Balance Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537545",
+      "ItemName": "Merciless Balance Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537065",
+      "ItemName": "Merciless Death Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537544",
+      "ItemName": "Merciless Death Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537060",
+      "ItemName": "Merciless Fire Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537539",
+      "ItemName": "Merciless Fire Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537061",
+      "ItemName": "Merciless Ice Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537540",
+      "ItemName": "Merciless Ice Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537064",
+      "ItemName": "Merciless Life Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537543",
+      "ItemName": "Merciless Life Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537063",
+      "ItemName": "Merciless Myth Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537542",
+      "ItemName": "Merciless Myth Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537062",
+      "ItemName": "Merciless Storm Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537541",
+      "ItemName": "Merciless Storm Wand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

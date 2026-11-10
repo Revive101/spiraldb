@@ -1,0 +1,108 @@
+{
+  "Name": "Cl-SharkWarrior-GreyShoulder-BossR10-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243848",
+      "ItemName": "Bolt Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243836",
+      "ItemName": "Footguards of the Hero",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243604",
+      "ItemName": "Ominous Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342105",
+      "ItemName": "Palm Fronds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243524",
+      "ItemName": "Seal of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243212",
+      "ItemName": "Sliver of Regret",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243287",
+      "ItemName": "Starkwave's Balanced Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243578",
+      "ItemName": "Storied Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243704",
+      "ItemName": "Thundercracked Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243387",
+      "ItemName": "Veil of Virtue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243239",
+      "ItemName": "Venerable Blade",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

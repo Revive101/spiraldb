@@ -1,0 +1,123 @@
+{
+  "Name": "Colossus-Obsidian-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126647",
+      "ItemName": "Blackrock's Obsidian Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126680",
+      "ItemName": "Blackrock's Obsidian Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104638",
+      "ItemName": "Blackrock's Obsidian Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104756",
+      "ItemName": "Blizzard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104679",
+      "ItemName": "Chilling Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104598",
+      "ItemName": "Coat of Impartiality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104593",
+      "ItemName": "Coat of Omniscence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225416",
+      "ItemName": "Fire Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146259",
+      "ItemName": "Herbalist's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160912",
+      "ItemName": "Inferno Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146115",
+      "ItemName": "Lancet of Equality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146179",
+      "ItemName": "Lifegiver's Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146332",
+      "ItemName": "Mantle of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146341",
+      "ItemName": "Onyx-banded Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126562",
+      "ItemName": "Ring of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126614",
+      "ItemName": "Ring of Wyrmkind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126576",
+      "ItemName": "Ring of the Harpy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104833",
+      "ItemName": "Sandals of the Generous Earth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146167",
+      "ItemName": "Scaled Smallsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104822",
+      "ItemName": "Shoes of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160893",
+      "ItemName": "Volcanic Steam Vent",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

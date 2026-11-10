@@ -1,0 +1,368 @@
+{
+  "Name": "SC-PetSnacks-1",
+  "Description": "Mob loot table (11 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473125",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473126",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473127",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473128",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473129",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473130",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355151",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355152",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355153",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355154",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355155",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355156",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346060",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346061",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346062",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346063",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346064",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346065",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356107",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356108",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356109",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356110",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356111",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356112",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473138",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473139",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473140",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473141",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473142",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473143",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473144",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473181",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473182",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473183",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473184",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473185",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473186",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346046",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346047",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346048",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346049",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346050",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346051",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

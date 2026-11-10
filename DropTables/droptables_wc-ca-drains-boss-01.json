@@ -1,0 +1,58 @@
+{
+  "Name": "WC-CA-Drains-Boss-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489335",
+      "ItemName": "Dragonspyre Vanguard's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489334",
+      "ItemName": "Vanguard's Balanced Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489333",
+      "ItemName": "Vanguard's Deadly Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489328",
+      "ItemName": "Vanguard's Fiery Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489329",
+      "ItemName": "Vanguard's Icy Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489331",
+      "ItemName": "Vanguard's Mythic Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489330",
+      "ItemName": "Vanguard's Shocking Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489332",
+      "ItemName": "Vanguard's Vibrant Helm",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

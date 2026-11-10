@@ -1,0 +1,138 @@
+{
+  "Name": "MS-Pig-Plague-Lord-MSBoss-L46",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97471",
+      "ItemName": "Athame of Attention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97987",
+      "ItemName": "Boots of Commotion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97608",
+      "ItemName": "Cowl of Discord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97474",
+      "ItemName": "Dirk of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97703",
+      "ItemName": "Discerning Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98061",
+      "ItemName": "Entranced Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98066",
+      "ItemName": "Footwraps of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97679",
+      "ItemName": "Hat of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97634",
+      "ItemName": "Hat of the Triad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97656",
+      "ItemName": "Headwraps of Much Ado",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97641",
+      "ItemName": "Ideyoshi's Adroit Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97477",
+      "ItemName": "Ideyoshi's Analytical Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97719",
+      "ItemName": "Ideyoshi's Contemplative Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97501",
+      "ItemName": "Ideyoshi's Deck of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97845",
+      "ItemName": "Ideyoshi's Resonant Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98059",
+      "ItemName": "Ideyoshi's Zealous Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512101",
+      "ItemName": "MooShu Plague Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97586",
+      "ItemName": "Profound Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98064",
+      "ItemName": "Sandals of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97965",
+      "ItemName": "Shoes of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98038",
+      "ItemName": "Shoes of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98015",
+      "ItemName": "Slippers of the Opus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470229",
+      "ItemName": "Stone Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160647",
+      "ItemName": "Wood Saw",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

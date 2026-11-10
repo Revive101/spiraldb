@@ -1,0 +1,93 @@
+{
+  "Name": "Ghoul-Red-WCBoss-L15",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87223",
+      "ItemName": "Angelic Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4860",
+      "ItemName": "Barkskin Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4679",
+      "ItemName": "Bogeyman's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4836",
+      "ItemName": "Branded Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160372",
+      "ItemName": "Brown Blooms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160406",
+      "ItemName": "Carved Wall Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77571",
+      "ItemName": "Charbane's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77578",
+      "ItemName": "Cold Forged Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77594",
+      "ItemName": "Fairy Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4870",
+      "ItemName": "Footwraps of Seasons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87236",
+      "ItemName": "Robe of All Trades",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4716",
+      "ItemName": "Ruby Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4728",
+      "ItemName": "Studded Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4864",
+      "ItemName": "Venemous Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77576",
+      "ItemName": "Wormguts' Insulated Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

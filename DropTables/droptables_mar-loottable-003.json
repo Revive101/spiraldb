@@ -1,0 +1,48 @@
+{
+  "Name": "MAR-LootTable-003",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160954",
+      "ItemName": "Bounty of the Rainbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160957",
+      "ItemName": "Harp o' the Emerald Isle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160956",
+      "ItemName": "Leprechaun's Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126928",
+      "ItemName": "Lucky Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160955",
+      "ItemName": "Shamrock Harp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160953",
+      "ItemName": "Wand of the Golden Ward",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,373 @@
+{
+  "Name": "EM-Mob-Gear-120",
+  "Description": "Mob loot table (105 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1430594",
+      "ItemName": "Delegate's Hexacorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439000",
+      "ItemName": "Empyrea Aeriel Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439001",
+      "ItemName": "Empyrea Athanor Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439004",
+      "ItemName": "Empyrea Finale Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439005",
+      "ItemName": "Empyrea Flotsam Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439002",
+      "ItemName": "Empyrea Inner Athanor Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439006",
+      "ItemName": "Empyrea Jungle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439003",
+      "ItemName": "Empyrea Outer Athanor Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430588",
+      "ItemName": "Engineer's Hexacorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430589",
+      "ItemName": "Explorer's Hexacorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430591",
+      "ItemName": "Hero's Hexacorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430464",
+      "ItemName": "Interstellar Delegate Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430510",
+      "ItemName": "Interstellar Delegate's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430502",
+      "ItemName": "Interstellar Delegate's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430518",
+      "ItemName": "Interstellar Delegate's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430448",
+      "ItemName": "Interstellar Delegate's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430494",
+      "ItemName": "Interstellar Delegate's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430456",
+      "ItemName": "Interstellar Delegate's Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430442",
+      "ItemName": "Interstellar Engineer Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430450",
+      "ItemName": "Interstellar Engineer Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430458",
+      "ItemName": "Interstellar Engineer Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430504",
+      "ItemName": "Interstellar Engineer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430496",
+      "ItemName": "Interstellar Engineer's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430512",
+      "ItemName": "Interstellar Engineer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430488",
+      "ItemName": "Interstellar Engineer's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430505",
+      "ItemName": "Interstellar Explorer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430497",
+      "ItemName": "Interstellar Explorer's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430513",
+      "ItemName": "Interstellar Explorer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430443",
+      "ItemName": "Interstellar Explorer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430489",
+      "ItemName": "Interstellar Explorer's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430459",
+      "ItemName": "Interstellar Explorer's Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430451",
+      "ItemName": "Interstellar Explorer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430507",
+      "ItemName": "Interstellar Hero's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430499",
+      "ItemName": "Interstellar Hero's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430515",
+      "ItemName": "Interstellar Hero's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430445",
+      "ItemName": "Interstellar Hero's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430491",
+      "ItemName": "Interstellar Hero's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430461",
+      "ItemName": "Interstellar Hero's Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430453",
+      "ItemName": "Interstellar Hero's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430508",
+      "ItemName": "Interstellar Medic's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430500",
+      "ItemName": "Interstellar Medic's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430516",
+      "ItemName": "Interstellar Medic's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430492",
+      "ItemName": "Interstellar Medic's Scalpel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430444",
+      "ItemName": "Interstellar Navigator Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430452",
+      "ItemName": "Interstellar Navigator Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430506",
+      "ItemName": "Interstellar Navigator's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430460",
+      "ItemName": "Interstellar Navigator's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430498",
+      "ItemName": "Interstellar Navigator's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430514",
+      "ItemName": "Interstellar Navigator's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430490",
+      "ItemName": "Interstellar Navigator's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430511",
+      "ItemName": "Interstellar Officer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430465",
+      "ItemName": "Interstellar Officer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430503",
+      "ItemName": "Interstellar Officer's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430519",
+      "ItemName": "Interstellar Officer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430449",
+      "ItemName": "Interstellar Officer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430495",
+      "ItemName": "Interstellar Officer's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430457",
+      "ItemName": "Interstellar Officer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430447",
+      "ItemName": "Interstellar Warrior Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430463",
+      "ItemName": "Interstellar Warrior Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430455",
+      "ItemName": "Interstellar Warrior Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430509",
+      "ItemName": "Interstellar Warrior's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430501",
+      "ItemName": "Interstellar Warrior's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430517",
+      "ItemName": "Interstellar Warrior's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430493",
+      "ItemName": "Interstellar Warrior's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430592",
+      "ItemName": "Medic's Hexacorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430446",
+      "ItemName": "Medic's Interstellar Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430462",
+      "ItemName": "Medic's Interstellar Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430454",
+      "ItemName": "Medic's Interstellar Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430590",
+      "ItemName": "Navigator's Hexacorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430595",
+      "ItemName": "Officer's Hexacorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430593",
+      "ItemName": "Warrior's Hexacorder",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,133 @@
+{
+  "Name": "MS-Elemental-Water-Diseased-MSBoss-L48",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160444",
+      "ItemName": "Bubbling Cauldron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97676",
+      "ItemName": "Cap of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97742",
+      "ItemName": "Comprehensive Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160595",
+      "ItemName": "Diseased Mushrooms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97953",
+      "ItemName": "Indulgent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97792",
+      "ItemName": "Indulgent Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98003",
+      "ItemName": "Lyrical Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97842",
+      "ItemName": "Lyrical Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160487",
+      "ItemName": "Monk Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160601",
+      "ItemName": "Pearl Orchid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97511",
+      "ItemName": "River Spirit's Deck of Senses",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97798",
+      "ItemName": "River Spirit's Diligent Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97724",
+      "ItemName": "River Spirit's Dreaming Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97484",
+      "ItemName": "River Spirit's Drifting Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97643",
+      "ItemName": "River Spirit's Lively Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98054",
+      "ItemName": "Sandals of the Determined",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470202",
+      "ItemName": "Stone Dog Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100455",
+      "ItemName": "Stormbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97870",
+      "ItemName": "Tormented Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97822",
+      "ItemName": "Tunic of Impression",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97741",
+      "ItemName": "Vestment of Apprehension",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97889",
+      "ItemName": "Vestment of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97695",
+      "ItemName": "Wavebringer's Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

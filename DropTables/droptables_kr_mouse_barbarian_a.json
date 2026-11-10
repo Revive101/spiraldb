@@ -1,0 +1,173 @@
+{
+  "Name": "KR_Mouse_Barbarian_A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203261",
+      "ItemName": "Burrower Scout's Hoppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603162",
+      "ItemName": "Deco Mouse Wall Frieze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448401",
+      "ItemName": "Fire Moon Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203179",
+      "ItemName": "Gloom Dancer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589166",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589167",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589168",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589169",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589170",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589171",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589172",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203259",
+      "ItemName": "Kermes Fire Miner's Clogs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203260",
+      "ItemName": "Mantis Hunter's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203177",
+      "ItemName": "Mantis Prophet's Ringlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653153",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653154",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653155",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653156",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653157",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653158",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653159",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473647",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473648",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473649",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473650",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473651",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473652",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473653",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203258",
+      "ItemName": "Mouse Knight's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203178",
+      "ItemName": "Seal of the Lost King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203262",
+      "ItemName": "Tireless Digger's Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "MAR-LootTable-005",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160965",
+      "ItemName": "Charmed Shamrock Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126928",
+      "ItemName": "Lucky Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160964",
+      "ItemName": "Rainbow's Reward",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160962",
+      "ItemName": "Sacred Shillelagh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160963",
+      "ItemName": "Scepter of the Red Hart",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

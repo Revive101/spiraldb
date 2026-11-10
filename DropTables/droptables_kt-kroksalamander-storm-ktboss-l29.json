@@ -1,0 +1,193 @@
+{
+  "Name": "KT-KrokSalamander-Storm-KTBoss-L29",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5018",
+      "ItemName": "Band of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5035",
+      "ItemName": "Band of the Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82900",
+      "ItemName": "Blue Krok Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77785",
+      "ItemName": "Boots of Talent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77787",
+      "ItemName": "Boots of the Bastion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77751",
+      "ItemName": "Cowl of the Fortress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77730",
+      "ItemName": "Destructive Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87306",
+      "ItemName": "Dusty Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82729",
+      "ItemName": "Fat Pumpkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5030",
+      "ItemName": "Flowering Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77766",
+      "ItemName": "Flowering Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77768",
+      "ItemName": "Hardy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5028",
+      "ItemName": "Jewel of Obliteration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77717",
+      "ItemName": "Kiwu's Cryptic Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4983",
+      "ItemName": "Kiwu's Jade Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87311",
+      "ItemName": "Kiwu's Languid Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87355",
+      "ItemName": "Kiwu's Magnetic Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335016",
+      "ItemName": "Krokotopia Dance Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5017",
+      "ItemName": "Loop of Quietude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5022",
+      "ItemName": "Loop of the Defender",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87150",
+      "ItemName": "Mander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39424",
+      "ItemName": "Powerful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87267",
+      "ItemName": "Powerful Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87319",
+      "ItemName": "Robe of the Bastion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87279",
+      "ItemName": "Robe of the Mirage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77758",
+      "ItemName": "Runed Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77777",
+      "ItemName": "Sandals of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39440",
+      "ItemName": "Sandals of Ignition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77793",
+      "ItemName": "Slippers of Sensibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39430",
+      "ItemName": "Slippers of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77720",
+      "ItemName": "Sturdy Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87293",
+      "ItemName": "Theurge's Brown Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77722",
+      "ItemName": "Theurge's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82745",
+      "ItemName": "Tomb Map",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38749",
+      "ItemName": "Vestment of Ignition",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

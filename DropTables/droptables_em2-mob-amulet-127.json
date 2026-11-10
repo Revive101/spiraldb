@@ -1,0 +1,58 @@
+{
+  "Name": "EM2-Mob-Amulet-127",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462282",
+      "ItemName": "Bodacious Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462277",
+      "ItemName": "Chill Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462283",
+      "ItemName": "Choice Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462278",
+      "ItemName": "Gnarly Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462281",
+      "ItemName": "Heavy Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462279",
+      "ItemName": "Mondo Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462276",
+      "ItemName": "Rad Kalamar Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462280",
+      "ItemName": "Righteous Kalamar Amulet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

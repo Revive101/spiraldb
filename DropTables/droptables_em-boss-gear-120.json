@@ -1,0 +1,103 @@
+{
+  "Name": "EM-Boss-Gear-120",
+  "Description": "Mob loot table (16 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1430526",
+      "ItemName": "Cabal Hood of Disruption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430535",
+      "ItemName": "Cabal Schism Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430527",
+      "ItemName": "Cabal Schism Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430543",
+      "ItemName": "Cabal Schism Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430542",
+      "ItemName": "Cabal Stompers of Disruption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430522",
+      "ItemName": "Cabalist Chaotic Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430538",
+      "ItemName": "Cabalist Chaotic Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430520",
+      "ItemName": "Cabalist Cleansing Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430536",
+      "ItemName": "Cabalist Cleansing Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430525",
+      "ItemName": "Cabalist Hood of Finality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430521",
+      "ItemName": "Cabalist Hood of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430524",
+      "ItemName": "Cabalist Hood of the First",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430541",
+      "ItemName": "Cabalist Stompers of Finality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430540",
+      "ItemName": "Cabalist Stompers of the First",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430537",
+      "ItemName": "Cabalist Stomps of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430523",
+      "ItemName": "Nostalgic Cabal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430539",
+      "ItemName": "Nostalgic Cabal Stompers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

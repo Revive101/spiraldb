@@ -1,0 +1,653 @@
+{
+  "Name": "G14-CD-Mob-02",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653139",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653140",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653141",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653142",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653143",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653144",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653145",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589146",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589147",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589148",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589149",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589150",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589151",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338468",
+      "ItemName": "Arcana of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338383",
+      "ItemName": "Blackwater's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338551",
+      "ItemName": "Bludgeon of the Dark Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589195",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589196",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589197",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589198",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589199",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589200",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338129",
+      "ItemName": "Brimstone Boots of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330961",
+      "ItemName": "Brimstone Helm of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338466",
+      "ItemName": "Cards of the Blue Ague",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330964",
+      "ItemName": "Darkmoor Barbut of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338132",
+      "ItemName": "Darkmoor Boots of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330962",
+      "ItemName": "Darkmoor Helmet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330967",
+      "ItemName": "Darkmoor Herald's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338465",
+      "ItemName": "Darkmoor's Brimstone Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338471",
+      "ItemName": "Darkmoor's Case of Scrutiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338469",
+      "ItemName": "Deck of Unchecked Passion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330966",
+      "ItemName": "Depths of Darkmoor Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338134",
+      "ItemName": "Depths of Darkmoor Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1448401",
+      "ItemName": "Fire Moon Blossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346060",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346061",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346062",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346063",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346064",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346065",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338384",
+      "ItemName": "Gargoyle's Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330965",
+      "ItemName": "Helm of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338387",
+      "ItemName": "Herald of Darkmoor's Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338135",
+      "ItemName": "Herald of Darkmoor's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589166",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589167",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589168",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589169",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589170",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589171",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589172",
+      "ItemName": "Honey Bee Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338549",
+      "ItemName": "Mace of the Dark Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338555",
+      "ItemName": "Mace of the Outer Void",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338553",
+      "ItemName": "Mace of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653153",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653154",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653155",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653156",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653157",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653158",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653159",
+      "ItemName": "Melting Cheese Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473647",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473648",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473649",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473650",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473651",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473652",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473653",
+      "ItemName": "Moon Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338552",
+      "ItemName": "Morning Star of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338554",
+      "ItemName": "Morning Star of Misery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589187",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589188",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589189",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589190",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589191",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589192",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589193",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338131",
+      "ItemName": "Raging Blackwater's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330963",
+      "ItemName": "Raging Blackwater's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589181",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589182",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589183",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589184",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589185",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589186",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338386",
+      "ItemName": "Ring of Mortis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338130",
+      "ItemName": "Sabatons of Frozen Furor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338133",
+      "ItemName": "Sabatons of the Living Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248248",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248249",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248250",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248251",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248252",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248253",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248254",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338381",
+      "ItemName": "Signet of the Howling Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338467",
+      "ItemName": "Thunderous Darkmoor Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338550",
+      "ItemName": "Virge of the Bitter Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338470",
+      "ItemName": "Von Shane's Hand of Doom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338382",
+      "ItemName": "Wolfbane Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338385",
+      "ItemName": "von Shane Family Signet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

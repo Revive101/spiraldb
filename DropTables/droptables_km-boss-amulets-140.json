@@ -1,0 +1,138 @@
+{
+  "Name": "KM-Boss-Amulets-140",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1515149",
+      "ItemName": "Guten Artisan Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515153",
+      "ItemName": "Guten Candymancer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515152",
+      "ItemName": "Guten Dreamsearcher Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515146",
+      "ItemName": "Guten Freshbaker Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515148",
+      "ItemName": "Guten Sciencer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515151",
+      "ItemName": "Guten Sentamentalist Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515150",
+      "ItemName": "Guten Sweetsmith Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515147",
+      "ItemName": "Guten Wonderneer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515197",
+      "ItemName": "Uber Artisan Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515201",
+      "ItemName": "Uber Candymancer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515200",
+      "ItemName": "Uber Dreamsearcher Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515194",
+      "ItemName": "Uber Freshbaker Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515196",
+      "ItemName": "Uber Sciencer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515199",
+      "ItemName": "Uber Sentamentalist Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515198",
+      "ItemName": "Uber Sweetsmith Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515195",
+      "ItemName": "Uber Wonderneer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515173",
+      "ItemName": "Wunderbar Artisan Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515177",
+      "ItemName": "Wunderbar Candymancer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515176",
+      "ItemName": "Wunderbar Dreamsearcher Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515170",
+      "ItemName": "Wunderbar Freshbaker Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515172",
+      "ItemName": "Wunderbar Sciencer Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515175",
+      "ItemName": "Wunderbar Sentamentalist Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515174",
+      "ItemName": "Wunderbar Sweetsmith Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515171",
+      "ItemName": "Wunderbar Wonderneer Rope",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

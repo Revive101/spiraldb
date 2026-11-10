@@ -1,0 +1,168 @@
+{
+  "Name": "MS-Elite-35-50",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97676",
+      "ItemName": "Cap of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97486",
+      "ItemName": "Deck of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97986",
+      "ItemName": "Footwraps of Pictures",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97788",
+      "ItemName": "Friendly Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97826",
+      "ItemName": "Garment of Dilemma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97900",
+      "ItemName": "Garment of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97857",
+      "ItemName": "Garment of Yodels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160588",
+      "ItemName": "Hanging Naginata Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97680",
+      "ItemName": "Helm of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97953",
+      "ItemName": "Indulgent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97792",
+      "ItemName": "Indulgent Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98003",
+      "ItemName": "Lyrical Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97842",
+      "ItemName": "Lyrical Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160579",
+      "ItemName": "Moodha Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97805",
+      "ItemName": "Profound Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160443",
+      "ItemName": "Red Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97854",
+      "ItemName": "Robes of the Triad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98054",
+      "ItemName": "Sandals of the Determined",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97970",
+      "ItemName": "Shoes of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98020",
+      "ItemName": "Slippers of Yodels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470222",
+      "ItemName": "Soji Screen Art",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97870",
+      "ItemName": "Tormented Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97838",
+      "ItemName": "Tunic of Chimes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97822",
+      "ItemName": "Tunic of Impression",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97898",
+      "ItemName": "Tunic of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97809",
+      "ItemName": "Tunic of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97889",
+      "ItemName": "Vestment of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98037",
+      "ItemName": "Vexing Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97873",
+      "ItemName": "Vexing Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97886",
+      "ItemName": "Zippy Tunic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

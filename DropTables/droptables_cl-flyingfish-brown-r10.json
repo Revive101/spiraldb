@@ -1,0 +1,108 @@
+{
+  "Name": "CL-FlyingFish-Brown-R10",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243456",
+      "ItemName": "Attuned Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243796",
+      "ItemName": "Diamond Dust Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243244",
+      "ItemName": "Dirk of Discovery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243215",
+      "ItemName": "Edge of Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342097",
+      "ItemName": "Grand Astrolabe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243415",
+      "ItemName": "Helmet of the Hero",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243662",
+      "ItemName": "Life Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243581",
+      "ItemName": "Loop of Illusions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243375",
+      "ItemName": "Mask of Cold Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243527",
+      "ItemName": "Tobiko's Scorched Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243744",
+      "ItemName": "Wretched Runners",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

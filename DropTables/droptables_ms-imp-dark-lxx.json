@@ -1,0 +1,113 @@
+{
+  "Name": "MS-Imp-Dark-LXX",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "470209",
+      "ItemName": "Koi Pond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161060",
+      "ItemName": "Loop of Refreshment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100438",
+      "ItemName": "Minotaur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160558",
+      "ItemName": "Pagoda Shrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161031",
+      "ItemName": "Surgeon's Scalpel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160517",
+      "ItemName": "Tall Blue Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160509",
+      "ItemName": "Youkai's Bonsai",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97550",
+      "ItemName": "Youkai's Cap of Brainstorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97775",
+      "ItemName": "Youkai's Cloak of Kindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97556",
+      "ItemName": "Youkai's Hat of Kindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97554",
+      "ItemName": "Youkai's Headwraps of Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97551",
+      "ItemName": "Youkai's Rational Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97774",
+      "ItemName": "Youkai's Robe of Premise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97933",
+      "ItemName": "Youkai's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97930",
+      "ItemName": "Youkai's Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97773",
+      "ItemName": "Youkai's Tunic of Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97931",
+      "ItemName": "Youkai's Vacant Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97771",
+      "ItemName": "Youkai's Vestment",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

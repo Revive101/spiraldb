@@ -1,0 +1,38 @@
+{
+  "Name": "HG_NM_Gator_Scientist_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "739111",
+      "ItemName": "Beetle Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724087",
+      "ItemName": "Grass Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739179",
+      "ItemName": "Minuteman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739206",
+      "ItemName": "Sea Cucumber",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,83 @@
+{
+  "Name": "AV-R11-Maudit",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635221",
+      "ItemName": "Armiger's Bravura Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512165",
+      "ItemName": "Avalon Haunting Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512166",
+      "ItemName": "Avalon Tense Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635299",
+      "ItemName": "Champion of Order's Icy Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635373",
+      "ItemName": "Fire-Spitter Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635251",
+      "ItemName": "Hound's Tooth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635300",
+      "ItemName": "Mask of the Catalan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635414",
+      "ItemName": "Merciful Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635413",
+      "ItemName": "Noble Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635623",
+      "ItemName": "Truesight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635250",
+      "ItemName": "Wild Tangle Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635374",
+      "ItemName": "Winter Wyrm's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635220",
+      "ItemName": "Wise Wood Amulet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

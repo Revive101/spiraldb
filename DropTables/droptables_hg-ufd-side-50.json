@@ -1,0 +1,273 @@
+{
+  "Name": "HG-UFD-Side-50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1507840",
+      "ItemName": "Dire Loch Monster (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507839",
+      "ItemName": "Dire Loch Monster (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507838",
+      "ItemName": "Dire Loch Monster (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507847",
+      "ItemName": "Dread Loch Monster (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507846",
+      "ItemName": "Dread Loch Monster (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507837",
+      "ItemName": "Dread Loch Monster (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507844",
+      "ItemName": "Grim Loch Monster (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507843",
+      "ItemName": "Grim Loch Monster (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1507842",
+      "ItemName": "Grim Loch Monster (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548458",
+      "ItemName": "Highlands Champion's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548459",
+      "ItemName": "Highlands Champion's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548460",
+      "ItemName": "Highlands Champion's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548461",
+      "ItemName": "Highlands Champion's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548462",
+      "ItemName": "Highlands Champion's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548463",
+      "ItemName": "Highlands Champion's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548442",
+      "ItemName": "Highlands Fighter's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548443",
+      "ItemName": "Highlands Fighter's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548444",
+      "ItemName": "Highlands Fighter's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548445",
+      "ItemName": "Highlands Fighter's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548446",
+      "ItemName": "Highlands Fighter's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548447",
+      "ItemName": "Highlands Fighter's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548506",
+      "ItemName": "Highlands Hero's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548507",
+      "ItemName": "Highlands Hero's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548508",
+      "ItemName": "Highlands Hero's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548509",
+      "ItemName": "Highlands Hero's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548510",
+      "ItemName": "Highlands Hero's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548511",
+      "ItemName": "Highlands Hero's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548474",
+      "ItemName": "Highlands Militia Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548475",
+      "ItemName": "Highlands Militia Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548476",
+      "ItemName": "Highlands Militia Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548477",
+      "ItemName": "Highlands Militia Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548478",
+      "ItemName": "Highlands Militia Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548479",
+      "ItemName": "Highlands Militia Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548522",
+      "ItemName": "Highlands Raider's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548523",
+      "ItemName": "Highlands Raider's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548524",
+      "ItemName": "Highlands Raider's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548525",
+      "ItemName": "Highlands Raider's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548526",
+      "ItemName": "Highlands Raider's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548527",
+      "ItemName": "Highlands Raider's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548490",
+      "ItemName": "Highlands Soldier's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548491",
+      "ItemName": "Highlands Soldier's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548492",
+      "ItemName": "Highlands Soldier's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548493",
+      "ItemName": "Highlands Soldier's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548494",
+      "ItemName": "Highlands Soldier's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548495",
+      "ItemName": "Highlands Soldier's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548426",
+      "ItemName": "Highlands Warrior's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548427",
+      "ItemName": "Highlands Warrior's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548428",
+      "ItemName": "Highlands Warrior's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548429",
+      "ItemName": "Highlands Warrior's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548430",
+      "ItemName": "Highlands Warrior's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548431",
+      "ItemName": "Highlands Warrior's Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

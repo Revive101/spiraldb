@@ -1,0 +1,53 @@
+{
+  "Name": "Gauntlet-01-Hollowsoul",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126683",
+      "ItemName": "Deck of Last Departure",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126685",
+      "ItemName": "Deck of Nature's Bounty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126682",
+      "ItemName": "Deck of Perfect Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126672",
+      "ItemName": "Deck of the Devouring Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126673",
+      "ItemName": "Deck of the Ice Wyrm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126684",
+      "ItemName": "Karuvian Deck of Eternity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126677",
+      "ItemName": "Sea Lord's Deck of Thunder",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

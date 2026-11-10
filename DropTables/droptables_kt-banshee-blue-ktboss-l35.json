@@ -1,0 +1,113 @@
+{
+  "Name": "KT-Banshee-Blue-KTBoss-L35",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5033",
+      "ItemName": "Band of the Bastion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87287",
+      "ItemName": "Cloak of the Fathomable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4969",
+      "ItemName": "Dagger of Downpour",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161028",
+      "ItemName": "Keen-edged Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4961",
+      "ItemName": "Keeper's Blade of Runes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77746",
+      "ItemName": "Keeper's Hat of the Sage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82839",
+      "ItemName": "Krok Ice Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100437",
+      "ItemName": "Krokomummy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512123",
+      "ItemName": "Krokotopia Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77780",
+      "ItemName": "Necromancer's Ivory Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4937",
+      "ItemName": "Pharaoh's Shortsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77763",
+      "ItemName": "Quixotic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39423",
+      "ItemName": "Rugged Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77792",
+      "ItemName": "Shrewd Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87327",
+      "ItemName": "Shroud of Rationality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39428",
+      "ItemName": "Thaumaturge's Boots of Awe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38765",
+      "ItemName": "Thaumaturge's Cloak of Awe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38757",
+      "ItemName": "Vest of Humidity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161057",
+      "ItemName": "Youthful Seal",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

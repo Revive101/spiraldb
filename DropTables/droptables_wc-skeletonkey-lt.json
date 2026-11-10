@@ -1,0 +1,38 @@
+{
+  "Name": "WC-SkeletonKey-LT",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1505292",
+      "ItemName": "Novitiate Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505290",
+      "ItemName": "Novitiate Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1505291",
+      "ItemName": "Novitiate Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

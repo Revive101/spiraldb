@@ -1,0 +1,358 @@
+{
+  "Name": "CE_TreasureTower_Death_F30",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1254223",
+      "ItemName": "Cast Symbol Death (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254224",
+      "ItemName": "Cast Symbol Death (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160293",
+      "ItemName": "Crate of Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414605",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414606",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414607",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414608",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414609",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414610",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414611",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414612",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414613",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414614",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414615",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414616",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414617",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414618",
+      "ItemName": "Dworgyn's Dire Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414577",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414578",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414579",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414580",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414581",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414582",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414583",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414584",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414585",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414586",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414587",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414588",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414589",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414590",
+      "ItemName": "Dworgyn's Havoc Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414591",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414592",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414593",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414594",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414595",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414596",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414597",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414598",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414599",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414600",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414601",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414602",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414603",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414604",
+      "ItemName": "Dworgyn's Sinister Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374487",
+      "ItemName": "Fishy Bird Cage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414731",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414732",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414733",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414734",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414735",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414736",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414737",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414738",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414739",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414740",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414741",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414742",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414743",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414744",
+      "ItemName": "Headmaster's Doom Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160229",
+      "ItemName": "Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160983",
+      "ItemName": "Portrait of Lydia Greyrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160982",
+      "ItemName": "Professor Ambrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160399",
+      "ItemName": "Professor Balestrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160395",
+      "ItemName": "Professor Falmea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374549",
+      "ItemName": "Ravenwood Librarian's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160208",
+      "ItemName": "Stack of 3 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164419",
+      "ItemName": "Theater Masks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

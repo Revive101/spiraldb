@@ -1,0 +1,228 @@
+{
+  "Name": "DM_Werewolf_Lord_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1707784",
+      "ItemName": "Ancient Dhampir Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707917",
+      "ItemName": "Ancient Dhampir Cup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707798",
+      "ItemName": "Ancient Dhampir Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707786",
+      "ItemName": "Ancient Hemavore Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707919",
+      "ItemName": "Ancient Hemavore Cup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707800",
+      "ItemName": "Ancient Hemavore Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707788",
+      "ItemName": "Ancient Immortal Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707921",
+      "ItemName": "Ancient Immortal Cup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707802",
+      "ItemName": "Ancient Immortal Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707785",
+      "ItemName": "Ancient Living Dead Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707918",
+      "ItemName": "Ancient Living Dead Cup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707799",
+      "ItemName": "Ancient Living Dead Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707787",
+      "ItemName": "Ancient Nightstalker Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707920",
+      "ItemName": "Ancient Nightstalker Cup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707801",
+      "ItemName": "Ancient Nightstalker Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707790",
+      "ItemName": "Ancient Nosferatu Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707923",
+      "ItemName": "Ancient Nosferatu Cup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707804",
+      "ItemName": "Ancient Nosferatu Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707789",
+      "ItemName": "Ancient Vampire Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707922",
+      "ItemName": "Ancient Vampire Cup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707803",
+      "ItemName": "Ancient Vampire Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712453",
+      "ItemName": "Fledgling Dhampir Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712467",
+      "ItemName": "Fledgling Dhampir Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712455",
+      "ItemName": "Fledgling Hemavore Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712469",
+      "ItemName": "Fledgling Hemavore Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712457",
+      "ItemName": "Fledgling Immortal Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712471",
+      "ItemName": "Fledgling Immortal Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712454",
+      "ItemName": "Fledgling Living Dead Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712468",
+      "ItemName": "Fledgling Living Dead Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712456",
+      "ItemName": "Fledgling Nightstalker Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712470",
+      "ItemName": "Fledgling Nightstalker Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712459",
+      "ItemName": "Fledgling Nosferatu Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712473",
+      "ItemName": "Fledgling Nosferatu Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712458",
+      "ItemName": "Fledgling Vampire Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712472",
+      "ItemName": "Fledgling Vampire Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707929",
+      "ItemName": "Scepter of False Promises",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707926",
+      "ItemName": "Scepter of the Burnt Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707930",
+      "ItemName": "Scepter of the Changing Tide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707927",
+      "ItemName": "Scepter of the Coldhearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707925",
+      "ItemName": "Scepter of the Doomed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707928",
+      "ItemName": "Scepter of the Living Lie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707924",
+      "ItemName": "Scepter of the Turning Wheel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

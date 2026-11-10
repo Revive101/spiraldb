@@ -1,0 +1,148 @@
+{
+  "Name": "MS-Pig-Death-Lord-MSBoss-L49",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160582",
+      "ItemName": "Bell Pagoda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97676",
+      "ItemName": "Cap of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97745",
+      "ItemName": "Cloak of Concentration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225420",
+      "ItemName": "Deathbat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126138",
+      "ItemName": "Dream Tanto of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160476",
+      "ItemName": "Frost Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470233",
+      "ItemName": "Gold Tori Gates",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97953",
+      "ItemName": "Indulgent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97792",
+      "ItemName": "Indulgent Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97937",
+      "ItemName": "Kagemoosha's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87773",
+      "ItemName": "Kagemoosha's Citrine Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97562",
+      "ItemName": "Kagemoosha's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97779",
+      "ItemName": "Kagemoosha's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97941",
+      "ItemName": "Kagemoosha's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97595",
+      "ItemName": "Kagemoosha's Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98003",
+      "ItemName": "Lyrical Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97842",
+      "ItemName": "Lyrical Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430802",
+      "ItemName": "MooShu Battle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430801",
+      "ItemName": "MooShu Mystical Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512102",
+      "ItemName": "MooShu War Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98054",
+      "ItemName": "Sandals of the Determined",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97870",
+      "ItemName": "Tormented Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97822",
+      "ItemName": "Tunic of Impression",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97746",
+      "ItemName": "Vestment of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97889",
+      "ItemName": "Vestment of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

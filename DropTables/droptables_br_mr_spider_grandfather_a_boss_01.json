@@ -1,0 +1,158 @@
+{
+  "Name": "BR_MR_Spider_Grandfather_A_Boss_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1689344",
+      "ItemName": "Animated Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689988",
+      "ItemName": "Animated Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689351",
+      "ItemName": "Animated Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689995",
+      "ItemName": "Animated Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689340",
+      "ItemName": "Classical Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689984",
+      "ItemName": "Classical Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689347",
+      "ItemName": "Classical Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689991",
+      "ItemName": "Classical Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689343",
+      "ItemName": "Cool Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689987",
+      "ItemName": "Cool Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689350",
+      "ItemName": "Cool Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689994",
+      "ItemName": "Cool Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689341",
+      "ItemName": "Grimdark Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689985",
+      "ItemName": "Grimdark Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689348",
+      "ItemName": "Grimdark Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689992",
+      "ItemName": "Grimdark Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689345",
+      "ItemName": "Infamous Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689989",
+      "ItemName": "Infamous Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689352",
+      "ItemName": "Infamous Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689996",
+      "ItemName": "Infamous Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689342",
+      "ItemName": "Inflammatory Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689986",
+      "ItemName": "Inflammatory Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689349",
+      "ItemName": "Inflammatory Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689993",
+      "ItemName": "Inflammatory Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689346",
+      "ItemName": "Snappy Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689990",
+      "ItemName": "Snappy Deity Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689353",
+      "ItemName": "Snappy Deity Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689997",
+      "ItemName": "Snappy Deity Tunic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

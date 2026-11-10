@@ -1,0 +1,58 @@
+{
+  "Name": "WC-CA-Drains-Boss-05",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489414",
+      "ItemName": "Dragonspyre Vanguard's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489413",
+      "ItemName": "Vanguard's Balanced Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489412",
+      "ItemName": "Vanguard's Deadly Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489407",
+      "ItemName": "Vanguard's Fiery Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489408",
+      "ItemName": "Vanguard's Icy Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489410",
+      "ItemName": "Vanguard's Mythic Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489409",
+      "ItemName": "Vanguard's Shocking Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489411",
+      "ItemName": "Vanguard's Vibrant Charm",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

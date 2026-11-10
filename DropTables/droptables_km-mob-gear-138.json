@@ -1,0 +1,738 @@
+{
+  "Name": "KM-Mob-Gear-138",
+  "Description": "Mob loot table (22 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1514762",
+      "ItemName": "Director Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515071",
+      "ItemName": "Director Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515275",
+      "ItemName": "Director Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515087",
+      "ItemName": "Director Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515079",
+      "ItemName": "Director Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514770",
+      "ItemName": "Director Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514758",
+      "ItemName": "Director Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515067",
+      "ItemName": "Director Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515271",
+      "ItemName": "Director Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515083",
+      "ItemName": "Director Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515075",
+      "ItemName": "Director Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514766",
+      "ItemName": "Director Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514764",
+      "ItemName": "Director Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515073",
+      "ItemName": "Director Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515277",
+      "ItemName": "Director Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515089",
+      "ItemName": "Director Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515081",
+      "ItemName": "Director Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514772",
+      "ItemName": "Director Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514759",
+      "ItemName": "Director Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515068",
+      "ItemName": "Director Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515272",
+      "ItemName": "Director Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515084",
+      "ItemName": "Director Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515076",
+      "ItemName": "Director Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514767",
+      "ItemName": "Director Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514760",
+      "ItemName": "Director Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515069",
+      "ItemName": "Director Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515273",
+      "ItemName": "Director Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515085",
+      "ItemName": "Director Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515077",
+      "ItemName": "Director Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514768",
+      "ItemName": "Director Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514763",
+      "ItemName": "Director Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515072",
+      "ItemName": "Director Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515276",
+      "ItemName": "Director Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515088",
+      "ItemName": "Director Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515080",
+      "ItemName": "Director Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514771",
+      "ItemName": "Director Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514761",
+      "ItemName": "Director Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515070",
+      "ItemName": "Director Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515274",
+      "ItemName": "Director Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515086",
+      "ItemName": "Director Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515078",
+      "ItemName": "Director Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514769",
+      "ItemName": "Director Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514757",
+      "ItemName": "Director Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515066",
+      "ItemName": "Director Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515270",
+      "ItemName": "Director Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515082",
+      "ItemName": "Director Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515074",
+      "ItemName": "Director Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514765",
+      "ItemName": "Director Thermal Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514786",
+      "ItemName": "Executive Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515095",
+      "ItemName": "Executive Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515284",
+      "ItemName": "Executive Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515111",
+      "ItemName": "Executive Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515103",
+      "ItemName": "Executive Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514794",
+      "ItemName": "Executive Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514782",
+      "ItemName": "Executive Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515091",
+      "ItemName": "Executive Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515280",
+      "ItemName": "Executive Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515107",
+      "ItemName": "Executive Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515099",
+      "ItemName": "Executive Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514790",
+      "ItemName": "Executive Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514788",
+      "ItemName": "Executive Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515097",
+      "ItemName": "Executive Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515286",
+      "ItemName": "Executive Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515113",
+      "ItemName": "Executive Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515105",
+      "ItemName": "Executive Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514796",
+      "ItemName": "Executive Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514783",
+      "ItemName": "Executive Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515092",
+      "ItemName": "Executive Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515281",
+      "ItemName": "Executive Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515108",
+      "ItemName": "Executive Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515100",
+      "ItemName": "Executive Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514791",
+      "ItemName": "Executive Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514784",
+      "ItemName": "Executive Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515093",
+      "ItemName": "Executive Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515282",
+      "ItemName": "Executive Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515109",
+      "ItemName": "Executive Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515101",
+      "ItemName": "Executive Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514792",
+      "ItemName": "Executive Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514787",
+      "ItemName": "Executive Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515096",
+      "ItemName": "Executive Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515285",
+      "ItemName": "Executive Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515112",
+      "ItemName": "Executive Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515104",
+      "ItemName": "Executive Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514795",
+      "ItemName": "Executive Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514785",
+      "ItemName": "Executive Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515094",
+      "ItemName": "Executive Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515283",
+      "ItemName": "Executive Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515110",
+      "ItemName": "Executive Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515102",
+      "ItemName": "Executive Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514793",
+      "ItemName": "Executive Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514781",
+      "ItemName": "Executive Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515090",
+      "ItemName": "Executive Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515279",
+      "ItemName": "Executive Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515106",
+      "ItemName": "Executive Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515098",
+      "ItemName": "Executive Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514789",
+      "ItemName": "Executive Thermal Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514810",
+      "ItemName": "Producer's Biohazard Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515119",
+      "ItemName": "Producer's Biohazard Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515293",
+      "ItemName": "Producer's Biohazard Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515135",
+      "ItemName": "Producer's Biohazard Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515127",
+      "ItemName": "Producer's Biohazard Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514818",
+      "ItemName": "Producer's Biohazard Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514806",
+      "ItemName": "Producer's Cryo Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515115",
+      "ItemName": "Producer's Cryo Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515289",
+      "ItemName": "Producer's Cryo Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515131",
+      "ItemName": "Producer's Cryo Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515123",
+      "ItemName": "Producer's Cryo Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514814",
+      "ItemName": "Producer's Cryo Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514812",
+      "ItemName": "Producer's Hazmat Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515121",
+      "ItemName": "Producer's Hazmat Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515295",
+      "ItemName": "Producer's Hazmat Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515137",
+      "ItemName": "Producer's Hazmat Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515129",
+      "ItemName": "Producer's Hazmat Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514820",
+      "ItemName": "Producer's Hazmat Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514807",
+      "ItemName": "Producer's Insulated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515116",
+      "ItemName": "Producer's Insulated Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515290",
+      "ItemName": "Producer's Insulated Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515132",
+      "ItemName": "Producer's Insulated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515124",
+      "ItemName": "Producer's Insulated Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514815",
+      "ItemName": "Producer's Insulated Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514808",
+      "ItemName": "Producer's Pressure Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515117",
+      "ItemName": "Producer's Pressure Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515291",
+      "ItemName": "Producer's Pressure Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515133",
+      "ItemName": "Producer's Pressure Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515125",
+      "ItemName": "Producer's Pressure Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514816",
+      "ItemName": "Producer's Pressure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514811",
+      "ItemName": "Producer's Protective Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515120",
+      "ItemName": "Producer's Protective Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515294",
+      "ItemName": "Producer's Protective Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515136",
+      "ItemName": "Producer's Protective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515128",
+      "ItemName": "Producer's Protective Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514819",
+      "ItemName": "Producer's Protective Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514809",
+      "ItemName": "Producer's Survival Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515118",
+      "ItemName": "Producer's Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515292",
+      "ItemName": "Producer's Survival Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515134",
+      "ItemName": "Producer's Survival Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515126",
+      "ItemName": "Producer's Survival Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514817",
+      "ItemName": "Producer's Survival Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514805",
+      "ItemName": "Producer's Thermal Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515114",
+      "ItemName": "Producer's Thermal Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515288",
+      "ItemName": "Producer's Thermal Meter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515130",
+      "ItemName": "Producer's Thermal Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515122",
+      "ItemName": "Producer's Thermal Rope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514813",
+      "ItemName": "Producer's Thermal Suit",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

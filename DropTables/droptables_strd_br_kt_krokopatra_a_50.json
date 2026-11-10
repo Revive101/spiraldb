@@ -1,0 +1,158 @@
+{
+  "Name": "STRD_BR_KT_Krokopatra_A_50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1617537",
+      "ItemName": "Malistaire's Chilly Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617558",
+      "ItemName": "Malistaire's Chilly Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617579",
+      "ItemName": "Malistaire's Chilly Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712832",
+      "ItemName": "Malistaire's Chilly Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617535",
+      "ItemName": "Malistaire's Ghostly Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617556",
+      "ItemName": "Malistaire's Ghostly Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617577",
+      "ItemName": "Malistaire's Ghostly Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712830",
+      "ItemName": "Malistaire's Ghostly Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617534",
+      "ItemName": "Malistaire's Harmonic Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617555",
+      "ItemName": "Malistaire's Harmonic Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617576",
+      "ItemName": "Malistaire's Harmonic Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712829",
+      "ItemName": "Malistaire's Harmonic Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617539",
+      "ItemName": "Malistaire's Infamous Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617560",
+      "ItemName": "Malistaire's Infamous Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617581",
+      "ItemName": "Malistaire's Infamous Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712834",
+      "ItemName": "Malistaire's Infamous Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617540",
+      "ItemName": "Malistaire's Squall Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617561",
+      "ItemName": "Malistaire's Squall Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617582",
+      "ItemName": "Malistaire's Squall Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712835",
+      "ItemName": "Malistaire's Squall Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617538",
+      "ItemName": "Malistaire's Thorny Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617559",
+      "ItemName": "Malistaire's Thorny Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617580",
+      "ItemName": "Malistaire's Thorny Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712833",
+      "ItemName": "Malistaire's Thorny Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617536",
+      "ItemName": "Malistaire's Vengeance Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617557",
+      "ItemName": "Malistaire's Vengeance Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617578",
+      "ItemName": "Malistaire's Vengeance Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712831",
+      "ItemName": "Malistaires Vengeance Vestment",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

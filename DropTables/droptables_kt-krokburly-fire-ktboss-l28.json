@@ -1,0 +1,178 @@
+{
+  "Name": "KT-KrokBurly-Fire-KTBoss-L28",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4938",
+      "ItemName": "Ancient Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4945",
+      "ItemName": "Athame of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87334",
+      "ItemName": "Ceremonial Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4904",
+      "ItemName": "Champion's Decoy Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87281",
+      "ItemName": "Conjurer's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4948",
+      "ItemName": "Cryptkeeper's Shortsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38764",
+      "ItemName": "Durable Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4950",
+      "ItemName": "Flamedancer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87296",
+      "ItemName": "Garments of the Augur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77752",
+      "ItemName": "Hood of the Stronghold",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82739",
+      "ItemName": "Krok Scarab Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512120",
+      "ItemName": "Krokotopia Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39436",
+      "ItemName": "Nirini Champion's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87351",
+      "ItemName": "Nirini Champion's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82884",
+      "ItemName": "Prince Biti Nirini",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38751",
+      "ItemName": "Pyromancer's Lambent Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87270",
+      "ItemName": "Robe of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87309",
+      "ItemName": "Robes of Dormancy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77760",
+      "ItemName": "Rough-hewn Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87268",
+      "ItemName": "Rugged Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77799",
+      "ItemName": "Shoes of the Fortress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87323",
+      "ItemName": "Sorcerer's Maroon Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346484",
+      "ItemName": "Swindler Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87322",
+      "ItemName": "Threadbare Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77681",
+      "ItemName": "Torrid Champion's Cap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

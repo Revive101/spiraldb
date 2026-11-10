@@ -1,0 +1,143 @@
+{
+  "Name": "DD-DS-01-LobsterBoss-80",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160816",
+      "ItemName": "Crystal Storage Chest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160798",
+      "ItemName": "Gemcutter Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160857",
+      "ItemName": "Kraken Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473132",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473133",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473134",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473135",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473136",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473137",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160852",
+      "ItemName": "Regal Dragon Statue",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

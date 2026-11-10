@@ -1,0 +1,118 @@
+{
+  "Name": "GH-Grendel-Medium-3-GHBoss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136293",
+      "ItemName": "Adamantine Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136500",
+      "ItemName": "Band of the Bygone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136291",
+      "ItemName": "Forgebright Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136439",
+      "ItemName": "Hat of Elan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356120",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356121",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356122",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356123",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356124",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356125",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356126",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171211",
+      "ItemName": "Tidal Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136440",
+      "ItemName": "Wildblaze Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "PL-Boss-PetSnacks-Common",
+  "Description": "Mob loot table (26 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473444",
+      "ItemName": "Arctic Ninja Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589640",
+      "ItemName": "Glacier Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225453",
+      "ItemName": "Ice Bird",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317711",
+      "ItemName": "Nodori Winged Ram",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789210",
+      "ItemName": "Polar Bear Cub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653164",
+      "ItemName": "White Winter Owl",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

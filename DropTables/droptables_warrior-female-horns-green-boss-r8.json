@@ -1,0 +1,123 @@
+{
+  "Name": "Warrior-Female-Horns-Green-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160870",
+      "ItemName": "Arboreal Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146170",
+      "ItemName": "Blade of Ashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146320",
+      "ItemName": "Blazing Bonnet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104756",
+      "ItemName": "Blizzard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104679",
+      "ItemName": "Chilling Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104598",
+      "ItemName": "Coat of Impartiality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126672",
+      "ItemName": "Deck of the Devouring Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160898",
+      "ItemName": "Draconic Street Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104811",
+      "ItemName": "Footgear of Corporeality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146259",
+      "ItemName": "Herbalist's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104681",
+      "ItemName": "Ice-Drake's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104640",
+      "ItemName": "Librarian's Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146332",
+      "ItemName": "Mantle of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104846",
+      "ItemName": "Mocassins of the Gale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146230",
+      "ItemName": "Pyrelance's Downpouring Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104761",
+      "ItemName": "Pyrelance's Glacial Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126562",
+      "ItemName": "Ring of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126637",
+      "ItemName": "Ring of Truthiness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146167",
+      "ItemName": "Scaled Smallsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104822",
+      "ItemName": "Shoes of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104835",
+      "ItemName": "Vineyard Shoes",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

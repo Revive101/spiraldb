@@ -1,0 +1,438 @@
+{
+  "Name": "MR-Boss-Gear-114",
+  "Description": "Mob loot table (19 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1405079",
+      "ItemName": "Aridian Armor of Dunestorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405078",
+      "ItemName": "Aridian Armor of Numbing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405080",
+      "ItemName": "Aridian Armor of Reflection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405083",
+      "ItemName": "Aridian Armor of Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405082",
+      "ItemName": "Aridian Armor of Strife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405081",
+      "ItemName": "Aridian Armor of Thriving",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405047",
+      "ItemName": "Aridian Helm of Dunestorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405046",
+      "ItemName": "Aridian Helm of Numbing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405048",
+      "ItemName": "Aridian Helm of Reflection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405051",
+      "ItemName": "Aridian Helm of Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405050",
+      "ItemName": "Aridian Helm of Strife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405049",
+      "ItemName": "Aridian Helm of Thriving",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405077",
+      "ItemName": "Armor of the Aridian Sun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405590",
+      "ItemName": "Conscript Tabar of Ague",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405592",
+      "ItemName": "Conscript Tabar of Delusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405589",
+      "ItemName": "Conscript Tabar of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405594",
+      "ItemName": "Conscript Tabar of Fatality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405591",
+      "ItemName": "Conscript Tabar of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405595",
+      "ItemName": "Conscript Tabar of Identity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405593",
+      "ItemName": "Conscript Tabar of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405559",
+      "ItemName": "Electrified Restrictor Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405365",
+      "ItemName": "Flameforged Rubal Locket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405045",
+      "ItemName": "Helm of the Aridian Sun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405013",
+      "ItemName": "Parched Wayfarer's Galesh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405561",
+      "ItemName": "Restrictor Wand of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405560",
+      "ItemName": "Restrictor Wand of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405208",
+      "ItemName": "Rubal Babouches of Illusions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405209",
+      "ItemName": "Rubal Babouches of Renewal ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402889",
+      "ItemName": "Rubal Cards of Action ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402888",
+      "ItemName": "Rubal Cards of Formation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402887",
+      "ItemName": "Rubal Cards of Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405237",
+      "ItemName": "Rubal Janbiya of Acerbity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405238",
+      "ItemName": "Rubal Janbiya of Bitterness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405242",
+      "ItemName": "Rubal Janbiya of Carnage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405240",
+      "ItemName": "Rubal Janbiya of Illusions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405243",
+      "ItemName": "Rubal Janbiya of Loyalty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405241",
+      "ItemName": "Rubal Janbiya of Renewal ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405369",
+      "ItemName": "Rubal Locket of Action ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405370",
+      "ItemName": "Rubal Locket of Cessation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405371",
+      "ItemName": "Rubal Locket of Competence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405368",
+      "ItemName": "Rubal Locket of Formation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405366",
+      "ItemName": "Rubal Locket of Frostbite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405367",
+      "ItemName": "Rubal Locket of Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405272",
+      "ItemName": "Rubal Necklace of Illusions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405273",
+      "ItemName": "Rubal Necklace of Renewal ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405301",
+      "ItemName": "Rubal Seal of Acerbity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405302",
+      "ItemName": "Rubal Seal of Bitterness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405306",
+      "ItemName": "Rubal Seal of Carnage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405304",
+      "ItemName": "Rubal Seal of Illusions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405307",
+      "ItemName": "Rubal Seal of Loyalty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405305",
+      "ItemName": "Rubal Seal of Renewal ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405207",
+      "ItemName": "Rubal Thunder Babouches",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405239",
+      "ItemName": "Rubal Thunder Janbiya",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405271",
+      "ItemName": "Rubal Thunder Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405303",
+      "ItemName": "Seal of Rubal Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402919",
+      "ItemName": "Viper Cards of Dunestorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402918",
+      "ItemName": "Viper Cards of Numbing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402920",
+      "ItemName": "Viper Cards of Reflection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402923",
+      "ItemName": "Viper Cards of Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402922",
+      "ItemName": "Viper Cards of Strife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402917",
+      "ItemName": "Viper Cards of Sunstoke",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402921",
+      "ItemName": "Viper Cards of Thriving",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405431",
+      "ItemName": "Viper Edge of Dunestorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405430",
+      "ItemName": "Viper Edge of Numbing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405432",
+      "ItemName": "Viper Edge of Reflection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405433",
+      "ItemName": "Viper Edge of Thriving",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405495",
+      "ItemName": "Viper Ring of Dunestorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405496",
+      "ItemName": "Viper Ring of Reflection",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405497",
+      "ItemName": "Viper Ring of Thriving",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402950",
+      "ItemName": "Wayfarer's Cold Snap Fez",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405014",
+      "ItemName": "Wayfarer's Cold Snap Galesh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402982",
+      "ItemName": "Wayfarer's Cold Snap Khalat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402953",
+      "ItemName": "Wayfarer's Fez of Grit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402952",
+      "ItemName": "Wayfarer's Fez of Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405017",
+      "ItemName": "Wayfarer's Galesh of Grit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405016",
+      "ItemName": "Wayfarer's Galesh of Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405019",
+      "ItemName": "Wayfarer's Galesh of Poise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405018",
+      "ItemName": "Wayfarer's Galesh of Repine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402985",
+      "ItemName": "Wayfarer's Khalat of Grit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402984",
+      "ItemName": "Wayfarer's Khalat of Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402951",
+      "ItemName": "Wayfarer's Scirocco Fez",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405015",
+      "ItemName": "Wayfarer's Scirocco Galesh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402983",
+      "ItemName": "Wayfarer's Scirocco Khalat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405558",
+      "ItemName": "Wintery Restrictor Wand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

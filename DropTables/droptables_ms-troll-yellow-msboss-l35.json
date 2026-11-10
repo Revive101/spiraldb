@@ -1,0 +1,133 @@
+{
+  "Name": "MS-Troll-Yellow-MSBoss-L35",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97704",
+      "ItemName": "Band of Hope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98062",
+      "ItemName": "Boots of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98000",
+      "ItemName": "Concordant Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97708",
+      "ItemName": "Drifting Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97569",
+      "ItemName": "Friendly Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97950",
+      "ItemName": "Gallant Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160442",
+      "ItemName": "Green Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98025",
+      "ItemName": "Groostak's Agile Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97957",
+      "ItemName": "Groostak's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97572",
+      "ItemName": "Groostak's Mindful Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87486",
+      "ItemName": "Groostak's Prudent Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97892",
+      "ItemName": "Groostak's Steadfast Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97638",
+      "ItemName": "Headwraps of Anthems",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97590",
+      "ItemName": "Headwraps of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97617",
+      "ItemName": "Hood of Chimes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97469",
+      "ItemName": "Kris of the Pensive Ones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335018",
+      "ItemName": "MooShu Dance Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97697",
+      "ItemName": "Ring of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97472",
+      "ItemName": "Shortblade of a Daydreamer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97665",
+      "ItemName": "Sprightly Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470212",
+      "ItemName": "Tree Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160523",
+      "ItemName": "Wooden Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98051",
+      "ItemName": "Zippy Footwraps",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,158 @@
+{
+  "Name": "MB-Elite-38-43",
+  "Description": "Mob loot table (18 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97407",
+      "ItemName": "Admirable Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97088",
+      "ItemName": "Agent's Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97377",
+      "ItemName": "Bewitching Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77179",
+      "ItemName": "Cosmopolitan Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97112",
+      "ItemName": "Deck of Chivalry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97419",
+      "ItemName": "Exquisite Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97145",
+      "ItemName": "Feline's Charged Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97281",
+      "ItemName": "Feline's Invigorating Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97298",
+      "ItemName": "Feline's Somber Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97264",
+      "ItemName": "Feline's Whimsical Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39014",
+      "ItemName": "Glowing Canine Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97213",
+      "ItemName": "Jinxed Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97392",
+      "ItemName": "Magnificent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77080",
+      "ItemName": "Mechanical Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97348",
+      "ItemName": "Premium Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97417",
+      "ItemName": "Puddle Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97362",
+      "ItemName": "Remarkable Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97179",
+      "ItemName": "Shaman's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77238",
+      "ItemName": "Shoes of Preference",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97196",
+      "ItemName": "Silent Canine Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77228",
+      "ItemName": "Slippers of Predominance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97162",
+      "ItemName": "Superstitious Canine Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97326",
+      "ItemName": "Tunic of Chivalry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97315",
+      "ItemName": "Tunic of Symmetry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97248",
+      "ItemName": "Tunic of the Clever",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77156",
+      "ItemName": "Vest of Predominance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77162",
+      "ItemName": "Vestment of the Sun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39031",
+      "ItemName": "Winter Canine Cowl",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

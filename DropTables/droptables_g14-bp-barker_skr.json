@@ -1,0 +1,128 @@
+{
+  "Name": "G14-BP-Barker_SKR",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1719492",
+      "ItemName": "Balance Potbelly",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338176",
+      "ItemName": "Barkingham Blade of Blight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338174",
+      "ItemName": "Barkingham Claw of Insight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338182",
+      "ItemName": "Barkingham Dagger of Nerve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338173",
+      "ItemName": "Barkingham Dirk of Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338171",
+      "ItemName": "Barkingham Firepoker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338180",
+      "ItemName": "Barkingham Knife of Floods",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338172",
+      "ItemName": "Barkingham Palace Icepick",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338177",
+      "ItemName": "Barkingham Steel Splinter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338188",
+      "ItemName": "Claw of the Vicious Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338187",
+      "ItemName": "Dagger of Royal Countenance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338189",
+      "ItemName": "Jackall's Edge of Reality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338179",
+      "ItemName": "Palace Guard's Ice Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338191",
+      "ItemName": "Royal Athame of Duality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338181",
+      "ItemName": "Royal Bodkin of Awareness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338186",
+      "ItemName": "Royal Ceremonial Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338175",
+      "ItemName": "Royal Cutlass of Efficacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338184",
+      "ItemName": "Royal Dagger of Allegiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338185",
+      "ItemName": "Royal Palace Guard's Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338190",
+      "ItemName": "Royal Point of No Return",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338183",
+      "ItemName": "Yeoman's Athame of Decay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338178",
+      "ItemName": "Yeoman's Dagger of Sparks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "WL_Ships_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1628205",
+      "ItemName": "Bold Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628387",
+      "ItemName": "Bold Dream Warper Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628204",
+      "ItemName": "Cruel Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628386",
+      "ItemName": "Cruel Dream Warper Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628201",
+      "ItemName": "Deft Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628383",
+      "ItemName": "Deft Dream Warper Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628206",
+      "ItemName": "Fabled Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628388",
+      "ItemName": "Fabled Dream Warper Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628202",
+      "ItemName": "Fell Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628384",
+      "ItemName": "Fell Dream Warper Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628203",
+      "ItemName": "Fervid Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628385",
+      "ItemName": "Fervid Dream Warper Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628207",
+      "ItemName": "Fierce Dream Reaver Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628389",
+      "ItemName": "Fierce Dream Warper Knife",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

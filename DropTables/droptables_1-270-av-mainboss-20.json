@@ -1,0 +1,173 @@
+{
+  "Name": "1-270-AV-MainBoss-20",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653096",
+      "ItemName": "Blaze Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653100",
+      "ItemName": "Desert Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635931",
+      "ItemName": "Faerie Court Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635932",
+      "ItemName": "Faerie Court Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635940",
+      "ItemName": "Faerie Court Steel Leaf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635941",
+      "ItemName": "Faerie Court Steel Leaf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653099",
+      "ItemName": "Forest Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636045",
+      "ItemName": "Levee Breaking Lute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636046",
+      "ItemName": "Levee Breaking Lute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636054",
+      "ItemName": "Mandolin of Evermore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636055",
+      "ItemName": "Mandolin of Evermore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635922",
+      "ItemName": "Mask of the Faerie Court",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635923",
+      "ItemName": "Mask of the Faerie Court",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636036",
+      "ItemName": "Misty Mountain Mandolin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636037",
+      "ItemName": "Misty Mountain Mandolin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653097",
+      "ItemName": "Mythic Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635967",
+      "ItemName": "Pixie's Armor of Encanta",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635968",
+      "ItemName": "Pixie's Armor of Encanta",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635958",
+      "ItemName": "Pixie's Enchanted Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635959",
+      "ItemName": "Pixie's Enchanted Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635949",
+      "ItemName": "Pixie's Mask of Encanta",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635950",
+      "ItemName": "Pixie's Mask of Encanta",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653101",
+      "ItemName": "Shadow Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653098",
+      "ItemName": "Snow Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653102",
+      "ItemName": "Spark Beast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635994",
+      "ItemName": "World's Fool Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635995",
+      "ItemName": "World's Fool Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635985",
+      "ItemName": "World's Fool Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635986",
+      "ItemName": "World's Fool Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635976",
+      "ItemName": "World's Fool Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635977",
+      "ItemName": "World's Fool Mask",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

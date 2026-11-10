@@ -1,0 +1,53 @@
+{
+  "Name": "KR-Mob-04",
+  "Description": "Mob loot table (9 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203255",
+      "ItemName": "Besieged Burrower Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203136",
+      "ItemName": "Digger's Mining Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203137",
+      "ItemName": "Gloom Dancer's Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203256",
+      "ItemName": "Gorge Excavator's Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203257",
+      "ItemName": "Mantis Stalkers of Secrecy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203254",
+      "ItemName": "Mantis Warrior's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203135",
+      "ItemName": "Mouse Knight's Helmet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

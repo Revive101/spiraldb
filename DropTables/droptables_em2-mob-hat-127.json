@@ -1,0 +1,58 @@
+{
+  "Name": "EM2-Mob-Hat-127",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462178",
+      "ItemName": "Bodacious Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462173",
+      "ItemName": "Chill Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462179",
+      "ItemName": "Choice Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462174",
+      "ItemName": "Gnarly Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462177",
+      "ItemName": "Heavy Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462175",
+      "ItemName": "Mondo Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462172",
+      "ItemName": "Rad Kalamar Lid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462176",
+      "ItemName": "Righteous Kalamar Lid",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

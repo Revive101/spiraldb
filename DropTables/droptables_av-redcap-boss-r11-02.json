@@ -1,0 +1,103 @@
+{
+  "Name": "AV-Redcap-Boss-R11-02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1603043",
+      "ItemName": "Avalon House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512166",
+      "ItemName": "Avalon Tense Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512167",
+      "ItemName": "Avalon Wyrd Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635375",
+      "ItemName": "Catalan's Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635223",
+      "ItemName": "Circlet of the Hardy Squire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635625",
+      "ItemName": "Gallant Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635301",
+      "ItemName": "Hood of the Sacred Lake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635302",
+      "ItemName": "Hunter's Helm of Mercy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635376",
+      "ItemName": "Jabberwock's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635415",
+      "ItemName": "Knight's Boots of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635624",
+      "ItemName": "Longbow of Integrity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635416",
+      "ItemName": "Loyal Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635253",
+      "ItemName": "Loyal Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635252",
+      "ItemName": "Noble Hunter's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635339",
+      "ItemName": "Sir Malory's Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641568",
+      "ItemName": "Tree Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635222",
+      "ItemName": "Unknowable Torc",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

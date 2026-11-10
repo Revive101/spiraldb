@@ -1,0 +1,588 @@
+{
+  "Name": "ME1_Sylvia_A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "470083",
+      "ItemName": "Blue Fairy Wings (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317193",
+      "ItemName": "Dragon's Roost Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126985",
+      "ItemName": "Earth Walker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473338",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473339",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473340",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473341",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473342",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473343",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473344",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667274",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667275",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473324",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473325",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473326",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473327",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473328",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473329",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473330",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667272",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667273",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473331",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473332",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473333",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473334",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473335",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473336",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473337",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667276",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667277",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473367",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473368",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473369",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473370",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473371",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473372",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473373",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667220",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667221",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473296",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473297",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473298",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473299",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473300",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473301",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473302",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667262",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667263",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473282",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473283",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473284",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473285",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473286",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473287",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473288",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667260",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667261",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473289",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473290",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473291",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473292",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473293",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473294",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473295",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667264",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667265",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473353",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473354",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473355",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473356",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473357",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473358",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473359",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667216",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667217",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473317",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473318",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473319",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473320",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473321",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473322",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473323",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667268",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667269",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473303",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473304",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473305",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473306",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473307",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473308",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473309",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667266",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667267",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473310",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473311",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473312",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473313",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473314",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473315",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473316",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667270",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667271",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473360",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473361",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473362",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473363",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473364",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473365",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473366",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667218",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667219",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260120",
+      "ItemName": "Ravenwood Pogo Stick (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469787",
+      "ItemName": "White Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469788",
+      "ItemName": "Yellow Teleporter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

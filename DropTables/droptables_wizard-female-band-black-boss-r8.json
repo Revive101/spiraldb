@@ -1,0 +1,123 @@
+{
+  "Name": "Wizard-Female-Band-Black-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146320",
+      "ItemName": "Blazing Bonnet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104756",
+      "ItemName": "Blizzard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104679",
+      "ItemName": "Chilling Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104598",
+      "ItemName": "Coat of Impartiality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512133",
+      "ItemName": "Dragonspyre Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104811",
+      "ItemName": "Footgear of Corporeality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126586",
+      "ItemName": "Heartwood Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146259",
+      "ItemName": "Herbalist's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104640",
+      "ItemName": "Librarian's Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146332",
+      "ItemName": "Mantle of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160861",
+      "ItemName": "Phoenix Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126562",
+      "ItemName": "Ring of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146167",
+      "ItemName": "Scaled Smallsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126679",
+      "ItemName": "Shadowcrown's Hurricane Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126654",
+      "ItemName": "Shadowcrown's Icy Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104822",
+      "ItemName": "Shoes of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104874",
+      "ItemName": "Stormbreaker Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146176",
+      "ItemName": "Talon of the Wyrmkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160917",
+      "ItemName": "Thunder Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104835",
+      "ItemName": "Vineyard Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104715",
+      "ItemName": "Wrap of the Monsoon",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

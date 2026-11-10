@@ -1,0 +1,158 @@
+{
+  "Name": "WL_Frog_Owner_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1628331",
+      "ItemName": "Dynamic Enforcer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628324",
+      "ItemName": "Dynamic Enforcer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628541",
+      "ItemName": "Dynamic Protector's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628534",
+      "ItemName": "Dynamic Protector's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628329",
+      "ItemName": "Furious Enforcer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628322",
+      "ItemName": "Furious Enforcer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628539",
+      "ItemName": "Furious Protector's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628532",
+      "ItemName": "Furious Protector's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628327",
+      "ItemName": "Just Enforcer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628320",
+      "ItemName": "Just Enforcer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628537",
+      "ItemName": "Just Protector's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628530",
+      "ItemName": "Just Protector's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628332",
+      "ItemName": "Legendary Enforcer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628325",
+      "ItemName": "Legendary Enforcer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628542",
+      "ItemName": "Legendary Protector's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628535",
+      "ItemName": "Legendary Protector's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628328",
+      "ItemName": "Morbid Enforcer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628321",
+      "ItemName": "Morbid Enforcer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628538",
+      "ItemName": "Morbid Protector's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628531",
+      "ItemName": "Morbid Protector's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628330",
+      "ItemName": "Steely Enforcer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628323",
+      "ItemName": "Steely Enforcer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628540",
+      "ItemName": "Steely Protector's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628533",
+      "ItemName": "Steely Protector's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628333",
+      "ItemName": "Thunderous Enforcer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628326",
+      "ItemName": "Thunderous Enforcer's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628543",
+      "ItemName": "Thunderous Protector's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628536",
+      "ItemName": "Thunderous Protector's Uniform",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

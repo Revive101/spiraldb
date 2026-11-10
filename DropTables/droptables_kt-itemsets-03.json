@@ -1,0 +1,58 @@
+{
+  "Name": "KT-ItemSets-03",
+  "Description": "Mob loot table (11 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1502440",
+      "ItemName": "Krokotopian Balance Kaftan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502439",
+      "ItemName": "Krokotopian Death Kaftan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502434",
+      "ItemName": "Krokotopian Fire Kaftan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502435",
+      "ItemName": "Krokotopian Ice Kaftan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502441",
+      "ItemName": "Krokotopian Kaftan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502438",
+      "ItemName": "Krokotopian Life Kaftan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502437",
+      "ItemName": "Krokotopian Myth Kaftan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502436",
+      "ItemName": "Krokotopian Storm Kaftan",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

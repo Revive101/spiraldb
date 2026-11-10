@@ -1,0 +1,48 @@
+{
+  "Name": "FEB-LootTable-007",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126969",
+      "ItemName": "Cupig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248080",
+      "ItemName": "Lovestruck Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248079",
+      "ItemName": "Scepter of the Ardent Vow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248078",
+      "ItemName": "Spellbinder's Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126945",
+      "ItemName": "Valentine Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248077",
+      "ItemName": "Wand of Fascination",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,1658 @@
+{
+  "Name": "SKB_AV_Spectre_A",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1357199",
+      "ItemName": "Boots of Lambent's Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "440147",
+      "ItemName": "Bruin Ram (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653162",
+      "ItemName": "Charming Minstrel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357194",
+      "ItemName": "Cloak of Lambent's Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357182",
+      "ItemName": "Cowl of Lambent's Brilliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636021",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636022",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636023",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636024",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740182",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257907",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523387",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523388",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523389",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523390",
+      "ItemName": "Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663147",
+      "ItemName": "Flaming Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663168",
+      "ItemName": "Flaming Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663189",
+      "ItemName": "Flaming Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663098",
+      "ItemName": "Flaming Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663119",
+      "ItemName": "Flaming Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663140",
+      "ItemName": "Flaming Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663154",
+      "ItemName": "Flaming Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663175",
+      "ItemName": "Flaming Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663196",
+      "ItemName": "Flaming Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663084",
+      "ItemName": "Flaming Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663105",
+      "ItemName": "Flaming Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663126",
+      "ItemName": "Flaming Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663091",
+      "ItemName": "Flaming Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663112",
+      "ItemName": "Flaming Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663133",
+      "ItemName": "Flaming Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663161",
+      "ItemName": "Flaming Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663182",
+      "ItemName": "Flaming Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663203",
+      "ItemName": "Flaming Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663231",
+      "ItemName": "Flaming Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663238",
+      "ItemName": "Flaming Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663245",
+      "ItemName": "Flaming Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663210",
+      "ItemName": "Flaming Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663217",
+      "ItemName": "Flaming Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663224",
+      "ItemName": "Flaming Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635843",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635844",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635845",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635846",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740119",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302003",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523355",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523356",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523357",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523358",
+      "ItemName": "Glorious Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635834",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635835",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635836",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635837",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740095",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302002",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523347",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523348",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523349",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523350",
+      "ItemName": "Glorious Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635852",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635853",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635854",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635855",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740107",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302004",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523351",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523352",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523353",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523354",
+      "ItemName": "Glorious Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217523",
+      "ItemName": "Gold Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357183",
+      "ItemName": "Lambent's Bonnet of Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357202",
+      "ItemName": "Lambent's Boots of Afterglow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357200",
+      "ItemName": "Lambent's Boots of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357236",
+      "ItemName": "Lambent's Branch of Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357198",
+      "ItemName": "Lambent's Brilliant Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357235",
+      "ItemName": "Lambent's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357232",
+      "ItemName": "Lambent's Cane of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357189",
+      "ItemName": "Lambent's Clamorous Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357192",
+      "ItemName": "Lambent's Cloak of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357180",
+      "ItemName": "Lambent's Coldflame Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357196",
+      "ItemName": "Lambent's Coldflame Riders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357233",
+      "ItemName": "Lambent's Coldflame Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357188",
+      "ItemName": "Lambent's Coldflame Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357186",
+      "ItemName": "Lambent's Cowl of Afterglow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357181",
+      "ItemName": "Lambent's Cowl of Clamoring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357179",
+      "ItemName": "Lambent's Cowl of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357191",
+      "ItemName": "Lambent's Drape of Splendor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357185",
+      "ItemName": "Lambent's Hood of Penance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357195",
+      "ItemName": "Lambent's Radiant Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357190",
+      "ItemName": "Lambent's Robe of Brilliance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357187",
+      "ItemName": "Lambent's Robe of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357201",
+      "ItemName": "Lambent's Runners of Penance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357197",
+      "ItemName": "Lambent's Shoes of Clamoring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357184",
+      "ItemName": "Lambent's Shroud of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357239",
+      "ItemName": "Lambent's Staff of Afterglow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357234",
+      "ItemName": "Lambent's Stick of Clamoring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357237",
+      "ItemName": "Lambent's Timber of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636030",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636031",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636032",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636033",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740183",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257908",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523391",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523392",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523393",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523682",
+      "ItemName": "Longbow of Grave Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663145",
+      "ItemName": "Measured Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663166",
+      "ItemName": "Measured Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663187",
+      "ItemName": "Measured Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663096",
+      "ItemName": "Measured Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663117",
+      "ItemName": "Measured Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663138",
+      "ItemName": "Measured Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663152",
+      "ItemName": "Measured Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663173",
+      "ItemName": "Measured Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663194",
+      "ItemName": "Measured Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663082",
+      "ItemName": "Measured Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663103",
+      "ItemName": "Measured Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663124",
+      "ItemName": "Measured Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663089",
+      "ItemName": "Measured Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663110",
+      "ItemName": "Measured Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663131",
+      "ItemName": "Measured Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663159",
+      "ItemName": "Measured Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663180",
+      "ItemName": "Measured Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663201",
+      "ItemName": "Measured Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663229",
+      "ItemName": "Measured Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663236",
+      "ItemName": "Measured Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663243",
+      "ItemName": "Measured Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663208",
+      "ItemName": "Measured Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663215",
+      "ItemName": "Measured Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663222",
+      "ItemName": "Measured Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636012",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636013",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636014",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "636015",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740181",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257906",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523383",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523384",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523385",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523386",
+      "ItemName": "Mercy's Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653160",
+      "ItemName": "Mischievous Minstrel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663146",
+      "ItemName": "Night King's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663167",
+      "ItemName": "Night King's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663188",
+      "ItemName": "Night King's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663153",
+      "ItemName": "Night King's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663174",
+      "ItemName": "Night King's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663195",
+      "ItemName": "Night King's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635861",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635862",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635863",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635864",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740096",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302005",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523359",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523360",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523361",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523362",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663083",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663104",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663125",
+      "ItemName": "Night King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663209",
+      "ItemName": "Night King's Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663216",
+      "ItemName": "Night King's Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663223",
+      "ItemName": "Night King's Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635879",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635880",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635881",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635882",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740108",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302007",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523363",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523364",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523365",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523366",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663090",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663111",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663132",
+      "ItemName": "Night King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663160",
+      "ItemName": "Night King's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663181",
+      "ItemName": "Night King's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663202",
+      "ItemName": "Night King's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635870",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635871",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635872",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635873",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740120",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302006",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523367",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523368",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523369",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523370",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663097",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663118",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663139",
+      "ItemName": "Night King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663230",
+      "ItemName": "Night King's Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663237",
+      "ItemName": "Night King's Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663244",
+      "ItemName": "Night King's Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357193",
+      "ItemName": "Robe of Lambent's Penance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663212",
+      "ItemName": "Spring Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663219",
+      "ItemName": "Spring Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663226",
+      "ItemName": "Spring Darkfire Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663149",
+      "ItemName": "Spring Palace Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663170",
+      "ItemName": "Spring Palace Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663191",
+      "ItemName": "Spring Palace Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663156",
+      "ItemName": "Spring Palace Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663177",
+      "ItemName": "Spring Palace Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663198",
+      "ItemName": "Spring Palace Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663086",
+      "ItemName": "Spring Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663107",
+      "ItemName": "Spring Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663128",
+      "ItemName": "Spring Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663093",
+      "ItemName": "Spring Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663114",
+      "ItemName": "Spring Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663135",
+      "ItemName": "Spring Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663163",
+      "ItemName": "Spring Palace Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663184",
+      "ItemName": "Spring Palace Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663205",
+      "ItemName": "Spring Palace Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663100",
+      "ItemName": "Spring Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663121",
+      "ItemName": "Spring Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663142",
+      "ItemName": "Spring Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663233",
+      "ItemName": "Spring Palace Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663240",
+      "ItemName": "Spring Palace Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663247",
+      "ItemName": "Spring Palace Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663151",
+      "ItemName": "Squall King's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663172",
+      "ItemName": "Squall King's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663193",
+      "ItemName": "Squall King's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663158",
+      "ItemName": "Squall King's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663179",
+      "ItemName": "Squall King's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663200",
+      "ItemName": "Squall King's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663088",
+      "ItemName": "Squall King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663109",
+      "ItemName": "Squall King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663130",
+      "ItemName": "Squall King's Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663095",
+      "ItemName": "Squall King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663116",
+      "ItemName": "Squall King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663137",
+      "ItemName": "Squall King's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663165",
+      "ItemName": "Squall King's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663186",
+      "ItemName": "Squall King's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663207",
+      "ItemName": "Squall King's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663102",
+      "ItemName": "Squall King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663123",
+      "ItemName": "Squall King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663144",
+      "ItemName": "Squall King's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663235",
+      "ItemName": "Squall King's Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663242",
+      "ItemName": "Squall King's Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663249",
+      "ItemName": "Squall King's Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663214",
+      "ItemName": "Squall Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663221",
+      "ItemName": "Squall Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663228",
+      "ItemName": "Squall Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1357238",
+      "ItemName": "Staff of Lambent's Penance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663150",
+      "ItemName": "Summer Palace Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663171",
+      "ItemName": "Summer Palace Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663192",
+      "ItemName": "Summer Palace Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663157",
+      "ItemName": "Summer Palace Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663178",
+      "ItemName": "Summer Palace Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663199",
+      "ItemName": "Summer Palace Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635888",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635889",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635890",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635891",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740097",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302008",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523371",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523372",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523373",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523374",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663087",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663108",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663129",
+      "ItemName": "Summer Palace Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635906",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635907",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635908",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635909",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740109",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302010",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523375",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523376",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523377",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523378",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663094",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663115",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663136",
+      "ItemName": "Summer Palace Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663164",
+      "ItemName": "Summer Palace Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663185",
+      "ItemName": "Summer Palace Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663206",
+      "ItemName": "Summer Palace Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635897",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635898",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635899",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635900",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740121",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302009",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523379",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523380",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523381",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1523382",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663101",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663122",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663143",
+      "ItemName": "Summer Palace Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663234",
+      "ItemName": "Summer Palace Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663241",
+      "ItemName": "Summer Palace Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663248",
+      "ItemName": "Summer Palace Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663213",
+      "ItemName": "Summer Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663220",
+      "ItemName": "Summer Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663227",
+      "ItemName": "Summer Trueflight Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "284071",
+      "ItemName": "Swift Gryphon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663148",
+      "ItemName": "Unwavering Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663169",
+      "ItemName": "Unwavering Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663190",
+      "ItemName": "Unwavering Chivalric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663099",
+      "ItemName": "Unwavering Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663120",
+      "ItemName": "Unwavering Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663141",
+      "ItemName": "Unwavering Chivalric Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663155",
+      "ItemName": "Unwavering Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663176",
+      "ItemName": "Unwavering Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663197",
+      "ItemName": "Unwavering Chivalric Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663085",
+      "ItemName": "Unwavering Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663106",
+      "ItemName": "Unwavering Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663127",
+      "ItemName": "Unwavering Chivalric Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663092",
+      "ItemName": "Unwavering Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663113",
+      "ItemName": "Unwavering Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663134",
+      "ItemName": "Unwavering Chivalric Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663162",
+      "ItemName": "Unwavering Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663183",
+      "ItemName": "Unwavering Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663204",
+      "ItemName": "Unwavering Chivalric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663232",
+      "ItemName": "Unwavering Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663239",
+      "ItemName": "Unwavering Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663246",
+      "ItemName": "Unwavering Chivalric Tome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663211",
+      "ItemName": "Unwavering Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663218",
+      "ItemName": "Unwavering Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1663225",
+      "ItemName": "Unwavering Longbow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653161",
+      "ItemName": "Wayward Minstrel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653163",
+      "ItemName": "Weasel Minstrel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470360",
+      "ItemName": "White Stag (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

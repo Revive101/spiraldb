@@ -1,0 +1,138 @@
+{
+  "Name": "KM-Boss-Rings-140",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1515157",
+      "ItemName": "Guten Artisan Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515161",
+      "ItemName": "Guten Candymancer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515160",
+      "ItemName": "Guten Dreamsearcher Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515154",
+      "ItemName": "Guten Freshbaker Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515156",
+      "ItemName": "Guten Sciencer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515159",
+      "ItemName": "Guten Sentamentalist Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515158",
+      "ItemName": "Guten Sweetsmith Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515155",
+      "ItemName": "Guten Wonderneer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515205",
+      "ItemName": "Uber Artisan Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515209",
+      "ItemName": "Uber Candymancer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515208",
+      "ItemName": "Uber Dreamsearcher Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515202",
+      "ItemName": "Uber Freshbaker Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515204",
+      "ItemName": "Uber Sciencer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515207",
+      "ItemName": "Uber Sentamentalist Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515206",
+      "ItemName": "Uber Sweetsmith Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515203",
+      "ItemName": "Uber Wonderneer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515181",
+      "ItemName": "Wunderbar Artisan Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515185",
+      "ItemName": "Wunderbar Candymancer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515184",
+      "ItemName": "Wunderbar Dreamsearcher Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515178",
+      "ItemName": "Wunderbar Freshbaker Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515180",
+      "ItemName": "Wunderbar Sciencer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515183",
+      "ItemName": "Wunderbar Sentamentalist Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515182",
+      "ItemName": "Wunderbar Sweetsmith Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515179",
+      "ItemName": "Wunderbar Wonderneer Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

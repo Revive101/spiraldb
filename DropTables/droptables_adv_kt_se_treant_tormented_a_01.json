@@ -1,0 +1,158 @@
+{
+  "Name": "Adv_KT_SE_Treant_Tormented_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1673549",
+      "ItemName": "Avatar's Amulet of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673545",
+      "ItemName": "Avatar's Amulet of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673544",
+      "ItemName": "Avatar's Amulet of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673548",
+      "ItemName": "Avatar's Amulet of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673547",
+      "ItemName": "Avatar's Amulet of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673550",
+      "ItemName": "Avatar's Amulet of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673546",
+      "ItemName": "Avatar's Amulet of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673598",
+      "ItemName": "Avatar's Chakram of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673594",
+      "ItemName": "Avatar's Chakram of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673593",
+      "ItemName": "Avatar's Chakram of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673597",
+      "ItemName": "Avatar's Chakram of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673596",
+      "ItemName": "Avatar's Chakram of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673599",
+      "ItemName": "Avatar's Chakram of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673595",
+      "ItemName": "Avatar's Chakram of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673621",
+      "ItemName": "Manifest Amulet of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673617",
+      "ItemName": "Manifest Amulet of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673616",
+      "ItemName": "Manifest Amulet of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673620",
+      "ItemName": "Manifest Amulet of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673619",
+      "ItemName": "Manifest Amulet of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673622",
+      "ItemName": "Manifest Amulet of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673618",
+      "ItemName": "Manifest Amulet of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673663",
+      "ItemName": "Manifest Chakram of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673659",
+      "ItemName": "Manifest Chakram of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673658",
+      "ItemName": "Manifest Chakram of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673662",
+      "ItemName": "Manifest Chakram of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673661",
+      "ItemName": "Manifest Chakram of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673664",
+      "ItemName": "Manifest Chakram of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673660",
+      "ItemName": "Manifest Chakram of Wrath",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,108 @@
+{
+  "Name": "MB-Cat-Thug-Teal-MBBoss-L33",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97386",
+      "ItemName": "Boots of the Supreme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97218",
+      "ItemName": "Cap of the Black Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39049",
+      "ItemName": "Cat Burglar's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160692",
+      "ItemName": "Crate of Vegetables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77250",
+      "ItemName": "Dandy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97133",
+      "ItemName": "Deck of the Black Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97160",
+      "ItemName": "Feline Hat of Whimsy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77229",
+      "ItemName": "Finely Finished Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97378",
+      "ItemName": "Footwraps of Superiority",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97211",
+      "ItemName": "Helm of Stasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160668",
+      "ItemName": "Ironwork Trash Can",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77075",
+      "ItemName": "Tarnished Noble's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97150",
+      "ItemName": "Thinker's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77157",
+      "ItemName": "Tunic of Incineration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97310",
+      "ItemName": "Vestment of Stasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97259",
+      "ItemName": "Vestment of Tragedy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39012",
+      "ItemName": "Visor of the Beacon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97111",
+      "ItemName": "Watchman's Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

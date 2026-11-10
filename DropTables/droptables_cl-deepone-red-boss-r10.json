@@ -1,0 +1,108 @@
+{
+  "Name": "CL-DeepOne-Red-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512140",
+      "ItemName": "Celestia Stormriven Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243211",
+      "ItemName": "Claw of the Law",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243668",
+      "ItemName": "Cloak of Creation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243934",
+      "ItemName": "Cursed Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243816",
+      "ItemName": "Euphoric Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243727",
+      "ItemName": "Law Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243569",
+      "ItemName": "Marcio's Snowfall Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342145",
+      "ItemName": "Marleybonian Driller",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243892",
+      "ItemName": "Orthrus' Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243466",
+      "ItemName": "Outfit of Accord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243443",
+      "ItemName": "Pandemonium Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243522",
+      "ItemName": "Ring of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243945",
+      "ItemName": "Rod of Rapture",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243268",
+      "ItemName": "Seraph's Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "316094",
+      "ItemName": "Spinyfish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243948",
+      "ItemName": "Staff of Legends",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243887",
+      "ItemName": "Vial of Rebirth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243325",
+      "ItemName": "Wicked Mantle",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

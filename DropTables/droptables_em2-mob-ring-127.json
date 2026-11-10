@@ -1,0 +1,58 @@
+{
+  "Name": "EM2-Mob-Ring-127",
+  "Description": "Mob loot table (8 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462290",
+      "ItemName": "Bodacious Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462285",
+      "ItemName": "Chill Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462291",
+      "ItemName": "Choice Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462286",
+      "ItemName": "Gnarly Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462289",
+      "ItemName": "Heavy Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462287",
+      "ItemName": "Mondo Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462284",
+      "ItemName": "Rad Kalamar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462288",
+      "ItemName": "Righteous Kalamar Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

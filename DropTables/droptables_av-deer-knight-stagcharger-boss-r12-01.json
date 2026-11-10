@@ -1,0 +1,103 @@
+{
+  "Name": "AV-Deer-Knight-StagCharger-Boss-R12-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512163",
+      "ItemName": "Avalon Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512164",
+      "ItemName": "Avalon Glorious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635632",
+      "ItemName": "Blade of Mettle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635310",
+      "ItemName": "Chaos Lord's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635341",
+      "ItemName": "Crystal Cave Rose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635424",
+      "ItemName": "Deep Is The Well Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470453",
+      "ItemName": "Flat Globe of Avalon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635261",
+      "ItemName": "Guest Right Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635311",
+      "ItemName": "Helm of the Lady's Chosen One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635385",
+      "ItemName": "High Court Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589091",
+      "ItemName": "Hollow Knight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635386",
+      "ItemName": "Horned One's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635423",
+      "ItemName": "Hundred Year Bridge Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635262",
+      "ItemName": "Inhospitable Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635231",
+      "ItemName": "Knight's Torc of Virtue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635230",
+      "ItemName": "Seely Wizard's Torc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635633",
+      "ItemName": "Steel-Bladed Doom",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

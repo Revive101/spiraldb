@@ -1,0 +1,143 @@
+{
+  "Name": "Wizard-Male-Spikey-Gold-Boss-R9",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225405",
+      "ItemName": "Boss Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104679",
+      "ItemName": "Chilling Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146177",
+      "ItemName": "Claw of Conciliation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104598",
+      "ItemName": "Coat of Impartiality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146193",
+      "ItemName": "Darkflame's Thunderblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146322",
+      "ItemName": "Dean Darkflame's Fiery Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126583",
+      "ItemName": "Dean Darkflame's Legacy Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104637",
+      "ItemName": "Dean Darkflame's Robe of Ruin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104876",
+      "ItemName": "Dean Darkflame's Stormstriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126979",
+      "ItemName": "Death Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160865",
+      "ItemName": "Dragonmoon Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512132",
+      "ItemName": "Dragonspyre Theme 4",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146250",
+      "ItemName": "Hat of the Endless",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146259",
+      "ItemName": "Herbalist's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146364",
+      "ItemName": "Mantle of Order",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146332",
+      "ItemName": "Mantle of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225410",
+      "ItemName": "Pale Maiden",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82911",
+      "ItemName": "Pilloried Skeleton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126562",
+      "ItemName": "Ring of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146167",
+      "ItemName": "Scaled Smallsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126615",
+      "ItemName": "Seal of the Gallium Paladin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104822",
+      "ItemName": "Shoes of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126605",
+      "ItemName": "Signet of the Chimera",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104643",
+      "ItemName": "Tunic of Tradition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104611",
+      "ItemName": "Vestment of the Inferno",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,53 @@
+{
+  "Name": "FEB-LootTable-002",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126953",
+      "ItemName": "Baton of Friendship",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126969",
+      "ItemName": "Cupig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126952",
+      "ItemName": "Rod of Regard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126951",
+      "ItemName": "Ruby Heartwand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126955",
+      "ItemName": "Scepter of Devotion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126954",
+      "ItemName": "Staff of Commitment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126945",
+      "ItemName": "Valentine Pig",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

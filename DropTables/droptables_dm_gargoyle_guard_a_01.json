@@ -1,0 +1,158 @@
+{
+  "Name": "DM_Gargoyle_Guard_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1712451",
+      "ItemName": "Broken Branch Loss Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712479",
+      "ItemName": "Broken Branch Loss Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712446",
+      "ItemName": "Broken Branch Luckless Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712474",
+      "ItemName": "Broken Branch Luckless Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712450",
+      "ItemName": "Broken Branch Neglect Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712478",
+      "ItemName": "Broken Branch Neglect Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712452",
+      "ItemName": "Broken Branch Panic Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712480",
+      "ItemName": "Broken Branch Panic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712448",
+      "ItemName": "Broken Branch Rage Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712476",
+      "ItemName": "Broken Branch Rage Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712449",
+      "ItemName": "Broken Branch Sorrow Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712477",
+      "ItemName": "Broken Branch Sorrow Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712447",
+      "ItemName": "Broken Branch Terror Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712475",
+      "ItemName": "Broken Branch Terror Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707908",
+      "ItemName": "Cards of False Promises",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707905",
+      "ItemName": "Cards of the Burnt Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707909",
+      "ItemName": "Cards of the Changing Tide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707906",
+      "ItemName": "Cards of the Coldhearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707904",
+      "ItemName": "Cards of the Doomed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707907",
+      "ItemName": "Cards of the Living Lie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707903",
+      "ItemName": "Cards of the Turning Wheel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707810",
+      "ItemName": "Mask of False Promises",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707807",
+      "ItemName": "Mask of the Burnt Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707811",
+      "ItemName": "Mask of the Changing Tide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707808",
+      "ItemName": "Mask of the Coldhearted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707806",
+      "ItemName": "Mask of the Doomed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707809",
+      "ItemName": "Mask of the Living Lie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707805",
+      "ItemName": "Mask of the Turning Wheel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

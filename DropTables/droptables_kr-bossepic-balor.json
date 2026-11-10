@@ -1,0 +1,238 @@
+{
+  "Name": "KR-BossEpic-Balor",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203229",
+      "ItemName": "Armor of the QuietBlade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203230",
+      "ItemName": "Burrower Robe of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203656",
+      "ItemName": "Deck of Sinister Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358867",
+      "ItemName": "Deck of Sinister Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358881",
+      "ItemName": "Deck of Sinister Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203654",
+      "ItemName": "Deck of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358865",
+      "ItemName": "Deck of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358879",
+      "ItemName": "Deck of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203277",
+      "ItemName": "Digger Lieutenant's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248255",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248256",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248257",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248258",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248259",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248260",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248261",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203185",
+      "ItemName": "Ghost Dog's Samoorai Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203179",
+      "ItemName": "Gloom Dancer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212035",
+      "ItemName": "Khrysalis Boris Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212027",
+      "ItemName": "Khrysalis Sardonyx Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212029",
+      "ItemName": "Khrysalis Starfall Sea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203393",
+      "ItemName": "King Alric's Royal Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203389",
+      "ItemName": "Stinger's Razor of Fortune",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

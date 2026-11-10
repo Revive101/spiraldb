@@ -1,0 +1,73 @@
+{
+  "Name": "CL-DeepOne-Green-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243263",
+      "ItemName": "Blade of Bloom ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243623",
+      "ItemName": "Fire-Forged Flame Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243748",
+      "ItemName": "Forgotten Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243597",
+      "ItemName": "Forgotten Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243429",
+      "ItemName": "Jolted Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243729",
+      "ItemName": "Kindred Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243238",
+      "ItemName": "Longevity Twin Blades",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243511",
+      "ItemName": "Seal of the Steadfast",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243372",
+      "ItemName": "Shivering Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243571",
+      "ItemName": "Tangleroot's Blooming Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342125",
+      "ItemName": "Water-Mole Statue",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

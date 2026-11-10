@@ -1,0 +1,153 @@
+{
+  "Name": "WC-CA-Drains-Boss-06",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489454",
+      "ItemName": "Dragonspyre Soldier Cleaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489398",
+      "ItemName": "Dragonspyre Soldier's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489462",
+      "ItemName": "Dragonspyre Vanguard Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489422",
+      "ItemName": "Dragonspyre Vanguard's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489397",
+      "ItemName": "Soldier's Balanced Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489452",
+      "ItemName": "Soldier's Deadly Longsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489396",
+      "ItemName": "Soldier's Deadly Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489391",
+      "ItemName": "Soldier's Fiery Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489448",
+      "ItemName": "Soldier's Icy Battle Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489392",
+      "ItemName": "Soldier's Icy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489394",
+      "ItemName": "Soldier's Mythic Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489393",
+      "ItemName": "Soldier's Shocking Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489395",
+      "ItemName": "Soldier's Vibrant Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489421",
+      "ItemName": "Vanguard's Balanced Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489461",
+      "ItemName": "Vanguard's Balanced Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489420",
+      "ItemName": "Vanguard's Deadly Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489460",
+      "ItemName": "Vanguard's Deadly Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489415",
+      "ItemName": "Vanguard's Fiery Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489455",
+      "ItemName": "Vanguard's Fiery Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489416",
+      "ItemName": "Vanguard's Icy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489456",
+      "ItemName": "Vanguard's Icy Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489418",
+      "ItemName": "Vanguard's Mythic Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489458",
+      "ItemName": "Vanguard's Mythic Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489417",
+      "ItemName": "Vanguard's Shocking Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489457",
+      "ItemName": "Vanguard's Shocking Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489419",
+      "ItemName": "Vanguard's Vibrant Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489459",
+      "ItemName": "Vanguard's Vibrant Sword",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

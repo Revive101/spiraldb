@@ -1,0 +1,298 @@
+{
+  "Name": "WL_Nightmare_Malus_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1628156",
+      "ItemName": "Bold Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628191",
+      "ItemName": "Bold Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628163",
+      "ItemName": "Bold Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628149",
+      "ItemName": "Bold Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628345",
+      "ItemName": "Bold Dream Warper Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628457",
+      "ItemName": "Bold Dream Warper Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628352",
+      "ItemName": "Bold Dream Warper Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628338",
+      "ItemName": "Bold Dream Warper Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628155",
+      "ItemName": "Cruel Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628190",
+      "ItemName": "Cruel Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628162",
+      "ItemName": "Cruel Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628148",
+      "ItemName": "Cruel Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628344",
+      "ItemName": "Cruel Dream Warper Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628456",
+      "ItemName": "Cruel Dream Warper Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628351",
+      "ItemName": "Cruel Dream Warper Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628337",
+      "ItemName": "Cruel Dream Warper Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628152",
+      "ItemName": "Deft Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628187",
+      "ItemName": "Deft Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628159",
+      "ItemName": "Deft Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628145",
+      "ItemName": "Deft Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628341",
+      "ItemName": "Deft Dream Warper Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628453",
+      "ItemName": "Deft Dream Warper Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628348",
+      "ItemName": "Deft Dream Warper Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628334",
+      "ItemName": "Deft Dream Warper Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628157",
+      "ItemName": "Fabled Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628192",
+      "ItemName": "Fabled Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628164",
+      "ItemName": "Fabled Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628150",
+      "ItemName": "Fabled Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628346",
+      "ItemName": "Fabled Dream Warper Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628458",
+      "ItemName": "Fabled Dream Warper Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628353",
+      "ItemName": "Fabled Dream Warper Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628339",
+      "ItemName": "Fabled Dream Warper Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628153",
+      "ItemName": "Fell Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628188",
+      "ItemName": "Fell Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628160",
+      "ItemName": "Fell Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628146",
+      "ItemName": "Fell Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628342",
+      "ItemName": "Fell Dream Warper Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628454",
+      "ItemName": "Fell Dream Warper Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628349",
+      "ItemName": "Fell Dream Warper Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628335",
+      "ItemName": "Fell Dream Warper Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628154",
+      "ItemName": "Fervid Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628189",
+      "ItemName": "Fervid Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628161",
+      "ItemName": "Fervid Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628147",
+      "ItemName": "Fervid Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628343",
+      "ItemName": "Fervid Dream Warper Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628455",
+      "ItemName": "Fervid Dream Warper Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628350",
+      "ItemName": "Fervid Dream Warper Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628336",
+      "ItemName": "Fervid Dream Warper Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628158",
+      "ItemName": "Fierce Dream Reaver Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628193",
+      "ItemName": "Fierce Dream Reaver Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628165",
+      "ItemName": "Fierce Dream Reaver Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628151",
+      "ItemName": "Fierce Dream Reaver Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628347",
+      "ItemName": "Fierce Dream Warper Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628459",
+      "ItemName": "Fierce Dream Warper Boomerang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628354",
+      "ItemName": "Fierce Dream Warper Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628340",
+      "ItemName": "Fierce Dream Warper Hood",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

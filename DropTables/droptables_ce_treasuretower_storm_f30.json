@@ -1,0 +1,358 @@
+{
+  "Name": "CE_TreasureTower_Storm_F30",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1414465",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414466",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414467",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414468",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414469",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414470",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414471",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414472",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414473",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414474",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414475",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414476",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414477",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414478",
+      "ItemName": "Balestrom's Blast Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254227",
+      "ItemName": "Cast Symbol Storm (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254228",
+      "ItemName": "Cast Symbol Storm (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160293",
+      "ItemName": "Crate of Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374487",
+      "ItemName": "Fishy Bird Cage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414451",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414452",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414453",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414454",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414455",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414456",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414457",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414458",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414459",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414460",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414461",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414462",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414463",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414464",
+      "ItemName": "Halston's Eureka Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414479",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414480",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414481",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414482",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414483",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414484",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414485",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414486",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414487",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414488",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414489",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414490",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414491",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414492",
+      "ItemName": "Halston's Stormy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414689",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414690",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414691",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414692",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414693",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414694",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414695",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414696",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414697",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414698",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414699",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414700",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414701",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414702",
+      "ItemName": "Headmaster's Sky Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160229",
+      "ItemName": "Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160983",
+      "ItemName": "Portrait of Lydia Greyrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160982",
+      "ItemName": "Professor Ambrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160399",
+      "ItemName": "Professor Balestrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160395",
+      "ItemName": "Professor Falmea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374549",
+      "ItemName": "Ravenwood Librarian's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160208",
+      "ItemName": "Stack of 3 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164419",
+      "ItemName": "Theater Masks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

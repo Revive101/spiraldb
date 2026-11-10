@@ -1,0 +1,303 @@
+{
+  "Name": "SKB_WY_DarkBramble_A_150",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350762",
+      "ItemName": "Cornflower Wysterian Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683120",
+      "ItemName": "Dragonship Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350754",
+      "ItemName": "Elephantine Ottoman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683119",
+      "ItemName": "Estate Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447026",
+      "ItemName": "Fantastic Unicorn (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350751",
+      "ItemName": "Filigreed Wysterian Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217523",
+      "ItemName": "Gold Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350763",
+      "ItemName": "Golden Blossom Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254254",
+      "ItemName": "Greenman Sapling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514440",
+      "ItemName": "Legendary Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1447023",
+      "ItemName": "Mystic Unicorn (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317673",
+      "ItemName": "Ninja Piggle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257611",
+      "ItemName": "Pegasus Pony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317197",
+      "ItemName": "Pigswick Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359101",
+      "ItemName": "Pigswick Student's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350752",
+      "ItemName": "Pigswick Student's Seat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683118",
+      "ItemName": "Proud Pegasus Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350760",
+      "ItemName": "Short Wysterian Potted Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683121",
+      "ItemName": "Small Wooden Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683117",
+      "ItemName": "Spiral Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350755",
+      "ItemName": "Splendid Wysterian Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350756",
+      "ItemName": "Stately Wysterian Wooden Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350758",
+      "ItemName": "Tall Wysterian Potted Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512153",
+      "ItemName": "Wysteria Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317848",
+      "ItemName": "Wysteria Cupboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512093",
+      "ItemName": "Wysteria Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512151",
+      "ItemName": "Wysteria Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512152",
+      "ItemName": "Wysteria Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317847",
+      "ItemName": "Wysteria Throw Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317849",
+      "ItemName": "Wysteria Towel Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418375",
+      "ItemName": "Wysteria Warrior's Armet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418376",
+      "ItemName": "Wysteria Warrior's Armet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418473",
+      "ItemName": "Wysteria Warrior's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418474",
+      "ItemName": "Wysteria Warrior's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418403",
+      "ItemName": "Wysteria Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418404",
+      "ItemName": "Wysteria Warrior's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418515",
+      "ItemName": "Wysteria Warrior's Broadsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418516",
+      "ItemName": "Wysteria Warrior's Broadsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418501",
+      "ItemName": "Wysteria Warrior's Claymore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418502",
+      "ItemName": "Wysteria Warrior's Claymore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418431",
+      "ItemName": "Wysteria Warrior's Cuirass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418432",
+      "ItemName": "Wysteria Warrior's Cuirass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418417",
+      "ItemName": "Wysteria Warrior's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418418",
+      "ItemName": "Wysteria Warrior's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418529",
+      "ItemName": "Wysteria Warrior's Longsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418530",
+      "ItemName": "Wysteria Warrior's Longsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418389",
+      "ItemName": "Wysteria Warrior's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418390",
+      "ItemName": "Wysteria Warrior's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418445",
+      "ItemName": "Wysteria Warrior's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418446",
+      "ItemName": "Wysteria Warrior's Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418487",
+      "ItemName": "Wysteria Warrior's Sollerets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418488",
+      "ItemName": "Wysteria Warrior's Sollerets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418459",
+      "ItemName": "Wysteria Warrior's Warhelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1418460",
+      "ItemName": "Wysteria Warrior's Warhelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350753",
+      "ItemName": "Wysterian Artist's Easel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

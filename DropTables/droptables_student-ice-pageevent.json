@@ -1,0 +1,218 @@
+{
+  "Name": "Student-Ice-PageEvent",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "470085",
+      "ItemName": "Blue Dragon (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470081",
+      "ItemName": "Bone Dragon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470086",
+      "ItemName": "Dark Redwing (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160843",
+      "ItemName": "Dragonclaw Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160824",
+      "ItemName": "Dragonhorn Trophy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160837",
+      "ItemName": "Dragonmoon Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468416",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468417",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468418",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468423",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468424",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468425",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468430",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468431",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468432",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468438",
+      "ItemName": "Dragonrider's Fire Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468437",
+      "ItemName": "Dragonrider's Storm Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468409",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468410",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468411",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468395",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468396",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468397",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468402",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468403",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468404",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468388",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468389",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468390",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468374",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468375",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468376",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468381",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468382",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468383",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160915",
+      "ItemName": "Dragonskull Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470084",
+      "ItemName": "Faithful Dragoness (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "175580",
+      "ItemName": "Sea Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160977",
+      "ItemName": "Snapdragon Flowerbed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160981",
+      "ItemName": "Snapdragons",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

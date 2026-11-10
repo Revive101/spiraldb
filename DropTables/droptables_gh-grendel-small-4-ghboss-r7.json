@@ -1,0 +1,118 @@
+{
+  "Name": "GH-Grendel-Small-4-GHBoss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136438",
+      "ItemName": "Cowl of the Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136437",
+      "ItemName": "Headdress of Fancy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136294",
+      "ItemName": "Hepatizon Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356120",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356121",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356122",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356123",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356124",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356125",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356126",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136502",
+      "ItemName": "Sigil of the Return",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136501",
+      "ItemName": "Signet Stone of Fate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171212",
+      "ItemName": "Slippers of Essence",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

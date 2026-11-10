@@ -1,0 +1,108 @@
+{
+  "Name": "RH-Boss-Tyrfing-20",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "532420",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532421",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532460",
+      "ItemName": "Boots of Whispered Flight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532461",
+      "ItemName": "Boots of Whispered Flight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100409",
+      "ItemName": "Frost Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532504",
+      "ItemName": "Great Axe of the Storyteller",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532505",
+      "ItemName": "Great Axe of the Storyteller",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225433",
+      "ItemName": "Icebat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532404",
+      "ItemName": "Raven Helm of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532405",
+      "ItemName": "Raven Helm of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532468",
+      "ItemName": "Ravenking's Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532469",
+      "ItemName": "Ravenking's Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532452",
+      "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532453",
+      "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532412",
+      "ItemName": "Unkind Winter Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532413",
+      "ItemName": "Unkind Winter Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532528",
+      "ItemName": "Winter's Whispering Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532529",
+      "ItemName": "Winter's Whispering Axe",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,268 @@
+{
+  "Name": "KT-Level-17",
+  "Description": "Mob loot table (17 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77784",
+      "ItemName": "Ancient Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5026",
+      "ItemName": "Band of the Mirage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77756",
+      "ItemName": "Boots of Imagination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77798",
+      "ItemName": "Boots of the Citadel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39426",
+      "ItemName": "Boots of the Cyclone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77688",
+      "ItemName": "Cap of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87291",
+      "ItemName": "Cloak of Refuge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77708",
+      "ItemName": "Conjurer's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77775",
+      "ItemName": "Cryptkeeper's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39433",
+      "ItemName": "Crystalline Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4954",
+      "ItemName": "Dagger of Solitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4941",
+      "ItemName": "Dirk of the Wasteland",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77689",
+      "ItemName": "Durable Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82747",
+      "ItemName": "Floor Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38761",
+      "ItemName": "Glacial Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77740",
+      "ItemName": "Helm of the Bastion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77699",
+      "ItemName": "Helm of the Cyclone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82767",
+      "ItemName": "Krok Sun Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77739",
+      "ItemName": "Mask of Proportions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87308",
+      "ItemName": "Necromancer's Ivory Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4942",
+      "ItemName": "Parched Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4958",
+      "ItemName": "Powerful Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82722",
+      "ItemName": "Purple Painted Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77800",
+      "ItemName": "Quartermaster's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87331",
+      "ItemName": "Raiment of the Badlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5027",
+      "ItemName": "Ring of the Badlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87317",
+      "ItemName": "Robe of Talent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87278",
+      "ItemName": "Runed Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77765",
+      "ItemName": "Shoes of Adaptation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77797",
+      "ItemName": "Shoes of Annihilation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5016",
+      "ItemName": "Sparkling Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87333",
+      "ItemName": "Sphinx's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38748",
+      "ItemName": "Tunic of Energy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87304",
+      "ItemName": "Tunic of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87266",
+      "ItemName": "Tunic of the Whirlwind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4955",
+      "ItemName": "Whirlwind Dagger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

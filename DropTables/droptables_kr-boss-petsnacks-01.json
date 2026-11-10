@@ -1,0 +1,88 @@
+{
+  "Name": "KR-Boss-PetSnacks-01",
+  "Description": "Mob loot table (18 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248248",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248249",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248250",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248251",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248252",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248253",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248254",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

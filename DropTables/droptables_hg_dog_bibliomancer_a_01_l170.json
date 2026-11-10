@@ -1,0 +1,193 @@
+{
+  "Name": "HG_Dog_Bibliomancer_A_01_L170",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1653286",
+      "ItemName": "Astute Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654162",
+      "ItemName": "Astute Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654176",
+      "ItemName": "Astute Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654169",
+      "ItemName": "Astute Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653287",
+      "ItemName": "Baleful Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654163",
+      "ItemName": "Baleful Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654177",
+      "ItemName": "Baleful Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654170",
+      "ItemName": "Baleful Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160203",
+      "ItemName": "Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160273",
+      "ItemName": "Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160272",
+      "ItemName": "Carved Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653289",
+      "ItemName": "Chilling Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654165",
+      "ItemName": "Chilling Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654179",
+      "ItemName": "Chilling Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654172",
+      "ItemName": "Chilling Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653291",
+      "ItemName": "Epic Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654167",
+      "ItemName": "Epic Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654181",
+      "ItemName": "Epic Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654174",
+      "ItemName": "Epic Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653292",
+      "ItemName": "Fraught Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654168",
+      "ItemName": "Fraught Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654182",
+      "ItemName": "Fraught Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654175",
+      "ItemName": "Fraught Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653288",
+      "ItemName": "Illuminated Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654164",
+      "ItemName": "Illuminated Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654178",
+      "ItemName": "Illuminated Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654171",
+      "ItemName": "Illuminated Plot Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160202",
+      "ItemName": "Lectern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160216",
+      "ItemName": "Pen and Ink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359133",
+      "ItemName": "Regent's Library Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160636",
+      "ItemName": "Stone Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653290",
+      "ItemName": "Vibrant Archival Quill",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654166",
+      "ItemName": "Vibrant Hardback Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654180",
+      "ItemName": "Vibrant Page Treaders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654173",
+      "ItemName": "Vibrant Plot Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

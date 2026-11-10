@@ -1,0 +1,243 @@
+{
+  "Name": "AZ-BossRare-Huracan-R13",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512208",
+      "ItemName": "Azteca Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512211",
+      "ItemName": "Azteca Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730427",
+      "ItemName": "Case of the Worldtree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730195",
+      "ItemName": "Courage Charm of Jade Wings",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730282",
+      "ItemName": "Five Flowers Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730455",
+      "ItemName": "Green Maize Quintessence Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730352",
+      "ItemName": "Ice Age Tyrant's Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730208",
+      "ItemName": "Last Axantho Carved Shell",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739226",
+      "ItemName": "Parasaur Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739196",
+      "ItemName": "Quetzal Straw Nest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730198",
+      "ItemName": "Rising Sun Head Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730355",
+      "ItemName": "Smoking Obsidian Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730446",
+      "ItemName": "Storm Quetzal's Charged Mace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730418",
+      "ItemName": "Storm Sun Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739138",
+      "ItemName": "Sun Dino Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730276",
+      "ItemName": "White Fire Chac's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

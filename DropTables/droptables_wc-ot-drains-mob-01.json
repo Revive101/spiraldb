@@ -1,0 +1,278 @@
+{
+  "Name": "WC-OT-Drains-Mob-01",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4805",
+      "ItemName": "Adventurer's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4861",
+      "ItemName": "Boots of the Adverse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4804",
+      "ItemName": "Canvas Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87202",
+      "ItemName": "Chillcloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87224",
+      "ItemName": "Cloak of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87185",
+      "ItemName": "Cloak of Foresight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4803",
+      "ItemName": "Explorer Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87262",
+      "ItemName": "Fairy Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4806",
+      "ItemName": "Fairy Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77565",
+      "ItemName": "Firestorm Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4831",
+      "ItemName": "Firestorm Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4757",
+      "ItemName": "Flawed Opal Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4773",
+      "ItemName": "Flawed Pearl Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4877",
+      "ItemName": "Hardened Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77595",
+      "ItemName": "Healer's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77609",
+      "ItemName": "Helm of Stability",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77580",
+      "ItemName": "Hood of Storms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77620",
+      "ItemName": "Imp Lord's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4807",
+      "ItemName": "Martyr's Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77615",
+      "ItemName": "Novice's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87237",
+      "ItemName": "Novice's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4838",
+      "ItemName": "Novice's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4832",
+      "ItemName": "Plated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160348",
+      "ItemName": "Prop House 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160349",
+      "ItemName": "Prop Mountains 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4731",
+      "ItemName": "Ritual Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87212",
+      "ItemName": "Robe of Antiquities",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77616",
+      "ItemName": "Roughspun Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87240",
+      "ItemName": "Roughspun Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4874",
+      "ItemName": "Roughspun Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87200",
+      "ItemName": "Senior Novice's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4725",
+      "ItemName": "Simple Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4875",
+      "ItemName": "Slippers of Rites",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4850",
+      "ItemName": "Soft Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77614",
+      "ItemName": "Soft Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4868",
+      "ItemName": "Soldiers Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4802",
+      "ItemName": "Soot Stained Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87206",
+      "ItemName": "Stormcaller's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4856",
+      "ItemName": "Sturdy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87218",
+      "ItemName": "Sturdy Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87241",
+      "ItemName": "Symmetrical Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4808",
+      "ItemName": "Twice Stitched Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87230",
+      "ItemName": "Twice Stitched Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87186",
+      "ItemName": "Vestment of the Adverse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87244",
+      "ItemName": "Wand of Repose",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

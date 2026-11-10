@@ -1,0 +1,128 @@
+{
+  "Name": "KT-KrokBurly-Storm-KTBoss-L37-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5020",
+      "ItemName": "Band of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346502",
+      "ItemName": "Bolt Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77683",
+      "ItemName": "Cap of Burning Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38770",
+      "ItemName": "Cloak of Humility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77728",
+      "ItemName": "Cowl of Alacrity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77747",
+      "ItemName": "Cowl of Sensibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77685",
+      "ItemName": "Cowl of Summertime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4957",
+      "ItemName": "Crystalline Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4949",
+      "ItemName": "Glacial Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39447",
+      "ItemName": "Karanahn's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77668",
+      "ItemName": "Karanahn's Ignited Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38746",
+      "ItemName": "Karanahn's Parched Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82856",
+      "ItemName": "Krokotopian Counter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87275",
+      "ItemName": "Maker's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82886",
+      "ItemName": "Prince Aka Karanahn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77669",
+      "ItemName": "Prince Aka's Arctic Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38745",
+      "ItemName": "Prince Karanahn's Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38744",
+      "ItemName": "Prince's Adaptive Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39446",
+      "ItemName": "Princely Shoes of Sagas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5012",
+      "ItemName": "Signet of Ancients",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4965",
+      "ItemName": "Stiletto of Ignition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100465",
+      "ItemName": "Storm Salamander",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

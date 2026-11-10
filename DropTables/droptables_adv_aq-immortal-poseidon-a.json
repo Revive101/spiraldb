@@ -1,0 +1,303 @@
+{
+  "Name": "Adv_AQ-Immortal-Poseidon-A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "819737",
+      "ItemName": "Ares' Cold Heart Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819740",
+      "ItemName": "Ares' Spear of Elation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819741",
+      "ItemName": "Ares' Spear of Furor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819742",
+      "ItemName": "Ares' Spear of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819739",
+      "ItemName": "Ares' Spear of Insight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819736",
+      "ItemName": "Ares' Sunflare Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819738",
+      "ItemName": "Ares' Waterspout Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819526",
+      "ItemName": "Helm of Poseidon's Acumen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819523",
+      "ItemName": "Poseidon's Backdraft Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819536",
+      "ItemName": "Poseidon's Calm Seas Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819527",
+      "ItemName": "Poseidon's Cover of Vim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819533",
+      "ItemName": "Poseidon's Fabled Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203016",
+      "ItemName": "Poseidon's Floodskimmers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203015",
+      "ItemName": "Poseidon's Frost Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819524",
+      "ItemName": "Poseidon's Iceberg Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819531",
+      "ItemName": "Poseidon's Icy Seas Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203017",
+      "ItemName": "Poseidon's Maritime Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819709",
+      "ItemName": "Poseidon's Polar Trident",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819528",
+      "ItemName": "Poseidon's Raging Sea Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819530",
+      "ItemName": "Poseidon's Sizzling Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819710",
+      "ItemName": "Poseidon's Squalls Trident",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819714",
+      "ItemName": "Poseidon's Staff of Tides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203014",
+      "ItemName": "Poseidon's Steamwalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819711",
+      "ItemName": "Poseidon's Trident of Lore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819532",
+      "ItemName": "Poseidon's Tsunami Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819525",
+      "ItemName": "Poseidon's Typhoon Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819535",
+      "ItemName": "Poseidon's Undertow Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819708",
+      "ItemName": "Poseidon's Waterbane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203018",
+      "ItemName": "Poseidon's Waterwalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819529",
+      "ItemName": "Poseidon's Wave Crest Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203020",
+      "ItemName": "Poseidon's Wave Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819712",
+      "ItemName": "Poseidon's Wavemaker Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203019",
+      "ItemName": "Poseidon's Whirlpool Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819614",
+      "ItemName": "Senator's  Shoes of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819574",
+      "ItemName": "Senator's Downpour Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819616",
+      "ItemName": "Senator's Downpour Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819595",
+      "ItemName": "Senator's Downpour Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819572",
+      "ItemName": "Senator's Embering Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819577",
+      "ItemName": "Senator's Forlorn Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819619",
+      "ItemName": "Senator's Forlorn Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819598",
+      "ItemName": "Senator's Forlorn Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819573",
+      "ItemName": "Senator's Frigid Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819615",
+      "ItemName": "Senator's Frigid Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819594",
+      "ItemName": "Senator's Frigid Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819576",
+      "ItemName": "Senator's Laurel of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819618",
+      "ItemName": "Senator's Sandals of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819575",
+      "ItemName": "Senator's Scholarly Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819617",
+      "ItemName": "Senator's Scholarly Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819596",
+      "ItemName": "Senator's Scholarly Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819578",
+      "ItemName": "Senator's Stately Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819620",
+      "ItemName": "Senator's Stately Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819599",
+      "ItemName": "Senator's Stately Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819593",
+      "ItemName": "Senator's Toga of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819597",
+      "ItemName": "Senator's Toga of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695017",
+      "ItemName": "Stormy Skeleturion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819713",
+      "ItemName": "Trident of Poseidon's Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819534",
+      "ItemName": "Tunic of Poseidon's Mercy",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,148 @@
+{
+  "Name": "Tri-Gauntlet-Angler",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "468162",
+      "ItemName": "Balance Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455372",
+      "ItemName": "Boots of Esprit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455368",
+      "ItemName": "Boots of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473446",
+      "ItemName": "Burning Pixie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455365",
+      "ItemName": "Cape of Esprit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455361",
+      "ItemName": "Cape of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468163",
+      "ItemName": "Death Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346495",
+      "ItemName": "Delectable Hooves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468164",
+      "ItemName": "Fire Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455370",
+      "ItemName": "Firestarter's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455363",
+      "ItemName": "Firestarter's Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455371",
+      "ItemName": "Frostbit Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455364",
+      "ItemName": "Frostbit Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455369",
+      "ItemName": "Hangman's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455362",
+      "ItemName": "Hangman's Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468165",
+      "ItemName": "Ice Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468166",
+      "ItemName": "Life Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468167",
+      "ItemName": "Myth Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473447",
+      "ItemName": "Pink Jellyfish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346493",
+      "ItemName": "Savory Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455374",
+      "ItemName": "Skyscream Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455367",
+      "ItemName": "Skyscream Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468168",
+      "ItemName": "Storm Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346494",
+      "ItemName": "Tasty Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455373",
+      "ItemName": "Tricksy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455366",
+      "ItemName": "Tricksy Cape",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

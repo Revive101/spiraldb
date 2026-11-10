@@ -1,0 +1,58 @@
+{
+  "Name": "EM2-Mob-Athame-127",
+  "Description": "Mob loot table (8 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462274",
+      "ItemName": "Bodacious Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462269",
+      "ItemName": "Chill Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462275",
+      "ItemName": "Choice Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462270",
+      "ItemName": "Gnarly Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462273",
+      "ItemName": "Heavy Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462271",
+      "ItemName": "Mondo Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462268",
+      "ItemName": "Rad Kalamar Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462272",
+      "ItemName": "Righteous Kalamar Knife",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,138 @@
+{
+  "Name": "MS-Pig-Plague-Caster-MSBoss-L43",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "98041",
+      "ItemName": "Aiuchi's Dazed Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97973",
+      "ItemName": "Aiuchi's Effortless Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98056",
+      "ItemName": "Aiuchi's Enlivened Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97446",
+      "ItemName": "Aiuchi's Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97690",
+      "ItemName": "Aiuchi's Soul-Searching Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97831",
+      "ItemName": "Aiuchi's Tunic of Misfortune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97698",
+      "ItemName": "Band of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98012",
+      "ItemName": "Boots of the Verse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470190",
+      "ItemName": "Bright Red Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97591",
+      "ItemName": "Cap of Exertion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97824",
+      "ItemName": "Cloak of Pictures",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97473",
+      "ItemName": "Dagger of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97619",
+      "ItemName": "Euphonic Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97789",
+      "ItemName": "Gallant Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97639",
+      "ItemName": "Gogi Berry Stained Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97571",
+      "ItemName": "Heedful Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97470",
+      "ItemName": "Knife of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160253",
+      "ItemName": "Large Ornate Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97667",
+      "ItemName": "Mask of the Chipper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97882",
+      "ItemName": "Robe of the Lithe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98063",
+      "ItemName": "Shoes of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98060",
+      "ItemName": "Shoes of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98065",
+      "ItemName": "Slippers of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97856",
+      "ItemName": "Vestment of Hymns",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

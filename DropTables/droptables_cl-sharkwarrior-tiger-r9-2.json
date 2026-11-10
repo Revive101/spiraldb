@@ -1,0 +1,118 @@
+{
+  "Name": "CL-SharkWarrior-Tiger-R9-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243874",
+      "ItemName": "Amulet of Agony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243465",
+      "ItemName": "Compatible Clothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243726",
+      "ItemName": "Equilibrium Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243815",
+      "ItemName": "Everlasting Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243395",
+      "ItemName": "Inspired Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243273",
+      "ItemName": "Marinos's Lancet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243438",
+      "ItemName": "Mistral Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243567",
+      "ItemName": "Ring of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243589",
+      "ItemName": "Ring of the Maelstrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243872",
+      "ItemName": "Scarecrow's Sinister Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243260",
+      "ItemName": "Shivering Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342079",
+      "ItemName": "Tall Celestian Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243670",
+      "ItemName": "Timeless Tunic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

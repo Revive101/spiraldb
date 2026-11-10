@@ -1,0 +1,113 @@
+{
+  "Name": "MB-Cat-Burglar-White-MBBoss-L37",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97349",
+      "ItemName": "Animated Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39067",
+      "ItemName": "Animated Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160744",
+      "ItemName": "Blue Street Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77174",
+      "ItemName": "Brisk Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39036",
+      "ItemName": "Cap of the Ice Wyvern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39063",
+      "ItemName": "Commoner's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97132",
+      "ItemName": "Deck of the Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97120",
+      "ItemName": "Deck of the Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82753",
+      "ItemName": "Gas Can",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77222",
+      "ItemName": "Glowing Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39029",
+      "ItemName": "Hat of Numbness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97167",
+      "ItemName": "Hat of the Enigma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97184",
+      "ItemName": "Headwraps of Restoration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97177",
+      "ItemName": "Helm of Chivalry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97401",
+      "ItemName": "Masterful Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97276",
+      "ItemName": "Medic's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97393",
+      "ItemName": "Silent Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97356",
+      "ItemName": "Superstitious Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160741",
+      "ItemName": "Thick Roof Vent",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

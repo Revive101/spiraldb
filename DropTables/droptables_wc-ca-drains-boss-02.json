@@ -1,0 +1,58 @@
+{
+  "Name": "WC-CA-Drains-Boss-02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489343",
+      "ItemName": "Dragonspyre Vanguard's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489342",
+      "ItemName": "Vanguard's Balanced Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489341",
+      "ItemName": "Vanguard's Deadly Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489336",
+      "ItemName": "Vanguard's Fiery Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489337",
+      "ItemName": "Vanguard's Icy Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489339",
+      "ItemName": "Vanguard's Mythic Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489338",
+      "ItemName": "Vanguard's Shocking Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489340",
+      "ItemName": "Vanguard's Vibrant Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

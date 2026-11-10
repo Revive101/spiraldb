@@ -1,0 +1,128 @@
+{
+  "Name": "Draconian-Caster-Blue-Boss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126634",
+      "ItemName": "Brimstone Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146292",
+      "ItemName": "Cap of Ancient Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146209",
+      "ItemName": "Cowl of the Zephyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160922",
+      "ItemName": "Crimson Dragonspyre Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104712",
+      "ItemName": "Cyclone Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104729",
+      "ItemName": "Drape of the Lost Archive",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104774",
+      "ItemName": "Fireflower Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104866",
+      "ItemName": "Footgear of Plenty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146268",
+      "ItemName": "Forest Lord's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126632",
+      "ItemName": "Gleaming Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160863",
+      "ItemName": "Inferno Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146247",
+      "ItemName": "Mantle of Imagination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126582",
+      "ItemName": "Ring of Legend",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104849",
+      "ItemName": "Slippers of the Hallowed Halls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104840",
+      "ItemName": "Throne-treading Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104662",
+      "ItemName": "Tunic of Arden's Vale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146267",
+      "ItemName": "Verdant Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104616",
+      "ItemName": "Vestment of the Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104704",
+      "ItemName": "Wyrmkin Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146358",
+      "ItemName": "Zarathax's Headgear of Hubris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104779",
+      "ItemName": "Zarathax's Subtle Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104594",
+      "ItemName": "Zarathax's Turncoat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

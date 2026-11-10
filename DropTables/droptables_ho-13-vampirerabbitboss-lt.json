@@ -1,0 +1,253 @@
+{
+  "Name": "HO-13-VampireRabbitBoss-LT",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355137",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355138",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355139",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355140",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355141",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355142",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713133",
+      "ItemName": "Dead Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713134",
+      "ItemName": "Dead Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713135",
+      "ItemName": "Dead Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713136",
+      "ItemName": "Dead Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713137",
+      "ItemName": "Dead Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713138",
+      "ItemName": "Dead Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713139",
+      "ItemName": "Dead Beets",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355186",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355187",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355188",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355189",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355190",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355191",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126395",
+      "ItemName": "Hallowe'en Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126399",
+      "ItemName": "Hallowe'en Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126398",
+      "ItemName": "Hallowe'en Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363264",
+      "ItemName": "Mummy Costume Bodywraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363265",
+      "ItemName": "Mummy Costume Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363263",
+      "ItemName": "Mummy Costume Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126396",
+      "ItemName": "Ninja Pig Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126406",
+      "ItemName": "Ninja Pig Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126405",
+      "ItemName": "Ninja Pig Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363262",
+      "ItemName": "Vampire Costume Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363261",
+      "ItemName": "Vampire Costume Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363260",
+      "ItemName": "Vampire Costume Wig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355073",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355074",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355075",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355076",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355077",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355078",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355079",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

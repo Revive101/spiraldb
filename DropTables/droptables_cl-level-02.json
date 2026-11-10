@@ -1,0 +1,283 @@
+{
+  "Name": "CL-Level-02",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243224",
+      "ItemName": "Archaeologist's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243408",
+      "ItemName": "Brim of Bewilderment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502462",
+      "ItemName": "Celestian Abyss Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502457",
+      "ItemName": "Celestian Cinder Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502458",
+      "ItemName": "Celestian Frostbit Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502459",
+      "ItemName": "Celestian Tempest Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243282",
+      "ItemName": "Collective Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243332",
+      "ItemName": "Consuming Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243531",
+      "ItemName": "Crustacean Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243624",
+      "ItemName": "Devoted Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243843",
+      "ItemName": "Drenched Storm Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502461",
+      "ItemName": "Everlasting Celestian Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243364",
+      "ItemName": "Hard Rime Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502464",
+      "ItemName": "Helm of Celestian Totality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243802",
+      "ItemName": "Innocent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243378",
+      "ItemName": "Life Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243236",
+      "ItemName": "Long Lost Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243450",
+      "ItemName": "Medley Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243593",
+      "ItemName": "Menacing Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243307",
+      "ItemName": "Menacing Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243381",
+      "ItemName": "Merry Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243413",
+      "ItemName": "Mirage Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243673",
+      "ItemName": "Mystifying Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243790",
+      "ItemName": "Numbing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243306",
+      "ItemName": "Ominous Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243653",
+      "ItemName": "Pure Plate Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243845",
+      "ItemName": "Rain Dance Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243536",
+      "ItemName": "Relic Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243532",
+      "ItemName": "Researcher's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243674",
+      "ItemName": "Riddled Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243821",
+      "ItemName": "Riddled Rangers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243337",
+      "ItemName": "Scorched Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243741",
+      "ItemName": "Shadow Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243759",
+      "ItemName": "Smokey Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243614",
+      "ItemName": "Smokey Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502460",
+      "ItemName": "Storied Celestian Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243753",
+      "ItemName": "Tinder Trackers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243404",
+      "ItemName": "Topper of Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243340",
+      "ItemName": "Torched Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243311",
+      "ItemName": "Tragic Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502463",
+      "ItemName": "Versatile Celestian Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243613",
+      "ItemName": "Volcanic Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243762",
+      "ItemName": "Volcanic Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243233",
+      "ItemName": "Wily Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243644",
+      "ItemName": "Wintergale Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243795",
+      "ItemName": "Wintergale Runners",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

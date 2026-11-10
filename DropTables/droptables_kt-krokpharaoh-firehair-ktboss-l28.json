@@ -1,0 +1,148 @@
+{
+  "Name": "KT-KrokPharaoh-FireHair-KTBoss-L28",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5035",
+      "ItemName": "Band of the Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4986",
+      "ItemName": "Biti Nirini's Citrine Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77695",
+      "ItemName": "Biti Nirini's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39438",
+      "ItemName": "Biti Nirini's Torrid Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87345",
+      "ItemName": "Biti's Flamelicked Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87298",
+      "ItemName": "Cloak of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39429",
+      "ItemName": "Durable Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5030",
+      "ItemName": "Flowering Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38767",
+      "ItemName": "Frigid Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77714",
+      "ItemName": "Hat of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77702",
+      "ItemName": "Helm of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77715",
+      "ItemName": "Hood of the Phantom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82840",
+      "ItemName": "Krok Fire Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82730",
+      "ItemName": "Krok Hourglass Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335016",
+      "ItemName": "Krokotopia Dance Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39434",
+      "ItemName": "Slippers of Burning Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77774",
+      "ItemName": "Soothsayer's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77682",
+      "ItemName": "Sweltering Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77790",
+      "ItemName": "Threadbare Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

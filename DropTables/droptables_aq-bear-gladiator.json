@@ -1,0 +1,88 @@
+{
+  "Name": "AQ-Bear-Gladiator",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "819692",
+      "ItemName": "Alpha and Omega Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212000",
+      "ItemName": "Aquila Atlantea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212004",
+      "ItemName": "Aquila Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212003",
+      "ItemName": "Aquila Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212005",
+      "ItemName": "Aquila Epic Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212001",
+      "ItemName": "Aquila Olympus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696435",
+      "ItemName": "Board of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696440",
+      "ItemName": "Board of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696438",
+      "ItemName": "Board of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696436",
+      "ItemName": "Board of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696439",
+      "ItemName": "Board of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696441",
+      "ItemName": "Board of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696437",
+      "ItemName": "Board of Gorgon's Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789436",
+      "ItemName": "Enchanted Armament",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

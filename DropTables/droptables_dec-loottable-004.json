@@ -1,0 +1,253 @@
+{
+  "Name": "DEC-LootTable-004",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "537487",
+      "ItemName": "Big Holiday Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724295",
+      "ItemName": "Blue Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335013",
+      "ItemName": "Carol of the Bells Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126827",
+      "ItemName": "Christmas Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537499",
+      "ItemName": "Color Light Strand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335012",
+      "ItemName": "Deck the Halls Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126826",
+      "ItemName": "Frostman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724290",
+      "ItemName": "Gingerbread House",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257301",
+      "ItemName": "Golden Goose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724294",
+      "ItemName": "Green Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724297",
+      "ItemName": "Holiday Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248196",
+      "ItemName": "Holiday Hook Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248180",
+      "ItemName": "Holiday Treat Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537611",
+      "ItemName": "Holiday Wreath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335011",
+      "ItemName": "Jingle Bells Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537496",
+      "ItemName": "Large Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733226",
+      "ItemName": "Lump of Coal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317712",
+      "ItemName": "Maple Moose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537506",
+      "ItemName": "Milk and Cookies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537495",
+      "ItemName": "Mint Standee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537494",
+      "ItemName": "Mint Swirl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724291",
+      "ItemName": "Nutcracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733225",
+      "ItemName": "Nutcracker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537491",
+      "ItemName": "Polka Dot Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537492",
+      "ItemName": "Polka Dot Wrapped Long Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724293",
+      "ItemName": "Red Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126808",
+      "ItemName": "Santa Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126806",
+      "ItemName": "Santa Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126807",
+      "ItemName": "Santa Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739253",
+      "ItemName": "Small Color Light Strand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537497",
+      "ItemName": "Small Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537493",
+      "ItemName": "Snowflake Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724302",
+      "ItemName": "Snowglobe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537498",
+      "ItemName": "Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537490",
+      "ItemName": "Snowman Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724298",
+      "ItemName": "Spiral Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537489",
+      "ItemName": "Star Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248197",
+      "ItemName": "Stave of the Holiday Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248181",
+      "ItemName": "Sugar Cane Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537488",
+      "ItemName": "Tree Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724292",
+      "ItemName": "Yellow Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317755",
+      "ItemName": "Yuletide Lg. Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317760",
+      "ItemName": "Yuletide Lg. Small Fry Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346190",
+      "ItemName": "Yuletide Spirit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317757",
+      "ItemName": "Yuletide Tall Keeper Aquarium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317756",
+      "ItemName": "Yuletide Tall Small Fry Aquarium",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,298 @@
+{
+  "Name": "Malistaire-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1592315",
+      "ItemName": "Avalanche Legendary Spellsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548939",
+      "ItemName": "Avalanche's Legendary Cutlass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548936",
+      "ItemName": "Dean Darkflame's Cleaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592312",
+      "ItemName": "Dean Darkflame's Spellsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548905",
+      "ItemName": "Kraysys' Boots of Retreat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592318",
+      "ItemName": "Kraysys' Hat of the Hidden",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548890",
+      "ItemName": "Kraysys' Hood of the Hidden",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548909",
+      "ItemName": "Kraysys' Subterfuge Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592339",
+      "ItemName": "Kraysys' Subterfuge Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548894",
+      "ItemName": "Kraysys' Unfaithful Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592322",
+      "ItemName": "Kraysys' Unfaithful Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592335",
+      "ItemName": "Kraysys' Walkers of Retreat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548937",
+      "ItemName": "Longblade of the Homunculus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548898",
+      "ItemName": "Malistaire Drake's Ebon Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592327",
+      "ItemName": "Malistaire Drake's Ebon Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548899",
+      "ItemName": "Malistaire's Dragonfire Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592328",
+      "ItemName": "Malistaire's Dragonfire Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592329",
+      "ItemName": "Malistaire's Iceflame Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548900",
+      "ItemName": "Malistaire's Iceflame Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548901",
+      "ItemName": "Malistaire's Purgatory Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592330",
+      "ItemName": "Malistaire's Purgatory Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592326",
+      "ItemName": "Malistaire's Suit of Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548897",
+      "ItemName": "Malistaire's Tunic of Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592331",
+      "ItemName": "Malistaire's Unhallowed Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548902",
+      "ItemName": "Malistaire's Unhallowed Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592332",
+      "ItemName": "Malistaire's Wrathful Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548903",
+      "ItemName": "Malistaire's Wrathful Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548938",
+      "ItemName": "Redwind's Viridian Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592314",
+      "ItemName": "Redwind's Viridian Spellsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548940",
+      "ItemName": "Shockblade of the Hoarder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592338",
+      "ItemName": "Snowcrusher Shelter Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592334",
+      "ItemName": "Snowcrusher Tension Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592324",
+      "ItemName": "Snowcrusher's Galvanic Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548896",
+      "ItemName": "Snowcrusher's Galvanic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592320",
+      "ItemName": "Snowcrusher's Hat of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548892",
+      "ItemName": "Snowcrusher's Mantle of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548908",
+      "ItemName": "Snowcrusher's Shoes of Shelter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548933",
+      "ItemName": "Snowcrusher's Snowstompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592337",
+      "ItemName": "Snowcrusher's Snowwalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548904",
+      "ItemName": "Snowcrusher's Tread of Tension",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548935",
+      "ItemName": "Soulsinger's Soulsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592311",
+      "ItemName": "Soulsinger's Spellsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592316",
+      "ItemName": "Spellsword of the Hoarder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592313",
+      "ItemName": "Spellsword of the Homunculus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592310",
+      "ItemName": "Spellsword of the Steward",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548906",
+      "ItemName": "Spiderkeeper's Charstriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592336",
+      "ItemName": "Spiderkeeper's Charwalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592319",
+      "ItemName": "Spiderkeeper's Dark Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548891",
+      "ItemName": "Spiderkeeper's Darkshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592321",
+      "ItemName": "Spiderkeeper's Ice Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548893",
+      "ItemName": "Spiderkeeper's Icemantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592323",
+      "ItemName": "Spiderkeeper's Story Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548895",
+      "ItemName": "Spiderkeeper's Storyveil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548910",
+      "ItemName": "Spiderkeeper's Thundershoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592340",
+      "ItemName": "Spiderkeeper's Thunderwalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548934",
+      "ItemName": "Sword of the Steward",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

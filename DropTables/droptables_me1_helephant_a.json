@@ -1,0 +1,263 @@
+{
+  "Name": "ME1_Helephant_A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160607",
+      "ItemName": "Cherry Blossom Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160378",
+      "ItemName": "Elm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160370",
+      "ItemName": "Fire Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473338",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473339",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473340",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473324",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473325",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473326",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473331",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473332",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473333",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473367",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473368",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473369",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473296",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473297",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473298",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473282",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473283",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473284",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473289",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473290",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473291",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473353",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473354",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473355",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473317",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473318",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473319",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473303",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473304",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473305",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473310",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473311",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473312",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473360",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473361",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473362",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160375",
+      "ItemName": "Hedge Row",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160379",
+      "ItemName": "Large Cypress Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160383",
+      "ItemName": "Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160608",
+      "ItemName": "Red Leaf Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160369",
+      "ItemName": "Small Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160380",
+      "ItemName": "Small Cypress Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160384",
+      "ItemName": "Small Maple Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160376",
+      "ItemName": "Square Hedge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160605",
+      "ItemName": "Summer Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82898",
+      "ItemName": "Tall Palm Tree",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

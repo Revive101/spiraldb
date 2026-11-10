@@ -1,0 +1,158 @@
+{
+  "Name": "STRD_BR_KR_Morganthe_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1654568",
+      "ItemName": "Umbra Queen's Chill Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654589",
+      "ItemName": "Umbra Queen's Chill Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654575",
+      "ItemName": "Umbra Queen's Chill Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654596",
+      "ItemName": "Umbra Queen's Chill Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654565",
+      "ItemName": "Umbra Queen's Dusty Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654586",
+      "ItemName": "Umbra Queen's Dusty Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654572",
+      "ItemName": "Umbra Queen's Dusty Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654593",
+      "ItemName": "Umbra Queen's Dusty Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654570",
+      "ItemName": "Umbra Queen's Furious Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654591",
+      "ItemName": "Umbra Queen's Furious Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654577",
+      "ItemName": "Umbra Queen's Furious Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654598",
+      "ItemName": "Umbra Queen's Furious Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654566",
+      "ItemName": "Umbra Queen's Grim Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654587",
+      "ItemName": "Umbra Queen's Grim Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654573",
+      "ItemName": "Umbra Queen's Grim Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654594",
+      "ItemName": "Umbra Queen's Grim Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654567",
+      "ItemName": "Umbra Queen's Scorched Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654588",
+      "ItemName": "Umbra Queen's Scorched Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654574",
+      "ItemName": "Umbra Queen's Scorched Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654595",
+      "ItemName": "Umbra Queen's Scorched Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654571",
+      "ItemName": "Umbra Queen's Shocked Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654592",
+      "ItemName": "Umbra Queen's Shocked Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654578",
+      "ItemName": "Umbra Queen's Shocked Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654599",
+      "ItemName": "Umbra Queen's Shocked Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654569",
+      "ItemName": "Umbra Queen's Wild Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654590",
+      "ItemName": "Umbra Queen's Wild Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654576",
+      "ItemName": "Umbra Queen's Wild Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654597",
+      "ItemName": "Umbra Queen's Wild Garment",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

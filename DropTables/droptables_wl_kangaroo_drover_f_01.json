@@ -1,0 +1,158 @@
+{
+  "Name": "WL_Kangaroo_Drover_F_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1628373",
+      "ItemName": "Dynamic Enforcer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628317",
+      "ItemName": "Dynamic Enforcer's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628576",
+      "ItemName": "Dynamic Protector's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628527",
+      "ItemName": "Dynamic Protector's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628371",
+      "ItemName": "Furious Enforcer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628315",
+      "ItemName": "Furious Enforcer's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628574",
+      "ItemName": "Furious Protector's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628525",
+      "ItemName": "Furious Protector's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628369",
+      "ItemName": "Just Enforcer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628313",
+      "ItemName": "Just Enforcer's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628572",
+      "ItemName": "Just Protector's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628523",
+      "ItemName": "Just Protector's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628374",
+      "ItemName": "Legendary Enforcer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628318",
+      "ItemName": "Legendary Enforcer's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628577",
+      "ItemName": "Legendary Protector's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628528",
+      "ItemName": "Legendary Protector's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628370",
+      "ItemName": "Morbid Enforcer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628314",
+      "ItemName": "Morbid Enforcer's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628573",
+      "ItemName": "Morbid Protector's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628524",
+      "ItemName": "Morbid Protector's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628372",
+      "ItemName": "Steely Enforcer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628316",
+      "ItemName": "Steely Enforcer's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628575",
+      "ItemName": "Steely Protector's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628526",
+      "ItemName": "Steely Protector's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628375",
+      "ItemName": "Thunderous Enforcer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628319",
+      "ItemName": "Thunderous Enforcer's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628578",
+      "ItemName": "Thunderous Protector's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628529",
+      "ItemName": "Thunderous Protector's Helmet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

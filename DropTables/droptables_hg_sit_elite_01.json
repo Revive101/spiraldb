@@ -1,0 +1,68 @@
+{
+  "Name": "HG_SIT_Elite_01",
+  "Description": "Mob loot table (24 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "739108",
+      "ItemName": "Azteca Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739113",
+      "ItemName": "Azteca Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739114",
+      "ItemName": "Azteca Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739202",
+      "ItemName": "Azteca Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739097",
+      "ItemName": "Azteca Sun Dial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739072",
+      "ItemName": "Aztecosaur Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739219",
+      "ItemName": "Azure Azteca Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739220",
+      "ItemName": "Gold Azteca Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739166",
+      "ItemName": "Magic Mirror",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739077",
+      "ItemName": "Stone Azteca Head",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

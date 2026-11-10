@@ -1,0 +1,78 @@
+{
+  "Name": "HG_FL_Mob_A_L170",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160203",
+      "ItemName": "Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160273",
+      "ItemName": "Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160272",
+      "ItemName": "Carved Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202020",
+      "ItemName": "Grand Statue of Zeus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160202",
+      "ItemName": "Lectern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470214",
+      "ItemName": "Night Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1202018",
+      "ItemName": "Olympian Herb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160216",
+      "ItemName": "Pen and Ink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359133",
+      "ItemName": "Regent's Library Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160210",
+      "ItemName": "Stack of 5 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160212",
+      "ItemName": "Stack of Paper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160636",
+      "ItemName": "Stone Brazier",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,93 @@
+{
+  "Name": "KT-Ghoul-Purple-KTBoss-L23",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4938",
+      "ItemName": "Ancient Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160225",
+      "ItemName": "Bone Hand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77753",
+      "ItemName": "Bonekeeper's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38754",
+      "ItemName": "Bonekeeper's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39429",
+      "ItemName": "Durable Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77714",
+      "ItemName": "Hat of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77752",
+      "ItemName": "Hood of the Stronghold",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38751",
+      "ItemName": "Pyromancer's Lambent Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5019",
+      "ItemName": "Ring of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87270",
+      "ItemName": "Robe of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77799",
+      "ItemName": "Shoes of the Fortress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5013",
+      "ItemName": "The Bonekeeper's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77779",
+      "ItemName": "The Bonekeeper's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87337",
+      "ItemName": "The Bonekeeper's Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5005",
+      "ItemName": "Victor's Signet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

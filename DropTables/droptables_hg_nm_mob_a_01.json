@@ -1,0 +1,98 @@
+{
+  "Name": "HG_NM_Mob_A_01",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1421951",
+      "ItemName": "Beastman Hut",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342151",
+      "ItemName": "Broken Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374570",
+      "ItemName": "Glowing Seashrooms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470209",
+      "ItemName": "Koi Pond",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392464",
+      "ItemName": "Living Log",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603000",
+      "ItemName": "Night Mire Swamp Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603001",
+      "ItemName": "Night Mire Swamp Eerie Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603002",
+      "ItemName": "Night Mire Swamp Jamboree Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538037",
+      "ItemName": "Poison Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160619",
+      "ItemName": "Potted Flower Arrangement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1433025",
+      "ItemName": "Sail Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538036",
+      "ItemName": "Sickly Mushroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160921",
+      "ItemName": "Spider Egg Sac",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181054",
+      "ItemName": "Tanglebrush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683107",
+      "ItemName": "Water-Mole Tribal Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181055",
+      "ItemName": "Wild Brush",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

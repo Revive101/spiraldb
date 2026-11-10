@@ -1,0 +1,113 @@
+{
+  "Name": "Spider-PW-Gauntlet-Boss",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243688",
+      "ItemName": "Arcane Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243393",
+      "ItemName": "Cowl of Creation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243209",
+      "ItemName": "Edge of Equality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243266",
+      "ItemName": "Edge of Essence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243514",
+      "ItemName": "Eye of Insight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243521",
+      "ItemName": "Forsaken Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243791",
+      "ItemName": "Frost Giant's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243205",
+      "ItemName": "Jewel of the Feint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243441",
+      "ItemName": "Maelstrom Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243199",
+      "ItemName": "Spectral Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243745",
+      "ItemName": "Vile Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243609",
+      "ItemName": "Wretched Jerkin",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

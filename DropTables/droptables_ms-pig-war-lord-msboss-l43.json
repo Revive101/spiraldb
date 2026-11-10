@@ -1,0 +1,148 @@
+{
+  "Name": "MS-Pig-War-Lord-MSBoss-L43",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97698",
+      "ItemName": "Band of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470189",
+      "ItemName": "Banking Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97897",
+      "ItemName": "Cloak of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97587",
+      "ItemName": "Cowl of Humor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97635",
+      "ItemName": "Cowl of Rhyming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97678",
+      "ItemName": "Cowl of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97473",
+      "ItemName": "Dagger of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98046",
+      "ItemName": "Footwraps of Generations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97872",
+      "ItemName": "Garments of Unrest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160561",
+      "ItemName": "Grand Torii",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97607",
+      "ItemName": "Hat of Discontent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97447",
+      "ItemName": "Katsumori's Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97974",
+      "ItemName": "Katsumori's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97503",
+      "ItemName": "Katsumori's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97593",
+      "ItemName": "Katsumori's Effortless Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97715",
+      "ItemName": "Katsumori's Introspective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97699",
+      "ItemName": "Katsumori's Pensive Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97470",
+      "ItemName": "Knife of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97817",
+      "ItemName": "Nunu's Twisted Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160445",
+      "ItemName": "Pagoda Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98063",
+      "ItemName": "Shoes of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98060",
+      "ItemName": "Shoes of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98065",
+      "ItemName": "Slippers of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160584",
+      "ItemName": "Stone Watchtower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97655",
+      "ItemName": "Stressed Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97850",
+      "ItemName": "Warbled Cloak",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

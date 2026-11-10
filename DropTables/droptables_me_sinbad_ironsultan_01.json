@@ -1,0 +1,198 @@
+{
+  "Name": "ME_Sinbad_IronSultan_01",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489616",
+      "ItemName": "Admiral's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489621",
+      "ItemName": "Admiral's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489624",
+      "ItemName": "Admiral's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489490",
+      "ItemName": "Fleet Kapudan's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489495",
+      "ItemName": "Fleet Kapudan's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489498",
+      "ItemName": "Fleet Kapudan's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489504",
+      "ItemName": "Fleet Kapudan's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489509",
+      "ItemName": "Fleet Kapudan's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489512",
+      "ItemName": "Fleet Kapudan's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489476",
+      "ItemName": "Fleet Kapudan's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489481",
+      "ItemName": "Fleet Kapudan's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489484",
+      "ItemName": "Fleet Kapudan's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489532",
+      "ItemName": "Grand Admiral's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489537",
+      "ItemName": "Grand Admiral's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489540",
+      "ItemName": "Grand Admiral's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489546",
+      "ItemName": "Grand Admiral's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489551",
+      "ItemName": "Grand Admiral's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489554",
+      "ItemName": "Grand Admiral's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489518",
+      "ItemName": "Grand Admiral's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489523",
+      "ItemName": "Grand Admiral's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489526",
+      "ItemName": "Grand Admiral's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489890",
+      "ItemName": "Kapudan's Grappling Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489895",
+      "ItemName": "Kapudan's Grappling Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489898",
+      "ItemName": "Kapudan's Grappling Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489574",
+      "ItemName": "Sky Captain's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489579",
+      "ItemName": "Sky Captain's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489582",
+      "ItemName": "Sky Captain's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489630",
+      "ItemName": "Sky Captain's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489635",
+      "ItemName": "Sky Captain's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489638",
+      "ItemName": "Sky Captain's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489588",
+      "ItemName": "Sky Captain's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489593",
+      "ItemName": "Sky Captain's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489596",
+      "ItemName": "Sky Captain's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489560",
+      "ItemName": "Sky Captain's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489565",
+      "ItemName": "Sky Captain's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489568",
+      "ItemName": "Sky Captain's Turban",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

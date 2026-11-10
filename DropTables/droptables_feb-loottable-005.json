@@ -1,0 +1,48 @@
+{
+  "Name": "FEB-LootTable-005",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126966",
+      "ItemName": "Allegiance Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126967",
+      "ItemName": "Amoretto's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126969",
+      "ItemName": "Cupig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126965",
+      "ItemName": "Staff of Sentiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126945",
+      "ItemName": "Valentine Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126968",
+      "ItemName": "Wings of the Cherubim",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

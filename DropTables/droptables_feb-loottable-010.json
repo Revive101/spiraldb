@@ -1,0 +1,48 @@
+{
+  "Name": "FEB-LootTable-010",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1257797",
+      "ItemName": "Baton of Entanglements",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257798",
+      "ItemName": "Bowstaff of the Cherubim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126969",
+      "ItemName": "Cupig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257796",
+      "ItemName": "Staff of Heartbeats",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257799",
+      "ItemName": "Stave of Captivation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126945",
+      "ItemName": "Valentine Pig",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

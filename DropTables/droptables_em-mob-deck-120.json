@@ -1,0 +1,58 @@
+{
+  "Name": "EM-Mob-Deck-120",
+  "Description": "Mob loot table (15 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1430518",
+      "ItemName": "Interstellar Delegate's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430512",
+      "ItemName": "Interstellar Engineer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430513",
+      "ItemName": "Interstellar Explorer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430515",
+      "ItemName": "Interstellar Hero's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430516",
+      "ItemName": "Interstellar Medic's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430514",
+      "ItemName": "Interstellar Navigator's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430519",
+      "ItemName": "Interstellar Officer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430517",
+      "ItemName": "Interstellar Warrior's Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,273 @@
+{
+  "Name": "G14-HS-SKR-Belloshe",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338278",
+      "ItemName": "Ampul of Desert Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338450",
+      "ItemName": "Anubis' Cards of Veracity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338447",
+      "ItemName": "Array of the Archaic Rebus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338361",
+      "ItemName": "Band of the Sistrum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338198",
+      "ItemName": "Blade of Anubis' Verdict",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338192",
+      "ItemName": "Blade of the Fire River",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338445",
+      "ItemName": "Brisk Breeze Pasteboards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338461",
+      "ItemName": "Case of the Hall of Echoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358960",
+      "ItemName": "Case of the Hall of Echoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358967",
+      "ItemName": "Case of the Hall of Echoes ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338448",
+      "ItemName": "Case of the Virtuous Soul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338449",
+      "ItemName": "Condemned Soldier's Arcana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338193",
+      "ItemName": "Dagger of the Cold Bones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338197",
+      "ItemName": "Dagger of the Devourer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338195",
+      "ItemName": "Dagger of the Hidden Words",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338446",
+      "ItemName": "Deck of Sand Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338444",
+      "ItemName": "Deck of the Simmering Evil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338460",
+      "ItemName": "Duat Traveler's Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358959",
+      "ItemName": "Duat Traveler's Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358966",
+      "ItemName": "Duat Traveler's Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338280",
+      "ItemName": "Hands of Anubis Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338364",
+      "ItemName": "Hands of Anubis Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338464",
+      "ItemName": "House of Scales Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358963",
+      "ItemName": "House of Scales Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358970",
+      "ItemName": "House of Scales Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338196",
+      "ItemName": "Izft's Dirk of Incarnation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338282",
+      "ItemName": "Jewel of Anubis' Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338194",
+      "ItemName": "Kris of Thunderous Resolve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789208",
+      "ItemName": "Mander Palanquin (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338281",
+      "ItemName": "Medallion of the Condemned",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338458",
+      "ItemName": "Pit Viper's Array of Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358957",
+      "ItemName": "Pit Viper's Array of Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358964",
+      "ItemName": "Pit Viper's Array of Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338279",
+      "ItemName": "Rebus Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338363",
+      "ItemName": "Rebus Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338277",
+      "ItemName": "Relic of the Brisk Breeze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338462",
+      "ItemName": "Resolute Hand of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358961",
+      "ItemName": "Resolute Hand of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358968",
+      "ItemName": "Resolute Hand of Anubis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338362",
+      "ItemName": "Ring of the Ravenous Teeth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338360",
+      "ItemName": "Ring of the Simmering Evil ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338366",
+      "ItemName": "Scales of Justice Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338459",
+      "ItemName": "Set of the Ravenous Teeth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358958",
+      "ItemName": "Set of the Ravenous Teeth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358965",
+      "ItemName": "Set of the Ravenous Teeth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338463",
+      "ItemName": "Soul Devourer's Arcana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358962",
+      "ItemName": "Soul Devourer's Arcana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358969",
+      "ItemName": "Soul Devourer's Arcana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338365",
+      "ItemName": "Stone of the Longest Hall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338276",
+      "ItemName": "Zigazag Desert Relic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

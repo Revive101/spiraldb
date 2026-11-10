@@ -1,0 +1,118 @@
+{
+  "Name": "ME_MD_MacDeath_01",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "468421",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257942",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468428",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257944",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468435",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257943",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257883",
+      "ItemName": "Dragonrider's Balance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468442",
+      "ItemName": "Dragonrider's Death Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468414",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257940",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468400",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257939",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468407",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257941",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468393",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257937",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468379",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257936",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468386",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257938",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "KT_SE_Ammit_Base_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1673614",
+      "ItemName": "Manifest Blade of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673610",
+      "ItemName": "Manifest Blade of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673609",
+      "ItemName": "Manifest Blade of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673613",
+      "ItemName": "Manifest Blade of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673612",
+      "ItemName": "Manifest Blade of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673615",
+      "ItemName": "Manifest Blade of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673611",
+      "ItemName": "Manifest Blade of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673628",
+      "ItemName": "Manifest Seal of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673624",
+      "ItemName": "Manifest Seal of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673623",
+      "ItemName": "Manifest Seal of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673627",
+      "ItemName": "Manifest Seal of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673626",
+      "ItemName": "Manifest Seal of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673629",
+      "ItemName": "Manifest Seal of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673625",
+      "ItemName": "Manifest Seal of Wrath",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

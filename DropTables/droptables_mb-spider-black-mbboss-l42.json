@@ -1,0 +1,133 @@
+{
+  "Name": "MB-Spider-Black-MBBoss-L42",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "100429",
+      "ItemName": "Black Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77142",
+      "ItemName": "Black Widow's Dandy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97163",
+      "ItemName": "Black Widow's Fancy Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100585",
+      "ItemName": "Dream Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160717",
+      "ItemName": "Snapped Plank",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160659",
+      "ItemName": "Well-traveled Suitcase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77146",
+      "ItemName": "Widow's Bewitching Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39000",
+      "ItemName": "Widow's Bewitching Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39064",
+      "ItemName": "Widow's Breakneck Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38998",
+      "ItemName": "Widow's Charming Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97404",
+      "ItemName": "Widow's Collected Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97089",
+      "ItemName": "Widow's Dirk of Fulfillment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97096",
+      "ItemName": "Widow's Engraved Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77205",
+      "ItemName": "Widow's Frenzied Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39015",
+      "ItemName": "Widow's Furious Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77225",
+      "ItemName": "Widow's Indignant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97297",
+      "ItemName": "Widow's Magnificent Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97214",
+      "ItemName": "Widow's Noteworthy Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39058",
+      "ItemName": "Widow's Noteworthy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77085",
+      "ItemName": "Widow's Pilfered Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5056",
+      "ItemName": "Widow's Red Rising Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97247",
+      "ItemName": "Widow's Refined Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97359",
+      "ItemName": "Widow's Shoes of Fantasia",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

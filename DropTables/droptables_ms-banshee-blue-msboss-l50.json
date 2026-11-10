@@ -1,0 +1,118 @@
+{
+  "Name": "MS-Banshee-Blue-MSBoss-L50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160459",
+      "ItemName": "Dark Green Silk Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97986",
+      "ItemName": "Footwraps of Pictures",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97788",
+      "ItemName": "Friendly Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470227",
+      "ItemName": "Frog Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160494",
+      "ItemName": "Frost Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97560",
+      "ItemName": "Fushiko's Captive Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97427",
+      "ItemName": "Fushiko's Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97780",
+      "ItemName": "Fushiko's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97940",
+      "ItemName": "Fushiko's Footwraps of Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97776",
+      "ItemName": "Fushiko's Prospective Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97938",
+      "ItemName": "Fushiko's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97557",
+      "ItemName": "Fushiko's Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97900",
+      "ItemName": "Garment of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97857",
+      "ItemName": "Garment of Yodels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160568",
+      "ItemName": "Haunted Imperial Shrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126140",
+      "ItemName": "Tanto of Icy Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97838",
+      "ItemName": "Tunic of Chimes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97809",
+      "ItemName": "Tunic of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98037",
+      "ItemName": "Vexing Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97886",
+      "ItemName": "Zippy Tunic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

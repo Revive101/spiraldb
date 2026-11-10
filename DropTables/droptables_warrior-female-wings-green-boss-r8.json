@@ -1,0 +1,113 @@
+{
+  "Name": "Warrior-Female-Wings-Green-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146180",
+      "ItemName": "Dragon's Claw Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104811",
+      "ItemName": "Footgear of Corporeality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146250",
+      "ItemName": "Hat of the Endless",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146249",
+      "ItemName": "Headdress of Refutation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146295",
+      "ItemName": "Hood of Hibernation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160854",
+      "ItemName": "Hydra Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146222",
+      "ItemName": "Markmaker's Cyclonic Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104699",
+      "ItemName": "Markmaker's Drape of the Fount",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104832",
+      "ItemName": "Markmaker's Inferno Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104700",
+      "ItemName": "Markmaker's Tall Tale Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146223",
+      "ItemName": "Markmaker's Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104831",
+      "ItemName": "Markmaker's Windwalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126613",
+      "ItemName": "Oroboros Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160819",
+      "ItemName": "Plundered Crystal Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126581",
+      "ItemName": "Seal of the Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104874",
+      "ItemName": "Stormbreaker Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104666",
+      "ItemName": "Vestment of the Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104835",
+      "ItemName": "Vineyard Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104715",
+      "ItemName": "Wrap of the Monsoon",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

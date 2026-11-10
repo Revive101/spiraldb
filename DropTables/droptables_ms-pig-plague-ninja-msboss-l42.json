@@ -1,0 +1,143 @@
+{
+  "Name": "MS-Pig-Plague-Ninja-MSBoss-L42",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97698",
+      "ItemName": "Band of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97591",
+      "ItemName": "Cap of Exertion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97824",
+      "ItemName": "Cloak of Pictures",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97473",
+      "ItemName": "Dagger of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97619",
+      "ItemName": "Euphonic Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97789",
+      "ItemName": "Gallant Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97639",
+      "ItemName": "Gogi Berry Stained Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97571",
+      "ItemName": "Heedful Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97470",
+      "ItemName": "Knife of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98024",
+      "ItemName": "Koto's Adroit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97707",
+      "ItemName": "Koto's Band of Images",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97878",
+      "ItemName": "Koto's Brooding Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97452",
+      "ItemName": "Koto's Knife of Notion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97989",
+      "ItemName": "Koto's Sandals of Discontent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97667",
+      "ItemName": "Mask of the Chipper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160507",
+      "ItemName": "Pagoda-shaped Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87776",
+      "ItemName": "Plague Oni's Sapphire Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470196",
+      "ItemName": "Red Clan Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97882",
+      "ItemName": "Robe of the Lithe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98063",
+      "ItemName": "Shoes of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98060",
+      "ItemName": "Shoes of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98065",
+      "ItemName": "Slippers of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97856",
+      "ItemName": "Vestment of Hymns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512197",
+      "ItemName": "Way Of The Ninja Pig Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160604",
+      "ItemName": "Windswept Tree",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

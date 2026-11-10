@@ -1,0 +1,268 @@
+{
+  "Name": "KR-BossRare-Tamulus-R14",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203181",
+      "ItemName": "Atlach-Leng's Wintery Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203688",
+      "ItemName": "Cudgel of Concentration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203651",
+      "ItemName": "Deck of Charred Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358862",
+      "ItemName": "Deck of Charred Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358876",
+      "ItemName": "Deck of Charred Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203652",
+      "ItemName": "Deck of Winter Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358863",
+      "ItemName": "Deck of Winter Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358877",
+      "ItemName": "Deck of Winter Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203655",
+      "ItemName": "Deck of the Shadow Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358866",
+      "ItemName": "Deck of the Shadow Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358880",
+      "ItemName": "Deck of the Shadow Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203219",
+      "ItemName": "Dusty Digger Drone Duds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203265",
+      "ItemName": "Flame Legs Captain's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603164",
+      "ItemName": "Hive Magi Hall Miniature",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212035",
+      "ItemName": "Khrysalis Boris Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212026",
+      "ItemName": "Khrysalis Kondha Desert Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212025",
+      "ItemName": "Khrysalis Shadow Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203266",
+      "ItemName": "Mantis Chitin Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203342",
+      "ItemName": "Mantis Huntress' Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248248",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248249",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248250",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248251",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248252",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248253",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248254",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203300",
+      "ItemName": "Smoking Ichor Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248067",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248068",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248069",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248070",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248071",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248072",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217211",
+      "ItemName": "The Dragon Wisp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203345",
+      "ItemName": "Trader's Jewel of Prudence",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

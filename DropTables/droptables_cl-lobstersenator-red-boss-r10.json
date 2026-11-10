@@ -1,0 +1,83 @@
+{
+  "Name": "CL-LobsterSenator-Red-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243747",
+      "ItemName": "Chaos Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243279",
+      "ItemName": "Dirk of the Deluge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243371",
+      "ItemName": "Frost Giant's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243296",
+      "ItemName": "Helm of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243627",
+      "ItemName": "Incendiary Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243885",
+      "ItemName": "Nellek's Regenerating Jewel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243575",
+      "ItemName": "Nellek's Willow Ring ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243856",
+      "ItemName": "Pandemonium Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243565",
+      "ItemName": "Polar Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243267",
+      "ItemName": "Razor of Rapture",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243626",
+      "ItemName": "Torched Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342083",
+      "ItemName": "Tube Coral",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243896",
+      "ItemName": "Windstorm Choker",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

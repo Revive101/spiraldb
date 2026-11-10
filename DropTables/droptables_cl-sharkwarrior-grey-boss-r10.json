@@ -1,0 +1,158 @@
+{
+  "Name": "Cl-SharkWarrior-Grey-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1689446",
+      "ItemName": "Atavistic Balance Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689439",
+      "ItemName": "Atavistic Balance Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689447",
+      "ItemName": "Atavistic Death Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689440",
+      "ItemName": "Atavistic Death Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689448",
+      "ItemName": "Atavistic Fire Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689441",
+      "ItemName": "Atavistic Fire Tiki",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689449",
+      "ItemName": "Atavistic Ice Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689442",
+      "ItemName": "Atavistic Ice Trident",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689450",
+      "ItemName": "Atavistic Life Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689443",
+      "ItemName": "Atavistic Life Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689451",
+      "ItemName": "Atavistic Myth Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689444",
+      "ItemName": "Atavistic Myth Spyglass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689452",
+      "ItemName": "Atavistic Storm Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689445",
+      "ItemName": "Atavistic Storm Trident",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689456",
+      "ItemName": "Bygone Balance Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689505",
+      "ItemName": "Bygone Balance Tiki",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689457",
+      "ItemName": "Bygone Death Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689506",
+      "ItemName": "Bygone Death Tiki",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689458",
+      "ItemName": "Bygone Fire Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689507",
+      "ItemName": "Bygone Fire Tiki",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689459",
+      "ItemName": "Bygone Ice Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689508",
+      "ItemName": "Bygone Ice Tiki",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689460",
+      "ItemName": "Bygone Life Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689509",
+      "ItemName": "Bygone Life Tiki",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689461",
+      "ItemName": "Bygone Myth Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689510",
+      "ItemName": "Bygone Myth Tiki",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689462",
+      "ItemName": "Bygone Storm Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689511",
+      "ItemName": "Bygone Storm Tiki",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

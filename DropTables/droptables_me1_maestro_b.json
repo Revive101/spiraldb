@@ -1,0 +1,248 @@
+{
+  "Name": "ME1_Maestro_B",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "206090",
+      "ItemName": "Birdcage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470093",
+      "ItemName": "Blue Fairy Wings (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355192",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355193",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355194",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355195",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355196",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355197",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355198",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404123",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404124",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404125",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404126",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404127",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404128",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404129",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473159",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473160",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473161",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473162",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473163",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473164",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473165",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317192",
+      "ItemName": "Jade Palace Music Player",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473138",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473139",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473140",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473141",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473142",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473143",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473144",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260120",
+      "ItemName": "Ravenwood Pogo Stick (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356160",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356161",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356162",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356163",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356164",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356165",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356166",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473181",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473182",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473183",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473184",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473185",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473186",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

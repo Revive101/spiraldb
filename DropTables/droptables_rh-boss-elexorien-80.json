@@ -1,0 +1,108 @@
+{
+  "Name": "RH-Boss-Elexorien-80",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "667298",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740074",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667303",
+      "ItemName": "Boots of Whispered Flight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740085",
+      "ItemName": "Boots of Whispered Flight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667235",
+      "ItemName": "Dark Wing Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740173",
+      "ItemName": "Dark Wing Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589089",
+      "ItemName": "Raven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667296",
+      "ItemName": "Raven Helm of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737065",
+      "ItemName": "Raven Helm of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667238",
+      "ItemName": "Raven's Bow of Unkind Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740174",
+      "ItemName": "Raven's Bow of Unkind Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667304",
+      "ItemName": "Ravenking's Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740076",
+      "ItemName": "Ravenking's Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589220",
+      "ItemName": "Red Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667302",
+      "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "737067",
+      "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667297",
+      "ItemName": "Unkind Winter Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "740083",
+      "ItemName": "Unkind Winter Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

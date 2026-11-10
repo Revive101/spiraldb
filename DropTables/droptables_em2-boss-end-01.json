@@ -1,0 +1,168 @@
+{
+  "Name": "EM2-Boss-End-01",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462394",
+      "ItemName": "Balanced Paradox Defenders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462258",
+      "ItemName": "Balanced Paradox Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462393",
+      "ItemName": "Deathly Paradox Defenders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462257",
+      "ItemName": "Deathly Paradox Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462395",
+      "ItemName": "Divine Paradox Defenders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462259",
+      "ItemName": "Divine Paradox Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439017",
+      "ItemName": "Empyrea Brain Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439018",
+      "ItemName": "Empyrea Brain Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439019",
+      "ItemName": "Empyrea Brain Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439014",
+      "ItemName": "Empyrea Dance Hall Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441525",
+      "ItemName": "Empyrea Mandalla Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441526",
+      "ItemName": "Empyrea Mandalla Destroyed Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439020",
+      "ItemName": "Empyrea Medulla Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441527",
+      "ItemName": "Empyrea Nexus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441528",
+      "ItemName": "Empyrea Nimbus Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441529",
+      "ItemName": "Empyrea Nimbus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441530",
+      "ItemName": "Empyrea Reverie Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441531",
+      "ItemName": "Empyrea Reverie Dream Shrine Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441532",
+      "ItemName": "Empyrea Reverie Hive Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439021",
+      "ItemName": "Empyrea Sewer Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462388",
+      "ItemName": "Fiery Paradox Defenders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462252",
+      "ItemName": "Fiery Paradox Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462389",
+      "ItemName": "Icy Paradox Defenders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462253",
+      "ItemName": "Icy Paradox Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462392",
+      "ItemName": "Lively Paradox Defenders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462256",
+      "ItemName": "Lively Paradox Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462391",
+      "ItemName": "Mythic Paradox Defenders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462255",
+      "ItemName": "Mythic Paradox Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462390",
+      "ItemName": "Stormy Paradox Defenders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462254",
+      "ItemName": "Stormy Paradox Vestment",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

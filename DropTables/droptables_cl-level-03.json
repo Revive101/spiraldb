@@ -1,0 +1,398 @@
+{
+  "Name": "CL-Level-03",
+  "Description": "Mob loot table (8 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1502473",
+      "ItemName": "Armor of Celestian Totality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243618",
+      "ItemName": "Brimstone Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502471",
+      "ItemName": "Celestian Abyss Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502466",
+      "ItemName": "Celestian Cinder Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502467",
+      "ItemName": "Celestian Frostbit Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502468",
+      "ItemName": "Celestian Tempest Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243788",
+      "ItemName": "Chilled Clogs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243640",
+      "ItemName": "Chilled Clothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243308",
+      "ItemName": "Corrupt Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243732",
+      "ItemName": "Corrupt Deathstriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243601",
+      "ItemName": "Corrupt Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243229",
+      "ItemName": "Curing Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243830",
+      "ItemName": "Curious Clogs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243242",
+      "ItemName": "Dagger of Redemption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243595",
+      "ItemName": "Drape of Dissonance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243225",
+      "ItemName": "Engineer's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502470",
+      "ItemName": "Everlasting Celestian Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243367",
+      "ItemName": "Frostbit Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243335",
+      "ItemName": "Fuming Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243388",
+      "ItemName": "Headdress of the Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243317",
+      "ItemName": "Helm of Ordeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243780",
+      "ItemName": "Iced Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243635",
+      "ItemName": "Iced Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243718",
+      "ItemName": "Medley Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243739",
+      "ItemName": "Menacing Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243806",
+      "ItemName": "Merry Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243826",
+      "ItemName": "Mystifying Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243365",
+      "ItemName": "Persistent Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243541",
+      "ItemName": "Piscean Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243292",
+      "ItemName": "Proportional Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243453",
+      "ItemName": "Raiment of Resolution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243693",
+      "ItemName": "Rain Dance Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243414",
+      "ItemName": "Riddled Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243539",
+      "ItemName": "Ring of Reasoning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243535",
+      "ItemName": "Ring of Redemption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243711",
+      "ItemName": "Runners of Resolution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243329",
+      "ItemName": "Shroud of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243289",
+      "ItemName": "Steady Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502469",
+      "ItemName": "Storied Celestian Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243425",
+      "ItemName": "Thundercracked Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243333",
+      "ItemName": "Tinder Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243430",
+      "ItemName": "Turbulent Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502472",
+      "ItemName": "Versatile Celestian Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243655",
+      "ItemName": "Vital Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243660",
+      "ItemName": "Whispering Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243800",
+      "ItemName": "Whispering Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243361",
+      "ItemName": "Wintergale Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243720",
+      "ItemName": "Wraps of Rapport",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,768 @@
+{
+  "Name": "AV-R11-DeerKnightBoss",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512163",
+      "ItemName": "Avalon Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512164",
+      "ItemName": "Avalon Glorious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635378",
+      "ItemName": "Bane Wyrm's Tartan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470085",
+      "ItemName": "Blue Dragon (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589195",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589196",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589197",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589198",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589199",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589200",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470081",
+      "ItemName": "Bone Dragon (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635303",
+      "ItemName": "Catacombs Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635619",
+      "ItemName": "Chivalric Mallet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470086",
+      "ItemName": "Dark Redwing (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635336",
+      "ItemName": "Deep Water Rising Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160908",
+      "ItemName": "Dragon Wall Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468416",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468417",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468418",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468419",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468420",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468421",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468422",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667254",
+      "ItemName": "Dragonrider's Assailing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468423",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468424",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468425",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468426",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468427",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468428",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468429",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667258",
+      "ItemName": "Dragonrider's Assailing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468430",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468431",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468432",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468433",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468434",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468435",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468436",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667256",
+      "ItemName": "Dragonrider's Assailing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468443",
+      "ItemName": "Dragonrider's Balance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667650",
+      "ItemName": "Dragonrider's Balance Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468442",
+      "ItemName": "Dragonrider's Death Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468438",
+      "ItemName": "Dragonrider's Fire Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468440",
+      "ItemName": "Dragonrider's Life Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468441",
+      "ItemName": "Dragonrider's Myth Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468437",
+      "ItemName": "Dragonrider's Storm Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468409",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468410",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468411",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468412",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468413",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468414",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468415",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667250",
+      "ItemName": "Dragonrider's Utility Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468395",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468396",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468397",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468398",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468399",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468400",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468401",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667248",
+      "ItemName": "Dragonrider's Utility Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468402",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468403",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468404",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468405",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468406",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468407",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468408",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667252",
+      "ItemName": "Dragonrider's Utility Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468388",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468389",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468390",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468391",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468392",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468393",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468394",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667244",
+      "ItemName": "Dragonrider's Vigilant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468374",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468375",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468376",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468377",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468378",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468379",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468380",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667242",
+      "ItemName": "Dragonrider's Vigilant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468381",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468382",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468383",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468384",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468385",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468386",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468387",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667246",
+      "ItemName": "Dragonrider's Vigilant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160838",
+      "ItemName": "Dragonskull Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635246",
+      "ItemName": "Dryad's Burning Nettle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404116",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404117",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404118",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404119",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404120",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404121",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404122",
+      "ItemName": "Evil Magma Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470084",
+      "ItemName": "Faithful Dragoness (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635417",
+      "ItemName": "Hospitable Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635302",
+      "ItemName": "Hunter's Helm of Mercy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635416",
+      "ItemName": "Loyal Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635216",
+      "ItemName": "Mystery of the Druids",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635247",
+      "ItemName": "Owl's Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589187",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589188",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589189",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589190",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589191",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589192",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589193",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635217",
+      "ItemName": "Proven Armiger's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589181",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589182",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589183",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589184",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589185",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589186",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635618",
+      "ItemName": "Rosewood Persuader",
+      "Notes": ""
+    },
+    {
+      "ItemId": "175580",
+      "ItemName": "Sea Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635377",
+      "ItemName": "Three Color Serpent's Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "CL-SharkKing-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1689417",
+      "ItemName": "Atavistic Balance Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689418",
+      "ItemName": "Atavistic Death Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689419",
+      "ItemName": "Atavistic Fire Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689420",
+      "ItemName": "Atavistic Ice Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689421",
+      "ItemName": "Atavistic Life Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689422",
+      "ItemName": "Atavistic Myth Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689423",
+      "ItemName": "Atavistic Storm Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689484",
+      "ItemName": "Bygone Balance Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689485",
+      "ItemName": "Bygone Death Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689486",
+      "ItemName": "Bygone Fire Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689487",
+      "ItemName": "Bygone Ice Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689488",
+      "ItemName": "Bygone Life Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689489",
+      "ItemName": "Bygone Myth Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689490",
+      "ItemName": "Bygone Storm Dirk",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

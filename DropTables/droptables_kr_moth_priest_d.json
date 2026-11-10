@@ -1,0 +1,108 @@
+{
+  "Name": "KR_Moth_Priest_D",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203405",
+      "ItemName": "Barbed Case of Stratagem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203403",
+      "ItemName": "Bumbler's Sleetfall Pack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203132",
+      "ItemName": "Burrower Coronet of Strife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203402",
+      "ItemName": "Case of Engulfing Flames",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203173",
+      "ItemName": "Digger Captain's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203133",
+      "ItemName": "Digger's Helm of Symmetry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203286",
+      "ItemName": "Fang of the Burning Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203287",
+      "ItemName": "Lance of Chill Ichor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203291",
+      "ItemName": "Lance of the Umbra Legion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203404",
+      "ItemName": "Lightning Rider's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203329",
+      "ItemName": "Mouse Revenant's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203364",
+      "ItemName": "Sky Terror's Ghastly Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203365",
+      "ItemName": "Stiletto of the Vespula",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203328",
+      "ItemName": "Stinger's Carcanet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203172",
+      "ItemName": "Stone of the Huntress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203330",
+      "ItemName": "ToeBiter's Cursed Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203289",
+      "ItemName": "Venomtail's Bite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203278",
+      "ItemName": "Zaltanna's Combat Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

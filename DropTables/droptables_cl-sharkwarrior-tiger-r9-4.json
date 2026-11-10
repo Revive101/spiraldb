@@ -1,0 +1,118 @@
+{
+  "Name": "CL-SharkWarrior-Tiger-R9-4",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "342075",
+      "ItemName": "Campfire with Fish",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243648",
+      "ItemName": "Diamond Dust Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243222",
+      "ItemName": "Dirk of the Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243420",
+      "ItemName": "Epic Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243605",
+      "ItemName": "Forbidden Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243814",
+      "ItemName": "Inspired Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243877",
+      "ItemName": "Jewel of the Dragons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243879",
+      "ItemName": "Scorched Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243444",
+      "ItemName": "Shroud of the Storm Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243568",
+      "ItemName": "Signet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243256",
+      "ItemName": "Stellar Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243798",
+      "ItemName": "Sub Zero Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243528",
+      "ItemName": "Volatile Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

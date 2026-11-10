@@ -1,0 +1,438 @@
+{
+  "Name": "MR-Boss-Gear-112",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1402850",
+      "ItemName": "Djinn Cards of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402848",
+      "ItemName": "Djinn Cards of Dreams",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402846",
+      "ItemName": "Djinn Cards of Patience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405137",
+      "ItemName": "Djinn Ghutrah of Durability",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405135",
+      "ItemName": "Djinn Ghutrah of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405133",
+      "ItemName": "Djinn Ghutrah of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405234",
+      "ItemName": "Djinn Khanjar of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405232",
+      "ItemName": "Djinn Khanjar of Dreams",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405233",
+      "ItemName": "Djinn Khanjar of Durability",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405231",
+      "ItemName": "Djinn Khanjar of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405331",
+      "ItemName": "Djinn Khanjar of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405230",
+      "ItemName": "Djinn Khanjar of Patience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405229",
+      "ItemName": "Djinn Khanjar of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405325",
+      "ItemName": "Djinn Khanjar of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405327",
+      "ItemName": "Djinn Khanjar of Swells",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405329",
+      "ItemName": "Djinn Khanjar of Vim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405392",
+      "ItemName": "Djinn Loop of Invention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405394",
+      "ItemName": "Djinn Loop of Reverie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405390",
+      "ItemName": "Djinn Loop of Wintertide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405360",
+      "ItemName": "Djinn Pendant of Invention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405363",
+      "ItemName": "Djinn Pendant of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405362",
+      "ItemName": "Djinn Pendant of Reverie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405357",
+      "ItemName": "Djinn Pendant of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405359",
+      "ItemName": "Djinn Pendant of Swells",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405361",
+      "ItemName": "Djinn Pendant of Vim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405358",
+      "ItemName": "Djinn Pendant of Wintertide",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405298",
+      "ItemName": "Djinn Signet of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405296",
+      "ItemName": "Djinn Signet of Dreams",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405297",
+      "ItemName": "Djinn Signet of Durability",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405295",
+      "ItemName": "Djinn Signet of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405294",
+      "ItemName": "Djinn Signet of Patience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405293",
+      "ItemName": "Djinn Signet of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405169",
+      "ItemName": "Djinn Vestment of Durability",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405167",
+      "ItemName": "Djinn Vestment of Flux",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405165",
+      "ItemName": "Djinn Vestment of Radiance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405456",
+      "ItemName": "Fang Collar of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405454",
+      "ItemName": "Fang Collar of Frostfall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405458",
+      "ItemName": "Fang Collar of Umbrage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402912",
+      "ItemName": "Fang Deck of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402913",
+      "ItemName": "Fang Deck of Force",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402909",
+      "ItemName": "Fang Deck of Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402910",
+      "ItemName": "Fang Deck of Frostfall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402915",
+      "ItemName": "Fang Deck of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402911",
+      "ItemName": "Fang Deck of Tantrums",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1402914",
+      "ItemName": "Fang Deck of Umbrage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405582",
+      "ItemName": "Frosty Purrzian Axe & Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405139",
+      "ItemName": "Immaculate Djinn Ghutrah",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405235",
+      "ItemName": "Immaculate Djinn Khanjar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405299",
+      "ItemName": "Immaculate Djinn Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405171",
+      "ItemName": "Immaculate Djinn Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405038",
+      "ItemName": "Mongu Frostfall Kabalak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405070",
+      "ItemName": "Mongu Frostfall Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405104",
+      "ItemName": "Mongu Givehs of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405102",
+      "ItemName": "Mongu Givehs of Frostfall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405106",
+      "ItemName": "Mongu Givehs of Umbrage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405040",
+      "ItemName": "Mongu Kabalak of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405041",
+      "ItemName": "Mongu Kabalak of Force",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405037",
+      "ItemName": "Mongu Kabalak of Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405043",
+      "ItemName": "Mongu Kabalak of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405039",
+      "ItemName": "Mongu Kabalak of Tantrums",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405042",
+      "ItemName": "Mongu Kabalak of Umbrage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405072",
+      "ItemName": "Mongu Vestment of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405073",
+      "ItemName": "Mongu Vestment of Force",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405069",
+      "ItemName": "Mongu Vestment of Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405075",
+      "ItemName": "Mongu Vestment of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405071",
+      "ItemName": "Mongu Vestment of Tantrums",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405074",
+      "ItemName": "Mongu Vestment of Umbrage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405006",
+      "ItemName": "Nomad's Frostdune Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405007",
+      "ItemName": "Nomad's Sandstorm Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405008",
+      "ItemName": "Nomad's Striders of Praxis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405011",
+      "ItemName": "Nomad's Striders of Redress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405010",
+      "ItemName": "Nomad's Striders of Solitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405009",
+      "ItemName": "Nomad's Striders of Tenacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405005",
+      "ItemName": "Nomad's Sunfire Striders ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405523",
+      "ItemName": "Purrzian Bow of Redress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405519",
+      "ItemName": "Purrzian Bow of Sandstorms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405521",
+      "ItemName": "Purrzian Bow of Tenacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405517",
+      "ItemName": "Purrzian Sunfire Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405581",
+      "ItemName": "Smoky Purrzian Axe & Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405586",
+      "ItemName": "Somber Purrzian Axe & Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405587",
+      "ItemName": "Sturdy Purrzian Axe & Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405583",
+      "ItemName": "Vexing Purrzian Axe & Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405585",
+      "ItemName": "Vivid Purrzian Axe & Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1405584",
+      "ItemName": "Wise Purrzian Axe & Shield",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

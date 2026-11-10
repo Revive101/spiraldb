@@ -1,0 +1,93 @@
+{
+  "Name": "AQ-Squid-Tentacle-Lrg",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203042",
+      "ItemName": "Exalted Balance Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203043",
+      "ItemName": "Exalted Death Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203044",
+      "ItemName": "Exalted Fire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203045",
+      "ItemName": "Exalted Ice Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203046",
+      "ItemName": "Exalted Life Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203047",
+      "ItemName": "Exalted Myth Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203048",
+      "ItemName": "Exalted Storm Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789435",
+      "ItemName": "Harpy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819715",
+      "ItemName": "Poseidon's Backdraft Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819716",
+      "ItemName": "Poseidon's Numbing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819721",
+      "ItemName": "Poseidon's Open Seas Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819719",
+      "ItemName": "Poseidon's Staff of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819720",
+      "ItemName": "Poseidon's Wavemaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819718",
+      "ItemName": "Staff of Poseidon's Angst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819717",
+      "ItemName": "Trident of Shock Waves",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

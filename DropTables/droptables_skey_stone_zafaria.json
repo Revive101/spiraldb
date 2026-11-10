@@ -1,0 +1,168 @@
+{
+  "Name": "Skey_Stone_Zafaria",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350309",
+      "ItemName": "Adept's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540103",
+      "ItemName": "Berserker's Rage Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540236",
+      "ItemName": "Big Sky Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "690106",
+      "ItemName": "Burlap Boy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643180",
+      "ItemName": "Clay Teapot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540171",
+      "ItemName": "Cold At Night Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540282",
+      "ItemName": "Dancing Queen Dancers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643200",
+      "ItemName": "Desert Festive Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350310",
+      "ItemName": "Expert's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540143",
+      "ItemName": "Great Ape's Tooth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540202",
+      "ItemName": "Kallah's Dread Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540142",
+      "ItemName": "Kimba's Fang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540201",
+      "ItemName": "Mansa's Dream Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540172",
+      "ItemName": "Mask of Mirror Lake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540280",
+      "ItemName": "Nemean Rock Climbers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540105",
+      "ItemName": "Nganga's Strong Muti Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254141",
+      "ItemName": "Pirate Rowboat (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643111",
+      "ItemName": "Primitive Firepit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540237",
+      "ItemName": "Robes of the Cold Night",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643087",
+      "ItemName": "Short Woven Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643088",
+      "ItemName": "Tall Woven Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540200",
+      "ItemName": "Tanei's Ghost Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540144",
+      "ItemName": "The Old Tusk-Tusk-Trunk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540238",
+      "ItemName": "Tunic of Long Memory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540173",
+      "ItemName": "Turban of the Olyphants",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540104",
+      "ItemName": "Witch Doctor's Juju Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "689320",
+      "ItemName": "Zafarian Hide Rug",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

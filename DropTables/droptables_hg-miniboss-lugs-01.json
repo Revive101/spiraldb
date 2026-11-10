@@ -1,0 +1,303 @@
+{
+  "Name": "HG-MiniBoss-Lugs-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225451",
+      "ItemName": "Ash Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100326",
+      "ItemName": "Brass Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713126",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713127",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713128",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713129",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713130",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713131",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713132",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100431",
+      "ItemName": "Clockwork Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206102",
+      "ItemName": "Cuckoo Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342122",
+      "ItemName": "Deactivated Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126979",
+      "ItemName": "Death Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100451",
+      "ItemName": "Dire Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160847",
+      "ItemName": "Dragonspyre Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346060",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346061",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346062",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346063",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346064",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346065",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100432",
+      "ItemName": "Green Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512192",
+      "ItemName": "Grizzleheim Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160857",
+      "ItemName": "Kraken Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512188",
+      "ItemName": "Krokotopia Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160875",
+      "ItemName": "Magma Blister",
+      "Notes": ""
+    },
+    {
+      "ItemId": "211126",
+      "ItemName": "Mantle Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160756",
+      "ItemName": "Ornate Wall Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82910",
+      "ItemName": "Pillory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683121",
+      "ItemName": "Small Wooden Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100411",
+      "ItemName": "Steel Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356160",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356161",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356162",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356163",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356164",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356165",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356166",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355073",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355074",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355075",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355076",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355077",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355078",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355079",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160893",
+      "ItemName": "Volcanic Steam Vent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161017",
+      "ItemName": "Wyrm-crowned Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161015",
+      "ItemName": "Wyrm-footed Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161009",
+      "ItemName": "Wyrm-footed Dresser",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "NOV-LootTable-005",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248162",
+      "ItemName": "Blushing Leaf Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248161",
+      "ItemName": "Kernels of Truth Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248163",
+      "ItemName": "Stave of the Ripening",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126551",
+      "ItemName": "Turkey Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}
