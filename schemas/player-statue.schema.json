@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "player-statue.schema.json",
+  "title": "PlayerStatue",
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "string"
+    },
+    "Enabled": {
+      "type": "boolean"
+    },
+    "Zone": {
+      "type": "string"
+    },
+    "Location": {
+      "type": "object",
+      "properties": {
+        "X": {
+          "type": "number"
+        },
+        "Y": {
+          "type": "number"
+        },
+        "Z": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "X",
+        "Y",
+        "Z"
+      ],
+      "additionalProperties": false
+    },
+    "Orientation": {
+      "type": "object",
+      "properties": {
+        "X": {
+          "type": "number"
+        },
+        "Y": {
+          "type": "number"
+        },
+        "Z": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "X",
+        "Y",
+        "Z"
+      ],
+      "additionalProperties": false
+    },
+    "BaseTemplateId": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "NameKeys": {
+      "type": "integer"
+    },
+    "PlaqueTitle": {
+      "type": "string"
+    },
+    "PlaqueText": {
+      "type": "string"
+    },
+    "Appearance": {
+      "type": "object",
+      "additionalProperties": {
+        "type": [
+          "integer",
+          "string"
+        ]
+      }
+    },
+    "Equipment": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "m_itemID": {
+            "type": "integer"
+          },
+          "m_baseColor": {
+            "type": "integer"
+          },
+          "m_trimColor": {
+            "type": "integer"
+          },
+          "m_pattern": {
+            "type": "integer"
+          },
+          "m_displayID": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "m_itemID",
+          "m_baseColor",
+          "m_trimColor",
+          "m_pattern",
+          "m_displayID"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "SourceCharacterId": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "Id",
+    "Enabled",
+    "Zone",
+    "Location",
+    "Orientation",
+    "BaseTemplateId",
+    "Name",
+    "NameKeys",
+    "PlaqueTitle",
+    "PlaqueText",
+    "Appearance",
+    "Equipment",
+    "SourceCharacterId"
+  ],
+  "additionalProperties": false
+}

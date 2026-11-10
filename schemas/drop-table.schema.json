@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "drop-table.schema.json",
+  "title": "DropTable",
+  "type": "object",
+  "properties": {
+    "Name": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "RollChance": {
+      "type": "number"
+    },
+    "Weight": {
+      "type": "integer"
+    },
+    "NoneChance": {
+      "type": "number"
+    },
+    "PityCounter": {
+      "type": "number"
+    },
+    "MinGold": {
+      "type": "integer"
+    },
+    "MaxGold": {
+      "type": "integer"
+    },
+    "ExperienceAmount": {
+      "type": "integer"
+    },
+    "TrainingPoints": {
+      "type": "integer"
+    },
+    "Items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ItemId": {
+            "type": "string",
+            "pattern": "^[0-9]+$"
+          },
+          "ItemName": {
+            "type": "string"
+          },
+          "Notes": {
+            "type": "string"
+          },
+          "Requirements": {
+            "type": [
+              "object",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "ItemId",
+          "ItemName",
+          "Notes"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "CreatedAt": {
+      "type": "string"
+    },
+    "ModifiedAt": {
+      "type": "string"
+    },
+    "CreatedBy": {
+      "type": "string"
+    },
+    "ModifiedBy": {
+      "type": "string"
+    },
+    "GrantsPotionSlot": {
+      "type": "boolean"
+    },
+    "Outcomes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Kind": {
+            "enum": [
+              "Item",
+              "TreasureCard",
+              "Gold",
+              "Mana"
+            ]
+          },
+          "DropRate": {
+            "type": "number"
+          },
+          "MinGold": {
+            "type": "integer"
+          },
+          "MaxGold": {
+            "type": "integer"
+          },
+          "ManaPercent": {
+            "type": "number"
+          },
+          "ItemId": {
+            "type": "string"
+          },
+          "Quantity": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "Kind",
+          "DropRate"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "Name",
+    "Description",
+    "RollChance",
+    "Weight",
+    "NoneChance",
+    "PityCounter",
+    "MinGold",
+    "MaxGold",
+    "ExperienceAmount",
+    "TrainingPoints",
+    "Items"
+  ],
+  "additionalProperties": false
+}

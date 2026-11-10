@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "npc-drop-table.schema.json",
+  "title": "NpcDropTable",
+  "type": "object",
+  "properties": {
+    "TemplateID": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "DropTableNames": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "TemplateID",
+    "DropTableNames"
+  ],
+  "additionalProperties": false
+}

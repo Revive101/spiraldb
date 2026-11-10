@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "badge-definition.schema.json",
+  "title": "BadgeDefinition",
+  "type": "object",
+  "properties": {
+    "Id": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DisplayName": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Info": {
+      "type": "string"
+    },
+    "ProgressInfo": {
+      "type": "string"
+    },
+    "Max": {
+      "type": "integer"
+    },
+    "Index": {
+      "type": "integer"
+    },
+    "Outline": {
+      "type": "string"
+    },
+    "Image": {
+      "type": "string"
+    },
+    "Dynamic": {
+      "type": "boolean"
+    },
+    "Filter": {
+      "type": "string"
+    },
+    "ExtraCredit": {
+      "type": "boolean"
+    },
+    "ShowTitle": {
+      "type": "boolean"
+    },
+    "Retired": {
+      "type": "boolean"
+    },
+    "HasReward": {
+      "type": "boolean"
+    },
+    "RewardOverrideDescription": {
+      "type": "string"
+    },
+    "Overcount": {
+      "type": "boolean"
+    },
+    "OvercountInterval": {
+      "type": "integer"
+    },
+    "RewardLootTable": {
+      "type": "null"
+    },
+    "OvercountLootTable": {
+      "type": "null"
+    },
+    "RegistryName": {
+      "type": "null"
+    },
+    "Adjectives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "AutoAdd": {
+      "type": "boolean"
+    },
+    "Requirements": {
+      "type": "null"
+    },
+    "RequiredAutoAddBadges": {
+      "type": "array"
+    },
+    "CompleteResults": {
+      "type": "null"
+    }
+  },
+  "required": [
+    "Id",
+    "Name",
+    "DisplayName",
+    "Description",
+    "Title",
+    "Info",
+    "ProgressInfo",
+    "Max",
+    "Index",
+    "Outline",
+    "Image",
+    "Dynamic",
+    "Filter",
+    "ExtraCredit",
+    "ShowTitle",
+    "Retired",
+    "HasReward",
+    "RewardOverrideDescription",
+    "Overcount",
+    "OvercountInterval",
+    "RewardLootTable",
+    "OvercountLootTable",
+    "RegistryName",
+    "Adjectives",
+    "AutoAdd",
+    "Requirements",
+    "RequiredAutoAddBadges",
+    "CompleteResults"
+  ],
+  "additionalProperties": false
+}

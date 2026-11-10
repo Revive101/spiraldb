@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "creature-spellbook.schema.json",
+  "title": "CreatureSpellbook",
+  "type": "object",
+  "properties": {
+    "DeckName": {
+      "type": "string"
+    },
+    "SpellTemplateIds": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    }
+  },
+  "required": [
+    "DeckName",
+    "SpellTemplateIds"
+  ],
+  "additionalProperties": false
+}
