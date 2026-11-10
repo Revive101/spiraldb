@@ -1,0 +1,123 @@
+{
+  "Name": "Adv_AQ-Squid-Tentacle-Lg-A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1212000",
+      "ItemName": "Aquila Atlantea Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212004",
+      "ItemName": "Aquila Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212003",
+      "ItemName": "Aquila Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212005",
+      "ItemName": "Aquila Epic Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212001",
+      "ItemName": "Aquila Olympus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212002",
+      "ItemName": "Aquila Tartarus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696659",
+      "ItemName": "Charm of Gorgon Imprisonment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696664",
+      "ItemName": "Charm of Gorgon Infamy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696662",
+      "ItemName": "Charm of Gorgon Petrification",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696660",
+      "ItemName": "Charm of Gorgon Suffering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696663",
+      "ItemName": "Charm of Gorgon Venom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696665",
+      "ItemName": "Charm of Gorgon Volatility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1696661",
+      "ItemName": "Charm of Gorgon's Gaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203035",
+      "ItemName": "Deck of Immortal Might",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203042",
+      "ItemName": "Exalted Balance Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203043",
+      "ItemName": "Exalted Death Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203044",
+      "ItemName": "Exalted Fire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203045",
+      "ItemName": "Exalted Ice Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203046",
+      "ItemName": "Exalted Life Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203047",
+      "ItemName": "Exalted Myth Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203048",
+      "ItemName": "Exalted Storm Amulet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

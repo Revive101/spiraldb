@@ -1,0 +1,418 @@
+{
+  "Name": "PA-Plant-BOSS-R5",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473125",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473126",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473127",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473128",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473129",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473130",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97147",
+      "ItemName": "Cap of the Kraken",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355151",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355152",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355153",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355154",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355155",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355156",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97131",
+      "ItemName": "Deck of the Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97124",
+      "ItemName": "Enigmatic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97371",
+      "ItemName": "Flowering Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97237",
+      "ItemName": "Frosty Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77239",
+      "ItemName": "Frozen Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97363",
+      "ItemName": "Graceful Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97221",
+      "ItemName": "Hat of Equation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39019",
+      "ItemName": "Headwrap of Incineration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97194",
+      "ItemName": "Helm of Horrors",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77181",
+      "ItemName": "Icy Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356107",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356108",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356109",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356110",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356111",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356112",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468532",
+      "ItemName": "Librarian's Stylet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97243",
+      "ItemName": "Mechanical Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473138",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473139",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473140",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473141",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473142",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473143",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473144",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77232",
+      "ItemName": "Pompous Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473132",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473133",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473134",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473135",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473136",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473137",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97293",
+      "ItemName": "Robe of Extinction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97283",
+      "ItemName": "Robe of the Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97411",
+      "ItemName": "Sandals of Civility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87474",
+      "ItemName": "Staff of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473181",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473182",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473183",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473184",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473185",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473186",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468537",
+      "ItemName": "Tournament Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468533",
+      "ItemName": "Vernal Shears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39069",
+      "ItemName": "Watchman's Decoder Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512093",
+      "ItemName": "Wysteria Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468538",
+      "ItemName": "Wysteria Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512152",
+      "ItemName": "Wysteria Theme 2",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,978 @@
+{
+  "Name": "LM-Mob-Gear-145",
+  "Description": "Mob loot table (33 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537253",
+      "ItemName": "Hierarch's Ancient One Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537609",
+      "ItemName": "Hierarch's Ancient One Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535923",
+      "ItemName": "Hierarch's Ancient One Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537269",
+      "ItemName": "Hierarch's Ancient One Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535931",
+      "ItemName": "Hierarch's Ancient One Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535939",
+      "ItemName": "Hierarch's Ancient One Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537494",
+      "ItemName": "Hierarch's Ancient One Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537261",
+      "ItemName": "Hierarch's Ancient One Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537201",
+      "ItemName": "Hierarch's Barbarian Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537589",
+      "ItemName": "Hierarch's Barbarian Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535871",
+      "ItemName": "Hierarch's Barbarian Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537217",
+      "ItemName": "Hierarch's Barbarian Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535879",
+      "ItemName": "Hierarch's Barbarian Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535887",
+      "ItemName": "Hierarch's Barbarian Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537472",
+      "ItemName": "Hierarch's Barbarian Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537209",
+      "ItemName": "Hierarch's Barbarian Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537247",
+      "ItemName": "Hierarch's Cold Steel Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537603",
+      "ItemName": "Hierarch's Cold Steel Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535917",
+      "ItemName": "Hierarch's Cold Steel Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537263",
+      "ItemName": "Hierarch's Cold Steel Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535925",
+      "ItemName": "Hierarch's Cold Steel Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535933",
+      "ItemName": "Hierarch's Cold Steel Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537488",
+      "ItemName": "Hierarch's Cold Steel Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537255",
+      "ItemName": "Hierarch's Cold Steel Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537227",
+      "ItemName": "Hierarch's Deadly Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537599",
+      "ItemName": "Hierarch's Deadly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535897",
+      "ItemName": "Hierarch's Deadly Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537243",
+      "ItemName": "Hierarch's Deadly Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535905",
+      "ItemName": "Hierarch's Deadly Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535913",
+      "ItemName": "Hierarch's Deadly Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537483",
+      "ItemName": "Hierarch's Deadly Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537235",
+      "ItemName": "Hierarch's Deadly Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537248",
+      "ItemName": "Hierarch's Deflector Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537604",
+      "ItemName": "Hierarch's Deflector Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535918",
+      "ItemName": "Hierarch's Deflector Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537264",
+      "ItemName": "Hierarch's Deflector Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535926",
+      "ItemName": "Hierarch's Deflector Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535934",
+      "ItemName": "Hierarch's Deflector Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537489",
+      "ItemName": "Hierarch's Deflector Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537256",
+      "ItemName": "Hierarch's Deflector Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537199",
+      "ItemName": "Hierarch's Detective Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537587",
+      "ItemName": "Hierarch's Detective Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535869",
+      "ItemName": "Hierarch's Detective Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537215",
+      "ItemName": "Hierarch's Detective Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535877",
+      "ItemName": "Hierarch's Detective Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535885",
+      "ItemName": "Hierarch's Detective Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537470",
+      "ItemName": "Hierarch's Detective Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537207",
+      "ItemName": "Hierarch's Detective Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537224",
+      "ItemName": "Hierarch's Electric Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537596",
+      "ItemName": "Hierarch's Electric Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535894",
+      "ItemName": "Hierarch's Electric Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537240",
+      "ItemName": "Hierarch's Electric Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535902",
+      "ItemName": "Hierarch's Electric Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535910",
+      "ItemName": "Hierarch's Electric Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537480",
+      "ItemName": "Hierarch's Electric Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537232",
+      "ItemName": "Hierarch's Electric Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537222",
+      "ItemName": "Hierarch's Eruption Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537594",
+      "ItemName": "Hierarch's Eruption Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535892",
+      "ItemName": "Hierarch's Eruption Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537238",
+      "ItemName": "Hierarch's Eruption Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535900",
+      "ItemName": "Hierarch's Eruption Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535908",
+      "ItemName": "Hierarch's Eruption Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537478",
+      "ItemName": "Hierarch's Eruption Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537230",
+      "ItemName": "Hierarch's Eruption Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537225",
+      "ItemName": "Hierarch's Ferocious Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537597",
+      "ItemName": "Hierarch's Ferocious Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535895",
+      "ItemName": "Hierarch's Ferocious Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537241",
+      "ItemName": "Hierarch's Ferocious Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535903",
+      "ItemName": "Hierarch's Ferocious Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535911",
+      "ItemName": "Hierarch's Ferocious Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537481",
+      "ItemName": "Hierarch's Ferocious Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537233",
+      "ItemName": "Hierarch's Ferocious Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537246",
+      "ItemName": "Hierarch's Firewall Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537602",
+      "ItemName": "Hierarch's Firewall Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535916",
+      "ItemName": "Hierarch's Firewall Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537262",
+      "ItemName": "Hierarch's Firewall Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535924",
+      "ItemName": "Hierarch's Firewall Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535932",
+      "ItemName": "Hierarch's Firewall Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537487",
+      "ItemName": "Hierarch's Firewall Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537254",
+      "ItemName": "Hierarch's Firewall Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537205",
+      "ItemName": "Hierarch's Founder's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537593",
+      "ItemName": "Hierarch's Founder's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535875",
+      "ItemName": "Hierarch's Founder's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537221",
+      "ItemName": "Hierarch's Founder's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535883",
+      "ItemName": "Hierarch's Founder's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535891",
+      "ItemName": "Hierarch's Founder's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537476",
+      "ItemName": "Hierarch's Founder's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537213",
+      "ItemName": "Hierarch's Founder's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537223",
+      "ItemName": "Hierarch's Freezer Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537595",
+      "ItemName": "Hierarch's Freezer Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535893",
+      "ItemName": "Hierarch's Freezer Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537239",
+      "ItemName": "Hierarch's Freezer Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535901",
+      "ItemName": "Hierarch's Freezer Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535909",
+      "ItemName": "Hierarch's Freezer Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537479",
+      "ItemName": "Hierarch's Freezer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537231",
+      "ItemName": "Hierarch's Freezer Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537228",
+      "ItemName": "Hierarch's Hex Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537600",
+      "ItemName": "Hierarch's Hex Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535898",
+      "ItemName": "Hierarch's Hex Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537244",
+      "ItemName": "Hierarch's Hex Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535906",
+      "ItemName": "Hierarch's Hex Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535914",
+      "ItemName": "Hierarch's Hex Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537484",
+      "ItemName": "Hierarch's Hex Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537236",
+      "ItemName": "Hierarch's Hex Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537203",
+      "ItemName": "Hierarch's Horror Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537591",
+      "ItemName": "Hierarch's Horror Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535873",
+      "ItemName": "Hierarch's Horror Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537219",
+      "ItemName": "Hierarch's Horror Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535881",
+      "ItemName": "Hierarch's Horror Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535889",
+      "ItemName": "Hierarch's Horror Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537474",
+      "ItemName": "Hierarch's Horror Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537211",
+      "ItemName": "Hierarch's Horror Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537202",
+      "ItemName": "Hierarch's Jungle Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537590",
+      "ItemName": "Hierarch's Jungle Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535872",
+      "ItemName": "Hierarch's Jungle Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537218",
+      "ItemName": "Hierarch's Jungle Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535880",
+      "ItemName": "Hierarch's Jungle Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535888",
+      "ItemName": "Hierarch's Jungle Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537473",
+      "ItemName": "Hierarch's Jungle Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537210",
+      "ItemName": "Hierarch's Jungle Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537226",
+      "ItemName": "Hierarch's Lifeforce Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537598",
+      "ItemName": "Hierarch's Lifeforce Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535896",
+      "ItemName": "Hierarch's Lifeforce Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537242",
+      "ItemName": "Hierarch's Lifeforce Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535904",
+      "ItemName": "Hierarch's Lifeforce Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535912",
+      "ItemName": "Hierarch's Lifeforce Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537482",
+      "ItemName": "Hierarch's Lifeforce Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537234",
+      "ItemName": "Hierarch's Lifeforce Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537229",
+      "ItemName": "Hierarch's Old Judge Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537601",
+      "ItemName": "Hierarch's Old Judge Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535899",
+      "ItemName": "Hierarch's Old Judge Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537245",
+      "ItemName": "Hierarch's Old Judge Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535907",
+      "ItemName": "Hierarch's Old Judge Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535915",
+      "ItemName": "Hierarch's Old Judge Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537485",
+      "ItemName": "Hierarch's Old Judge Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537237",
+      "ItemName": "Hierarch's Old Judge Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537250",
+      "ItemName": "Hierarch's Preservation Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537606",
+      "ItemName": "Hierarch's Preservation Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535920",
+      "ItemName": "Hierarch's Preservation Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537266",
+      "ItemName": "Hierarch's Preservation Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535928",
+      "ItemName": "Hierarch's Preservation Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535936",
+      "ItemName": "Hierarch's Preservation Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537491",
+      "ItemName": "Hierarch's Preservation Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537258",
+      "ItemName": "Hierarch's Preservation Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537200",
+      "ItemName": "Hierarch's Science Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537588",
+      "ItemName": "Hierarch's Science Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535870",
+      "ItemName": "Hierarch's Science Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537216",
+      "ItemName": "Hierarch's Science Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535878",
+      "ItemName": "Hierarch's Science Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535886",
+      "ItemName": "Hierarch's Science Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537471",
+      "ItemName": "Hierarch's Science Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537208",
+      "ItemName": "Hierarch's Science Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537252",
+      "ItemName": "Hierarch's Stability Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537608",
+      "ItemName": "Hierarch's Stability Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535922",
+      "ItemName": "Hierarch's Stability Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537268",
+      "ItemName": "Hierarch's Stability Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535930",
+      "ItemName": "Hierarch's Stability Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535938",
+      "ItemName": "Hierarch's Stability Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537493",
+      "ItemName": "Hierarch's Stability Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537260",
+      "ItemName": "Hierarch's Stability Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537204",
+      "ItemName": "Hierarch's Teleological Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537592",
+      "ItemName": "Hierarch's Teleological Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535874",
+      "ItemName": "Hierarch's Teleological Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537220",
+      "ItemName": "Hierarch's Teleological Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535882",
+      "ItemName": "Hierarch's Teleological Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535890",
+      "ItemName": "Hierarch's Teleological Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537475",
+      "ItemName": "Hierarch's Teleological Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537212",
+      "ItemName": "Hierarch's Teleological Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537249",
+      "ItemName": "Hierarch's Undaunting Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537605",
+      "ItemName": "Hierarch's Undaunting Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535919",
+      "ItemName": "Hierarch's Undaunting Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537265",
+      "ItemName": "Hierarch's Undaunting Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535927",
+      "ItemName": "Hierarch's Undaunting Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535935",
+      "ItemName": "Hierarch's Undaunting Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537490",
+      "ItemName": "Hierarch's Undaunting Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537257",
+      "ItemName": "Hierarch's Undaunting Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537251",
+      "ItemName": "Hierarch's Undead Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537607",
+      "ItemName": "Hierarch's Undead Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535921",
+      "ItemName": "Hierarch's Undead Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537267",
+      "ItemName": "Hierarch's Undead Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535929",
+      "ItemName": "Hierarch's Undead Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535937",
+      "ItemName": "Hierarch's Undead Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537492",
+      "ItemName": "Hierarch's Undead Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537259",
+      "ItemName": "Hierarch's Undead Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537198",
+      "ItemName": "Hierarch's Volcanic Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537586",
+      "ItemName": "Hierarch's Volcanic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535868",
+      "ItemName": "Hierarch's Volcanic Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537214",
+      "ItemName": "Hierarch's Volcanic Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535876",
+      "ItemName": "Hierarch's Volcanic Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1535884",
+      "ItemName": "Hierarch's Volcanic Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537469",
+      "ItemName": "Hierarch's Volcanic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537206",
+      "ItemName": "Hierarch's Volcanic Talisman",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

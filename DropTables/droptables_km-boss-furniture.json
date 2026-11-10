@@ -1,0 +1,368 @@
+{
+  "Name": "KM-Boss-Furniture",
+  "Description": "Mob loot table (24 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1514778",
+      "ItemName": "Director Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515382",
+      "ItemName": "Director Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514774",
+      "ItemName": "Director Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515378",
+      "ItemName": "Director Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514780",
+      "ItemName": "Director Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515384",
+      "ItemName": "Director Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514775",
+      "ItemName": "Director Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515379",
+      "ItemName": "Director Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514776",
+      "ItemName": "Director Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515380",
+      "ItemName": "Director Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514779",
+      "ItemName": "Director Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515383",
+      "ItemName": "Director Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514777",
+      "ItemName": "Director Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515381",
+      "ItemName": "Director Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514773",
+      "ItemName": "Director Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515377",
+      "ItemName": "Director Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514802",
+      "ItemName": "Executive Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515390",
+      "ItemName": "Executive Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514798",
+      "ItemName": "Executive Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515386",
+      "ItemName": "Executive Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514804",
+      "ItemName": "Executive Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515392",
+      "ItemName": "Executive Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514799",
+      "ItemName": "Executive Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515387",
+      "ItemName": "Executive Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514800",
+      "ItemName": "Executive Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515388",
+      "ItemName": "Executive Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514803",
+      "ItemName": "Executive Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515391",
+      "ItemName": "Executive Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514801",
+      "ItemName": "Executive Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515389",
+      "ItemName": "Executive Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514797",
+      "ItemName": "Executive Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515385",
+      "ItemName": "Executive Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504160",
+      "ItemName": "Gum Drop Container",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511115",
+      "ItemName": "Gumdrop Forest Poster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511121",
+      "ItemName": "Gumdrop Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504154",
+      "ItemName": "Karamelle Barrel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480285",
+      "ItemName": "Karamelle Cavity Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480287",
+      "ItemName": "Karamelle City Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480288",
+      "ItemName": "Karamelle City Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504155",
+      "ItemName": "Karamelle Crate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480289",
+      "ItemName": "Karamelle Forest Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480290",
+      "ItemName": "Karamelle Forest Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480284",
+      "ItemName": "Karamelle Jingle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480291",
+      "ItemName": "Karamelle Neglected Com Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480292",
+      "ItemName": "Karamelle Neglected Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480293",
+      "ItemName": "Karamelle Rural Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480294",
+      "ItemName": "Karamelle Rural Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480295",
+      "ItemName": "Karamelle Worker Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1480296",
+      "ItemName": "Karamelle Worker Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511120",
+      "ItemName": "Licorice Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1504159",
+      "ItemName": "Oil Drum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514826",
+      "ItemName": "Producer's Biohazard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515398",
+      "ItemName": "Producer's Biohazard Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514822",
+      "ItemName": "Producer's Cryo Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515394",
+      "ItemName": "Producer's Cryo Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514828",
+      "ItemName": "Producer's Hazmat Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515400",
+      "ItemName": "Producer's Hazmat Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514823",
+      "ItemName": "Producer's Insulated Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515395",
+      "ItemName": "Producer's Insulated Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514824",
+      "ItemName": "Producer's Pressure Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515396",
+      "ItemName": "Producer's Pressure Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514827",
+      "ItemName": "Producer's Protective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515399",
+      "ItemName": "Producer's Protective Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514825",
+      "ItemName": "Producer's Survival Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515397",
+      "ItemName": "Producer's Survival Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514821",
+      "ItemName": "Producer's Thermal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515393",
+      "ItemName": "Producer's Thermal Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511117",
+      "ItemName": "Rock Candy Mountains Poster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511123",
+      "ItemName": "Trash Pile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1511113",
+      "ItemName": "Von Trap Estate Poster",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

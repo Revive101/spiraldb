@@ -1,0 +1,468 @@
+{
+  "Name": "SKB_Holiday_Krampus_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1446897",
+      "ItemName": "Ancient Ceremonial Yuleaxe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350313",
+      "ItemName": "Artisan's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456462",
+      "ItemName": "Axe of Winter's Discontent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537487",
+      "ItemName": "Big Holiday Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1456476",
+      "ItemName": "Bird of the Yuletide Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446855",
+      "ItemName": "Bird of the Yuletide Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470166",
+      "ItemName": "Blue Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724295",
+      "ItemName": "Blue Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126817",
+      "ItemName": "Candle Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126816",
+      "ItemName": "Candy Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335013",
+      "ItemName": "Carol of the Bells Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730940",
+      "ItemName": "Color Guard Wintergreen Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730941",
+      "ItemName": "Color Guard Wintergreen Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257150",
+      "ItemName": "Crown of Winter's Reign",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335012",
+      "ItemName": "Deck the Halls Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317733",
+      "ItemName": "Festive Yuletree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225437",
+      "ItemName": "Fire Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100408",
+      "ItemName": "Fire Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225408",
+      "ItemName": "Fire Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100409",
+      "ItemName": "Frost Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317731",
+      "ItemName": "Frosty Yuletree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257220",
+      "ItemName": "Furious Winter Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730950",
+      "ItemName": "Fusilier's Fireberry Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730951",
+      "ItemName": "Fusilier's Fireberry Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126815",
+      "ItemName": "Gingerbread Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470167",
+      "ItemName": "Green Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724294",
+      "ItemName": "Green Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100435",
+      "ItemName": "Grumpy Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257210",
+      "ItemName": "Helm of the Furious Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537611",
+      "ItemName": "Holiday Wreath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191668",
+      "ItemName": "Ice Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335011",
+      "ItemName": "Jingle Bells Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317732",
+      "ItemName": "Jubilant Yuletree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1638002",
+      "ItemName": "Krampus Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617316",
+      "ItemName": "Krampus Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407148",
+      "ItemName": "Krampus' Hitstick",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537496",
+      "ItemName": "Large Snowflake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374127",
+      "ItemName": "Lively Reindeer Decoration ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733226",
+      "ItemName": "Lump of Coal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374126",
+      "ItemName": "Majestic Reindeer Decoration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257180",
+      "ItemName": "Mantle of the Frozen Sun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317712",
+      "ItemName": "Maple Moose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126820",
+      "ItemName": "Mint Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257160",
+      "ItemName": "Mukluks of Winter's Reign",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257190",
+      "ItemName": "Mukluks of the Frozen Sun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126814",
+      "ItemName": "Nutcracker Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126819",
+      "ItemName": "Ornamental Paper Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "731001",
+      "ItemName": "Queen's Color Guard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "731011",
+      "ItemName": "Queen's Color Guard Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "731012",
+      "ItemName": "Queen's Color Guard Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730991",
+      "ItemName": "Queen's Color Guard Shako",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257170",
+      "ItemName": "Raiment of Winter's Reign",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470165",
+      "ItemName": "Red Candy-cane (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724293",
+      "ItemName": "Red Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374095",
+      "ItemName": "Red String Lights",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257230",
+      "ItemName": "Robe of the Furious Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257200",
+      "ItemName": "Robes of the Frozen Sun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730971",
+      "ItemName": "Royal Fusilier's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730981",
+      "ItemName": "Royal Fusilier's Dress Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730982",
+      "ItemName": "Royal Fusilier's Dress Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730961",
+      "ItemName": "Royal Fusilier's Shako",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126808",
+      "ItemName": "Santa Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126806",
+      "ItemName": "Santa Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126807",
+      "ItemName": "Santa Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446911",
+      "ItemName": "Sleigh Bells Ringing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181066",
+      "ItemName": "Small Fir Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473680",
+      "ItemName": "Snowball",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317738",
+      "ItemName": "Snowflake Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537498",
+      "ItemName": "Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724298",
+      "ItemName": "Spiral Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257280",
+      "ItemName": "Staff of Wintertime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257270",
+      "ItemName": "Staff of the Long Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126818",
+      "ItemName": "Star Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225449",
+      "ItemName": "Storm Elf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225436",
+      "ItemName": "Storm Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126821",
+      "ItemName": "Sweet Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446883",
+      "ItemName": "Timeless Yuletide Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446884",
+      "ItemName": "Timeless Yuletide Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537488",
+      "ItemName": "Tree Wrapped Gift",
+      "Notes": ""
+    },
+    {
+      "ItemId": "731031",
+      "ItemName": "Winter Palace Cavalry Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "731041",
+      "ItemName": "Winter Palace Full Dress Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "731042",
+      "ItemName": "Winter Palace Full Dress Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "731021",
+      "ItemName": "Winter Palace Guard Shako",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730930",
+      "ItemName": "Winter Palace Spikeleaf Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730931",
+      "ItemName": "Winter Palace Spikeleaf Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257290",
+      "ItemName": "Winter's Radiant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "724292",
+      "ItemName": "Yellow Holiday Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446869",
+      "ItemName": "Yuletide Ceremonial Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335014",
+      "ItemName": "Yuletide Jingle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446925",
+      "ItemName": "Yuletide Morning Mandolin",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

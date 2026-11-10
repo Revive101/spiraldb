@@ -1,0 +1,298 @@
+{
+  "Name": "AQ-MiniBoss-90",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "730317",
+      "ItemName": "Apocalypto Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730239",
+      "ItemName": "Beak Breaker's Antique Sliver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730240",
+      "ItemName": "Black Sky Barbed Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730347",
+      "ItemName": "Black Sun Chac's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730279",
+      "ItemName": "Black Sun Chac's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730393",
+      "ItemName": "Black Sun Chac's Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730316",
+      "ItemName": "Broken Spears Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730238",
+      "ItemName": "Captain of the Sky's Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730313",
+      "ItemName": "Celestial Codex Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730235",
+      "ItemName": "Deathless Storm Horn Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730396",
+      "ItemName": "Eagle Lord's Cloud Dancers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730282",
+      "ItemName": "Five Flowers Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730281",
+      "ItemName": "Grinning Death Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730395",
+      "ItemName": "Grinning Death Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730349",
+      "ItemName": "Grinning Death Xicolli Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730280",
+      "ItemName": "Hood of the Hungry Lizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730278",
+      "ItemName": "Keeper of the Codex Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730346",
+      "ItemName": "Keeper of the Codex Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730392",
+      "ItemName": "Keeper of the Codex Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730241",
+      "ItemName": "Kronosaur's Grim Cutter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730350",
+      "ItemName": "Lord of Night Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730391",
+      "ItemName": "Philosoraptor's Abstract Feet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730277",
+      "ItemName": "Philosoraptor's Ideal Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730345",
+      "ItemName": "Philososaur's Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730394",
+      "ItemName": "Rangers of the Hungry Lizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730237",
+      "ItemName": "Savage Spike Horn Cutter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819580",
+      "ItemName": "Senator's Frostfall Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819622",
+      "ItemName": "Senator's Frostfall Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819601",
+      "ItemName": "Senator's Frostfall Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819584",
+      "ItemName": "Senator's Laurel of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819579",
+      "ItemName": "Senator's Laurel of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819582",
+      "ItemName": "Senator's Laurel of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819581",
+      "ItemName": "Senator's Monsoon Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819623",
+      "ItemName": "Senator's Monsoon Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819602",
+      "ItemName": "Senator's Monsoon Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819585",
+      "ItemName": "Senator's Noble Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819627",
+      "ItemName": "Senator's Noble Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819606",
+      "ItemName": "Senator's Noble Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819626",
+      "ItemName": "Senator's Shoes of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819624",
+      "ItemName": "Senator's Shoes of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819621",
+      "ItemName": "Senator's Sparking Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819583",
+      "ItemName": "Senator's Spirited Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819625",
+      "ItemName": "Senator's Spirited Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819604",
+      "ItemName": "Senator's Spirited Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819605",
+      "ItemName": "Senator's Toga of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819600",
+      "ItemName": "Senator's Toga of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819603",
+      "ItemName": "Senator's Toga of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730315",
+      "ItemName": "Signet of the Lizard Tyrant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730236",
+      "ItemName": "Smoking Mirror's Final Touch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730314",
+      "ItemName": "Storm Owl's Terror Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730312",
+      "ItemName": "Tears of the Sun Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730348",
+      "ItemName": "Vestment of the Hungry Lizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730344",
+      "ItemName": "White Fire Chac's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730390",
+      "ItemName": "White Fire Chac's Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730276",
+      "ItemName": "White Fire Chac's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730318",
+      "ItemName": "Xibalba's Dread Seal",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

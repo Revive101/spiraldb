@@ -1,0 +1,138 @@
+{
+  "Name": "CL-AnglerBoss-R10-4",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243939",
+      "ItemName": "Blistering Baton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512138",
+      "ItemName": "Celestia Tribal Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342123",
+      "ItemName": "Cephalopod Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243464",
+      "ItemName": "Equilibrium Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243397",
+      "ItemName": "Everlasting Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243300",
+      "ItemName": "Harmony Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243951",
+      "ItemName": "Jolting Jellywand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243516",
+      "ItemName": "Loop of the Lawful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243706",
+      "ItemName": "Maelstrom Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243859",
+      "ItemName": "Maelstrom Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243261",
+      "ItemName": "Marcio's Icy Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243569",
+      "ItemName": "Marcio's Snowfall Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243892",
+      "ItemName": "Orthrus' Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243268",
+      "ItemName": "Seraph's Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243942",
+      "ItemName": "Shivering Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243897",
+      "ItemName": "Storm Lord's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243751",
+      "ItemName": "Wicked Walkers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

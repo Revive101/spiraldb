@@ -1,0 +1,98 @@
+{
+  "Name": "RH-Boss-Jokul-40",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "532422",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532423",
+      "ItemName": "Armor of Many Winters",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532462",
+      "ItemName": "Boots of Whispered Flight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532463",
+      "ItemName": "Boots of Whispered Flight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532406",
+      "ItemName": "Raven Helm of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532407",
+      "ItemName": "Raven Helm of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532490",
+      "ItemName": "Raven's Claw of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532491",
+      "ItemName": "Raven's Claw of Unkindness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532514",
+      "ItemName": "Raven's Storied Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532515",
+      "ItemName": "Raven's Storied Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532470",
+      "ItemName": "Ravenking's Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532471",
+      "ItemName": "Ravenking's Battle Story Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532454",
+      "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532455",
+      "ItemName": "Thought and Memory Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532414",
+      "ItemName": "Unkind Winter Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532415",
+      "ItemName": "Unkind Winter Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

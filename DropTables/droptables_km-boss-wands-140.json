@@ -1,0 +1,138 @@
+{
+  "Name": "KM-Boss-Wands-140",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1515299",
+      "ItemName": "Guten Artisan Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515303",
+      "ItemName": "Guten Candymancer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515302",
+      "ItemName": "Guten Dreamsearcher Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515296",
+      "ItemName": "Guten Freshbaker Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515298",
+      "ItemName": "Guten Sciencer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515301",
+      "ItemName": "Guten Sentamentalist Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515300",
+      "ItemName": "Guten Sweetsmith Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515297",
+      "ItemName": "Guten Wonderneer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515317",
+      "ItemName": "Uber Artisan Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515321",
+      "ItemName": "Uber Candymancer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515320",
+      "ItemName": "Uber Dreamsearcher Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515314",
+      "ItemName": "Uber Freshbaker Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515316",
+      "ItemName": "Uber Sciencer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515319",
+      "ItemName": "Uber Sentamentalist Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515318",
+      "ItemName": "Uber Sweetsmith Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515315",
+      "ItemName": "Uber Wonderneer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515308",
+      "ItemName": "Wunderbar Artisan Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515312",
+      "ItemName": "Wunderbar Candymancer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515311",
+      "ItemName": "Wunderbar Dreamsearcher Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515305",
+      "ItemName": "Wunderbar Freshbaker Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515307",
+      "ItemName": "Wunderbar Sciencer Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515310",
+      "ItemName": "Wunderbar Sentamentalist Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515309",
+      "ItemName": "Wunderbar Sweetsmith Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515306",
+      "ItemName": "Wunderbar Wonderneer Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

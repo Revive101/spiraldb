@@ -1,0 +1,1073 @@
+{
+  "Name": "EM-SKR-CorpoalTennisyn",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1430637",
+      "ItemName": "Alphoi Reflector Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589145",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589146",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589147",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589148",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589149",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589150",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589151",
+      "ItemName": "Angora Bunny Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446126",
+      "ItemName": "Armor of the Light Brigade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350313",
+      "ItemName": "Artisan's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355137",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355138",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355139",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355140",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355141",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355142",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446124",
+      "ItemName": "Baleful Light Brigade Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473125",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473126",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473127",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473128",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473129",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473130",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126412",
+      "ItemName": "Black Cat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421921",
+      "ItemName": "Blue Globulin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589194",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589195",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589196",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589197",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589198",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589199",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589200",
+      "ItemName": "Blue Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713119",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713120",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713121",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713122",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713123",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713124",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713125",
+      "ItemName": "Boiled Peanuts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446431",
+      "ItemName": "Boots of Fire Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446433",
+      "ItemName": "Boots of Refraction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446441",
+      "ItemName": "Boots of the Brief Candle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356127",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356128",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356129",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356130",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356131",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356132",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356133",
+      "ItemName": "Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446423",
+      "ItemName": "Cape of Fire Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446424",
+      "ItemName": "Cape of Refraction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446428",
+      "ItemName": "Cape of the Brief Candle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446121",
+      "ItemName": "Charged Light Brigade Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430243",
+      "ItemName": "Comfort Zone Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430257",
+      "ItemName": "Comfort Zone Leisure Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430271",
+      "ItemName": "Comfort Zone Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446430",
+      "ItemName": "Conical of Fire Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446432",
+      "ItemName": "Conical of Refraction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446440",
+      "ItemName": "Conical of the Brief Candle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356114",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356115",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356116",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356117",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356118",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356119",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473093",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473094",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473095",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473096",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473097",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473098",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439000",
+      "ItemName": "Empyrea Aeriel Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439001",
+      "ItemName": "Empyrea Athanor Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439004",
+      "ItemName": "Empyrea Finale Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439005",
+      "ItemName": "Empyrea Flotsam Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439002",
+      "ItemName": "Empyrea Inner Athanor Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439006",
+      "ItemName": "Empyrea Jungle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439009",
+      "ItemName": "Empyrea Khan Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439003",
+      "ItemName": "Empyrea Outer Athanor Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439007",
+      "ItemName": "Empyrea Sepidious Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439008",
+      "ItemName": "Empyrea Sepidious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446120",
+      "ItemName": "Frosty Light Brigade Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1392076",
+      "ItemName": "Gobbler (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713175",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713176",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713177",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713178",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713179",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713180",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713181",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473159",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473160",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473161",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473162",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473163",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473164",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473165",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421919",
+      "ItemName": "Green Globulin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "175468",
+      "ItemName": "Grizzley Boar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446435",
+      "ItemName": "Heat Lightning Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446434",
+      "ItemName": "Heat Lightning Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446425",
+      "ItemName": "Heat Lightning Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430510",
+      "ItemName": "Interstellar Delegate's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430502",
+      "ItemName": "Interstellar Delegate's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430518",
+      "ItemName": "Interstellar Delegate's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430448",
+      "ItemName": "Interstellar Delegate's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430494",
+      "ItemName": "Interstellar Delegate's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430442",
+      "ItemName": "Interstellar Engineer Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430504",
+      "ItemName": "Interstellar Engineer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430496",
+      "ItemName": "Interstellar Engineer's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430512",
+      "ItemName": "Interstellar Engineer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430488",
+      "ItemName": "Interstellar Engineer's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430505",
+      "ItemName": "Interstellar Explorer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430497",
+      "ItemName": "Interstellar Explorer's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430513",
+      "ItemName": "Interstellar Explorer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430443",
+      "ItemName": "Interstellar Explorer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430489",
+      "ItemName": "Interstellar Explorer's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430507",
+      "ItemName": "Interstellar Hero's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430499",
+      "ItemName": "Interstellar Hero's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430515",
+      "ItemName": "Interstellar Hero's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430445",
+      "ItemName": "Interstellar Hero's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430491",
+      "ItemName": "Interstellar Hero's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430508",
+      "ItemName": "Interstellar Medic's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430500",
+      "ItemName": "Interstellar Medic's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430516",
+      "ItemName": "Interstellar Medic's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430492",
+      "ItemName": "Interstellar Medic's Scalpel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430444",
+      "ItemName": "Interstellar Navigator Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430506",
+      "ItemName": "Interstellar Navigator's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430498",
+      "ItemName": "Interstellar Navigator's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430514",
+      "ItemName": "Interstellar Navigator's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430490",
+      "ItemName": "Interstellar Navigator's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430511",
+      "ItemName": "Interstellar Officer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430503",
+      "ItemName": "Interstellar Officer's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430519",
+      "ItemName": "Interstellar Officer's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430449",
+      "ItemName": "Interstellar Officer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430495",
+      "ItemName": "Interstellar Officer's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430447",
+      "ItemName": "Interstellar Warrior Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430509",
+      "ItemName": "Interstellar Warrior's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430501",
+      "ItemName": "Interstellar Warrior's Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430517",
+      "ItemName": "Interstellar Warrior's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430493",
+      "ItemName": "Interstellar Warrior's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473638",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473639",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473640",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473641",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473642",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473643",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473644",
+      "ItemName": "Ivy League",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254266",
+      "ItemName": "Junk-Copter (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254267",
+      "ItemName": "Junk-Copter (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430201",
+      "ItemName": "Leisure Dome Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430299",
+      "ItemName": "Leisure Dome Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430229",
+      "ItemName": "Leisure Dome Dancing Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430313",
+      "ItemName": "Leisure Dome Steppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430215",
+      "ItemName": "Leisure Dome Suit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430285",
+      "ItemName": "Leisure Dome Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225421",
+      "ItemName": "Lifebat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421913",
+      "ItemName": "Light Blades (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421914",
+      "ItemName": "Light Blades (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350312",
+      "ItemName": "Master's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430446",
+      "ItemName": "Medic's Interstellar Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100421",
+      "ItemName": "Midnight Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430609",
+      "ItemName": "Mirrorsphere Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446123",
+      "ItemName": "Ornate Light Brigade Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589187",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589188",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589189",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589190",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589191",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589192",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589193",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446122",
+      "ItemName": "Quixotic Light Brigade Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446119",
+      "ItemName": "Radiant Light Brigade Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713168",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713169",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713170",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713171",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713172",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713173",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713174",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589180",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589181",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589182",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589183",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589184",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589185",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589186",
+      "ItemName": "Red Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317299",
+      "ItemName": "Royal Lioness (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446439",
+      "ItemName": "Spark of Life Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446427",
+      "ItemName": "Spark of Life Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446438",
+      "ItemName": "Spark of Life Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100443",
+      "ItemName": "Tough Troll",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446443",
+      "ItemName": "Twilight Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446429",
+      "ItemName": "Twilight Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446442",
+      "ItemName": "Twilight Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446125",
+      "ItemName": "Virtuous Light Brigade Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446437",
+      "ItemName": "Will-o'-the-Wisp Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446426",
+      "ItemName": "Will-o'-the-Wisp Cape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1446436",
+      "ItemName": "Will-o'-the-Wisp Conical",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430623",
+      "ItemName": "Zanadu Mirror Relic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

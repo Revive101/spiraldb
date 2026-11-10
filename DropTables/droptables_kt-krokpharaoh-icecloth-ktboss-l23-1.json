@@ -1,0 +1,143 @@
+{
+  "Name": "KT-KrokPharaoh-IceCloth-KTBoss-L23-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77691",
+      "ItemName": "Bitter Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77798",
+      "ItemName": "Boots of the Citadel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4960",
+      "ItemName": "Dirk of Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77701",
+      "ItemName": "Diviner's Hat of Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38767",
+      "ItemName": "Frigid Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82777",
+      "ItemName": "Krok Bird Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87349",
+      "ItemName": "Overseer's Adaptive Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77789",
+      "ItemName": "Overseer's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77692",
+      "ItemName": "Paniwi's Frigid Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4981",
+      "ItemName": "Paniwi's Sapphire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4942",
+      "ItemName": "Parched Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5027",
+      "ItemName": "Ring of the Badlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77711",
+      "ItemName": "Rough-hewn Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77774",
+      "ItemName": "Soothsayer's Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5016",
+      "ItemName": "Sparkling Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87333",
+      "ItemName": "Sphinx's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82707",
+      "ItemName": "Stack of Scrolls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77678",
+      "ItemName": "Stout Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87292",
+      "ItemName": "Sturdy Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77742",
+      "ItemName": "Threadbare Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87318",
+      "ItemName": "Vest of the Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38763",
+      "ItemName": "Vest of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87305",
+      "ItemName": "Vestment of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38762",
+      "ItemName": "Vestment of the Arctic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4955",
+      "ItemName": "Whirlwind Dagger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "KR-BossEpic-Moros",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1592840",
+      "ItemName": "Armaments of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592839",
+      "ItemName": "Armaments of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592842",
+      "ItemName": "Armaments of Vigor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592843",
+      "ItemName": "Dreamscape Armaments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557042",
+      "ItemName": "Dreamscape Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592838",
+      "ItemName": "Elder's Armaments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557037",
+      "ItemName": "Elder's Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592841",
+      "ItemName": "Frostbound Armaments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557040",
+      "ItemName": "Frostbound Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592844",
+      "ItemName": "Sandstorm Armaments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557043",
+      "ItemName": "Sandstorm Sword and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557039",
+      "ItemName": "Sword and Shield of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557038",
+      "ItemName": "Sword and Shield of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1557041",
+      "ItemName": "Sword and Shield of Vigor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

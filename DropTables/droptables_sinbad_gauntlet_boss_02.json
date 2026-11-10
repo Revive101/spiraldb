@@ -1,0 +1,273 @@
+{
+  "Name": "Sinbad_Gauntlet_Boss_02",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489613",
+      "ItemName": "Admiral's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489614",
+      "ItemName": "Admiral's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489615",
+      "ItemName": "Admiral's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479433",
+      "ItemName": "Desert Forge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479439",
+      "ItemName": "Double Scroll Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489487",
+      "ItemName": "Fleet Kapudan's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489488",
+      "ItemName": "Fleet Kapudan's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489489",
+      "ItemName": "Fleet Kapudan's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489501",
+      "ItemName": "Fleet Kapudan's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489502",
+      "ItemName": "Fleet Kapudan's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489503",
+      "ItemName": "Fleet Kapudan's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489473",
+      "ItemName": "Fleet Kapudan's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489474",
+      "ItemName": "Fleet Kapudan's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489475",
+      "ItemName": "Fleet Kapudan's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479435",
+      "ItemName": "Glass of Hours",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489529",
+      "ItemName": "Grand Admiral's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489530",
+      "ItemName": "Grand Admiral's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489531",
+      "ItemName": "Grand Admiral's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489543",
+      "ItemName": "Grand Admiral's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489544",
+      "ItemName": "Grand Admiral's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489545",
+      "ItemName": "Grand Admiral's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489515",
+      "ItemName": "Grand Admiral's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489516",
+      "ItemName": "Grand Admiral's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489517",
+      "ItemName": "Grand Admiral's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479441",
+      "ItemName": "Istanboa Platform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489887",
+      "ItemName": "Kapudan's Grappling Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489888",
+      "ItemName": "Kapudan's Grappling Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489889",
+      "ItemName": "Kapudan's Grappling Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350308",
+      "ItemName": "Novice's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479420",
+      "ItemName": "Plucky Gryphon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470043",
+      "ItemName": "Roc (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470042",
+      "ItemName": "Roc (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479436",
+      "ItemName": "Sand Device",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1470044",
+      "ItemName": "Scrappy Gryphon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481826",
+      "ItemName": "Sinbad's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481827",
+      "ItemName": "Sinbad's Boots ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1481825",
+      "ItemName": "Sinbad's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489571",
+      "ItemName": "Sky Captain's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489572",
+      "ItemName": "Sky Captain's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489573",
+      "ItemName": "Sky Captain's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489627",
+      "ItemName": "Sky Captain's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489628",
+      "ItemName": "Sky Captain's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489629",
+      "ItemName": "Sky Captain's Boarding Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489585",
+      "ItemName": "Sky Captain's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489586",
+      "ItemName": "Sky Captain's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489587",
+      "ItemName": "Sky Captain's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489557",
+      "ItemName": "Sky Captain's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489558",
+      "ItemName": "Sky Captain's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489559",
+      "ItemName": "Sky Captain's Turban",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479421",
+      "ItemName": "Snappy Gryphon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479429",
+      "ItemName": "The Boat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

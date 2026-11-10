@@ -1,0 +1,93 @@
+{
+  "Name": "AV-R12-Wyrm",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512162",
+      "ItemName": "Avalon Abbey Road Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512161",
+      "ItemName": "Avalon Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635227",
+      "ItemName": "Barbarian Philosopher's Mark",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635258",
+      "ItemName": "Bite of the Winter Wyrm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635341",
+      "ItemName": "Crystal Cave Rose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635629",
+      "ItemName": "Dawnfrost Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635628",
+      "ItemName": "Fire-Edged Broadsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635419",
+      "ItemName": "Fire-Spitter Dancers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635306",
+      "ItemName": "Great Horned Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635381",
+      "ItemName": "Knight of Flame Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635257",
+      "ItemName": "Knight of Flame Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635307",
+      "ItemName": "Lake Knight's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635226",
+      "ItemName": "Strength of the Oak Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635382",
+      "ItemName": "Sunken Giant's Tartan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635420",
+      "ItemName": "Winter Wyrm Cleats",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

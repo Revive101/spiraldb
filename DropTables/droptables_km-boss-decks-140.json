@@ -1,0 +1,138 @@
+{
+  "Name": "KM-Boss-Decks-140",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1515404",
+      "ItemName": "Guten Artisan Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515408",
+      "ItemName": "Guten Candymancer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515407",
+      "ItemName": "Guten Dreamsearcher Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515401",
+      "ItemName": "Guten Freshbaker Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515403",
+      "ItemName": "Guten Sciencer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515406",
+      "ItemName": "Guten Sentamentalist Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515405",
+      "ItemName": "Guten Sweetsmith Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515402",
+      "ItemName": "Guten Wonderneer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515420",
+      "ItemName": "Uber Artisan Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515424",
+      "ItemName": "Uber Candymancer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515423",
+      "ItemName": "Uber Dreamsearcher Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515417",
+      "ItemName": "Uber Freshbaker Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515419",
+      "ItemName": "Uber Sciencer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515422",
+      "ItemName": "Uber Sentamentalist Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515421",
+      "ItemName": "Uber Sweetsmith Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515418",
+      "ItemName": "Uber Wonderneer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515412",
+      "ItemName": "Wunderbar Artisan Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515416",
+      "ItemName": "Wunderbar Candymancer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515415",
+      "ItemName": "Wunderbar Dreamsearcher Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515409",
+      "ItemName": "Wunderbar Freshbaker Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515411",
+      "ItemName": "Wunderbar Sciencer Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515414",
+      "ItemName": "Wunderbar Sentamentalist Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515413",
+      "ItemName": "Wunderbar Sweetsmith Box",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1515410",
+      "ItemName": "Wunderbar Wonderneer Box",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

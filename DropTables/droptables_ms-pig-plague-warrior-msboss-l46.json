@@ -1,0 +1,318 @@
+{
+  "Name": "MS-Pig-Plague-Warrior-MSBoss-L46",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97471",
+      "ItemName": "Athame of Attention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97948",
+      "ItemName": "Boots of Cooperation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97618",
+      "ItemName": "Concordant Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97474",
+      "ItemName": "Dirk of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97703",
+      "ItemName": "Discerning Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98061",
+      "ItemName": "Entranced Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98021",
+      "ItemName": "Footwraps of Anthems",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97998",
+      "ItemName": "Footwraps of Chants",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98066",
+      "ItemName": "Footwraps of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97570",
+      "ItemName": "Gallant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97592",
+      "ItemName": "Hat of Enthusiasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97640",
+      "ItemName": "Hat of the Nimble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97714",
+      "ItemName": "Kyuto's Apprehensive Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97510",
+      "ItemName": "Kyuto's Deck of Expectations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97478",
+      "ItemName": "Kyuto's Kris of Questions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98026",
+      "ItemName": "Kyuto's Lively Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97830",
+      "ItemName": "Kyuto's Vestment of Disquiet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97879",
+      "ItemName": "Kyuto's Vestment of Frailty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160525",
+      "ItemName": "Rectangular Wooden Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97971",
+      "ItemName": "Sandals of Exertion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98064",
+      "ItemName": "Sandals of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98049",
+      "ItemName": "Sandals of the Quick-Witted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160531",
+      "ItemName": "Small Stone Pagoda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470234",
+      "ItemName": "Vase Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97666",
+      "ItemName": "Zippy Shroud",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

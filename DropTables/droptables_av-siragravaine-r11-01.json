@@ -1,0 +1,88 @@
+{
+  "Name": "AV-SirAgravaine-R11-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512162",
+      "ItemName": "Avalon Abbey Road Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512161",
+      "ItemName": "Avalon Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635243",
+      "ItemName": "Badger's Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635335",
+      "ItemName": "Brisk Circle of Nodor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635215",
+      "ItemName": "Dependable Squire's Torc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635626",
+      "ItemName": "Fellbringer's Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635373",
+      "ItemName": "Fire-Spitter Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635301",
+      "ItemName": "Hood of the Sacred Lake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635244",
+      "ItemName": "Horn Handled Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635415",
+      "ItemName": "Knight's Boots of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635300",
+      "ItemName": "Mask of the Catalan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635414",
+      "ItemName": "Merciful Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635214",
+      "ItemName": "Torc of Pluck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635374",
+      "ItemName": "Winter Wyrm's Cloak",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

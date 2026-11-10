@@ -1,0 +1,323 @@
+{
+  "Name": "G14-SB-SKR-TempleOni",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338244",
+      "ItemName": "Amulet of the Mind Monk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330985",
+      "ItemName": "Armor of the Mind Monk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330982",
+      "ItemName": "Armor of the Smoking Ember",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338246",
+      "ItemName": "Asura's Jewel of Conquest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338162",
+      "ItemName": "Asura's Steel of Malcontent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338331",
+      "ItemName": "Band of Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338487",
+      "ItemName": "Blade of Himoolayan Ice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470172",
+      "ItemName": "Blue Kirin (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653081",
+      "ItemName": "Cloud Colossus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338493",
+      "ItemName": "Fingers of Fire Dramyin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338494",
+      "ItemName": "Frosty Himoolayan Dranyen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470173",
+      "ItemName": "Gold Kirin (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338072",
+      "ItemName": "Harmonious One's Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330988",
+      "ItemName": "Harmonious One's Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330904",
+      "ItemName": "Helm of the Harmonious",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330898",
+      "ItemName": "Helm of the Smoking Ember",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338243",
+      "ItemName": "Himoolayan Avalanche Charm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338068",
+      "ItemName": "Himoolayan Blizzard Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330984",
+      "ItemName": "Himoolayan Blizzard Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330900",
+      "ItemName": "Himoolayan Blizzard Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338499",
+      "ItemName": "Himoolayan Harmony Maker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338495",
+      "ItemName": "Himoolayan Lute of Snowfall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330899",
+      "ItemName": "Himoolayan Snow Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330983",
+      "ItemName": "Himoolayan Snow Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338067",
+      "ItemName": "Himoolayan Snowshoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338160",
+      "ItemName": "Hoof's Bewildering Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338326",
+      "ItemName": "Iceband of the Himoolayas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338489",
+      "ItemName": "Kembaalung Sword of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338159",
+      "ItemName": "Kris of the Calamitous Hoof",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338491",
+      "ItemName": "Longblade of the Asura",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338329",
+      "ItemName": "Loop of the Dauntless Soul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338497",
+      "ItemName": "Lute of the Hale & Hearty",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338069",
+      "ItemName": "Mind Monk's Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330901",
+      "ItemName": "Mind Monk's Headgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338328",
+      "ItemName": "Monk's Band of Insight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338498",
+      "ItemName": "Monk's Instrument of Death",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338245",
+      "ItemName": "Monk's Necklace of Purity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338157",
+      "ItemName": "Monk's Steel of Combustion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338161",
+      "ItemName": "Monk's Thorn of Fortitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338163",
+      "ItemName": "Pagoda of Harmony Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338247",
+      "ItemName": "Path of Harmony Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338158",
+      "ItemName": "Point of the Icy Himoolayas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338327",
+      "ItemName": "Ring of Kembaalung Thunder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338492",
+      "ItemName": "Scimitar of the Harmonious",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470171",
+      "ItemName": "Silver Kirin (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338066",
+      "ItemName": "Smoking Ember Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338488",
+      "ItemName": "Snows of Kembaalung Saber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338496",
+      "ItemName": "Song of Shangri-Baa",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338070",
+      "ItemName": "Spirit Monk' Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330902",
+      "ItemName": "Spirit Monk's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330986",
+      "ItemName": "Spirit Monk's Warplate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338330",
+      "ItemName": "Stone of Discord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338490",
+      "ItemName": "Stout Himoolayan Sword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338486",
+      "ItemName": "Sword of Fervent Resolve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338325",
+      "ItemName": "Temple Guardian's Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338242",
+      "ItemName": "Torc of the Icy Himoolayas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338241",
+      "ItemName": "Tsutsui's Rampage Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330903",
+      "ItemName": "Vanquished Asura's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330987",
+      "ItemName": "Vanquished Asura's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338071",
+      "ItemName": "Vanquished Asura's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,98 @@
+{
+  "Name": "DM_Vampire_Base_B_02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1708188",
+      "ItemName": "Creepy Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708190",
+      "ItemName": "Creepy Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708200",
+      "ItemName": "Creepy Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708202",
+      "ItemName": "Creepy Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708207",
+      "ItemName": "Creepy Footstool",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708217",
+      "ItemName": "Creepy Stool",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708189",
+      "ItemName": "Darkmoor Bench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708213",
+      "ItemName": "Darkmoor Roses",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708224",
+      "ItemName": "Darkmoor Vanity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708225",
+      "ItemName": "Darkmoor Wagon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708219",
+      "ItemName": "Large Howling Lands Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708209",
+      "ItemName": "Mortal Plains Hay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708197",
+      "ItemName": "Outsiders Abode",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708198",
+      "ItemName": "Outsiders Wagon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708221",
+      "ItemName": "Small Howling Lands Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1708223",
+      "ItemName": "Vampire Lord Casket",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

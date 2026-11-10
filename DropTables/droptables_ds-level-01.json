@@ -1,0 +1,398 @@
+{
+  "Name": "DS-Level-01",
+  "Description": "Mob loot table (22 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "104884",
+      "ItemName": "Boots of the Hurricane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146253",
+      "ItemName": "Cap of the Archivist",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104601",
+      "ItemName": "Cloak of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146346",
+      "ItemName": "Cowl of the Necromancer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146234",
+      "ItemName": "Cyclone Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146190",
+      "ItemName": "Dirk of the Daring ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160892",
+      "ItemName": "Dragonspyre Ruins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126628",
+      "ItemName": "Dragontooth Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104749",
+      "ItemName": "Footgear of the Forgotten",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104879",
+      "ItemName": "Footwraps of the Whirwind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146299",
+      "ItemName": "Frostflower Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104675",
+      "ItemName": "Gardener's Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126627",
+      "ItemName": "Glimmering Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146287",
+      "ItemName": "Hat of the Ever Watchful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146276",
+      "ItemName": "Headdress of the Grove",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146310",
+      "ItemName": "Headdress of the Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146350",
+      "ItemName": "Headgear of the Absolute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146331",
+      "ItemName": "Hood of Ashes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146239",
+      "ItemName": "Hood of the Tempest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146305",
+      "ItemName": "Icefire Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146189",
+      "ItemName": "Indomitable Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126607",
+      "ItemName": "Lavastone Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146260",
+      "ItemName": "Librarian's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146282",
+      "ItemName": "Mantle of Growth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104802",
+      "ItemName": "Mocassins of the Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104748",
+      "ItemName": "Mocassins of the Healer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104765",
+      "ItemName": "Mocassins of the Polar Ice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104858",
+      "ItemName": "Mythmaker Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104621",
+      "ItemName": "Robe of the Conflagration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104661",
+      "ItemName": "Robes of the Ice Queen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104771",
+      "ItemName": "Sandals of Sleet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104889",
+      "ItemName": "Sandals of the Remortal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104742",
+      "ItemName": "Sandals of the Shaman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104786",
+      "ItemName": "Slippers of Deftness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104816",
+      "ItemName": "Slippers of the Quiet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104581",
+      "ItemName": "Sorcerer's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104798",
+      "ItemName": "Sunwalkers ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104863",
+      "ItemName": "Talespinner's Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146368",
+      "ItemName": "Veil of the Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104653",
+      "ItemName": "Vestment of Fable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104725",
+      "ItemName": "Vestment of the Howling Wind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

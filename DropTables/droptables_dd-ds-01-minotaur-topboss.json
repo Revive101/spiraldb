@@ -1,0 +1,213 @@
+{
+  "Name": "DD-DS-01-Minotaur-TopBoss",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1335053",
+      "ItemName": "Baddle Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335052",
+      "ItemName": "Baddle of the Bands Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160891",
+      "ItemName": "Broken Wall Segment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160898",
+      "ItemName": "Draconic Street Light",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352045",
+      "ItemName": "Headbanger's Getup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352046",
+      "ItemName": "Headbanger's Getup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352089",
+      "ItemName": "Headbanger's Hit Rig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352090",
+      "ItemName": "Headbanger's Hit Rig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352056",
+      "ItemName": "Headbanger's Spiked Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352057",
+      "ItemName": "Headbanger's Spiked Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352034",
+      "ItemName": "Headbanger's Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352035",
+      "ItemName": "Headbanger's Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350275",
+      "ItemName": "Playable Electric Violin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350273",
+      "ItemName": "Playable Frankenjammer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350278",
+      "ItemName": "Playable Keytar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350277",
+      "ItemName": "Playable Moody Groovers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350274",
+      "ItemName": "Playable Polka Dot Flying V",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350279",
+      "ItemName": "Playable Sassaphone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350280",
+      "ItemName": "Playable Synthesizer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350276",
+      "ItemName": "Playable Xanadu Smashers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352078",
+      "ItemName": "Rocker's Beat Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352079",
+      "ItemName": "Rocker's Beat Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352012",
+      "ItemName": "Rocker's Stagewear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352013",
+      "ItemName": "Rocker's Stagewear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352023",
+      "ItemName": "Rocker's Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352024",
+      "ItemName": "Rocker's Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352001",
+      "ItemName": "Rocker's Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352002",
+      "ItemName": "Rocker's Top Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350163",
+      "ItemName": "Rockin' Roller",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338968",
+      "ItemName": "Rockstar High Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338969",
+      "ItemName": "Rockstar High Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338990",
+      "ItemName": "Rockstar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338991",
+      "ItemName": "Rockstar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338979",
+      "ItemName": "Rockstar Threads",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338980",
+      "ItemName": "Rockstar Threads",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352067",
+      "ItemName": "Rockstar Thump Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1352068",
+      "ItemName": "Rockstar Thump Kit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160821",
+      "ItemName": "Upright Brazier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350160",
+      "ItemName": "White-Striped Ziger (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

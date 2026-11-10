@@ -1,0 +1,148 @@
+{
+  "Name": "KT-KrokPharaoh-IceBand-KTBoss-L29",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5024",
+      "ItemName": "Advocate's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4945",
+      "ItemName": "Athame of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87281",
+      "ItemName": "Conjurer's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77725",
+      "ItemName": "Cowl of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39421",
+      "ItemName": "Diviner's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97335",
+      "ItemName": "Flamelicked Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87310",
+      "ItemName": "Garments of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100436",
+      "ItemName": "Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82752",
+      "ItemName": "Green Gem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77704",
+      "ItemName": "Headwrap of Originality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4935",
+      "ItemName": "Knife of the Badlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82830",
+      "ItemName": "Krok Sun Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5031",
+      "ItemName": "Loop of Tall Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5007",
+      "ItemName": "Partisan's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4970",
+      "ItemName": "Pharaohs Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87328",
+      "ItemName": "Robe of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77760",
+      "ItemName": "Rough-hewn Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77762",
+      "ItemName": "Shoes of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77793",
+      "ItemName": "Slippers of Sensibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77731",
+      "ItemName": "Sokkwi's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87323",
+      "ItemName": "Sorcerer's Maroon Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38759",
+      "ItemName": "Summertime Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77737",
+      "ItemName": "Suten's Hood of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87320",
+      "ItemName": "Suten's Shrewd Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77790",
+      "ItemName": "Threadbare Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87322",
+      "ItemName": "Threadbare Robe",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

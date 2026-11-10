@@ -1,0 +1,38 @@
+{
+  "Name": "NOV-LootTable-009",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248175",
+      "ItemName": "Scepter of the Gloaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126551",
+      "ItemName": "Turkey Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248174",
+      "ItemName": "Turning Leaf Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248173",
+      "ItemName": "Unpopped Corn Wand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

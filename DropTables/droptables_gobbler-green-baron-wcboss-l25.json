@@ -1,0 +1,138 @@
+{
+  "Name": "Gobbler-Green-Baron-WCBoss-L25",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4676",
+      "ItemName": "Amulet of the Fay",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87223",
+      "ItemName": "Angelic Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161055",
+      "ItemName": "Band of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87221",
+      "ItemName": "Barkskin Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160337",
+      "ItemName": "Colossus Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87164",
+      "ItemName": "Gobblestone's Bib",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4801",
+      "ItemName": "Gobblestone's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77537",
+      "ItemName": "Gobblestone's Frost Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4879",
+      "ItemName": "Gobblestone's Fur Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4668",
+      "ItemName": "Gobblestone's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87162",
+      "ItemName": "Gobblestone's Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77538",
+      "ItemName": "Gobblestone's Storm Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512196",
+      "ItemName": "Grumpy Gobblers Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4779",
+      "ItemName": "Hallowed Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161026",
+      "ItemName": "Heartsteel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4733",
+      "ItemName": "Jeweled Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160322",
+      "ItemName": "Munched Lamppost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4841",
+      "ItemName": "Northland Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160211",
+      "ItemName": "Pile of Jellybeans",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4800",
+      "ItemName": "Princely Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100457",
+      "ItemName": "Snow Serpent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160260",
+      "ItemName": "Spotted Half Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77583",
+      "ItemName": "Stormweave Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512117",
+      "ItemName": "Wizard City Theme 2",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

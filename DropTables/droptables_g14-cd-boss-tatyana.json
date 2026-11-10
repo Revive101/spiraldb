@@ -1,0 +1,123 @@
+{
+  "Name": "G14-CD-Boss-Tatyana",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1330970",
+      "ItemName": "Battle Mage's Helm of Furor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338216",
+      "ItemName": "Blade of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338551",
+      "ItemName": "Bludgeon of the Dark Skies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330968",
+      "ItemName": "Carpathesian Helm of Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330973",
+      "ItemName": "Death Mask of the Usurped",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338217",
+      "ItemName": "Dirk of Unnatural Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338213",
+      "ItemName": "Dragon's Tooth of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330974",
+      "ItemName": "Helm of Castle Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330971",
+      "ItemName": "Helmet of Kan Davasi Law",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338219",
+      "ItemName": "Herald of Darkmoor's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338214",
+      "ItemName": "Kris of Cold Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338549",
+      "ItemName": "Mace of the Dark Flame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338555",
+      "ItemName": "Mace of the Outer Void",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338553",
+      "ItemName": "Mace of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330969",
+      "ItemName": "Mantle of the Bitter Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338552",
+      "ItemName": "Morning Star of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338554",
+      "ItemName": "Morning Star of Misery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338218",
+      "ItemName": "Sharp Edge of the Void",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330972",
+      "ItemName": "Spirit of Darkmoor's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338215",
+      "ItemName": "Thunderclap Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338550",
+      "ItemName": "Virge of the Bitter Ghost",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

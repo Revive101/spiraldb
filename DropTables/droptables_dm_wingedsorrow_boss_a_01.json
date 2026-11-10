@@ -1,0 +1,88 @@
+{
+  "Name": "DM_WingedSorrow_Boss_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1707875",
+      "ItemName": "Ancient Dhampir Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707877",
+      "ItemName": "Ancient Hemavore Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707879",
+      "ItemName": "Ancient Immortal Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707876",
+      "ItemName": "Ancient Living Dead Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707878",
+      "ItemName": "Ancient Nightstalker Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707881",
+      "ItemName": "Ancient Nosferatu Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1707880",
+      "ItemName": "Ancient Vampire Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712397",
+      "ItemName": "Fledgling Dhampir Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712399",
+      "ItemName": "Fledgling Hemavore Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712401",
+      "ItemName": "Fledgling Immortal Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712398",
+      "ItemName": "Fledgling Living Dead Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712400",
+      "ItemName": "Fledgling Nightstalker Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712403",
+      "ItemName": "Fledgling Nosferatu Crest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712402",
+      "ItemName": "Fledgling Vampire Crest",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

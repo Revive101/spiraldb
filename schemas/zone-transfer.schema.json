@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "zone-transfer.schema.json",
+  "title": "ZoneTransfer",
+  "type": "object",
+  "properties": {
+    "ZoneName": {
+      "type": "string"
+    },
+    "Events": {
+      "type": "array"
+    },
+    "Teleports": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "TriggerName": {
+            "type": "string"
+          },
+          "Teleport": {
+            "type": "object",
+            "properties": {
+              "m_exitTeleporter": {
+                "type": "integer"
+              },
+              "m_teleporterTag": {
+                "type": "integer"
+              },
+              "m_teleportType": {
+                "enum": [
+                  "TELEPORT_STATIC"
+                ]
+              },
+              "m_transitionID": {
+                "type": "integer"
+              },
+              "m_destinationLoc": {
+                "type": "string"
+              },
+              "m_destinationZone": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "m_exitTeleporter",
+              "m_teleporterTag",
+              "m_teleportType",
+              "m_transitionID",
+              "m_destinationLoc",
+              "m_destinationZone"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "TriggerName",
+          "Teleport"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "ZoneName",
+    "Events",
+    "Teleports"
+  ],
+  "additionalProperties": false
+}

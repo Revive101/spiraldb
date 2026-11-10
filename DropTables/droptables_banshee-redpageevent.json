@@ -1,0 +1,48 @@
+{
+  "Name": "Banshee-RedPageEvent",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160811",
+      "ItemName": "Broken Dragon Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160871",
+      "ItemName": "Dragonflame Torch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160865",
+      "ItemName": "Dragonmoon Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160866",
+      "ItemName": "Dragonskull Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160972",
+      "ItemName": "Singed Dragon Handbook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374356",
+      "ItemName": "Spellwrit Screamer",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

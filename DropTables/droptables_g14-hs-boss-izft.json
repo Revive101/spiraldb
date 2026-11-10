@@ -1,0 +1,168 @@
+{
+  "Name": "G14-HS-Boss-Izft",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1330943",
+      "ItemName": "Ancient Rebus Headgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338027",
+      "ItemName": "Ancient Rebus Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330946",
+      "ItemName": "Anubis' Crown of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338380",
+      "ItemName": "Anubis' Ring of Prudence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338037",
+      "ItemName": "Anubis' Robes of Guidance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338035",
+      "ItemName": "Anubis' Robes of Rebirth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338030",
+      "ItemName": "Anubis' Tunic of Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338036",
+      "ItemName": "Armor of the Devoured",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338378",
+      "ItemName": "Baruti's Seal of Revival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330940",
+      "ItemName": "Burning Scales Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338024",
+      "ItemName": "Burning Scales Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338032",
+      "ItemName": "Cold Bones Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330941",
+      "ItemName": "Crown of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338026",
+      "ItemName": "Dune Storm Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338034",
+      "ItemName": "Garb of the Ancient Sage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330944",
+      "ItemName": "Hands of Anubis Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338028",
+      "ItemName": "Hands of Anubis Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330942",
+      "ItemName": "Headgear of Dune Storms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338375",
+      "ItemName": "House of Scales Iceband",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338377",
+      "ItemName": "Izft's Ring of Preparation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338376",
+      "ItemName": "Loop of the Duat Gate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338374",
+      "ItemName": "Mander Mummy's Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338031",
+      "ItemName": "Robes of the Fire Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338025",
+      "ItemName": "Robes of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317658",
+      "ItemName": "Rooted  Grimoire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338033",
+      "ItemName": "Sandsqualls Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338379",
+      "ItemName": "Signet of the Devourer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1330945",
+      "ItemName": "Soul Devourer's Greathelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338029",
+      "ItemName": "Soul Devourer's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

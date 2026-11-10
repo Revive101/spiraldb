@@ -1,0 +1,323 @@
+{
+  "Name": "MS-Samoorai-Ronin-1-MSBoss-L43",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97698",
+      "ItemName": "Band of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98012",
+      "ItemName": "Boots of the Verse",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97591",
+      "ItemName": "Cap of Exertion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97824",
+      "ItemName": "Cloak of Pictures",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160492",
+      "ItemName": "Crane Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97473",
+      "ItemName": "Dagger of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160530",
+      "ItemName": "Decorative Stone Pagoda",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97619",
+      "ItemName": "Euphonic Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97789",
+      "ItemName": "Gallant Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97639",
+      "ItemName": "Gogi Berry Stained Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97571",
+      "ItemName": "Heedful Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87773",
+      "ItemName": "Kagemoosha's Citrine Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97470",
+      "ItemName": "Knife of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97667",
+      "ItemName": "Mask of the Chipper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97882",
+      "ItemName": "Robe of the Lithe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98063",
+      "ItemName": "Shoes of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98060",
+      "ItemName": "Shoes of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97449",
+      "ItemName": "Shoji's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97507",
+      "ItemName": "Shoji's Deck of Aspirations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97813",
+      "ItemName": "Shoji's Precautionary Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97723",
+      "ItemName": "Shoji's Ring of Pondering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98006",
+      "ItemName": "Shoji's Shoes of Pondering",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97609",
+      "ItemName": "Shoji's Shroud of Disorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98065",
+      "ItemName": "Slippers of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470220",
+      "ItemName": "Tan Samoorai Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97856",
+      "ItemName": "Vestment of Hymns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

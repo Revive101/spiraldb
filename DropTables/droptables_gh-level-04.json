@@ -1,0 +1,298 @@
+{
+  "Name": "GH-Level-04",
+  "Description": "Mob loot table (11 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "171187",
+      "ItemName": "Boots of the Warlord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171186",
+      "ItemName": "Broghans of the Wanderer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136414",
+      "ItemName": "Cap of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136422",
+      "ItemName": "Cap of the Stratosphere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136416",
+      "ItemName": "Circlet of the Unavoidable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171191",
+      "ItemName": "Contradictory Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473093",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473094",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473095",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473096",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473097",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473098",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136421",
+      "ItemName": "Cryptid Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136419",
+      "ItemName": "Curative Coif",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171184",
+      "ItemName": "Erudite Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136425",
+      "ItemName": "Firebloom Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171179",
+      "ItemName": "Firewalking Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171188",
+      "ItemName": "Footgear of Garm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171182",
+      "ItemName": "Footgear of the Undertow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171190",
+      "ItemName": "Footwraps of Patience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171178",
+      "ItemName": "Footwraps of the Efreet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171180",
+      "ItemName": "Frigid Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136424",
+      "ItemName": "Frostwoven Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136663",
+      "ItemName": "Gelid Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136652",
+      "ItemName": "Gloomhound's Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136649",
+      "ItemName": "Harbinger's Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136423",
+      "ItemName": "Hat of the Gale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136418",
+      "ItemName": "Headgear of Revival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "206111",
+      "ItemName": "Heavy Dining Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136415",
+      "ItemName": "Hood of the Invariable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171181",
+      "ItemName": "Iceclaw Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136394",
+      "ItemName": "Igneous Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136420",
+      "ItemName": "Mantle of Ingenuity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136417",
+      "ItemName": "Mortal Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136651",
+      "ItemName": "Raiment of Rainfall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136650",
+      "ItemName": "Robe of the Nereid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356120",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356121",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356122",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356123",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356124",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356125",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356126",
+      "ItemName": "Rye Bread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171185",
+      "ItemName": "Slippers of the Seer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171183",
+      "ItemName": "Telluric Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136629",
+      "ItemName": "Thermic Longcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171189",
+      "ItemName": "Treads of Tribulation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136653",
+      "ItemName": "Tunic of Regularity",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

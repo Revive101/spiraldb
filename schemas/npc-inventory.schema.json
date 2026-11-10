@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "npc-inventory.schema.json",
+  "title": "NpcInventory",
+  "type": "object",
+  "properties": {
+    "TemplateID": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "Inventory": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    }
+  },
+  "required": [
+    "TemplateID",
+    "Inventory"
+  ],
+  "additionalProperties": false
+}

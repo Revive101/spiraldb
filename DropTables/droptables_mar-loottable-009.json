@@ -1,0 +1,43 @@
+{
+  "Name": "MAR-LootTable-009",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1248101",
+      "ItemName": "Diviner's Shillelagh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126928",
+      "ItemName": "Lucky Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248104",
+      "ItemName": "Shamrock of Spring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248102",
+      "ItemName": "Stave of the Protector",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248103",
+      "ItemName": "Wand of Recompense ",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

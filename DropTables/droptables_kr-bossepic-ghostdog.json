@@ -1,0 +1,268 @@
+{
+  "Name": "KR-BossEpic-GhostDog",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203368",
+      "ItemName": "Apidae Defender's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203208",
+      "ItemName": "Armor of the MouseHunter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203301",
+      "ItemName": "Cold Pits Stabber",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248255",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248256",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248257",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248258",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248259",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248260",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248261",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203179",
+      "ItemName": "Gloom Dancer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203373",
+      "ItemName": "Gloom Dancer's Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203256",
+      "ItemName": "Gorge Excavator's Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212019",
+      "ItemName": "Khrysalis Fort Rachias Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212021",
+      "ItemName": "Khrysalis Moon Cliffs Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346128",
+      "ItemName": "Krokopatra Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346126",
+      "ItemName": "Krokopatra Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203138",
+      "ItemName": "Last Wood Defender's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203344",
+      "ItemName": "Last Wood Defender's Jewel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203414",
+      "ItemName": "Mago's Death's Head Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203409",
+      "ItemName": "Melting Beeswax Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346131",
+      "ItemName": "Meowiarty Archmage Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346132",
+      "ItemName": "Meowiarty Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203176",
+      "ItemName": "Moon's Tear Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203410",
+      "ItemName": "Pack of Frozen Souls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346123",
+      "ItemName": "Rattlebones Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346124",
+      "ItemName": "Rattlebones Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292145",
+      "ItemName": "Sharp Bumbler Weapon Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

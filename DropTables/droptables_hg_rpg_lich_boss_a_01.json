@@ -1,0 +1,753 @@
+{
+  "Name": "HG_RPG_Lich_Boss_A_01",
+  "Description": "Mob loot table (8 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1686581",
+      "ItemName": "Clasp of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686751",
+      "ItemName": "Clasp of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686898",
+      "ItemName": "Clasp of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686570",
+      "ItemName": "Clasp of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686745",
+      "ItemName": "Clasp of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686892",
+      "ItemName": "Clasp of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686579",
+      "ItemName": "Clasp of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686750",
+      "ItemName": "Clasp of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686897",
+      "ItemName": "Clasp of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686575",
+      "ItemName": "Clasp of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686748",
+      "ItemName": "Clasp of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686895",
+      "ItemName": "Clasp of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686573",
+      "ItemName": "Clasp of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686747",
+      "ItemName": "Clasp of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686894",
+      "ItemName": "Clasp of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686577",
+      "ItemName": "Clasp of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686749",
+      "ItemName": "Clasp of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686896",
+      "ItemName": "Clasp of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686571",
+      "ItemName": "Clasp of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686746",
+      "ItemName": "Clasp of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686893",
+      "ItemName": "Clasp of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686568",
+      "ItemName": "Dirk of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686744",
+      "ItemName": "Dirk of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686891",
+      "ItemName": "Dirk of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686557",
+      "ItemName": "Dirk of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686738",
+      "ItemName": "Dirk of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686885",
+      "ItemName": "Dirk of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686566",
+      "ItemName": "Dirk of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686743",
+      "ItemName": "Dirk of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686890",
+      "ItemName": "Dirk of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686563",
+      "ItemName": "Dirk of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686741",
+      "ItemName": "Dirk of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686888",
+      "ItemName": "Dirk of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686561",
+      "ItemName": "Dirk of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686740",
+      "ItemName": "Dirk of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686887",
+      "ItemName": "Dirk of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686564",
+      "ItemName": "Dirk of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686742",
+      "ItemName": "Dirk of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686889",
+      "ItemName": "Dirk of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686559",
+      "ItemName": "Dirk of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686739",
+      "ItemName": "Dirk of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686886",
+      "ItemName": "Dirk of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689074",
+      "ItemName": "Hedron of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689109",
+      "ItemName": "Hedron of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689158",
+      "ItemName": "Hedron of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689068",
+      "ItemName": "Hedron of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689103",
+      "ItemName": "Hedron of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689152",
+      "ItemName": "Hedron of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689073",
+      "ItemName": "Hedron of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689108",
+      "ItemName": "Hedron of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689157",
+      "ItemName": "Hedron of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689071",
+      "ItemName": "Hedron of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689106",
+      "ItemName": "Hedron of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689155",
+      "ItemName": "Hedron of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689070",
+      "ItemName": "Hedron of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689105",
+      "ItemName": "Hedron of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689154",
+      "ItemName": "Hedron of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689072",
+      "ItemName": "Hedron of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689107",
+      "ItemName": "Hedron of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689156",
+      "ItemName": "Hedron of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689069",
+      "ItemName": "Hedron of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689104",
+      "ItemName": "Hedron of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689153",
+      "ItemName": "Hedron of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686595",
+      "ItemName": "Loop of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686758",
+      "ItemName": "Loop of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686905",
+      "ItemName": "Loop of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686583",
+      "ItemName": "Loop of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686752",
+      "ItemName": "Loop of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686899",
+      "ItemName": "Loop of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686593",
+      "ItemName": "Loop of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686757",
+      "ItemName": "Loop of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686904",
+      "ItemName": "Loop of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686589",
+      "ItemName": "Loop of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686755",
+      "ItemName": "Loop of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686902",
+      "ItemName": "Loop of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686587",
+      "ItemName": "Loop of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686754",
+      "ItemName": "Loop of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686901",
+      "ItemName": "Loop of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686591",
+      "ItemName": "Loop of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686756",
+      "ItemName": "Loop of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686903",
+      "ItemName": "Loop of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686585",
+      "ItemName": "Loop of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686753",
+      "ItemName": "Loop of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686900",
+      "ItemName": "Loop of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686268",
+      "ItemName": "Raiment of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686393",
+      "ItemName": "Raiment of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686697",
+      "ItemName": "Raiment of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686262",
+      "ItemName": "Raiment of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686381",
+      "ItemName": "Raiment of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686685",
+      "ItemName": "Raiment of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686267",
+      "ItemName": "Raiment of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686391",
+      "ItemName": "Raiment of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686695",
+      "ItemName": "Raiment of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686265",
+      "ItemName": "Raiment of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686387",
+      "ItemName": "Raiment of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686691",
+      "ItemName": "Raiment of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686264",
+      "ItemName": "Raiment of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686385",
+      "ItemName": "Raiment of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686689",
+      "ItemName": "Raiment of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686266",
+      "ItemName": "Raiment of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686389",
+      "ItemName": "Raiment of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686693",
+      "ItemName": "Raiment of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686263",
+      "ItemName": "Raiment of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686383",
+      "ItemName": "Raiment of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686687",
+      "ItemName": "Raiment of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686275",
+      "ItemName": "Shoes of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686407",
+      "ItemName": "Shoes of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686711",
+      "ItemName": "Shoes of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686269",
+      "ItemName": "Shoes of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686395",
+      "ItemName": "Shoes of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686699",
+      "ItemName": "Shoes of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686274",
+      "ItemName": "Shoes of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686405",
+      "ItemName": "Shoes of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686709",
+      "ItemName": "Shoes of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686272",
+      "ItemName": "Shoes of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686401",
+      "ItemName": "Shoes of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686705",
+      "ItemName": "Shoes of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686271",
+      "ItemName": "Shoes of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686399",
+      "ItemName": "Shoes of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686703",
+      "ItemName": "Shoes of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686273",
+      "ItemName": "Shoes of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686403",
+      "ItemName": "Shoes of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686707",
+      "ItemName": "Shoes of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686270",
+      "ItemName": "Shoes of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686397",
+      "ItemName": "Shoes of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686701",
+      "ItemName": "Shoes of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686261",
+      "ItemName": "Skull of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686379",
+      "ItemName": "Skull of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686683",
+      "ItemName": "Skull of Avernal Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686255",
+      "ItemName": "Skull of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686367",
+      "ItemName": "Skull of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686671",
+      "ItemName": "Skull of King Avernus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686260",
+      "ItemName": "Skull of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686377",
+      "ItemName": "Skull of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686681",
+      "ItemName": "Skull of Legendopia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686258",
+      "ItemName": "Skull of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686373",
+      "ItemName": "Skull of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686677",
+      "ItemName": "Skull of the Lich Lord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686257",
+      "ItemName": "Skull of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686371",
+      "ItemName": "Skull of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686675",
+      "ItemName": "Skull of the Night Infernal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686259",
+      "ItemName": "Skull of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686375",
+      "ItemName": "Skull of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686679",
+      "ItemName": "Skull of the Re-Risen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686256",
+      "ItemName": "Skull of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686369",
+      "ItemName": "Skull of the Skinless King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1686673",
+      "ItemName": "Skull of the Skinless King",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

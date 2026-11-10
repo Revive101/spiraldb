@@ -1,0 +1,98 @@
+{
+  "Name": "RH-Mob-Grendel-Housing",
+  "Description": "Mob loot table (25 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "181033",
+      "ItemName": "Decorative Basket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181037",
+      "ItemName": "Fish Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181047",
+      "ItemName": "Hatchet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181049",
+      "ItemName": "Log",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181092",
+      "ItemName": "Peat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181079",
+      "ItemName": "Pitchfork",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181121",
+      "ItemName": "Rough Wooden Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181117",
+      "ItemName": "Small Wheelbarrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181053",
+      "ItemName": "Square Waterbucket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181073",
+      "ItemName": "Trowel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181105",
+      "ItemName": "Wood-carven Stool",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181048",
+      "ItemName": "Wooden Mallet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181098",
+      "ItemName": "Wooden Rake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181119",
+      "ItemName": "Wooden Trough",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181096",
+      "ItemName": "Wooden Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181072",
+      "ItemName": "Work Hammer",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

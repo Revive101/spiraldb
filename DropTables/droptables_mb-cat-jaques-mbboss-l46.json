@@ -1,0 +1,138 @@
+{
+  "Name": "MB-Cat-Jaques-MBBoss-L46",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126148",
+      "ItemName": "Blade of Frost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100435",
+      "ItemName": "Grumpy Snowman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77210",
+      "ItemName": "Jacques' Artificial Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77230",
+      "ItemName": "Jacques' Boots of Courtesy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97186",
+      "ItemName": "Jacques' Helm of the Mender",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97394",
+      "ItemName": "Jacques' Intolerant Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77147",
+      "ItemName": "Jacques' Restorative Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77183",
+      "ItemName": "Jacques' Robe of Numbness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97284",
+      "ItemName": "Jacques' Soothing Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39055",
+      "ItemName": "Jacques's Band of Tragedy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38995",
+      "ItemName": "Jacques's Hat of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97078",
+      "ItemName": "Jacques's Polished Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160630",
+      "ItemName": "Jaques' Saw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160729",
+      "ItemName": "Large Stone Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512125",
+      "ItemName": "Marleybone Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160756",
+      "ItemName": "Ornate Wall Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160399",
+      "ItemName": "Professor Balestrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5058",
+      "ItemName": "Scratcher's Black Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97319",
+      "ItemName": "Scratcher's Black Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77206",
+      "ItemName": "Scratcher's Confined Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97351",
+      "ItemName": "Scratcher's Elegant Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97151",
+      "ItemName": "Scratcher's Invigorated Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39062",
+      "ItemName": "Scratcher's Ring of Chivalry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160209",
+      "ItemName": "Stack of 4 Books",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

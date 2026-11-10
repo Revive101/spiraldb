@@ -1,0 +1,123 @@
+{
+  "Name": "EM-Boss-Furniture",
+  "Description": "Mob loot table (16 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1421938",
+      "ItemName": "Dwarven Book Case",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421944",
+      "ItemName": "Dwarven Dinner Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421928",
+      "ItemName": "Dwarven File",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421946",
+      "ItemName": "Dwarven Side Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439017",
+      "ItemName": "Empyrea Brain Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439018",
+      "ItemName": "Empyrea Brain Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439019",
+      "ItemName": "Empyrea Brain Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439014",
+      "ItemName": "Empyrea Dance Hall Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439009",
+      "ItemName": "Empyrea Khan Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439013",
+      "ItemName": "Empyrea Lava Lock Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439012",
+      "ItemName": "Empyrea Leisure Dome Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439007",
+      "ItemName": "Empyrea Sepidious Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439008",
+      "ItemName": "Empyrea Sepidious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439021",
+      "ItemName": "Empyrea Sewer Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439010",
+      "ItemName": "Empyrea Zanadu Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439011",
+      "ItemName": "Empyrea Zanadu Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421934",
+      "ItemName": "Fire Dwarf Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421939",
+      "ItemName": "Fire Dwarf Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421935",
+      "ItemName": "Ice Dwarf Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1421940",
+      "ItemName": "Ice Dwarf Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439015",
+      "ItemName": "Pirate Party Barge Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

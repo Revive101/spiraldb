@@ -1,0 +1,73 @@
+{
+  "Name": "Ghost-Green-WCBoss-L08",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77593",
+      "ItemName": "Alicane's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87238",
+      "ItemName": "Armored Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4837",
+      "ItemName": "Blackhope's Ice Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87224",
+      "ItemName": "Cloak of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77607",
+      "ItemName": "Double Sided Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4812",
+      "ItemName": "Graven Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4813",
+      "ItemName": "Healer's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160324",
+      "ItemName": "Life Stone Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4809",
+      "ItemName": "Seared Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4868",
+      "ItemName": "Soldiers Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4811",
+      "ItemName": "Stormweave Shoes",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

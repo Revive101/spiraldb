@@ -1,0 +1,153 @@
+{
+  "Name": "MS-Treant-MSBoss-L44",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97698",
+      "ItemName": "Band of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97658",
+      "ItemName": "Brooding Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97897",
+      "ItemName": "Cloak of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97587",
+      "ItemName": "Cowl of Humor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97635",
+      "ItemName": "Cowl of Rhyming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97678",
+      "ItemName": "Cowl of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212076",
+      "ItemName": "Crabling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97504",
+      "ItemName": "Crazed Deck of Realization",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97673",
+      "ItemName": "Crazed Forest Spirit's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97693",
+      "ItemName": "Crazed Preoccupied Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97473",
+      "ItemName": "Dagger of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470200",
+      "ItemName": "Dresser with Flowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160603",
+      "ItemName": "Flower Petals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98046",
+      "ItemName": "Footwraps of Generations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97861",
+      "ItemName": "Forest Spirit Adroit Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97445",
+      "ItemName": "Forest Spirit's Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97872",
+      "ItemName": "Garments of Unrest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97607",
+      "ItemName": "Hat of Discontent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97470",
+      "ItemName": "Knife of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97817",
+      "ItemName": "Nunu's Twisted Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160610",
+      "ItemName": "Potted Purple Pansy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98063",
+      "ItemName": "Shoes of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98060",
+      "ItemName": "Shoes of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98065",
+      "ItemName": "Slippers of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97721",
+      "ItemName": "Spirit's Ring of Deep Thought",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97850",
+      "ItemName": "Warbled Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160597",
+      "ItemName": "Wild Bamboo",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

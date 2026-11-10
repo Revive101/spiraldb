@@ -1,0 +1,43 @@
+{
+  "Name": "APR-LootTable-001",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82969",
+      "ItemName": "Floppy-eared Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82977",
+      "ItemName": "Hatchling Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346195",
+      "ItemName": "Pet Egg",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82968",
+      "ItemName": "Spring Egg Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257820",
+      "ItemName": "Stormrider Hare (PERM)",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

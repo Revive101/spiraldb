@@ -1,0 +1,93 @@
+{
+  "Name": "Wizard-Male-Jacket-Red-Boss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "104870",
+      "ItemName": "Boots of the Emerald Grove",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104825",
+      "ItemName": "Destiny Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104705",
+      "ItemName": "Dragonscale Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104790",
+      "ItemName": "Firewalker's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104759",
+      "ItemName": "Gloomstrider's Frosty Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146317",
+      "ItemName": "Gloomstrider's Sparking Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104844",
+      "ItemName": "Grounded Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146361",
+      "ItemName": "Hood of Propriety",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146269",
+      "ItemName": "Hood of the Gnome",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160262",
+      "ItemName": "Large Spiral Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82913",
+      "ItemName": "Looped Wall Chain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160890",
+      "ItemName": "Ruined Arch Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160975",
+      "ItemName": "Singed Fire Spellbook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146227",
+      "ItemName": "Veil of Clouds",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104678",
+      "ItemName": "Wintertide Wrap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,358 @@
+{
+  "Name": "CE_TreasureTower_Life_F30",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1254222",
+      "ItemName": "Cast Symbol Life (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254221",
+      "ItemName": "Cast Symbol Life (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160293",
+      "ItemName": "Crate of Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374487",
+      "ItemName": "Fishy Bird Cage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414717",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414718",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414719",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414720",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414721",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414722",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414723",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414724",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414725",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414726",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414727",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414728",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414729",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414730",
+      "ItemName": "Headmaster's Zeal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414535",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414536",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414537",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414538",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414539",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414540",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414541",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414542",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414543",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414544",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414545",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414546",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414547",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414548",
+      "ItemName": "Moolinda's Hardy Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414563",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414564",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414565",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414566",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414567",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414568",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414569",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414570",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414571",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414572",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414573",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414574",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414575",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414576",
+      "ItemName": "Moolinda's Spirit Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160229",
+      "ItemName": "Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160983",
+      "ItemName": "Portrait of Lydia Greyrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160982",
+      "ItemName": "Professor Ambrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160399",
+      "ItemName": "Professor Balestrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160395",
+      "ItemName": "Professor Falmea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374549",
+      "ItemName": "Ravenwood Librarian's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160208",
+      "ItemName": "Stack of 3 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164419",
+      "ItemName": "Theater Masks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414549",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414550",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414551",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414552",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414553",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414554",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414555",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414556",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414557",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414558",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414559",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414560",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414561",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414562",
+      "ItemName": "Wu's Wild Kimono",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

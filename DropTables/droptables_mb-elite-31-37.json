@@ -1,0 +1,173 @@
+{
+  "Name": "MB-Elite-31-37",
+  "Description": "Mob loot table (8 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160708",
+      "ItemName": "Altar with Candles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77079",
+      "ItemName": "Comedian's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77223",
+      "ItemName": "Distinguished Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97178",
+      "ItemName": "Doctor's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97343",
+      "ItemName": "Exclusive Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97357",
+      "ItemName": "Famous Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39013",
+      "ItemName": "Feline's Fiery Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97195",
+      "ItemName": "Feline's Somber Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39030",
+      "ItemName": "Frozen Canine Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97372",
+      "ItemName": "Grandiose Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97387",
+      "ItemName": "High Quality Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160653",
+      "ItemName": "Medium Magenta Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160663",
+      "ItemName": "Newspaper Page",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97402",
+      "ItemName": "Noteworthy Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77176",
+      "ItemName": "Precious Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97416",
+      "ItemName": "Sandals of Paramount",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97278",
+      "ItemName": "Shaman's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77236",
+      "ItemName": "Shoes of the Exceptional",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160726",
+      "ItemName": "Short Metal Fence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5068",
+      "ItemName": "Shortblade of Flowers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97212",
+      "ItemName": "Stable Salacot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160639",
+      "ItemName": "Stein",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97161",
+      "ItemName": "Superstitious Canine Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39041",
+      "ItemName": "Thinker's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97245",
+      "ItemName": "Thinker's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97295",
+      "ItemName": "Vestment of Fright",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97312",
+      "ItemName": "Vestment of Stability",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77159",
+      "ItemName": "Vestment of the Beacon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97261",
+      "ItemName": "Vestment of the Enigma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97144",
+      "ItemName": "Visor of Invention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97325",
+      "ItemName": "Watchman's Uniform",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

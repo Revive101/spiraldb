@@ -1,0 +1,338 @@
+{
+  "Name": "GH-Level-01",
+  "Description": "Mob loot table (12 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136255",
+      "ItemName": "Bodkin of Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355192",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355193",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355194",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355195",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355196",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355197",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355198",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171100",
+      "ItemName": "Boots of Precipitation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171104",
+      "ItemName": "Boots of Reflexive Might",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136319",
+      "ItemName": "Cap of Dread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136333",
+      "ItemName": "Circlet of Fortune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136316",
+      "ItemName": "Circlet of the Fallen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136315",
+      "ItemName": "Cloud Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136550",
+      "ItemName": "Coat of Pouring Rain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473093",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473094",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473095",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473096",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473097",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473098",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136313",
+      "ItemName": "Cowl of the Flamesinger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171103",
+      "ItemName": "Doomstriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136524",
+      "ItemName": "Drape of the White Squall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171098",
+      "ItemName": "Footgear of the Firehaze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171101",
+      "ItemName": "Footguards of the Disciple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136552",
+      "ItemName": "Garments of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136556",
+      "ItemName": "Glacial Longcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136317",
+      "ItemName": "Hallowed Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136326",
+      "ItemName": "Headcloth of the Fray",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171099",
+      "ItemName": "Hibernal Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136318",
+      "ItemName": "Ice Raider's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136459",
+      "ItemName": "Ice Raider's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136254",
+      "ItemName": "Iceshadow's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136555",
+      "ItemName": "Igneous Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136551",
+      "ItemName": "Mystifying Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136526",
+      "ItemName": "Raiment of the Lifespring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136528",
+      "ItemName": "Robe of Elegies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136548",
+      "ItemName": "Robe of the Firebloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136549",
+      "ItemName": "Runeweave Clothing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136483",
+      "ItemName": "Seal of the Tundra",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171102",
+      "ItemName": "Slippers of Diligence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136314",
+      "ItemName": "Snowthorn Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136465",
+      "ItemName": "Stone of Confidence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171105",
+      "ItemName": "Striders of Strife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136553",
+      "ItemName": "Thanatoid Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136554",
+      "ItemName": "Tunic of Ataraxia",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136530",
+      "ItemName": "Vestment of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136525",
+      "ItemName": "Vestment of Yesteryear",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

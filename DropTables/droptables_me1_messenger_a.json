@@ -1,0 +1,538 @@
+{
+  "Name": "ME1_Messenger_A",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473125",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473126",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473127",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473128",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473129",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473130",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355151",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355152",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355153",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355154",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355155",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355156",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473338",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473339",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473340",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473341",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473342",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473324",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473325",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473326",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473327",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473328",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473331",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473332",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473333",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473334",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473335",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473367",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473368",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473369",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473370",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473371",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473296",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473297",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473298",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473299",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473300",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473282",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473283",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473284",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473285",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473286",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473289",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473290",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473291",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473292",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473293",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473353",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473354",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473355",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473356",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473357",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473317",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473318",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473319",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473320",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473321",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473303",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473304",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473305",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473306",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473307",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473310",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473311",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473312",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473313",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473314",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473360",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473361",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473362",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473363",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473364",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356107",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356108",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356109",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356110",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356111",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356112",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317191",
+      "ItemName": "Marleybonaphone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1260120",
+      "ItemName": "Ravenwood Pogo Stick (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355158",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355159",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355160",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355161",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355162",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355163",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473181",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473182",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473183",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473184",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473185",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473186",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

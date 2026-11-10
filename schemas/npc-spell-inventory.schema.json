@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "npc-spell-inventory.schema.json",
+  "title": "NpcSpellInventory",
+  "type": "object",
+  "properties": {
+    "TemplateID": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "Spells": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "TemplateID": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "RequiredSpellID": {
+            "type": "integer"
+          },
+          "Level": {
+            "type": "integer"
+          },
+          "TrainingPoints": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "TemplateID",
+          "RequiredSpellID",
+          "Level"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "TemplateID",
+    "Spells"
+  ],
+  "additionalProperties": false
+}

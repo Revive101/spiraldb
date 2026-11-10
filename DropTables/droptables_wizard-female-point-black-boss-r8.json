@@ -1,0 +1,128 @@
+{
+  "Name": "Wizard-Female-Point-Black-Boss-R8",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126599",
+      "ItemName": "Burning Ring of Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146132",
+      "ItemName": "Firewinter's Ice Spark Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104665",
+      "ItemName": "Firewinter's Seasonal Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146288",
+      "ItemName": "Frostbitten Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104595",
+      "ItemName": "Judge's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104658",
+      "ItemName": "Leafy Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146212",
+      "ItemName": "Lightning-charged Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104776",
+      "ItemName": "Mocassins of the Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146173",
+      "ItemName": "Needle of the Eye",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160859",
+      "ItemName": "Oni Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146164",
+      "ItemName": "Poniard of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146316",
+      "ItemName": "Pyromancer's Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104630",
+      "ItemName": "Raiment of the Raven",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104804",
+      "ItemName": "Reaper's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146342",
+      "ItemName": "Reaper's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160862",
+      "ItemName": "Scarab Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126581",
+      "ItemName": "Seal of the Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126610",
+      "ItemName": "Seal of the Vigilant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104888",
+      "ItemName": "Shoes of the Greatest Saga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104793",
+      "ItemName": "Shoes of the Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104867",
+      "ItemName": "Striders of the Thicket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104727",
+      "ItemName": "Surcoat of Glory",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

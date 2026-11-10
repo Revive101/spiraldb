@@ -1,0 +1,278 @@
+{
+  "Name": "AZ-BossEpic-Malistaire",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730456",
+      "ItemName": "Arrow of the Hungry Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512209",
+      "ItemName": "Azteca Dungeon Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512222",
+      "ItemName": "Azteca Post Apocalypse Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512213",
+      "ItemName": "Azteca Zultun Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730428",
+      "ItemName": "Cipactli's Lost Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730424",
+      "ItemName": "Cold Codex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739124",
+      "ItemName": "Earth Codex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730212",
+      "ItemName": "Judgement of Pitch Black Lake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346128",
+      "ItemName": "Krokopatra Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346126",
+      "ItemName": "Krokopatra Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730320",
+      "ItemName": "Lords of Night Challenge Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739167",
+      "ItemName": "Magic Orb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730284",
+      "ItemName": "Mantle of the Last Codex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350312",
+      "ItemName": "Master's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346131",
+      "ItemName": "Meowiarty Archmage Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346132",
+      "ItemName": "Meowiarty Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730251",
+      "ItemName": "Mother's New Moon Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730364",
+      "ItemName": "Night Caiman's Gaunt Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730402",
+      "ItemName": "Night Caiman's Tomb Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346123",
+      "ItemName": "Rattlebones Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346124",
+      "ItemName": "Rattlebones Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730250",
+      "ItemName": "Seven Stabs of the Sky Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

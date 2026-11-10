@@ -1,0 +1,158 @@
+{
+  "Name": "GH-Boar-4-GHBoss-R4",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136259",
+      "ItemName": "Bane Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355192",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355193",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355194",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355195",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355196",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355197",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355198",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136540",
+      "ItemName": "Garments of the Accord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136341",
+      "ItemName": "Hat of Stormy Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136539",
+      "ItemName": "Jerkin of the Ice Floes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "211126",
+      "ItemName": "Mantle Clock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171114",
+      "ItemName": "Marchers of the Inevitable",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136468",
+      "ItemName": "Stone of Superstition",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

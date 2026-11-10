@@ -1,0 +1,68 @@
+{
+  "Name": "ME_Clock_Lugs_01",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "100326",
+      "ItemName": "Brass Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204451",
+      "ItemName": "Bronze Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383044",
+      "ItemName": "Brother Cheesiwitz",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100431",
+      "ItemName": "Clockwork Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789470",
+      "ItemName": "Clockwork Paladin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383043",
+      "ItemName": "Mama Cheesiwitz",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374522",
+      "ItemName": "Papa Cheesiwitz",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374389",
+      "ItemName": "Sister Cheesiwitz",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100430",
+      "ItemName": "Spider Golem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100411",
+      "ItemName": "Steel Golem",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

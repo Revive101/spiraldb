@@ -1,0 +1,688 @@
+{
+  "Name": "Adv_AQ-Immortal-Hades",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "819745",
+      "ItemName": "Ares' Cyclone Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819744",
+      "ItemName": "Ares' Numbing Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819743",
+      "ItemName": "Ares' Scalding Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819748",
+      "ItemName": "Ares' Spear of Guile",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819747",
+      "ItemName": "Ares' Spear of Nerve",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819746",
+      "ItemName": "Ares' Spear of Wits",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819749",
+      "ItemName": "Ares' Stout Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203059",
+      "ItemName": "Armor of Unknown Tartarus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819522",
+      "ItemName": "Armor of Zeus' Law",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203060",
+      "ItemName": "Armor of a Sorrowful Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203058",
+      "ItemName": "Blackthunder Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203051",
+      "ItemName": "Blackthunder Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203065",
+      "ItemName": "Blackthunder Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819707",
+      "ItemName": "Bolt of Zeus' Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203066",
+      "ItemName": "Boots of Unknown Tartarus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203024",
+      "ItemName": "Boots of the Uncharted Sea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819511",
+      "ItemName": "Clangor From Olympus Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203032",
+      "ItemName": "Footgear of the Afterlife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1695018",
+      "ItemName": "Grim Skeleturion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819562",
+      "ItemName": "Hades' Armor of Conscience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819563",
+      "ItemName": "Hades' Armor of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819561",
+      "ItemName": "Hades' Armor of Tartarus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203061",
+      "ItemName": "Hades' Armor of Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819560",
+      "ItemName": "Hades' Armor of the Abyss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819553",
+      "ItemName": "Hades' Blackrain Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203069",
+      "ItemName": "Hades' Boots of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203030",
+      "ItemName": "Hades' Brimstone Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819551",
+      "ItemName": "Hades' Crown of Blazes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203031",
+      "ItemName": "Hades' Darkness Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203028",
+      "ItemName": "Hades' Firestriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819722",
+      "ItemName": "Hades' Flamemaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203029",
+      "ItemName": "Hades' Frost-Bound Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819559",
+      "ItemName": "Hades' Frozen Over Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203033",
+      "ItemName": "Hades' Furtive Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819554",
+      "ItemName": "Hades' Helm of Dread",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203055",
+      "ItemName": "Hades' Helm of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819557",
+      "ItemName": "Hades' Helm of Penance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819555",
+      "ItemName": "Hades' Helm of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203054",
+      "ItemName": "Hades' Helm of Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203053",
+      "ItemName": "Hades' Helm of the Abyss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819552",
+      "ItemName": "Hades' Helmet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819558",
+      "ItemName": "Hades' Inferno Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203062",
+      "ItemName": "Hades' Raiment of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819727",
+      "ItemName": "Hades' Soul Scythe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819726",
+      "ItemName": "Hades' Staff of Awakening",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819725",
+      "ItemName": "Hades' Staff of Eternity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819723",
+      "ItemName": "Hades' Staff of Frostbite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819728",
+      "ItemName": "Hades' Staff of Reckoning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819724",
+      "ItemName": "Hades' Staff of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203068",
+      "ItemName": "Hades' Striders of Torment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203034",
+      "ItemName": "Hades' Tartarus Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819556",
+      "ItemName": "Hades' Veil of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203052",
+      "ItemName": "Helm of Unknown Tartarus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819538",
+      "ItemName": "Helm of the Frozen Wave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819515",
+      "ItemName": "Helm of the Heavens",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819543",
+      "ItemName": "Helmet of Tranquil Seas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819547",
+      "ItemName": "Poseidon's Armor of Ages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819550",
+      "ItemName": "Poseidon's Armor of Depths",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819548",
+      "ItemName": "Poseidon's Armor of Fervor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819715",
+      "ItemName": "Poseidon's Backdraft Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203021",
+      "ItemName": "Poseidon's Boots of Vapors",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819541",
+      "ItemName": "Poseidon's Brim of Ardor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819537",
+      "ItemName": "Poseidon's Cowl of Flares",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203025",
+      "ItemName": "Poseidon's Crest Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819549",
+      "ItemName": "Poseidon's Doldrums Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203026",
+      "ItemName": "Poseidon's Engulfing Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819544",
+      "ItemName": "Poseidon's Firestream Garb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819545",
+      "ItemName": "Poseidon's Glacial Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203022",
+      "ItemName": "Poseidon's Icebound Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819546",
+      "ItemName": "Poseidon's Maelstrom Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819716",
+      "ItemName": "Poseidon's Numbing Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819721",
+      "ItemName": "Poseidon's Open Seas Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819540",
+      "ItemName": "Poseidon's Sea Spray Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819719",
+      "ItemName": "Poseidon's Staff of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819539",
+      "ItemName": "Poseidon's Torrential Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203023",
+      "ItemName": "Poseidon's Waterskimmers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819720",
+      "ItemName": "Poseidon's Wavemaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203027",
+      "ItemName": "Poseidon's Wavewalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819542",
+      "ItemName": "Poseidon's Whirlpool Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819564",
+      "ItemName": "Raiment of Hades' Ruin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819580",
+      "ItemName": "Senator's Frostfall Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819622",
+      "ItemName": "Senator's Frostfall Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819601",
+      "ItemName": "Senator's Frostfall Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819584",
+      "ItemName": "Senator's Laurel of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819579",
+      "ItemName": "Senator's Laurel of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819582",
+      "ItemName": "Senator's Laurel of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819581",
+      "ItemName": "Senator's Monsoon Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819623",
+      "ItemName": "Senator's Monsoon Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819602",
+      "ItemName": "Senator's Monsoon Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819585",
+      "ItemName": "Senator's Noble Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819627",
+      "ItemName": "Senator's Noble Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819606",
+      "ItemName": "Senator's Noble Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819626",
+      "ItemName": "Senator's Shoes of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819624",
+      "ItemName": "Senator's Shoes of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819621",
+      "ItemName": "Senator's Sparking Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819583",
+      "ItemName": "Senator's Spirited Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819625",
+      "ItemName": "Senator's Spirited Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819604",
+      "ItemName": "Senator's Spirited Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819605",
+      "ItemName": "Senator's Toga of Demise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819600",
+      "ItemName": "Senator's Toga of Sparks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819603",
+      "ItemName": "Senator's Toga of Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819718",
+      "ItemName": "Staff of Poseidon's Angst",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819706",
+      "ItemName": "Staff of Zeus' Curses",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819717",
+      "ItemName": "Trident of Shock Waves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203057",
+      "ItemName": "Unseen Lord's Chill Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203064",
+      "ItemName": "Unseen Lord's Chill Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203050",
+      "ItemName": "Unseen Lord's Chill Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203063",
+      "ItemName": "Unseen Lord's Cinder Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203049",
+      "ItemName": "Unseen Lord's Cinder Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203056",
+      "ItemName": "Unseen Lord's Cinder Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203067",
+      "ItemName": "Walkers of a Sorrowful Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819704",
+      "ItemName": "Zeus' Bolt of Genius",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203010",
+      "ItemName": "Zeus' Boots of Ambition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203009",
+      "ItemName": "Zeus' Cloud Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819512",
+      "ItemName": "Zeus' Divine Right Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819509",
+      "ItemName": "Zeus' Eternal Flame Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203007",
+      "ItemName": "Zeus' Flamewalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819517",
+      "ItemName": "Zeus' Frozen Skies Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819519",
+      "ItemName": "Zeus' Garb of Mischief",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819702",
+      "ItemName": "Zeus' Hailstone Bolt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819513",
+      "ItemName": "Zeus' Helm of Kings",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819514",
+      "ItemName": "Zeus' Helm of the Moribund",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819510",
+      "ItemName": "Zeus' Helmet of Blizzards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203008",
+      "ItemName": "Zeus' Iceshelf Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203013",
+      "ItemName": "Zeus' Majestic Skyriders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819518",
+      "ItemName": "Zeus' Ominous Skies Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819705",
+      "ItemName": "Zeus' Scepter of Creation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819516",
+      "ItemName": "Zeus' Skyforged Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819701",
+      "ItemName": "Zeus' Smoke Cloud Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203012",
+      "ItemName": "Zeus' Soulless Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203011",
+      "ItemName": "Zeus' Striders of Vitality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819703",
+      "ItemName": "Zeus' Thunderstrike Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819520",
+      "ItemName": "Zeus' War Eagle Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819521",
+      "ItemName": "Zeus' Wicked Ploy Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

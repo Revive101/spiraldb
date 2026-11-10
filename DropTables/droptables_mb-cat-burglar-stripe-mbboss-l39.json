@@ -1,0 +1,138 @@
+{
+  "Name": "MB-Cat-Burglar-Stripe-MBBoss-L39",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160679",
+      "ItemName": "Bulletin Board",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160761",
+      "ItemName": "Enclosed Wall Lamp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39051",
+      "ItemName": "Exquisite Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160710",
+      "ItemName": "Fine Wooden Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97347",
+      "ItemName": "Mugsy's Affected Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97253",
+      "ItemName": "Mugsy's Animated Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97352",
+      "ItemName": "Mugsy's Aristocratic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97217",
+      "ItemName": "Mugsy's Black Mantle Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97316",
+      "ItemName": "Mugsy's Consistent Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97128",
+      "ItemName": "Mugsy's Deck of Ice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97199",
+      "ItemName": "Mugsy's Distressing Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97166",
+      "ItemName": "Mugsy's Dramatic Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77164",
+      "ItemName": "Mugsy's Enkindled Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39017",
+      "ItemName": "Mugsy's Enkindled Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39035",
+      "ItemName": "Mugsy's Frigid Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97391",
+      "ItemName": "Mugsy's Genteel Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97153",
+      "ItemName": "Mugsy's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5046",
+      "ItemName": "Mugsy's Meteorite Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97265",
+      "ItemName": "Mugsy's Mysterious Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97108",
+      "ItemName": "Mugsy's Perceptive Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97320",
+      "ItemName": "Mugsy's Robe of Equity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77163",
+      "ItemName": "Mugsy's Solar Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87467",
+      "ItemName": "Mugsy's Staff of Extinction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97087",
+      "ItemName": "Mugsy's Stylish Athame",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

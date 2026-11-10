@@ -1,0 +1,158 @@
+{
+  "Name": "G14-CD-Boss-Rotting",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338233",
+      "ItemName": "Athame of the Dark Usurper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338138",
+      "ItemName": "Battlemage's Boots of Furor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338137",
+      "ItemName": "Bitter Ghost's Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338383",
+      "ItemName": "Blackwater's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338216",
+      "ItemName": "Blade of Kan Davasi",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338136",
+      "ItemName": "Boots of Carpathesian Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338142",
+      "ItemName": "Castle Darkmoor Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338230",
+      "ItemName": "Dirk of Dimwood Vale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338217",
+      "ItemName": "Dirk of Unnatural Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338229",
+      "ItemName": "Dragon's Talon of Tumult",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338213",
+      "ItemName": "Dragon's Tooth of Darkmoor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338227",
+      "ItemName": "Edge of the Raging Daystar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338384",
+      "ItemName": "Gargoyle's Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338219",
+      "ItemName": "Herald of Darkmoor's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338387",
+      "ItemName": "Herald of Darkmoor's Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338214",
+      "ItemName": "Kris of Cold Fury",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338139",
+      "ItemName": "Law of Kan Davasi Sabatons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338232",
+      "ItemName": "Lord of Death's Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338386",
+      "ItemName": "Ring of Mortis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338218",
+      "ItemName": "Sharp Edge of the Void",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338381",
+      "ItemName": "Signet of the Howling Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338141",
+      "ItemName": "Sollerets of the Usurped",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338140",
+      "ItemName": "Spirit of Darkmoor's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338231",
+      "ItemName": "Spirit of Darkmoor's Thorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338215",
+      "ItemName": "Thunderclap Spike",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338228",
+      "ItemName": "Wolf's Lancet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338382",
+      "ItemName": "Wolfbane Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338385",
+      "ItemName": "von Shane Family Signet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,158 @@
+{
+  "Name": "MS-Ghost-Red-L46",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97893",
+      "ItemName": "Akuji's Cloak of the Zealous",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97506",
+      "ItemName": "Akuji's Deck of Premise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97476",
+      "ItemName": "Akuji's Entranced Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97577",
+      "ItemName": "Akuji's Helm of Forethought",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97717",
+      "ItemName": "Akuji's Meditative Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98009",
+      "ItemName": "Akuji's Slippers of the Chorus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97471",
+      "ItemName": "Athame of Attention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98004",
+      "ItemName": "Boots of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160460",
+      "ItemName": "Crimson Silk Kimono",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97474",
+      "ItemName": "Dirk of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97703",
+      "ItemName": "Discerning Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98061",
+      "ItemName": "Entranced Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98066",
+      "ItemName": "Footwraps of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100432",
+      "ItemName": "Green Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97624",
+      "ItemName": "Headwraps of Resonance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97672",
+      "ItemName": "Hood of the Resolute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97602",
+      "ItemName": "Mask of Impression",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97981",
+      "ItemName": "Meticulous Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98032",
+      "ItemName": "Problematic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225419",
+      "ItemName": "Red Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98064",
+      "ItemName": "Sandals of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97954",
+      "ItemName": "Shoes of the Observant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97576",
+      "ItemName": "Shroud of Afterthoughts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98055",
+      "ItemName": "Slippers of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470223",
+      "ItemName": "Soji Screen Rice Paper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160450",
+      "ItemName": "Stone Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160513",
+      "ItemName": "Tall Fuschia Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97650",
+      "ItemName": "Tormented Mask",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

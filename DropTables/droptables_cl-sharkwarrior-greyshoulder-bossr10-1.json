@@ -1,0 +1,118 @@
+{
+  "Name": "Cl-SharkWarrior-GreyShoulder-BossR10-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "342151",
+      "ItemName": "Broken Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243574",
+      "ItemName": "Circle of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243216",
+      "ItemName": "Dirk of Disorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243764",
+      "ItemName": "Firestar Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243320",
+      "ItemName": "Headwrap of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243564",
+      "ItemName": "Hexfin's Flurry Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243259",
+      "ItemName": "Hexfin's Frostbit Bodkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243649",
+      "ItemName": "Hexfin's Ice Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243890",
+      "ItemName": "Legendary Vial",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243295",
+      "ItemName": "United Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243833",
+      "ItemName": "Walkers of Wonder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243647",
+      "ItemName": "Wintertide Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243876",
+      "ItemName": "Wyldfire Collar",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

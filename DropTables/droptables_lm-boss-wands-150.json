@@ -1,0 +1,98 @@
+{
+  "Name": "LM-Boss-Wands-150",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537527",
+      "ItemName": "Magician's Balance Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537526",
+      "ItemName": "Magician's Death Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537521",
+      "ItemName": "Magician's Fire Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537522",
+      "ItemName": "Magician's Ice Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537525",
+      "ItemName": "Magician's Life Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537524",
+      "ItemName": "Magician's Myth Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537528",
+      "ItemName": "Magician's Power Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537523",
+      "ItemName": "Magician's Storm Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537536",
+      "ItemName": "Malevolent Balance Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537535",
+      "ItemName": "Malevolent Death Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537530",
+      "ItemName": "Malevolent Fire Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537531",
+      "ItemName": "Malevolent Ice Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537534",
+      "ItemName": "Malevolent Life Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537533",
+      "ItemName": "Malevolent Myth Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537537",
+      "ItemName": "Malevolent Power Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537532",
+      "ItemName": "Malevolent Storm Wand",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

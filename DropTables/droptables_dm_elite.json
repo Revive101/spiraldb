@@ -1,0 +1,83 @@
+{
+  "Name": "DM_Elite",
+  "Description": "Mob loot table (54 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1650024",
+      "ItemName": "Arcanum Espionage Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650012",
+      "ItemName": "Darkmoor Black Lagoon Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650013",
+      "ItemName": "Darkmoor Castle Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650014",
+      "ItemName": "Darkmoor Graveholm Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650015",
+      "ItemName": "Darkmoor Graveholm Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650016",
+      "ItemName": "Darkmoor Howling Lands Com Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650017",
+      "ItemName": "Darkmoor Howling Lands Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650018",
+      "ItemName": "Darkmoor Mortal Plain Com Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650019",
+      "ItemName": "Darkmoor Mortal Plain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650020",
+      "ItemName": "Darkmoor Outsiders Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650022",
+      "ItemName": "Darkmoor Scholomance Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650023",
+      "ItemName": "Darkmoor Tragedy Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1650021",
+      "ItemName": "Scholomance Combat Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

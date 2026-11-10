@@ -1,0 +1,568 @@
+{
+  "Name": "SKB_AZ_Ixcax_A_90",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1350309",
+      "ItemName": "Adept's Socket Wrench",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733074",
+      "ItemName": "Ankylosaurus (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789439",
+      "ItemName": "Arcus Cloud (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739178",
+      "ItemName": "Azteca Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739079",
+      "ItemName": "Azteca Fire Pit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512211",
+      "ItemName": "Azteca Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739087",
+      "ItemName": "Azteca Palm Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512212",
+      "ItemName": "Azteca Swamp Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739100",
+      "ItemName": "Azteca Water Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683258",
+      "ItemName": "Aztecan Bath Sink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683259",
+      "ItemName": "Aztecan Bath Tub",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683260",
+      "ItemName": "Aztecan Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683261",
+      "ItemName": "Aztecan Bed Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683262",
+      "ItemName": "Aztecan Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683263",
+      "ItemName": "Aztecan Cabinet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683265",
+      "ItemName": "Aztecan Coffee Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683266",
+      "ItemName": "Aztecan Couch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683267",
+      "ItemName": "Aztecan Cupboards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683268",
+      "ItemName": "Aztecan Dining Chair",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683269",
+      "ItemName": "Aztecan Dining Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683270",
+      "ItemName": "Aztecan Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683271",
+      "ItemName": "Aztecan Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683264",
+      "ItemName": "Aztecan Settee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683272",
+      "ItemName": "Aztecan Sink",
+      "Notes": ""
+    },
+    {
+      "ItemId": "683273",
+      "ItemName": "Aztecan Towel Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739072",
+      "ItemName": "Aztecosaur Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739073",
+      "ItemName": "Aztecosaur Stela",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713289",
+      "ItemName": "Babydactyl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730601",
+      "ItemName": "Black Star Eagle's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730602",
+      "ItemName": "Black Star Eagle's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739101",
+      "ItemName": "Bundle of Wood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739074",
+      "ItemName": "Butterfly Shrine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739076",
+      "ItemName": "Codex Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470132",
+      "ItemName": "Crokagator (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164422",
+      "ItemName": "Death Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730818",
+      "ItemName": "Emerald Caiman's Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730819",
+      "ItemName": "Emerald Caiman's Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739088",
+      "ItemName": "Engraved Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350159",
+      "ItemName": "Feathered Raptor (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789125",
+      "ItemName": "Firestorm Quetzal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739082",
+      "ItemName": "Gold Bars",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217523",
+      "ItemName": "Gold Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "789437",
+      "ItemName": "Gold-wrought Eagle (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730798",
+      "ItemName": "Hungry Caiman's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730799",
+      "ItemName": "Hungry Caiman's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739084",
+      "ItemName": "Jaguar Tent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317670",
+      "ItemName": "Jeweled Scarab (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470685",
+      "ItemName": "King Acampi Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470684",
+      "ItemName": "King Axaya Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739148",
+      "ItemName": "Lava Bulb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733072",
+      "ItemName": "Leaf Foot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225450",
+      "ItemName": "Life Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739083",
+      "ItemName": "Light Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376526",
+      "ItemName": "Lost World Cloud Atlatl ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376502",
+      "ItemName": "Lost World Cloud Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376510",
+      "ItemName": "Lost World Cloud Mail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376518",
+      "ItemName": "Lost World Cloud Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376521",
+      "ItemName": "Lost World Cursed Footclaws",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376529",
+      "ItemName": "Lost World Cursed Macua ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376513",
+      "ItemName": "Lost World Cursed Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376505",
+      "ItemName": "Lost World Cursed Visor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376516",
+      "ItemName": "Lost World Ember Footwraps ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376500",
+      "ItemName": "Lost World Ember Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376508",
+      "ItemName": "Lost World Ember Jerkin ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376524",
+      "ItemName": "Lost World Ember Macua",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376514",
+      "ItemName": "Lost World Fated Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376530",
+      "ItemName": "Lost World Fated Atlatl ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376522",
+      "ItemName": "Lost World Fated Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376506",
+      "ItemName": "Lost World Fated Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376517",
+      "ItemName": "Lost World Hail Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376525",
+      "ItemName": "Lost World Hail Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376509",
+      "ItemName": "Lost World Hail Suit ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376501",
+      "ItemName": "Lost World Hail Visor ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376511",
+      "ItemName": "Lost World Mystic ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376527",
+      "ItemName": "Lost World Mystic Macua",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376503",
+      "ItemName": "Lost World Mystic Mask ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376519",
+      "ItemName": "Lost World Mystic Trekkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376520",
+      "ItemName": "Lost World Soul Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376512",
+      "ItemName": "Lost World Soul Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376504",
+      "ItemName": "Lost World Soul Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376528",
+      "ItemName": "Lost World Soul Spear  ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376523",
+      "ItemName": "Lost World Survivor Footclaws",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376515",
+      "ItemName": "Lost World Survivor Mail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376507",
+      "ItemName": "Lost World Survivor Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376531",
+      "ItemName": "Lost World Survivor Spear ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739185",
+      "ItemName": "Notch Leaf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257439",
+      "ItemName": "Pesky Beetle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739149",
+      "ItemName": "Pink Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739080",
+      "ItemName": "Purple Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470686",
+      "ItemName": "Queen Chasca Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739123",
+      "ItemName": "Ritual Codex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317620",
+      "ItemName": "Royal Ibis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100416",
+      "ItemName": "Scarab",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739075",
+      "ItemName": "Small Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730808",
+      "ItemName": "Staff of the Storm Caiman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730809",
+      "ItemName": "Staff of the Storm Caiman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713299",
+      "ItemName": "Stegosaurus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739077",
+      "ItemName": "Stone Azteca Head",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730641",
+      "ItemName": "Sun Eagle Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730642",
+      "ItemName": "Sun Eagle Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470682",
+      "ItemName": "Tezcat Threestar Bobblehead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733071",
+      "ItemName": "Therizinosaurus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "733075",
+      "ItemName": "Triceratops (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730591",
+      "ItemName": "Turquoise Eagle's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730592",
+      "ItemName": "Turquoise Eagle's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713345",
+      "ItemName": "Tyrannosaurus Rex (PERM)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713257",
+      "ItemName": "Velociraptor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470683",
+      "ItemName": "Zaylin Reedwalker Bobblehead",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

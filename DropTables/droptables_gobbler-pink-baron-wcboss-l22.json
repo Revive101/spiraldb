@@ -1,0 +1,113 @@
+{
+  "Name": "Gobbler-Pink-Baron-WCBoss-L22",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87223",
+      "ItemName": "Angelic Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4777",
+      "ItemName": "Baron's Shiny Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87258",
+      "ItemName": "Baron's Staff of Command",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87261",
+      "ItemName": "Baron's Staff of Tension",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4679",
+      "ItemName": "Bogeyman's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87235",
+      "ItemName": "Cloak of the Watchful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4842",
+      "ItemName": "Cold Forged Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77578",
+      "ItemName": "Cold Forged Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346483",
+      "ItemName": "Elven Ice Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512114",
+      "ItemName": "Golem Tower Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512196",
+      "ItemName": "Grumpy Gobblers Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4872",
+      "ItemName": "Rotunda's Ancient Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87205",
+      "ItemName": "Rotunda's Frost Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77590",
+      "ItemName": "Rotunda's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4735",
+      "ItemName": "Rotunda's Meal Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4791",
+      "ItemName": "Rotunda's Regal Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4674",
+      "ItemName": "Rotunda's Torc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87198",
+      "ItemName": "Splendiferous Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335019",
+      "ItemName": "Wizard City Dance Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

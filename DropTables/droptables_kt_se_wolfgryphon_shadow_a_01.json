@@ -1,0 +1,53 @@
+{
+  "Name": "KT_SE_WolfGryphon_Shadow_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1673649",
+      "ItemName": "Manifest Armor of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673645",
+      "ItemName": "Manifest Armor of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673644",
+      "ItemName": "Manifest Armor of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673648",
+      "ItemName": "Manifest Armor of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673647",
+      "ItemName": "Manifest Armor of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673650",
+      "ItemName": "Manifest Armor of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673646",
+      "ItemName": "Manifest Armor of Wrath",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

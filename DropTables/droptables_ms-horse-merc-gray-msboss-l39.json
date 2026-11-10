@@ -1,0 +1,143 @@
+{
+  "Name": "MS-Horse-Merc-Gray-MSBoss-L39",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97704",
+      "ItemName": "Band of Hope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98062",
+      "ItemName": "Boots of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98017",
+      "ItemName": "Boots of the Triad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97601",
+      "ItemName": "Cowl of Watchfulness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97670",
+      "ItemName": "Hat of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97574",
+      "ItemName": "Hat of the Observant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97649",
+      "ItemName": "Helm of Struggling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97622",
+      "ItemName": "Hood of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97469",
+      "ItemName": "Kris of the Pensive Ones",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82925",
+      "ItemName": "Marble Stool",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1335018",
+      "ItemName": "MooShu Dance Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512190",
+      "ItemName": "MooShu Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98008",
+      "ItemName": "Otomo's Footwraps of Unison",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97588",
+      "ItemName": "Otomo's Impulsive Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97991",
+      "ItemName": "Otomo's Shroud of Disorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87487",
+      "ItemName": "Otomo's Staff of Dreaming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97876",
+      "ItemName": "Quartermaster's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160464",
+      "ItemName": "Quartermaster's Naginatas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97697",
+      "ItemName": "Ring of Detachment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97967",
+      "ItemName": "Sandals of Humor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97472",
+      "ItemName": "Shortblade of a Daydreamer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470213",
+      "ItemName": "Sky Painting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97464",
+      "ItemName": "Student's Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217005",
+      "ItemName": "The Hexbreaker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82923",
+      "ItemName": "Throwing Star Display",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,123 @@
+{
+  "Name": "LM-Boss-Decks-150-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537640",
+      "ItemName": "Magician's Balance Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537639",
+      "ItemName": "Magician's Death Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537634",
+      "ItemName": "Magician's Fire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537635",
+      "ItemName": "Magician's Ice Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537638",
+      "ItemName": "Magician's Life Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537637",
+      "ItemName": "Magician's Myth Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537636",
+      "ItemName": "Magician's Storm Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537648",
+      "ItemName": "Malevolent Balance Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537647",
+      "ItemName": "Malevolent Death Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537642",
+      "ItemName": "Malevolent Fire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537643",
+      "ItemName": "Malevolent Ice Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537646",
+      "ItemName": "Malevolent Life Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537645",
+      "ItemName": "Malevolent Myth Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537644",
+      "ItemName": "Malevolent Storm Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537656",
+      "ItemName": "Merciless Balance Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537655",
+      "ItemName": "Merciless Death Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537650",
+      "ItemName": "Merciless Fire Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537651",
+      "ItemName": "Merciless Ice Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537654",
+      "ItemName": "Merciless Life Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537653",
+      "ItemName": "Merciless Myth Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537652",
+      "ItemName": "Merciless Storm Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

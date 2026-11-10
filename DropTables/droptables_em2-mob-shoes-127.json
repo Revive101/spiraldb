@@ -1,0 +1,58 @@
+{
+  "Name": "EM2-Mob-Shoes-127",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462194",
+      "ItemName": "Bodacious Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462189",
+      "ItemName": "Chill Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462195",
+      "ItemName": "Choice Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462190",
+      "ItemName": "Gnarly Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462193",
+      "ItemName": "Heavy Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462191",
+      "ItemName": "Mondo Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462188",
+      "ItemName": "Rad Kalamar Kicks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462192",
+      "ItemName": "Righteous Kalamar Kicks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

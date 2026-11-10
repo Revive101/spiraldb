@@ -1,0 +1,98 @@
+{
+  "Name": "AV-Ogre-Boss-R11-02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512162",
+      "ItemName": "Avalon Abbey Road Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512163",
+      "ItemName": "Avalon Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635335",
+      "ItemName": "Brisk Circle of Nodor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635375",
+      "ItemName": "Catalan's Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635617",
+      "ItemName": "Club of the Heath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635616",
+      "ItemName": "Crystal Cavern Cudgel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635215",
+      "ItemName": "Dependable Squire's Torc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635301",
+      "ItemName": "Hood of the Sacred Lake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635244",
+      "ItemName": "Horn Handled Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635376",
+      "ItemName": "Jabberwock's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635415",
+      "ItemName": "Knight's Boots of Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635300",
+      "ItemName": "Mask of the Catalan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635414",
+      "ItemName": "Merciful Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538015",
+      "ItemName": "Spade Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635245",
+      "ItemName": "Steel of the Wild Hunt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635214",
+      "ItemName": "Torc of Pluck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

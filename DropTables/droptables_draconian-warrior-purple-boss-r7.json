@@ -1,0 +1,108 @@
+{
+  "Name": "Draconian-Warrior-Purple-Boss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146169",
+      "ItemName": "Athame of Perserverance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146168",
+      "ItemName": "Athame of the Volcano",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104615",
+      "ItemName": "Cloak of the Djinni",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146284",
+      "ItemName": "Cowl of the Glacier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126683",
+      "ItemName": "Deck of Last Departure",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104599",
+      "ItemName": "Drape of Symmetry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104757",
+      "ItemName": "Frostwoven Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146332",
+      "ItemName": "Mantle of the Undying",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160830",
+      "ItemName": "Purple Stone Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126562",
+      "ItemName": "Ring of Equilibrium",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104617",
+      "ItemName": "Salamander's Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160834",
+      "ItemName": "Scarab Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104806",
+      "ItemName": "Shoes of Gloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104754",
+      "ItemName": "Slippers of the Ice Flow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104869",
+      "ItemName": "Sysiphan's Benevolent Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146246",
+      "ItemName": "Sysiphan's Mighty Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104731",
+      "ItemName": "Sysiphan's Regal Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146318",
+      "ItemName": "Veil of Fire",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

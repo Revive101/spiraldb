@@ -1,0 +1,218 @@
+{
+  "Name": "CL-GolemDigger-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243572",
+      "ItemName": "Band of Bliss",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342091",
+      "ItemName": "Diving Tanks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243767",
+      "ItemName": "Fire-Forged Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243257",
+      "ItemName": "Frozen Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243265",
+      "ItemName": "Living Thorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243690",
+      "ItemName": "Mystical Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243881",
+      "ItemName": "Protective Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243520",
+      "ItemName": "Ring of Regret",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243710",
+      "ItemName": "Smock of the Storm Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243728",
+      "ItemName": "Synthesis Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243440",
+      "ItemName": "Thunderstruck Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243321",
+      "ItemName": "Vile Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

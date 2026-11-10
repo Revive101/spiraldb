@@ -1,0 +1,113 @@
+{
+  "Name": "MB-Cat-Thug-Purple-MBBoss-LXX",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97333",
+      "ItemName": "Crusher's Deathly Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97424",
+      "ItemName": "Crusher's Dexterous Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97234",
+      "ItemName": "Crusher's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160637",
+      "ItemName": "Crusher's Milk Bottle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97232",
+      "ItemName": "Crusher's Mysterious Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97329",
+      "ItemName": "Crusher's Winter Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160661",
+      "ItemName": "Empty Milk Cartons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164075",
+      "ItemName": "Infernal Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160638",
+      "ItemName": "Milk Carton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126989",
+      "ItemName": "Myth Ghoul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5053",
+      "ItemName": "Spike's Amulet of Smiting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97422",
+      "ItemName": "Spike's Boots of Diplomacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97426",
+      "ItemName": "Spike's Boots of Excellence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97230",
+      "ItemName": "Spike's Icicle-Spiked Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97231",
+      "ItemName": "Spike's Mechanical Visor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97328",
+      "ItemName": "Spike's Robe of the Phoenix",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97331",
+      "ItemName": "Spike's Vestment of History",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164095",
+      "ItemName": "Striders of the Verge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225402",
+      "ItemName": "White Rat Magician",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,93 @@
+{
+  "Name": "Cyclops-BlueHelmet-WCBoss-L15",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77599",
+      "ItemName": "Blooming Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4685",
+      "ItemName": "Choker of Swarms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4842",
+      "ItemName": "Cold Forged Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160236",
+      "ItemName": "Eye Jar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77567",
+      "ItemName": "Flametouched Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77601",
+      "ItemName": "Hat of Eradication",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77622",
+      "ItemName": "Helm of Supremacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160325",
+      "ItemName": "Myth Stone Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4714",
+      "ItemName": "Onyx Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4718",
+      "ItemName": "Sapphire Studded Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87201",
+      "ItemName": "Shimmering Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4858",
+      "ItemName": "Slippers of Excitement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160365",
+      "ItemName": "Sun Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77606",
+      "ItemName": "Troubled Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87216",
+      "ItemName": "Vestment of Eyus",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

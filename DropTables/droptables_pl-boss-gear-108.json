@@ -1,0 +1,1198 @@
+{
+  "Name": "PL-Boss-Gear-108",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1369221",
+      "ItemName": "Blazing Walrusk Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469781",
+      "ItemName": "Blue Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469782",
+      "ItemName": "Cyan Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404123",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404124",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404125",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404126",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404127",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404128",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "404129",
+      "ItemName": "Deadly Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355186",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355187",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355188",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355189",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355190",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355191",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346060",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346061",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346062",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346063",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346064",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346065",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713154",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713155",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713156",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713157",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713158",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713159",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713160",
+      "ItemName": "Green Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469783",
+      "ItemName": "Green Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369516",
+      "ItemName": "Hand of the Kataba Iceblock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355144",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355145",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355146",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355147",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355148",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355149",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363716",
+      "ItemName": "Imperial Walrusk Cherkesska",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369420",
+      "ItemName": "Imperial Walrusk Cutlass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369164",
+      "ItemName": "Imperial Walrusk Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369548",
+      "ItemName": "Imperial Walrusk Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363748",
+      "ItemName": "Imperial Walrusk Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369196",
+      "ItemName": "Imperial Walrusk Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363684",
+      "ItemName": "Imperial Walrusk Papakh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369228",
+      "ItemName": "Imperial Walrusk Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359786",
+      "ItemName": "Intrepid Seal Pup",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369094",
+      "ItemName": "Kataba Ampul of Glaciers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369097",
+      "ItemName": "Kataba Amulet of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369514",
+      "ItemName": "Kataba Assemblage of Toil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369065",
+      "ItemName": "Kataba Athame of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369382",
+      "ItemName": "Kataba Axe of Glaciers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369126",
+      "ItemName": "Kataba Band of Glaciers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369130",
+      "ItemName": "Kataba Band of Misery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369383",
+      "ItemName": "Kataba Bardiche of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369385",
+      "ItemName": "Kataba Bardiche of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369509",
+      "ItemName": "Kataba Bevy of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363645",
+      "ItemName": "Kataba Boots of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363648",
+      "ItemName": "Kataba Boots of Parables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369099",
+      "ItemName": "Kataba Chain of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363614",
+      "ItemName": "Kataba Cloak of Glaciers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369386",
+      "ItemName": "Kataba Cresent Axe of Toil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369061",
+      "ItemName": "Kataba Dagger of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369064",
+      "ItemName": "Kataba Edge of Parables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369510",
+      "ItemName": "Kataba Fascicle of Glaciers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363581",
+      "ItemName": "Kataba Furcap of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363587",
+      "ItemName": "Kataba Furcap of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363582",
+      "ItemName": "Kataba Furcap of Glaciers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363583",
+      "ItemName": "Kataba Furcap of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363584",
+      "ItemName": "Kataba Furcap of Parables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363586",
+      "ItemName": "Kataba Furcap of Toil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363585",
+      "ItemName": "Kataba Furcap of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369512",
+      "ItemName": "Kataba Gallery of Parables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369387",
+      "ItemName": "Kataba Handaxe of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369381",
+      "ItemName": "Kataba Hatchet of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369384",
+      "ItemName": "Kataba Hatchet of Parables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369132",
+      "ItemName": "Kataba Iceblock Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369388",
+      "ItemName": "Kataba Iceblock Cresent Axe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363588",
+      "ItemName": "Kataba Iceblock Furcap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363652",
+      "ItemName": "Kataba Iceblock Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369068",
+      "ItemName": "Kataba Iceblock Smallblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363620",
+      "ItemName": "Kataba Iceblock Snowsuit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369100",
+      "ItemName": "Kataba Iceblock Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369062",
+      "ItemName": "Kataba Icepick of Glaciers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363613",
+      "ItemName": "Kataba Jacket of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363615",
+      "ItemName": "Kataba Jerkin of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369063",
+      "ItemName": "Kataba Lancet of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369127",
+      "ItemName": "Kataba Loop of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363650",
+      "ItemName": "Kataba Mukluks of Toil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369098",
+      "ItemName": "Kataba Necklace of Toil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363619",
+      "ItemName": "Kataba Outfit of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363616",
+      "ItemName": "Kataba Outfit of Parables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369515",
+      "ItemName": "Kataba Parcel of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369513",
+      "ItemName": "Kataba Pasteboards of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363617",
+      "ItemName": "Kataba Raiment of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369125",
+      "ItemName": "Kataba Ring of Cinders ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369131",
+      "ItemName": "Kataba Ring of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369129",
+      "ItemName": "Kataba Ringlet of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369128",
+      "ItemName": "Kataba Seal of Parables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363646",
+      "ItemName": "Kataba Shoes of Glaciers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369066",
+      "ItemName": "Kataba Skewer of Toil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369511",
+      "ItemName": "Kataba Spread of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363647",
+      "ItemName": "Kataba Stalkers of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369067",
+      "ItemName": "Kataba Stiletto of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369093",
+      "ItemName": "Kataba Stone of Cinders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369095",
+      "ItemName": "Kataba Talisman of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369096",
+      "ItemName": "Kataba Torc of Parables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363649",
+      "ItemName": "Kataba Trekkers of Zeal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363618",
+      "ItemName": "Kataba Vestment of Toil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363651",
+      "ItemName": "Kataba Walkers of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359789",
+      "ItemName": "Mountain Yeti",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469784",
+      "ItemName": "Orange Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713161",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713162",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713163",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713164",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713165",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713166",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713167",
+      "ItemName": "Purple Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469785",
+      "ItemName": "Purple Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248268",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248269",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248270",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248271",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248272",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248273",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248274",
+      "ItemName": "Queen Crape Myrtle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469786",
+      "ItemName": "Red Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713140",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713141",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713142",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713143",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713144",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713145",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713146",
+      "ItemName": "Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470720",
+      "ItemName": "The Enchanter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359662",
+      "ItemName": "The Goat Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1359663",
+      "ItemName": "The Ice Horns",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217362",
+      "ItemName": "The Kroktop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317802",
+      "ItemName": "The Manticore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217004",
+      "ItemName": "The Stalwart Guardian",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217212",
+      "ItemName": "The Stardust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217358",
+      "ItemName": "The Warlock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350122",
+      "ItemName": "Ultra Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350123",
+      "ItemName": "Ultra Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350124",
+      "ItemName": "Ultra Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350125",
+      "ItemName": "Ultra Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350126",
+      "ItemName": "Ultra Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350127",
+      "ItemName": "Ultra Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350128",
+      "ItemName": "Ultra Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350094",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350095",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350096",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350097",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350098",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350099",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350100",
+      "ItemName": "Ultra Snow Apples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369195",
+      "ItemName": "Walrusk Ampul of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369194",
+      "ItemName": "Walrusk Amulet of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369190",
+      "ItemName": "Walrusk Amulet of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369543",
+      "ItemName": "Walrusk Array of Graupel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369157",
+      "ItemName": "Walrusk Athame of Embers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369226",
+      "ItemName": "Walrusk Band of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369222",
+      "ItemName": "Walrusk Band of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369189",
+      "ItemName": "Walrusk Bauble of Heat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369163",
+      "ItemName": "Walrusk Bodkin of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363743",
+      "ItemName": "Walrusk Boots of Graupel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363745",
+      "ItemName": "Walrusk Boots of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369545",
+      "ItemName": "Walrusk Cards of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369544",
+      "ItemName": "Walrusk Case of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369193",
+      "ItemName": "Walrusk Charm of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363715",
+      "ItemName": "Walrusk Chokha of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363709",
+      "ItemName": "Walrusk Chokha of Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363711",
+      "ItemName": "Walrusk Cloak of Graupel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363713",
+      "ItemName": "Walrusk Cloak of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363710",
+      "ItemName": "Walrusk Coat of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369191",
+      "ItemName": "Walrusk Collar of Graupel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369413",
+      "ItemName": "Walrusk Cutlass of Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369415",
+      "ItemName": "Walrusk Cutlass of Graupel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369546",
+      "ItemName": "Walrusk Deck of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369158",
+      "ItemName": "Walrusk Edge of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363742",
+      "ItemName": "Walrusk Footgear of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363683",
+      "ItemName": "Walrusk Fur Hat of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363680",
+      "ItemName": "Walrusk Fur Hat of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363681",
+      "ItemName": "Walrusk Furcap of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363678",
+      "ItemName": "Walrusk Furcap of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369547",
+      "ItemName": "Walrusk Hand of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369161",
+      "ItemName": "Walrusk Knife of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369159",
+      "ItemName": "Walrusk Lancet of Graupel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363741",
+      "ItemName": "Walrusk Mukluks of Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369542",
+      "ItemName": "Walrusk Pack of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363682",
+      "ItemName": "Walrusk Papakh of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363677",
+      "ItemName": "Walrusk Papakh of Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363679",
+      "ItemName": "Walrusk Papakh of Graupel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369192",
+      "ItemName": "Walrusk Phylactery of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369227",
+      "ItemName": "Walrusk Ringlet of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363712",
+      "ItemName": "Walrusk Robes of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363744",
+      "ItemName": "Walrusk Runners of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369419",
+      "ItemName": "Walrusk Saber of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369417",
+      "ItemName": "Walrusk Saber of Intensity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369414",
+      "ItemName": "Walrusk Saber of Rime",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369223",
+      "ItemName": "Walrusk Seal of Graupel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369225",
+      "ItemName": "Walrusk Seal of Zest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363747",
+      "ItemName": "Walrusk Shoes of Dignity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369160",
+      "ItemName": "Walrusk Skewer of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369162",
+      "ItemName": "Walrusk Sliver of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369541",
+      "ItemName": "Walrusk Spread of Frenzy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369418",
+      "ItemName": "Walrusk Sword of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1369416",
+      "ItemName": "Walrusk Sword of Wit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363714",
+      "ItemName": "Walrusk Uniform of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1363746",
+      "ItemName": "Walrusk Waders of Calamity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346053",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346054",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346055",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346056",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346057",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346058",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469787",
+      "ItemName": "White Teleporter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "469788",
+      "ItemName": "Yellow Teleporter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,98 @@
+{
+  "Name": "LM-Boss-Amulets-150",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1537356",
+      "ItemName": "Magician's Balance Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537355",
+      "ItemName": "Magician's Death Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537350",
+      "ItemName": "Magician's Fire Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537351",
+      "ItemName": "Magician's Ice Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537354",
+      "ItemName": "Magician's Life Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537353",
+      "ItemName": "Magician's Myth Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537357",
+      "ItemName": "Magician's Power Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537352",
+      "ItemName": "Magician's Storm Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537380",
+      "ItemName": "Malevolent Balance Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537379",
+      "ItemName": "Malevolent Death Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537374",
+      "ItemName": "Malevolent Fire Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537375",
+      "ItemName": "Malevolent Ice Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537378",
+      "ItemName": "Malevolent Life Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537377",
+      "ItemName": "Malevolent Myth Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537381",
+      "ItemName": "Malevolent Power Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1537376",
+      "ItemName": "Malevolent Storm Talisman",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

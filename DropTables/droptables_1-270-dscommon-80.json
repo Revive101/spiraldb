@@ -1,0 +1,38 @@
+{
+  "Name": "1-270-DSCommon-80",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160806",
+      "ItemName": "Burnt Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160887",
+      "ItemName": "Jagged Rock Shard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160882",
+      "ItemName": "Medium Column",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160917",
+      "ItemName": "Thunder Plaque",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,73 @@
+{
+  "Name": "KT_SE_Mob",
+  "Description": "Mob loot table (54 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1603104",
+      "ItemName": "Selenopolis Blended Grove Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603112",
+      "ItemName": "Selenopolis Boss Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603110",
+      "ItemName": "Selenopolis Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603105",
+      "ItemName": "Selenopolis Field of Reeds Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603106",
+      "ItemName": "Selenopolis Forgotten Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603107",
+      "ItemName": "Selenopolis Forgotten Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603108",
+      "ItemName": "Selenopolis Garden Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603109",
+      "ItemName": "Selenopolis Garden Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603111",
+      "ItemName": "Selenopolis Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603113",
+      "ItemName": "Selenopolis Zigzag Market Com Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603114",
+      "ItemName": "Selenopolis Zigzag Market Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

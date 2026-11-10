@@ -1,0 +1,48 @@
+{
+  "Name": "FEB-LootTable-001",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "126969",
+      "ItemName": "Cupig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126948",
+      "ItemName": "Heartbow Scepter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126949",
+      "ItemName": "Rod of Unity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126947",
+      "ItemName": "Roseate Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126945",
+      "ItemName": "Valentine Pig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126950",
+      "ItemName": "Wand of Veneration",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

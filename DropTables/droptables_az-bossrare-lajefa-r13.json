@@ -1,0 +1,248 @@
+{
+  "Name": "AZ-BossRare-LaJefa-R13",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "730456",
+      "ItemName": "Arrow of the Hungry Dead",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512208",
+      "ItemName": "Azteca Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512212",
+      "ItemName": "Azteca Swamp Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730308",
+      "ItemName": "Bleeding Sun Warrior's Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730209",
+      "ItemName": "Brilliant Night Mask Memento",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730427",
+      "ItemName": "Case of the Worldtree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730416",
+      "ItemName": "Codex of the Lost Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730351",
+      "ItemName": "Fiery Chac's Great Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730444",
+      "ItemName": "Fire Quetzal Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730420",
+      "ItemName": "King's Royal Portraits",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739197",
+      "ItemName": "Quetzal Root Nest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739196",
+      "ItemName": "Quetzal Straw Nest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730197",
+      "ItemName": "Shining Cold House Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730196",
+      "ItemName": "Speaking Water Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730353",
+      "ItemName": "Storm Owl's Favored Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739213",
+      "ItemName": "Toucan Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730390",
+      "ItemName": "White Fire Chac's Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

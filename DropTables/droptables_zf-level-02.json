@@ -1,0 +1,438 @@
+{
+  "Name": "ZF-Level-02",
+  "Description": "Mob loot table (14 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "540199",
+      "ItemName": "Amahle's Striped Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540198",
+      "ItemName": "Aryanah's Golden Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355136",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355137",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355138",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355139",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355140",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355141",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355142",
+      "ItemName": "Baby Carrots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540227",
+      "ItemName": "Baxby's Noble Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540275",
+      "ItemName": "Baxby's Noble Trackers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540267",
+      "ItemName": "Big Five Trackers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540273",
+      "ItemName": "Big Sky Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540158",
+      "ItemName": "Blackback Safari Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540266",
+      "ItemName": "Charging Bull's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540222",
+      "ItemName": "Cold River Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356113",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356114",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356115",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356116",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356117",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356118",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356119",
+      "ItemName": "Cornbread Fruit Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540162",
+      "ItemName": "Courageous Grower's Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540226",
+      "ItemName": "Darajani Havoc Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355185",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355186",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355187",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355188",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355189",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355190",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355191",
+      "ItemName": "Evil Snow Peas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540268",
+      "ItemName": "Finely Balanced Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540156",
+      "ItemName": "Fire Valley Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540224",
+      "ItemName": "Fire Valley Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540196",
+      "ItemName": "Hannibal's Bronze Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540159",
+      "ItemName": "Hood of the Grasslands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540157",
+      "ItemName": "Hood of the Hepheloomp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540164",
+      "ItemName": "Hot-Tempered Chieftain's Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540193",
+      "ItemName": "Kakenya's Broken Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540195",
+      "ItemName": "Mago's River Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540197",
+      "ItemName": "Mandisa's Star Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355115",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355116",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355117",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355118",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355119",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355120",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355121",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540223",
+      "ItemName": "Outsider's Symmetrical Jacket",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540225",
+      "ItemName": "Shaman's Mythic Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540221",
+      "ItemName": "Shaman's Storm Sky Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355157",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355158",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355159",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355160",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355161",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355162",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355163",
+      "ItemName": "Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540274",
+      "ItemName": "Spider's Storied Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540200",
+      "ItemName": "Tanei's Ghost Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355073",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355074",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355075",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355076",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355077",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355078",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355079",
+      "ItemName": "Venus Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540194",
+      "ItemName": "Vir's Zafarite Stone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540166",
+      "ItemName": "Wise Hunter's Helmet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

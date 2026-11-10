@@ -1,0 +1,128 @@
+{
+  "Name": "MB-Golem-Steel-MBBoss-LXX",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160763",
+      "ItemName": "Air Dales Sign",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164093",
+      "ItemName": "Boots of the Elements",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161029",
+      "ItemName": "Charged Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161045",
+      "ItemName": "Hat of Rising Stakes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160729",
+      "ItemName": "Large Stone Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512189",
+      "ItemName": "Marleybone Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100456",
+      "ItemName": "Pixie Queen",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161058",
+      "ItemName": "Ring of the Hale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97420",
+      "ItemName": "Smogger's Affected Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160645",
+      "ItemName": "Smogger's Auto Radiator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97330",
+      "ItemName": "Smogger's Charged Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97229",
+      "ItemName": "Smogger's Cowl of Courtesy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97334",
+      "ItemName": "Smogger's Formal Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97421",
+      "ItemName": "Smogger's Germane Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97233",
+      "ItemName": "Smogger's Hat of Politeness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97332",
+      "ItemName": "Smogger's Noble Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5059",
+      "ItemName": "Smogger's Sand Choker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97425",
+      "ItemName": "Smogger's Shoes of Agony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97423",
+      "ItemName": "Smogger's Shoes of Atlantis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97235",
+      "ItemName": "Smogger's Shroud of Poise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470721",
+      "ItemName": "The Troll Hunter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160779",
+      "ItemName": "Wooden Propellor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

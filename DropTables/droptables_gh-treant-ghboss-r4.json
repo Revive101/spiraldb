@@ -1,0 +1,153 @@
+{
+  "Name": "GH-Treant-GHBoss-R4",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "355192",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355193",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355194",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355195",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355196",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355197",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355198",
+      "ItemName": "Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171127",
+      "ItemName": "Drizzling Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171128",
+      "ItemName": "Footgear of Attention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136563",
+      "ItemName": "Raiment of the Last Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136475",
+      "ItemName": "Signet of the Icecap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136268",
+      "ItemName": "Wildbrand's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136351",
+      "ItemName": "Wildfang Veil",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

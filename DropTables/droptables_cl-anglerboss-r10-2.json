@@ -1,0 +1,118 @@
+{
+  "Name": "CL-AnglerBoss-R10-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243299",
+      "ItemName": "Cap of Accord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243574",
+      "ItemName": "Circle of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243216",
+      "ItemName": "Dirk of Disorder",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243266",
+      "ItemName": "Edge of Essence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243514",
+      "ItemName": "Eye of Insight",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243205",
+      "ItemName": "Jewel of the Feint",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243708",
+      "ItemName": "Jolted Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243793",
+      "ItemName": "Shoes of Cold Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243794",
+      "ItemName": "Snowfall Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243396",
+      "ItemName": "Timeless Topper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243642",
+      "ItemName": "Tundric Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342158",
+      "ItemName": "Water-Mole Mask Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243876",
+      "ItemName": "Wyldfire Collar",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

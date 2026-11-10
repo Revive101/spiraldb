@@ -1,0 +1,88 @@
+{
+  "Name": "NV_Dog_DogofWar_B_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577702",
+      "ItemName": "Artillery Officer Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577698",
+      "ItemName": "Cavalry Officer Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577697",
+      "ItemName": "Infantry Officer Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577700",
+      "ItemName": "Medic Officer Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577701",
+      "ItemName": "Messenger Officer Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577646",
+      "ItemName": "Regulation Artillery Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577642",
+      "ItemName": "Regulation Cavalry Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577641",
+      "ItemName": "Regulation Infantry Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577644",
+      "ItemName": "Regulation Medic Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577645",
+      "ItemName": "Regulation Messenger Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577640",
+      "ItemName": "Regulation Scout Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577643",
+      "ItemName": "Regulation Trooper Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577696",
+      "ItemName": "Scout Officer Bayonet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577699",
+      "ItemName": "Trooper Officer Bayonet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

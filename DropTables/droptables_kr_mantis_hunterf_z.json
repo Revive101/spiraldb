@@ -1,0 +1,58 @@
+{
+  "Name": "KR_Mantis_HunterF_Z",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203139",
+      "ItemName": "Helmet of Excavation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203259",
+      "ItemName": "Kermes Fire Miner's Clogs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203138",
+      "ItemName": "Last Wood Defender's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203140",
+      "ItemName": "Mantis Cowl of Honor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203260",
+      "ItemName": "Mantis Hunter's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203141",
+      "ItemName": "Mouse Helm of the Besieged",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203258",
+      "ItemName": "Mouse Knight's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603198",
+      "ItemName": "Sardonyx Rug",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,233 @@
+{
+  "Name": "KR-BossRare-Elana-R14",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203413",
+      "ItemName": "Box of Indomitable Spirit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212040",
+      "ItemName": "Khrysalis Dreamworld Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212026",
+      "ItemName": "Khrysalis Kondha Desert Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212025",
+      "ItemName": "Khrysalis Shadow Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603170",
+      "ItemName": "Kondha Queen Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203264",
+      "ItemName": "Last Wood Defender's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203344",
+      "ItemName": "Last Wood Defender's Jewel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203263",
+      "ItemName": "Mantis Guard Stonesteppers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203343",
+      "ItemName": "Memento of the Moon Cliffs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203150",
+      "ItemName": "Mouse Skirmisher's Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589187",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589188",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589189",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589190",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589191",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589192",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "589193",
+      "ItemName": "Pink Huckleberries",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203180",
+      "ItemName": "Ring of Kermes Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203341",
+      "ItemName": "Sacred Burrower Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248248",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248249",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248250",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248251",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248252",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248253",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248254",
+      "ItemName": "Saw Palmetto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203218",
+      "ItemName": "Scuffed Burrower Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248067",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248068",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248069",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248070",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248071",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248072",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217210",
+      "ItemName": "The Dreamweaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203687",
+      "ItemName": "Trader's Staff of Scarcity",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

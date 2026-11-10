@@ -1,0 +1,163 @@
+{
+  "Name": "GH-Undead-Caster-Purple-GHBoss-R5",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136365",
+      "ItemName": "Circlet of the Nemesis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355151",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355152",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355153",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355154",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355155",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355156",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136573",
+      "ItemName": "Flarestarter's Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171139",
+      "ItemName": "Frostsoled Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136484",
+      "ItemName": "Icebound Sigil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356107",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356108",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356109",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356110",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356111",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356112",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136574",
+      "ItemName": "Lifewarden's Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171140",
+      "ItemName": "Sandals of Expiry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136360",
+      "ItemName": "Snowy Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356160",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356161",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356162",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356163",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356164",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356165",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356166",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136361",
+      "ItemName": "Umbral Headgear",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "WL_Toad_EvilClaw_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1628212",
+      "ItemName": "Bold Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628394",
+      "ItemName": "Bold Dream Warper Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628211",
+      "ItemName": "Cruel Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628393",
+      "ItemName": "Cruel Dream Warper Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628208",
+      "ItemName": "Deft Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628390",
+      "ItemName": "Deft Dream Warper Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628213",
+      "ItemName": "Fabled Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628395",
+      "ItemName": "Fabled Dream Warper Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628209",
+      "ItemName": "Fell Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628391",
+      "ItemName": "Fell Dream Warper Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628210",
+      "ItemName": "Fervid Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628392",
+      "ItemName": "Fervid Dream Warper Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628214",
+      "ItemName": "Fierce Dream Reaver Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628396",
+      "ItemName": "Fierce Dream Warper Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

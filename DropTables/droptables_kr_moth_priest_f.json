@@ -1,0 +1,138 @@
+{
+  "Name": "KR_Moth_Priest_F",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203405",
+      "ItemName": "Barbed Case of Stratagem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203215",
+      "ItemName": "Beleaguered Mouse Gear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203413",
+      "ItemName": "Box of Indomitable Spirit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203335",
+      "ItemName": "CurdWright Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203336",
+      "ItemName": "Death's Head Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203385",
+      "ItemName": "Ghostmane's Fabled Cutter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203680",
+      "ItemName": "Halberd of Extermination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203678",
+      "ItemName": "Halberd of Mesmerizing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203334",
+      "ItemName": "Jewel of the Apiary",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203148",
+      "ItemName": "Kermes Fire-Hardened Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212037",
+      "ItemName": "Khrysalis Hive and Seek Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603191",
+      "ItemName": "Large Recluse Crystal Cluster",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203404",
+      "ItemName": "Lightning Rider's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203146",
+      "ItemName": "Mantis Guard's Headgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203147",
+      "ItemName": "Scarred Burrower Greathelm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203679",
+      "ItemName": "Spear of Mantis Voracity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248066",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248067",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248068",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248069",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248070",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248071",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248072",
+      "ItemName": "Sugar Khrystal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203668",
+      "ItemName": "Sword of Burrower Vengeance",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

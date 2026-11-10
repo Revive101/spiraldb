@@ -1,0 +1,133 @@
+{
+  "Name": "FireElf-Prince-WCBoss-L25",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "4776",
+      "ItemName": "Alicane's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77597",
+      "ItemName": "Alicane's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4734",
+      "ItemName": "Alicane's Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87249",
+      "ItemName": "Alicane's Flame Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4860",
+      "ItemName": "Barkskin Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87221",
+      "ItemName": "Barkskin Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4836",
+      "ItemName": "Branded Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346482",
+      "ItemName": "Elven Fire Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160370",
+      "ItemName": "Fire Bush",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160335",
+      "ItemName": "Firecat Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4779",
+      "ItemName": "Hallowed Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77622",
+      "ItemName": "Helm of Supremacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4733",
+      "ItemName": "Jeweled Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161025",
+      "ItemName": "Shortblade of the Quick",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160377",
+      "ItemName": "Small Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100420",
+      "ItemName": "Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4871",
+      "ItemName": "Swiftarrow's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87197",
+      "ItemName": "Swiftarrow's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4683",
+      "ItemName": "Swiftarrow's Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4774",
+      "ItemName": "Swiftarrow's Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87243",
+      "ItemName": "Swiftarrow's Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87210",
+      "ItemName": "Swiftarrow's Windmane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512113",
+      "ItemName": "Wizard101 Theme",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

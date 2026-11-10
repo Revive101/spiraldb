@@ -1,0 +1,288 @@
+{
+  "Name": "AZ-BossEpic-Ponce",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730252",
+      "ItemName": "Athame of the Falling Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512208",
+      "ItemName": "Azteca Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512211",
+      "ItemName": "Azteca Haunted Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512222",
+      "ItemName": "Azteca Post Apocalypse Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730239",
+      "ItemName": "Beak Breaker's Antique Sliver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730240",
+      "ItemName": "Black Sky Barbed Hook",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730426",
+      "ItemName": "Case of Mother Moon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730427",
+      "ItemName": "Case of the Worldtree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730313",
+      "ItemName": "Celestial Codex Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730359",
+      "ItemName": "Cruel Star's Blazing Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730285",
+      "ItemName": "Cruel Star's Blazing Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730245",
+      "ItemName": "Drowned Spirit Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730362",
+      "ItemName": "Falling Star Chac's Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730400",
+      "ItemName": "Falling Star Chac's Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739223",
+      "ItemName": "Gold Nugget",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730289",
+      "ItemName": "Great Coatl's Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730207",
+      "ItemName": "Heart of Sky Greenstone Relic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730248",
+      "ItemName": "King Acampi's Cruel Fang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730246",
+      "ItemName": "King Neza's Shining Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730320",
+      "ItemName": "Lords of Night Challenge Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730454",
+      "ItemName": "Serpent King's Turquoise Arrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730315",
+      "ItemName": "Signet of the Lizard Tyrant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730855",
+      "ItemName": "Storm Caiman's Viscious Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739210",
+      "ItemName": "Sun Jar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739143",
+      "ItemName": "Wide Drum",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

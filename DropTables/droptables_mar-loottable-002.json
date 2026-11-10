@@ -1,0 +1,48 @@
+{
+  "Name": "MAR-LootTable-002",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160950",
+      "ItemName": "Bountiful Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160952",
+      "ItemName": "Charmed Clover Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160948",
+      "ItemName": "Harp of the Lucky",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126928",
+      "ItemName": "Lucky Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160951",
+      "ItemName": "Lucky Shillelagh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160949",
+      "ItemName": "Shamrock Scepter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

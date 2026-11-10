@@ -1,0 +1,263 @@
+{
+  "Name": "CL-CelestianGhost-BlueEyes-Boss-R10-2",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512136",
+      "ItemName": "Celestia Mysterious Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243636",
+      "ItemName": "Costume of Cold Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243934",
+      "ItemName": "Cursed Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342147",
+      "ItemName": "Flowering Celestian Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243217",
+      "ItemName": "Forsaken Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243882",
+      "ItemName": "Frost Giant's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243932",
+      "ItemName": "Insightful Spyglass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243582",
+      "ItemName": "Loop of Legends",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243348",
+      "ItemName": "Molten Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243771",
+      "ItemName": "Reckless Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243879",
+      "ItemName": "Scorched Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532277",
+      "ItemName": "Sidhe Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532278",
+      "ItemName": "Sidhe Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532279",
+      "ItemName": "Sidhe Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "532280",
+      "ItemName": "Sidhe Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243948",
+      "ItemName": "Staff of Legends",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243256",
+      "ItemName": "Stellar Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243376",
+      "ItemName": "Sub Zero Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243462",
+      "ItemName": "Synthesis Smock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243528",
+      "ItemName": "Volatile Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243839",
+      "ItemName": "Wraps of Reverie",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

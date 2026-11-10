@@ -1,0 +1,53 @@
+{
+  "Name": "ME_AV01_DogKnight_01",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "100429",
+      "ItemName": "Black Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100410",
+      "ItemName": "Blue Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212076",
+      "ItemName": "Crabling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100448",
+      "ItemName": "Dark Sprite",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100414",
+      "ItemName": "Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100434",
+      "ItemName": "Red Ghost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225473",
+      "ItemName": "Seraph",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

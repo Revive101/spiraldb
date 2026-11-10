@@ -1,0 +1,178 @@
+{
+  "Name": "AZ-BossRare-Ocuhaje-R13",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "730252",
+      "ItemName": "Athame of the Falling Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512209",
+      "ItemName": "Azteca Dungeon Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512213",
+      "ItemName": "Azteca Zultun Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730308",
+      "ItemName": "Bleeding Sun Warrior's Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730422",
+      "ItemName": "Calendar of the Spiral King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730238",
+      "ItemName": "Captain of the Sky's Talon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730424",
+      "ItemName": "Cold Codex",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730245",
+      "ItemName": "Drowned Spirit Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730396",
+      "ItemName": "Eagle Lord's Cloud Dancers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739224",
+      "ItemName": "Jaguar Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356144",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356145",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356146",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356147",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356148",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356149",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356150",
+      "ItemName": "King Parsley",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730448",
+      "ItemName": "Lord of the Swamp's Scepter ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730447",
+      "ItemName": "Mace of the Aztecosaurs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739140",
+      "ItemName": "Moon Dino Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739226",
+      "ItemName": "Parasaur Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730357",
+      "ItemName": "Prince of the Avian's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730394",
+      "ItemName": "Rangers of the Hungry Lizard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730318",
+      "ItemName": "Xibalba's Dread Seal",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

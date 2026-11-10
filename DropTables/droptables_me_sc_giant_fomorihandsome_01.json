@@ -1,0 +1,138 @@
+{
+  "Name": "ME_SC_Giant_FomoriHandsome_01",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473343",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257952",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473329",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257951",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473336",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257953",
+      "ItemName": "Greenwarden's Brilliant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473372",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257886",
+      "ItemName": "Greenwarden's Brilliant Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473301",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257946",
+      "ItemName": "Greenwarden's Energetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473287",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257945",
+      "ItemName": "Greenwarden's Energetic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473294",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257947",
+      "ItemName": "Greenwarden's Energetic Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473358",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257884",
+      "ItemName": "Greenwarden's Energetic Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473322",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257949",
+      "ItemName": "Greenwarden's Peaceful Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473308",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257948",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473315",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257950",
+      "ItemName": "Greenwarden's Peaceful Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473365",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1257885",
+      "ItemName": "Greenwarden's Peaceful Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

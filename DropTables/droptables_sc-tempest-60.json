@@ -1,0 +1,58 @@
+{
+  "Name": "SC-Tempest-60",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "473323",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667268",
+      "ItemName": "Greenwarden's Peaceful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473309",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "667266",
+      "ItemName": "Greenwarden's Peaceful Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302140",
+      "ItemName": "Spiral Cup Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302138",
+      "ItemName": "Spiral Cup Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302151",
+      "ItemName": "Vestment of Tempest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512151",
+      "ItemName": "Wysteria Theme 1",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

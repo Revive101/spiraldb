@@ -1,0 +1,533 @@
+{
+  "Name": "MS-Level-40-42",
+  "Description": "Mob loot table (22 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97467",
+      "ItemName": "Athame of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97566",
+      "ItemName": "Benign Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98016",
+      "ItemName": "Blended Wool Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97853",
+      "ItemName": "Blended Wool Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97999",
+      "ItemName": "Boots of Chimes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97987",
+      "ItemName": "Boots of Commotion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97948",
+      "ItemName": "Boots of Cooperation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98004",
+      "ItemName": "Boots of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97982",
+      "ItemName": "Boots of Niceties",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97662",
+      "ItemName": "Cap of the Lithe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97806",
+      "ItemName": "Cloak of Humor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97855",
+      "ItemName": "Cloak of Rhyming",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97618",
+      "ItemName": "Concordant Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97608",
+      "ItemName": "Cowl of Discord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97840",
+      "ItemName": "Euphonic Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98021",
+      "ItemName": "Footwraps of Anthems",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97998",
+      "ItemName": "Footwraps of Chants",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97949",
+      "ItemName": "Friendly Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97570",
+      "ItemName": "Gallant Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97821",
+      "ItemName": "Garment of Watchfulness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97837",
+      "ItemName": "Garments of Chants",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97592",
+      "ItemName": "Hat of Enthusiasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97679",
+      "ItemName": "Hat of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97640",
+      "ItemName": "Hat of the Nimble",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97634",
+      "ItemName": "Hat of the Triad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97656",
+      "ItemName": "Headwraps of Much Ado",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97624",
+      "ItemName": "Headwraps of Resonance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97790",
+      "ItemName": "Heedful Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97672",
+      "ItemName": "Hood of the Resolute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97962",
+      "ItemName": "Industrial Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97614",
+      "ItemName": "Light-as-Air Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470205",
+      "ItemName": "Long Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160499",
+      "ItemName": "Lunar Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160495",
+      "ItemName": "Mantis Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97602",
+      "ItemName": "Mask of Impression",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97981",
+      "ItemName": "Meticulous Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97646",
+      "ItemName": "Painful Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98032",
+      "ItemName": "Problematic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97586",
+      "ItemName": "Profound Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97966",
+      "ItemName": "Profound Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97710",
+      "ItemName": "Ring of the Naturewalker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97823",
+      "ItemName": "Robe of Conceit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97896",
+      "ItemName": "Robe of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97887",
+      "ItemName": "Robe of the Chipper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97869",
+      "ItemName": "Robes of Struggling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97971",
+      "ItemName": "Sandals of Exertion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97945",
+      "ItemName": "Sandals of Sympathy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98049",
+      "ItemName": "Sandals of the Quick-Witted",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97965",
+      "ItemName": "Shoes of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97995",
+      "ItemName": "Shoes of Song",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98033",
+      "ItemName": "Shoes of Struggling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98038",
+      "ItemName": "Shoes of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97954",
+      "ItemName": "Shoes of the Observant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97576",
+      "ItemName": "Shroud of Afterthoughts",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98055",
+      "ItemName": "Slippers of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98015",
+      "ItemName": "Slippers of the Opus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97885",
+      "ItemName": "Sprightly Garments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98050",
+      "ItemName": "Sprightly Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470230",
+      "ItemName": "Stone Marker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97650",
+      "ItemName": "Tormented Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160483",
+      "ItemName": "Tree Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97804",
+      "ItemName": "Tunic of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97787",
+      "ItemName": "Vestment of Cooperation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97871",
+      "ItemName": "Vestment of Tribulations",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97598",
+      "ItemName": "Vigilant Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97630",
+      "ItemName": "Warbled Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470194",
+      "ItemName": "Yellow and Blue Chest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97666",
+      "ItemName": "Zippy Shroud",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

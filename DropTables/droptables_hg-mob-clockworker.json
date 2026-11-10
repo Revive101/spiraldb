@@ -1,0 +1,113 @@
+{
+  "Name": "HG-Mob-Clockworker",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225451",
+      "ItemName": "Ash Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713126",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713127",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713128",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713129",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713130",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713131",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713132",
+      "ItemName": "Clockwork Flower",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126979",
+      "ItemName": "Death Leprechaun",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160847",
+      "ItemName": "Dragonspyre Standard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512192",
+      "ItemName": "Grizzleheim Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160857",
+      "ItemName": "Kraken Statue",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512188",
+      "ItemName": "Krokotopia Pet Derby Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160875",
+      "ItemName": "Magma Blister",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82910",
+      "ItemName": "Pillory",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160893",
+      "ItemName": "Volcanic Steam Vent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161017",
+      "ItemName": "Wyrm-crowned Bed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161015",
+      "ItemName": "Wyrm-footed Bookshelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161009",
+      "ItemName": "Wyrm-footed Dresser",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

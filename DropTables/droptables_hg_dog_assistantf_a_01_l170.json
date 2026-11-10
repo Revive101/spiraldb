@@ -1,0 +1,188 @@
+{
+  "Name": "HG_Dog_AssistantF_A_01_L170",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1383273",
+      "ItemName": "Aquilan Centurion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383271",
+      "ItemName": "Aquilan Gladiator",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653791",
+      "ItemName": "Astute Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653420",
+      "ItemName": "Astute Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653798",
+      "ItemName": "Astute Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653784",
+      "ItemName": "Astute Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653792",
+      "ItemName": "Baleful Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653421",
+      "ItemName": "Baleful Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653799",
+      "ItemName": "Baleful Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653785",
+      "ItemName": "Baleful Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653794",
+      "ItemName": "Chilling Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653423",
+      "ItemName": "Chilling Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653801",
+      "ItemName": "Chilling Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653787",
+      "ItemName": "Chilling Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383283",
+      "ItemName": "Contemplative Aquilan Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653796",
+      "ItemName": "Epic Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653425",
+      "ItemName": "Epic Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653803",
+      "ItemName": "Epic Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653789",
+      "ItemName": "Epic Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653797",
+      "ItemName": "Fraught Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653426",
+      "ItemName": "Fraught Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653804",
+      "ItemName": "Fraught Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653790",
+      "ItemName": "Fraught Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653793",
+      "ItemName": "Illuminated Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653422",
+      "ItemName": "Illuminated Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653800",
+      "ItemName": "Illuminated Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653786",
+      "ItemName": "Illuminated Archival Dirk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383277",
+      "ItemName": "Oracle of Hesperides",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383275",
+      "ItemName": "Oracle of Olympus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1383282",
+      "ItemName": "Studious Aquilan Oracle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653795",
+      "ItemName": "Vibrant Archival Ampul",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653424",
+      "ItemName": "Vibrant Archival Array",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653802",
+      "ItemName": "Vibrant Archival Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1653788",
+      "ItemName": "Vibrant Archival Dirk",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

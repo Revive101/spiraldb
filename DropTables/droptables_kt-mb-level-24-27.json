@@ -1,0 +1,278 @@
+{
+  "Name": "KT-MB-Level-24-27",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97238",
+      "ItemName": "Animated Canine Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97139",
+      "ItemName": "Artificial Headwrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97098",
+      "ItemName": "Athame of the Sleuth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97413",
+      "ItemName": "Bandit's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212311",
+      "ItemName": "Beastmaster's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212309",
+      "ItemName": "Beastmaster's Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "212308",
+      "ItemName": "Beastmaster's Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77118",
+      "ItemName": "Biting Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97206",
+      "ItemName": "Cap of Expertise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39008",
+      "ItemName": "Cap of Fascination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97207",
+      "ItemName": "Cap of Poise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160221",
+      "ItemName": "Carved Skull",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97227",
+      "ItemName": "Cat Burglar's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77168",
+      "ItemName": "Cloak of Diplomacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97287",
+      "ItemName": "Cloak of Respect",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97101",
+      "ItemName": "Conventional Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39023",
+      "ItemName": "Cowl of the Exceptional",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97100",
+      "ItemName": "Dagger of Force",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39027",
+      "ItemName": "Delicate Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97105",
+      "ItemName": "Detective's Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97173",
+      "ItemName": "Dexterous Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97099",
+      "ItemName": "Dirk of Nobles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77121",
+      "ItemName": "Doctor's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97138",
+      "ItemName": "Elegant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97155",
+      "ItemName": "Famous Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77152",
+      "ItemName": "Finely Finished Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77248",
+      "ItemName": "Flickering Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97104",
+      "ItemName": "Graceful Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473159",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473160",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473161",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473162",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473163",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473164",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473165",
+      "ItemName": "Grapes of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39025",
+      "ItemName": "Headwraps of Preference",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97172",
+      "ItemName": "Headwraps of Superiority",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100462",
+      "ItemName": "Inferno Salamander",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97304",
+      "ItemName": "Masterful Canine Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97190",
+      "ItemName": "Obligatory Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97322",
+      "ItemName": "Rainslicker",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97156",
+      "ItemName": "Remarkable Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97254",
+      "ItemName": "Remarkable Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161054",
+      "ItemName": "Ring of Refreshment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77073",
+      "ItemName": "Ring of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97270",
+      "ItemName": "Robe of Politeness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97228",
+      "ItemName": "Shroud of Paramount",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39007",
+      "ItemName": "Shroud of Predominance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97223",
+      "ItemName": "Skillful Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97189",
+      "ItemName": "Sophisticated Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161027",
+      "ItemName": "Sparking Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97107",
+      "ItemName": "Watchman's Athame",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

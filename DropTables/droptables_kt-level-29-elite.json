@@ -1,0 +1,78 @@
+{
+  "Name": "KT-Level-29-Elite",
+  "Description": "Mob loot table (13 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77787",
+      "ItemName": "Boots of the Bastion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77768",
+      "ItemName": "Hardy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82907",
+      "ItemName": "Hieroglyphic Ice Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82772",
+      "ItemName": "Krok Skull Plaque",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77789",
+      "ItemName": "Overseer's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82896",
+      "ItemName": "Potted Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39424",
+      "ItemName": "Powerful Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77758",
+      "ItemName": "Runed Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77777",
+      "ItemName": "Sandals of Darkness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39440",
+      "ItemName": "Sandals of Ignition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39430",
+      "ItemName": "Slippers of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82853",
+      "ItemName": "Wrapped Long Bench",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

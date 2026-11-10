@@ -1,0 +1,103 @@
+{
+  "Name": "CL-Eel-Purple-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243939",
+      "ItemName": "Blistering Baton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512137",
+      "ItemName": "Celestia Crab March Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342101",
+      "ItemName": "Celestian Power Orb",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243606",
+      "ItemName": "Chaos Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243323",
+      "ItemName": "Chaos Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243211",
+      "ItemName": "Claw of the Law",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243749",
+      "ItemName": "Forbidden Footgear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243217",
+      "ItemName": "Forsaken Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243882",
+      "ItemName": "Frost Giant's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243422",
+      "ItemName": "Hood of Reverie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243932",
+      "ItemName": "Insightful Spyglass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243582",
+      "ItemName": "Loop of Legends",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243608",
+      "ItemName": "Raiment of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243522",
+      "ItemName": "Ring of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243942",
+      "ItemName": "Shivering Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243853",
+      "ItemName": "Thunderfin's Mistral Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243887",
+      "ItemName": "Vial of Rebirth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

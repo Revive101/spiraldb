@@ -1,0 +1,108 @@
+{
+  "Name": "Colossus-Magma-Boss-R7",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "104865",
+      "ItemName": "Arboreal Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146354",
+      "ItemName": "Blackblade's Baleful Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104682",
+      "ItemName": "Blackblade's Frostweave Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104847",
+      "ItemName": "Boots of the Coming Storm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104850",
+      "ItemName": "Boots of the Forgotten",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160806",
+      "ItemName": "Burnt Book",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146206",
+      "ItemName": "Cap of Fables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146356",
+      "ItemName": "Cowl of Resilience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146309",
+      "ItemName": "Flame Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146293",
+      "ItemName": "Frostwrapped Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146291",
+      "ItemName": "Hood of Permafrost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104887",
+      "ItemName": "Lore-Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160875",
+      "ItemName": "Magma Blister",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126635",
+      "ItemName": "Serpent Eye Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146242",
+      "ItemName": "Shroud of Sagas",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104631",
+      "ItemName": "Shroud of the Spider",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104843",
+      "ItemName": "Slippers of the Zephyr",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104708",
+      "ItemName": "Stormcaller's Smock",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

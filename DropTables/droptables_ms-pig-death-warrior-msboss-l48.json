@@ -1,0 +1,303 @@
+{
+  "Name": "MS-Pig-Death-Warrior-MSBoss-L48",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "160473",
+      "ItemName": "Bamboo Obelisk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97486",
+      "ItemName": "Deck of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97826",
+      "ItemName": "Garment of Dilemma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97680",
+      "ItemName": "Helm of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512101",
+      "ItemName": "MooShu Plague Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97701",
+      "ItemName": "Nomoonaga's Analytical Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97726",
+      "ItemName": "Nomoonaga's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97513",
+      "ItemName": "Nomoonaga's Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97579",
+      "ItemName": "Nomoonaga's Diligent Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97480",
+      "ItemName": "Nomoonaga's Kris of Hope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97863",
+      "ItemName": "Nomoonaga's Lively Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470217",
+      "ItemName": "Potted Bamboo Plant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160612",
+      "ItemName": "Potted Heartblossom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97805",
+      "ItemName": "Profound Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97744",
+      "ItemName": "Robe of Cognition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97854",
+      "ItemName": "Robes of the Triad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97970",
+      "ItemName": "Shoes of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98020",
+      "ItemName": "Slippers of Yodels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97743",
+      "ItemName": "Speculative Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97898",
+      "ItemName": "Tunic of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97873",
+      "ItemName": "Vexing Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217521",
+      "ItemName": "Wooden Skeleton Key",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,58 @@
+{
+  "Name": "KT-ItemSets-01",
+  "Description": "Mob loot table (15 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1502449",
+      "ItemName": "Krokotopian Balance Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502448",
+      "ItemName": "Krokotopian Death Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502443",
+      "ItemName": "Krokotopian Fire Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502444",
+      "ItemName": "Krokotopian Ice Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502447",
+      "ItemName": "Krokotopian Life Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502446",
+      "ItemName": "Krokotopian Myth Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502445",
+      "ItemName": "Krokotopian Storm Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502450",
+      "ItemName": "Krokotopian Striders",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

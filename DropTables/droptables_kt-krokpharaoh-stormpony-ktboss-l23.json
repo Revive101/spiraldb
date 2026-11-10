@@ -1,0 +1,93 @@
+{
+  "Name": "KT-KrokPharaoh-StormPony-KTBoss-L23",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5024",
+      "ItemName": "Advocate's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4945",
+      "ItemName": "Athame of Mortality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87281",
+      "ItemName": "Conjurer's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38764",
+      "ItemName": "Durable Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87335",
+      "ItemName": "Karanahn's Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5031",
+      "ItemName": "Loop of Tall Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77723",
+      "ItemName": "Mkhai's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5007",
+      "ItemName": "Partisan's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4970",
+      "ItemName": "Pharaohs Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82883",
+      "ItemName": "Pile of Dirt",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5008",
+      "ItemName": "Prince Karanahn's Loop",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87340",
+      "ItemName": "Prince's Dissolving Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77682",
+      "ItemName": "Sweltering Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87322",
+      "ItemName": "Threadbare Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82757",
+      "ItemName": "Wide Purple Pedestal",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

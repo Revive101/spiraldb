@@ -1,0 +1,93 @@
+{
+  "Name": "AV-Ogre-R12-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512162",
+      "ItemName": "Avalon Abbey Road Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512163",
+      "ItemName": "Avalon Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635228",
+      "ItemName": "Chosen Chief's Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635422",
+      "ItemName": "Dread Keep Strollers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635260",
+      "ItemName": "Froudling's Sharp Tooth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635308",
+      "ItemName": "Jouster's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635229",
+      "ItemName": "Knight of the Wyrd's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635259",
+      "ItemName": "Lightning Lizard's Razor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635630",
+      "ItemName": "Longblade of Avalon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635421",
+      "ItemName": "Scaith Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538019",
+      "ItemName": "Serrated Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635342",
+      "ItemName": "Stone of the Other Side",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635383",
+      "ItemName": "Storm Crown Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635309",
+      "ItemName": "Thunderstruck Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635384",
+      "ItemName": "Weirwood Champion's Armor",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,448 @@
+{
+  "Name": "PA-Level-01",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97209",
+      "ItemName": "Affable Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97238",
+      "ItemName": "Animated Canine Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97103",
+      "ItemName": "Athame of Chivalry",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97413",
+      "ItemName": "Bandit's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473124",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473125",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473126",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473127",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473128",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473129",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473130",
+      "ItemName": "Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97206",
+      "ItemName": "Cap of Expertise",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97227",
+      "ItemName": "Cat Burglar's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97414",
+      "ItemName": "Cat Burglar's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97222",
+      "ItemName": "Conventional Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97101",
+      "ItemName": "Conventional Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39024",
+      "ItemName": "Cowl of Diplomacy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39023",
+      "ItemName": "Cowl of the Exceptional",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97100",
+      "ItemName": "Dagger of Force",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355151",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355152",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355153",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355154",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355155",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355156",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39027",
+      "ItemName": "Delicate Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355171",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355172",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355173",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355174",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355175",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355176",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355177",
+      "ItemName": "Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77122",
+      "ItemName": "Distressing Garment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77121",
+      "ItemName": "Doctor's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97138",
+      "ItemName": "Elegant Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97224",
+      "ItemName": "Exquisite Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77152",
+      "ItemName": "Finely Finished Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77248",
+      "ItemName": "Flickering Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97355",
+      "ItemName": "Footwraps of Dreamland",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97104",
+      "ItemName": "Graceful Stiletto",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97172",
+      "ItemName": "Headwraps of Superiority",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97188",
+      "ItemName": "Helm of Intolerance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355199",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355200",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355201",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355202",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355203",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355204",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355205",
+      "ItemName": "Honey Sickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356107",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356108",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356109",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356110",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356111",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356112",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97304",
+      "ItemName": "Masterful Canine Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97190",
+      "ItemName": "Obligatory Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473138",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473139",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473140",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473141",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473142",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473143",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473144",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97156",
+      "ItemName": "Remarkable Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77073",
+      "ItemName": "Ring of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97270",
+      "ItemName": "Robe of Politeness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97175",
+      "ItemName": "Savvy Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97385",
+      "ItemName": "Shoes of Anxiety",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97412",
+      "ItemName": "Shoes of the Breakneck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97228",
+      "ItemName": "Shroud of Paramount",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97323",
+      "ItemName": "Skillful Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77235",
+      "ItemName": "Slippers of Definition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97154",
+      "ItemName": "Smooth Spun Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97142",
+      "ItemName": "Stylish Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473180",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473181",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473182",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473183",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473184",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473185",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473186",
+      "ItemName": "Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97107",
+      "ItemName": "Watchman's Athame",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,383 @@
+{
+  "Name": "CL-Level-04",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1502473",
+      "ItemName": "Armor of Celestian Totality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243622",
+      "ItemName": "Ashen Outfit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243547",
+      "ItemName": "Band of the Briny Deep",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243696",
+      "ItemName": "Bolt-Trimmed Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243831",
+      "ItemName": "Boots of Bewilderment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243742",
+      "ItemName": "Boots of Dissonance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502471",
+      "ItemName": "Celestian Abyss Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502466",
+      "ItemName": "Celestian Cinder Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502467",
+      "ItemName": "Celestian Frostbit Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502468",
+      "ItemName": "Celestian Tempest Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243600",
+      "ItemName": "Cloak of Shadows",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243286",
+      "ItemName": "Congruent Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243241",
+      "ItemName": "Crab Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243620",
+      "ItemName": "Drape of Dragon Fire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243763",
+      "ItemName": "Ember Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502470",
+      "ItemName": "Everlasting Celestian Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243391",
+      "ItemName": "Festive Facade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243785",
+      "ItemName": "Frostbit Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243290",
+      "ItemName": "Headwrap of Rapport",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243382",
+      "ItemName": "Hood of the Hinterlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243368",
+      "ItemName": "Iced Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243781",
+      "ItemName": "Insulated Greaves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243659",
+      "ItemName": "Longcoat of Long Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243761",
+      "ItemName": "Mercurial Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243721",
+      "ItemName": "Proportional Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243338",
+      "ItemName": "Reckless Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243534",
+      "ItemName": "Remedy Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243538",
+      "ItemName": "Ring of Exploration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243405",
+      "ItemName": "Romantic Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243681",
+      "ItemName": "Romantic Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243829",
+      "ItemName": "Romantic Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243234",
+      "ItemName": "Senator's Claw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243331",
+      "ItemName": "Smokey Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502469",
+      "ItemName": "Storied Celestian Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243406",
+      "ItemName": "Storied Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243433",
+      "ItemName": "Surging Storm Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243235",
+      "ItemName": "Tenacious Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243695",
+      "ItemName": "Thundercloud Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243852",
+      "ItemName": "Thundercloud Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243849",
+      "ItemName": "Thundercracked Clogs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243740",
+      "ItemName": "Tragic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243680",
+      "ItemName": "Tunic of Bewilderment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1502472",
+      "ItemName": "Versatile Celestian Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243334",
+      "ItemName": "Volcanic Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243411",
+      "ItemName": "Whimsical Cowl",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

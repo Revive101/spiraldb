@@ -1,0 +1,183 @@
+{
+  "Name": "WC-KT-Level-12",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77675",
+      "ItemName": "Ancient Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87316",
+      "ItemName": "Ancient Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77784",
+      "ItemName": "Ancient Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160316",
+      "ItemName": "Arched Grave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39442",
+      "ItemName": "Blazing Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38747",
+      "ItemName": "Blazing Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77756",
+      "ItemName": "Boots of Imagination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39426",
+      "ItemName": "Boots of the Cyclone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77688",
+      "ItemName": "Cap of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77676",
+      "ItemName": "Charred Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5034",
+      "ItemName": "Cryptkeeper's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87303",
+      "ItemName": "Cryptkeeper's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77775",
+      "ItemName": "Cryptkeeper's Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77687",
+      "ItemName": "Crystalline Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38760",
+      "ItemName": "Crystalline Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4940",
+      "ItemName": "Dagger of Talent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77689",
+      "ItemName": "Durable Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87290",
+      "ItemName": "Flowering Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39432",
+      "ItemName": "Glacial Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4953",
+      "ItemName": "Glittering Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77719",
+      "ItemName": "Helm of Refuge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77699",
+      "ItemName": "Helm of the Cyclone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87330",
+      "ItemName": "Initiate's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160317",
+      "ItemName": "Pointed Grave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77765",
+      "ItemName": "Shoes of Adaptation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160315",
+      "ItemName": "Slanted Grave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77795",
+      "ItemName": "Slippers of the Badlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77686",
+      "ItemName": "Snowflake Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77796",
+      "ItemName": "Sphinx's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5025",
+      "ItemName": "Superstitious Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77697",
+      "ItemName": "Tempest Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87277",
+      "ItemName": "Tunic of Tall Tales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87265",
+      "ItemName": "Vest of the Cyclone",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

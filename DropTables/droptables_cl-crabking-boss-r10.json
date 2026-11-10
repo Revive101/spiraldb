@@ -1,0 +1,73 @@
+{
+  "Name": "CL-CrabKing-Boss-R10",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243738",
+      "ItemName": "Boots of Catastrophe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243618",
+      "ItemName": "Brimstone Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243252",
+      "ItemName": "Celestian Sliver of Power",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342130",
+      "ItemName": "Celestian Table",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243335",
+      "ItemName": "Fuming Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243278",
+      "ItemName": "Kris of the Kraken",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243363",
+      "ItemName": "Nereus's Hoarfrost Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243619",
+      "ItemName": "Reckless Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243556",
+      "ItemName": "Sunken Celestian Circle ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243588",
+      "ItemName": "Surging Sea Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243717",
+      "ItemName": "Tolerant Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

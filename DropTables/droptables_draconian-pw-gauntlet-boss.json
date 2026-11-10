@@ -1,0 +1,153 @@
+{
+  "Name": "Draconian-PW-Gauntlet-Boss",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "468528",
+      "ItemName": "Aureate Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468162",
+      "ItemName": "Balance Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468163",
+      "ItemName": "Death Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243648",
+      "ItemName": "Diamond Dust Drape",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243222",
+      "ItemName": "Dirk of the Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243420",
+      "ItemName": "Epic Helmet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468164",
+      "ItemName": "Fire Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243605",
+      "ItemName": "Forbidden Costume",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468165",
+      "ItemName": "Ice Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243814",
+      "ItemName": "Inspired Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243877",
+      "ItemName": "Jewel of the Dragons",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468166",
+      "ItemName": "Life Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468167",
+      "ItemName": "Myth Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243879",
+      "ItemName": "Scorched Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243444",
+      "ItemName": "Shroud of the Storm Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243568",
+      "ItemName": "Signet of Shivers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243256",
+      "ItemName": "Stellar Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "468168",
+      "ItemName": "Storm Mastery Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243798",
+      "ItemName": "Sub Zero Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243528",
+      "ItemName": "Volatile Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

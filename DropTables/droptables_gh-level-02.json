@@ -1,0 +1,308 @@
+{
+  "Name": "GH-Level-02",
+  "Description": "Mob loot table (11 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "136463",
+      "ItemName": "Band of the Answer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136333",
+      "ItemName": "Circlet of Fortune",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136531",
+      "ItemName": "Coat of Forethought",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136328",
+      "ItemName": "Coif of Veracity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473093",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473094",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473095",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473096",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473097",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473098",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136343",
+      "ItemName": "Cowl of Winterbloom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136331",
+      "ItemName": "Crown of Achievement",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355150",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355151",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355152",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355153",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355154",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355155",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355156",
+      "ItemName": "Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136524",
+      "ItemName": "Drape of the White Squall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136344",
+      "ItemName": "Firekeeper's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171107",
+      "ItemName": "Footguards of Consideration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136556",
+      "ItemName": "Glacial Longcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136267",
+      "ItemName": "Glyphcarver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136332",
+      "ItemName": "Hat of Consequence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136327",
+      "ItemName": "Headgear of the Haze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136330",
+      "ItemName": "Helm of Determination",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136555",
+      "ItemName": "Igneous Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171106",
+      "ItemName": "Indefatigable Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136527",
+      "ItemName": "Jerkin of Brio",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356106",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356107",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356108",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356109",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356110",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356111",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356112",
+      "ItemName": "Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136329",
+      "ItemName": "Lifewarden's Veil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136462",
+      "ItemName": "Loop of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136526",
+      "ItemName": "Raiment of the Lifespring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136461",
+      "ItemName": "Rejuvenating Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136528",
+      "ItemName": "Robe of Elegies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136483",
+      "ItemName": "Seal of the Tundra",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136460",
+      "ItemName": "Signet of the North Wind",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356160",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356161",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356162",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356163",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356164",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356165",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356166",
+      "ItemName": "Stinkweed",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136465",
+      "ItemName": "Stone of Confidence",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136464",
+      "ItemName": "Thane's Circlet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136529",
+      "ItemName": "Tunic of Quietus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136530",
+      "ItemName": "Vestment of Serenity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136525",
+      "ItemName": "Vestment of Yesteryear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136532",
+      "ItemName": "Winterwear Wrap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,88 @@
+{
+  "Name": "NV_Zheng_Base_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577681",
+      "ItemName": "Artillery Officer Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577677",
+      "ItemName": "Cavalry Officer Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577676",
+      "ItemName": "Infantry Officer Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577679",
+      "ItemName": "Medic Officer Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577680",
+      "ItemName": "Messenger Officer Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577618",
+      "ItemName": "Regulation Artillery Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577614",
+      "ItemName": "Regulation Cavalry Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577613",
+      "ItemName": "Regulation Infantry Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577616",
+      "ItemName": "Regulation Medic Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577617",
+      "ItemName": "Regulation Messenger Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577612",
+      "ItemName": "Regulation Scout Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577615",
+      "ItemName": "Regulation Trooper Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577675",
+      "ItemName": "Scout Officer Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577678",
+      "ItemName": "Trooper Officer Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

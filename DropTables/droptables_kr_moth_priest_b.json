@@ -1,0 +1,98 @@
+{
+  "Name": "KR_Moth_Priest_B",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1203288",
+      "ItemName": "Banetail's Charged Sting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203331",
+      "ItemName": "Benzzi's Campaign Memento",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203366",
+      "ItemName": "Besieged Burrower's Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203252",
+      "ItemName": "Blighted Burrower Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1292155",
+      "ItemName": "Celestian Crescent Artifact",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203406",
+      "ItemName": "Cell of Survival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203332",
+      "ItemName": "Collar of the Besieged",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203253",
+      "ItemName": "Digger Drone's Dirty Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203407",
+      "ItemName": "Gallery of the Woebegone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203290",
+      "ItemName": "Goliath's Savage Slasher",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203334",
+      "ItemName": "Jewel of the Apiary",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203408",
+      "ItemName": "LimeBlight's Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203202",
+      "ItemName": "Mantis Armor of Purpose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203333",
+      "ItemName": "Mantis Prophet's Ornament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203203",
+      "ItemName": "Robes of Burrower Strife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203292",
+      "ItemName": "Yellow Jacket's Avenger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

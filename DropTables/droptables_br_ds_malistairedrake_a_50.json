@@ -1,0 +1,158 @@
+{
+  "Name": "BR_DS_MalistaireDrake_A_50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1617530",
+      "ItemName": "Malistaire's Chilly Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617551",
+      "ItemName": "Malistaire's Chilly Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617572",
+      "ItemName": "Malistaire's Chilly Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712776",
+      "ItemName": "Malistaire's Chilly Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617528",
+      "ItemName": "Malistaire's Ghostly Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617549",
+      "ItemName": "Malistaire's Ghostly Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617570",
+      "ItemName": "Malistaire's Ghostly Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712774",
+      "ItemName": "Malistaire's Ghostly Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617527",
+      "ItemName": "Malistaire's Harmonic Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617548",
+      "ItemName": "Malistaire's Harmonic Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617569",
+      "ItemName": "Malistaire's Harmonic Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712773",
+      "ItemName": "Malistaire's Harmonic Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617532",
+      "ItemName": "Malistaire's Infamous Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617553",
+      "ItemName": "Malistaire's Infamous Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617574",
+      "ItemName": "Malistaire's Infamous Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712778",
+      "ItemName": "Malistaire's Infamous Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617533",
+      "ItemName": "Malistaire's Squall Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617554",
+      "ItemName": "Malistaire's Squall Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617575",
+      "ItemName": "Malistaire's Squall Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712779",
+      "ItemName": "Malistaire's Squall Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617531",
+      "ItemName": "Malistaire's Thorny Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617552",
+      "ItemName": "Malistaire's Thorny Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617573",
+      "ItemName": "Malistaire's Thorny Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712777",
+      "ItemName": "Malistaire's Thorny Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617529",
+      "ItemName": "Malistaire's Vengeance Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617550",
+      "ItemName": "Malistaire's Vengeance Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617571",
+      "ItemName": "Malistaire's Vengeance Locks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712775",
+      "ItemName": "Malistaire's Vengeance Locks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

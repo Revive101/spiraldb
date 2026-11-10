@@ -1,0 +1,138 @@
+{
+  "Name": "KT-KrokBurly-StormGhost-KTBoss-L35",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "87288",
+      "ItemName": "Ahnic's Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4910",
+      "ItemName": "Ahnic's Ethereal Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77748",
+      "ItemName": "Ahnic's Rational Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87315",
+      "ItemName": "Balmy Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5020",
+      "ItemName": "Band of the Oasis",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4959",
+      "ItemName": "Blade of Proportions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77725",
+      "ItemName": "Cowl of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77712",
+      "ItemName": "Cowl of the Temple",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39421",
+      "ItemName": "Diviner's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38771",
+      "ItemName": "Garment of Patience",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5037",
+      "ItemName": "Glittering Jewel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77794",
+      "ItemName": "Initiate's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4935",
+      "ItemName": "Knife of the Badlands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225456",
+      "ItemName": "Life Banshee",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77684",
+      "ItemName": "Mask of Humidity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77735",
+      "ItemName": "Necromancer's Ivory Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77705",
+      "ItemName": "Pioneer's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82711",
+      "ItemName": "Purple Urn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82899",
+      "ItemName": "Red Krok Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87328",
+      "ItemName": "Robe of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87323",
+      "ItemName": "Sorcerer's Maroon Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4965",
+      "ItemName": "Stiletto of Ignition",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38759",
+      "ItemName": "Summertime Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87302",
+      "ItemName": "Vest of Alacrity",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

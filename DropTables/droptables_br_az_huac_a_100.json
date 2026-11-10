@@ -1,0 +1,88 @@
+{
+  "Name": "BR_AZ_Huac_A_100",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1654624",
+      "ItemName": "Umbra Queen's Chill Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654631",
+      "ItemName": "Umbra Queen's Chill Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654621",
+      "ItemName": "Umbra Queen's Dusty Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654628",
+      "ItemName": "Umbra Queen's Dusty Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654626",
+      "ItemName": "Umbra Queen's Furious Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654633",
+      "ItemName": "Umbra Queen's Furious Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654622",
+      "ItemName": "Umbra Queen's Grim Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654629",
+      "ItemName": "Umbra Queen's Grim Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654623",
+      "ItemName": "Umbra Queen's Scorched Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654630",
+      "ItemName": "Umbra Queen's Scorched Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654627",
+      "ItemName": "Umbra Queen's Shocked Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654634",
+      "ItemName": "Umbra Queen's Shocked Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654625",
+      "ItemName": "Umbra Queen's Wild Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1654632",
+      "ItemName": "Umbra Queen's Wild Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,158 @@
+{
+  "Name": "WL_Frog_Owner_B_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1628358",
+      "ItemName": "Crisp City Dweller Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628421",
+      "ItemName": "Crisp City Dweller Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628561",
+      "ItemName": "Crisp Townie Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628589",
+      "ItemName": "Crisp Townie Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628355",
+      "ItemName": "Elegant City Dweller Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628418",
+      "ItemName": "Elegant City Dweller Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628558",
+      "ItemName": "Elegant Townie Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628586",
+      "ItemName": "Elegant Townie Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628357",
+      "ItemName": "Flashy City Dweller Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628420",
+      "ItemName": "Flashy City Dweller Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628560",
+      "ItemName": "Flashy Townie Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628588",
+      "ItemName": "Flashy Townie Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628356",
+      "ItemName": "Gothic City Dweller Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628419",
+      "ItemName": "Gothic City Dweller Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628559",
+      "ItemName": "Gothic Townie Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628587",
+      "ItemName": "Gothic Townie Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628360",
+      "ItemName": "Iconic City Dweller Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628423",
+      "ItemName": "Iconic City Dweller Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628563",
+      "ItemName": "Iconic Townie Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628591",
+      "ItemName": "Iconic Townie Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628361",
+      "ItemName": "Striking City Dweller Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628424",
+      "ItemName": "Striking City Dweller Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628564",
+      "ItemName": "Striking Townie Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628592",
+      "ItemName": "Striking Townie Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628359",
+      "ItemName": "Vibrant City Dweller Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628422",
+      "ItemName": "Vibrant City Dweller Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628562",
+      "ItemName": "Vibrant Townie Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1628590",
+      "ItemName": "Vibrant Townie Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

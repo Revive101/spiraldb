@@ -1,0 +1,298 @@
+{
+  "Name": "STRD_BR_MS_JadeOni_A_50",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1617544",
+      "ItemName": "Malistaire's Chilly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617565",
+      "ItemName": "Malistaire's Chilly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617586",
+      "ItemName": "Malistaire's Chilly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712789",
+      "ItemName": "Malistaire's Chilly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617509",
+      "ItemName": "Malistaire's Chilly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617516",
+      "ItemName": "Malistaire's Chilly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617523",
+      "ItemName": "Malistaire's Chilly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712804",
+      "ItemName": "Malistaire's Chilly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617542",
+      "ItemName": "Malistaire's Ghostly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617563",
+      "ItemName": "Malistaire's Ghostly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617584",
+      "ItemName": "Malistaire's Ghostly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712787",
+      "ItemName": "Malistaire's Ghostly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617507",
+      "ItemName": "Malistaire's Ghostly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617514",
+      "ItemName": "Malistaire's Ghostly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617521",
+      "ItemName": "Malistaire's Ghostly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712802",
+      "ItemName": "Malistaire's Ghostly Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617541",
+      "ItemName": "Malistaire's Harmonic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617562",
+      "ItemName": "Malistaire's Harmonic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617583",
+      "ItemName": "Malistaire's Harmonic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712786",
+      "ItemName": "Malistaire's Harmonic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617506",
+      "ItemName": "Malistaire's Harmonic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617513",
+      "ItemName": "Malistaire's Harmonic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617520",
+      "ItemName": "Malistaire's Harmonic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712801",
+      "ItemName": "Malistaire's Harmonic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617546",
+      "ItemName": "Malistaire's Infamous Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617567",
+      "ItemName": "Malistaire's Infamous Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617588",
+      "ItemName": "Malistaire's Infamous Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712791",
+      "ItemName": "Malistaire's Infamous Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617511",
+      "ItemName": "Malistaire's Infamous Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617518",
+      "ItemName": "Malistaire's Infamous Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617525",
+      "ItemName": "Malistaire's Infamous Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712806",
+      "ItemName": "Malistaire's Infamous Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617547",
+      "ItemName": "Malistaire's Squall Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617568",
+      "ItemName": "Malistaire's Squall Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617589",
+      "ItemName": "Malistaire's Squall Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712792",
+      "ItemName": "Malistaire's Squall Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617512",
+      "ItemName": "Malistaire's Squall Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617519",
+      "ItemName": "Malistaire's Squall Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617526",
+      "ItemName": "Malistaire's Squall Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712807",
+      "ItemName": "Malistaire's Squall Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617545",
+      "ItemName": "Malistaire's Thorny Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617566",
+      "ItemName": "Malistaire's Thorny Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617587",
+      "ItemName": "Malistaire's Thorny Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712790",
+      "ItemName": "Malistaire's Thorny Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617510",
+      "ItemName": "Malistaire's Thorny Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617517",
+      "ItemName": "Malistaire's Thorny Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617524",
+      "ItemName": "Malistaire's Thorny Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712805",
+      "ItemName": "Malistaire's Thorny Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617543",
+      "ItemName": "Malistaire's Vengeance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617564",
+      "ItemName": "Malistaire's Vengeance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617585",
+      "ItemName": "Malistaire's Vengeance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712788",
+      "ItemName": "Malistaire's Vengeance Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617508",
+      "ItemName": "Malistaire's Vengeance Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617515",
+      "ItemName": "Malistaire's Vengeance Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1617522",
+      "ItemName": "Malistaire's Vengeance Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1712803",
+      "ItemName": "Malistaire's Vengeance Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

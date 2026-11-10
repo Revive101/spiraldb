@@ -1,0 +1,63 @@
+{
+  "Name": "RH-Boss-Grendel-Housing",
+  "Description": "Mob loot table (10 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "181123",
+      "ItemName": "Bloodvine Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181090",
+      "ItemName": "Hanging Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181128",
+      "ItemName": "Lantern Post",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181091",
+      "ItemName": "Minor Runestone",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181103",
+      "ItemName": "Standing Sconce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181089",
+      "ItemName": "Tree Lantern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181116",
+      "ItemName": "Weapons Cache",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181057",
+      "ItemName": "Wooden Barrow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181056",
+      "ItemName": "Wooden Wheelbarrow",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

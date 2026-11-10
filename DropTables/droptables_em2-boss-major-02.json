@@ -1,0 +1,168 @@
+{
+  "Name": "EM2-Boss-Major-02",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462346",
+      "ItemName": "Balanced Paradox Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462426",
+      "ItemName": "Balanced Paradox Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462345",
+      "ItemName": "Deathly Paradox Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462425",
+      "ItemName": "Deathly Paradox Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462347",
+      "ItemName": "Divine Paradox Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462427",
+      "ItemName": "Divine Paradox Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439017",
+      "ItemName": "Empyrea Brain Theme 1",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439018",
+      "ItemName": "Empyrea Brain Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439019",
+      "ItemName": "Empyrea Brain Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439014",
+      "ItemName": "Empyrea Dance Hall Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441525",
+      "ItemName": "Empyrea Mandalla Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441526",
+      "ItemName": "Empyrea Mandalla Destroyed Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439020",
+      "ItemName": "Empyrea Medulla Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441527",
+      "ItemName": "Empyrea Nexus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441528",
+      "ItemName": "Empyrea Nimbus Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441529",
+      "ItemName": "Empyrea Nimbus Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441530",
+      "ItemName": "Empyrea Reverie Combat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441531",
+      "ItemName": "Empyrea Reverie Dream Shrine Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1441532",
+      "ItemName": "Empyrea Reverie Hive Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1439021",
+      "ItemName": "Empyrea Sewer Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462340",
+      "ItemName": "Fiery Paradox Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462420",
+      "ItemName": "Fiery Paradox Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462341",
+      "ItemName": "Icy Paradox Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462421",
+      "ItemName": "Icy Paradox Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462344",
+      "ItemName": "Lively Paradox Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462424",
+      "ItemName": "Lively Paradox Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462343",
+      "ItemName": "Mythic Paradox Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462423",
+      "ItemName": "Mythic Paradox Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462342",
+      "ItemName": "Stormy Paradox Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462422",
+      "ItemName": "Stormy Paradox Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

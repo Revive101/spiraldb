@@ -1,0 +1,93 @@
+{
+  "Name": "AV-Owlwitch-Kiva-R11-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512161",
+      "ItemName": "Avalon Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512167",
+      "ItemName": "Avalon Wyrd Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635299",
+      "ItemName": "Champion of Order's Icy Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635298",
+      "ItemName": "Chaos Knight's Blazing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635412",
+      "ItemName": "Courageous Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635212",
+      "ItemName": "Druid's Amulet of Courage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635379",
+      "ItemName": "Hanging Stones Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635380",
+      "ItemName": "Knight of the Wyrd Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635413",
+      "ItemName": "Noble Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635213",
+      "ItemName": "Pendant of Armiger's Tenacity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635256",
+      "ItemName": "Savage Hunter's Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635334",
+      "ItemName": "Toasty Band of the Fire Elves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635242",
+      "ItemName": "Weirwood's Thorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "538052",
+      "ItemName": "Wise Owl Painting",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

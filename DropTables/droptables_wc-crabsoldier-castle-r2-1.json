@@ -1,0 +1,48 @@
+{
+  "Name": "WC-CrabSoldier-Castle-R2-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "77596",
+      "ItemName": "Bloomshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77610",
+      "ItemName": "Carbonshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77568",
+      "ItemName": "Embershroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4780",
+      "ItemName": "Fine Jade Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77582",
+      "ItemName": "Gustshroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4779",
+      "ItemName": "Hallowed Band",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

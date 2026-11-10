@@ -1,0 +1,143 @@
+{
+  "Name": "DD-DS-01-Minotaur-Boss-80",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160901",
+      "ItemName": "Dragonspyre Gate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160828",
+      "ItemName": "Magma-filled Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160829",
+      "ItemName": "Memorial Fountain",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248001",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248002",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248003",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248004",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248005",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248006",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248007",
+      "ItemName": "Sunion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82912",
+      "ItemName": "Wall Chains",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,213 @@
+{
+  "Name": "AZ-BossRare-Neza-R13",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "730311",
+      "ItemName": "Acampi Reedfist's Lost Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512209",
+      "ItemName": "Azteca Dungeon Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739202",
+      "ItemName": "Azteca Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512212",
+      "ItemName": "Azteca Swamp Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730239",
+      "ItemName": "Beak Breaker's Antique Sliver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730244",
+      "ItemName": "Black Blade of Five Deaths",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730393",
+      "ItemName": "Black Sun Chac's Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730422",
+      "ItemName": "Calendar of the Spiral King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730426",
+      "ItemName": "Case of Mother Moon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730356",
+      "ItemName": "Death Moon's Chosen Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730419",
+      "ItemName": "Deck of the Jaguar Spirit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739223",
+      "ItemName": "Gold Nugget",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730395",
+      "ItemName": "Grinning Death Stompers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730447",
+      "ItemName": "Mace of the Aztecosaurs",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730251",
+      "ItemName": "Mother's New Moon Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730446",
+      "ItemName": "Storm Quetzal's Charged Mace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739142",
+      "ItemName": "Tall Drum",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,103 @@
+{
+  "Name": "EM-MiniBoss-Gear-125",
+  "Description": "Mob loot table (12 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1421921",
+      "ItemName": "Blue Globulin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430558",
+      "ItemName": "Cabal Amulet of Disruption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430550",
+      "ItemName": "Cabal Dagger of Disruption",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430557",
+      "ItemName": "Cabalist Amulet of Finality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430553",
+      "ItemName": "Cabalist Amulet of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430556",
+      "ItemName": "Cabalist Amulet of the First",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430554",
+      "ItemName": "Cabalist Chaotic Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430546",
+      "ItemName": "Cabalist Chaotic Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430552",
+      "ItemName": "Cabalist Cleansing Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430544",
+      "ItemName": "Cabalist Cleansing Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430549",
+      "ItemName": "Cabalist Dagger of Finality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430545",
+      "ItemName": "Cabalist Dagger of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430548",
+      "ItemName": "Cabalist Dagger of the First",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430559",
+      "ItemName": "Cabalist Schism Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430551",
+      "ItemName": "Cabalist Schism Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430555",
+      "ItemName": "Nostalgic Cabal Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1430547",
+      "ItemName": "Nostalgic Cabal Dagger",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

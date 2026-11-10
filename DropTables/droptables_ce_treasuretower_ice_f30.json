@@ -1,0 +1,348 @@
+{
+  "Name": "CE_TreasureTower_Ice_F30",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1254219",
+      "ItemName": "Cast Symbol Ice (1 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1254220",
+      "ItemName": "Cast Symbol Ice (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160293",
+      "ItemName": "Crate of Ice Cream",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374487",
+      "ItemName": "Fishy Bird Cage",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414423",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414424",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414425",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414426",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414427",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414428",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414429",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414430",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414431",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414432",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414433",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414435",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414436",
+      "ItemName": "Greyrose Glacial Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414675",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414676",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414677",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414678",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414679",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414680",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414681",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414682",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414683",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414684",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414685",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414687",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414688",
+      "ItemName": "Headmaster's Crystal Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414409",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414410",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414411",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414412",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414413",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414414",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414415",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414416",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414417",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414418",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414419",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414420",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414421",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414422",
+      "ItemName": "Lydia's Frigid Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414437",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414438",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414439",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414440",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414441",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414442",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414443",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414444",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414445",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414446",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414447",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414448",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414449",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1414450",
+      "ItemName": "Lydia's Frozen Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160229",
+      "ItemName": "Pie",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160983",
+      "ItemName": "Portrait of Lydia Greyrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160982",
+      "ItemName": "Professor Ambrose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160399",
+      "ItemName": "Professor Balestrom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160395",
+      "ItemName": "Professor Falmea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374549",
+      "ItemName": "Ravenwood Librarian's Desk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160208",
+      "ItemName": "Stack of 3 Books",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164419",
+      "ItemName": "Theater Masks",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

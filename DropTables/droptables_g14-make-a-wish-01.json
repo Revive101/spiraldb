@@ -1,0 +1,543 @@
+{
+  "Name": "G14-Make-A-Wish-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "276460",
+      "ItemName": "Ancient Koi (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635371",
+      "ItemName": "Armor of the Giant Slayer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635551",
+      "ItemName": "Astrological Gallery",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225484",
+      "ItemName": "Bat Wings (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164225",
+      "ItemName": "Black Bishop Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164231",
+      "ItemName": "Black King Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164229",
+      "ItemName": "Black Knight Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164227",
+      "ItemName": "Black Pawn Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164223",
+      "ItemName": "Black Queen Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164221",
+      "ItemName": "Black Rook Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635409",
+      "ItemName": "Boots of Giant Dancing",
+      "Notes": ""
+    },
+    {
+      "ItemId": "267140",
+      "ItemName": "Brave Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635335",
+      "ItemName": "Brisk Circle of Nodor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470391",
+      "ItemName": "Brown Warg (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635310",
+      "ItemName": "Chaos Lord's Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455095",
+      "ItemName": "Charging Pearl Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164217",
+      "ItemName": "Chessboard",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635331",
+      "ItemName": "Circle of High Order",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473092",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473093",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473094",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473095",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473096",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473097",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473098",
+      "ItemName": "Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470140",
+      "ItemName": "Crokagator (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376263",
+      "ItemName": "Daniel's Answer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376260",
+      "ItemName": "Daniel's Answer of Life",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376261",
+      "ItemName": "Daniel's Answer to Defeat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376262",
+      "ItemName": "Daniel's Balanced Answer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376256",
+      "ItemName": "Daniel's Fiery Answer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376257",
+      "ItemName": "Daniel's Icy Answer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376259",
+      "ItemName": "Daniel's Mythic Answer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1376258",
+      "ItemName": "Daniel's Stormy Answer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243222",
+      "ItemName": "Dirk of the Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635369",
+      "ItemName": "Dryad Friend Raiment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243227",
+      "ItemName": "Explorer's Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191271",
+      "ItemName": "Faithful Dragoness (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "175618",
+      "ItemName": "Fierce Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "225497",
+      "ItemName": "Ghost Hound",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713175",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713176",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713177",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713178",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713179",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713180",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713181",
+      "ItemName": "Golden Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470392",
+      "ItemName": "Grey Warg (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317675",
+      "ItemName": "Himoolayan Yak (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470138",
+      "ItemName": "Hippogriff (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635372",
+      "ItemName": "Knight Errant Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635403",
+      "ItemName": "Long as Night Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635548",
+      "ItemName": "Luminary Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455096",
+      "ItemName": "Moon Storm Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "455094",
+      "ItemName": "Moon's Thunder Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "425082",
+      "ItemName": "Moonlight Pony (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635340",
+      "ItemName": "Nameless Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346031",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346032",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346033",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346034",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346035",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346036",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346037",
+      "ItemName": "Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1374201",
+      "ItemName": "Polterpooch",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730405",
+      "ItemName": "Prince of the Avian's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191227",
+      "ItemName": "Purple Glider (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713168",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713169",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713170",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713171",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713172",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713173",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "713174",
+      "ItemName": "Red Couch Potatoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276453",
+      "ItemName": "Rugged Seahorse (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635313",
+      "ItemName": "Shroud of the One",
+      "Notes": ""
+    },
+    {
+      "ItemId": "276448",
+      "ItemName": "Spritely Seahorse (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191660",
+      "ItemName": "Starlight Pony (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "425086",
+      "ItemName": "Starshine Pony (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "425084",
+      "ItemName": "Sunshine Pony (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217210",
+      "ItemName": "The Dreamweaver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317802",
+      "ItemName": "The Manticore",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217002",
+      "ItemName": "The Raven Eye",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470717",
+      "ItemName": "The Restless Titan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217358",
+      "ItemName": "The Warlock",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635370",
+      "ItemName": "Toadstool Defender Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730367",
+      "ItemName": "Vestments of Black Smoke",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164224",
+      "ItemName": "White Bishop Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164230",
+      "ItemName": "White King Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164228",
+      "ItemName": "White Knight Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "191235",
+      "ItemName": "White Mare (7 Day)",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164226",
+      "ItemName": "White Pawn Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164222",
+      "ItemName": "White Queen Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "164220",
+      "ItemName": "White Rook Chesspiece",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635408",
+      "ItemName": "Whitehaven Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635305",
+      "ItemName": "Whitehaven's Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635546",
+      "ItemName": "Woodlocke Deck",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

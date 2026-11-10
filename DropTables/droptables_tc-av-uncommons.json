@@ -1,0 +1,298 @@
+{
+  "Name": "TC-AV-Uncommons",
+  "Description": "Mob loot table (21 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635328",
+      "ItemName": "Bad Host Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635285",
+      "ItemName": "Bad Storm Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635324",
+      "ItemName": "Band of the Lost Abbey",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635329",
+      "ItemName": "Bannerman's Honorbound Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635289",
+      "ItemName": "Brave One's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635356",
+      "ItemName": "Brave One's Plate",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635326",
+      "ItemName": "Dun Dara's Triskelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346060",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346061",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346062",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346063",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346064",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346065",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635325",
+      "ItemName": "Ganelon's Lost Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635404",
+      "ItemName": "Hanging Stones Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635287",
+      "ItemName": "Helm of Nature's Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635288",
+      "ItemName": "Honor Bound Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635355",
+      "ItemName": "Honor Bound Surcoat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635327",
+      "ItemName": "Knight Errant's Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635403",
+      "ItemName": "Long as Night Walkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635402",
+      "ItemName": "Luck Smithed Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635286",
+      "ItemName": "Mask of the Silent Hunter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635401",
+      "ItemName": "Ponycorn Hoofers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635353",
+      "ItemName": "Robes of the Silent Hunter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635400",
+      "ItemName": "Splashing Stream Waders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346046",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346047",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346048",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346049",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346050",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346051",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635354",
+      "ItemName": "Tunic of Nature's Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346053",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346054",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346055",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346056",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346057",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346058",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635290",
+      "ItemName": "Wrath of the Wild",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

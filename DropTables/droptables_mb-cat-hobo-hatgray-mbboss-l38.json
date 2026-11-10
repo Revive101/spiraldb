@@ -1,0 +1,138 @@
+{
+  "Name": "MB-Cat-Hobo-HatGray-MBBoss-L38",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97147",
+      "ItemName": "Cap of the Kraken",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97389",
+      "ItemName": "Clanker's Irritating Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97131",
+      "ItemName": "Deck of the Cyclops",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160689",
+      "ItemName": "Engraved Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97124",
+      "ItemName": "Enigmatic Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97371",
+      "ItemName": "Flowering Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "100325",
+      "ItemName": "Frog",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97237",
+      "ItemName": "Frosty Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77239",
+      "ItemName": "Frozen Canine Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97363",
+      "ItemName": "Graceful Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97221",
+      "ItemName": "Hat of Equation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39019",
+      "ItemName": "Headwrap of Incineration",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97194",
+      "ItemName": "Helm of Horrors",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77181",
+      "ItemName": "Icy Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97243",
+      "ItemName": "Mechanical Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77232",
+      "ItemName": "Pompous Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97293",
+      "ItemName": "Robe of Extinction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97283",
+      "ItemName": "Robe of the Unicorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97411",
+      "ItemName": "Sandals of Civility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160616",
+      "ItemName": "Short Cement Post",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82860",
+      "ItemName": "Silver Chest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160736",
+      "ItemName": "Square Metal Platform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87474",
+      "ItemName": "Staff of Rejuvenation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39069",
+      "ItemName": "Watchman's Decoder Ring",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

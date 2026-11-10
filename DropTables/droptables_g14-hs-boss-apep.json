@@ -1,0 +1,168 @@
+{
+  "Name": "G14-HS-Boss-Apep",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338453",
+      "ItemName": "Ammit's Hand of Revolution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338454",
+      "ItemName": "Ancient Hieroglyph Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338111",
+      "ItemName": "Ancient Rebus Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338534",
+      "ItemName": "Anubis' Staff of Redress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338204",
+      "ItemName": "Army of the Condemned Kris",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338455",
+      "ItemName": "Baruti's Deck of Revival",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338108",
+      "ItemName": "Boots of the Burning Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338109",
+      "ItemName": "Boots of the Frozen Desert",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338200",
+      "ItemName": "Condemned Soldier's Bodkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338110",
+      "ItemName": "Desert Rain Mukluks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338205",
+      "ItemName": "Hall of Justice Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338456",
+      "ItemName": "Hand of the Wicked Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338112",
+      "ItemName": "Hands of Anubis Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338532",
+      "ItemName": "Hands of Anubis Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338202",
+      "ItemName": "Hieroglyph Kris of Riddles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338199",
+      "ItemName": "Kris of the Ravenous Teeth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338203",
+      "ItemName": "Mander Survival Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338201",
+      "ItemName": "Moh'Lharz's Ravenous Fang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338531",
+      "ItemName": "Rebus Breaker's Stave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338528",
+      "ItemName": "Rod of the Burning Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338451",
+      "ItemName": "Sands of Zigazag Cards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338457",
+      "ItemName": "Scales of Justice Arcana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338114",
+      "ItemName": "Shoes of Anubis' Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1204634",
+      "ItemName": "Sorcerer Hunter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338113",
+      "ItemName": "Soul Devourer's Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338529",
+      "ItemName": "Stave of Cold Justice",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338533",
+      "ItemName": "Stave of the Devoured",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338452",
+      "ItemName": "Upper Zigazag Arcana",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338530",
+      "ItemName": "Wrath of Anubis Staff",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

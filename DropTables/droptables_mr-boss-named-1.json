@@ -1,0 +1,63 @@
+{
+  "Name": "MR-Boss-Named-1",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1407100",
+      "ItemName": "Tetrus Ampul of Fusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407094",
+      "ItemName": "Tetrus Ampul of Scalding",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407096",
+      "ItemName": "Tetrus Ampul of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407104",
+      "ItemName": "Tetrus Ringlet of Tempests",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407080",
+      "ItemName": "Time Warden Downpour Galesh",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407084",
+      "ItemName": "Time Warden Galesh of Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407066",
+      "ItemName": "Time Warden Kavuk of Bounce",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407065",
+      "ItemName": "Time Warden Kavuk of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1407076",
+      "ItemName": "Time Warden Thobe of Truth",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

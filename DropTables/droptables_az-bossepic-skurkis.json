@@ -1,0 +1,283 @@
+{
+  "Name": "AZ-BossEpic-Skurkis",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730252",
+      "ItemName": "Athame of the Falling Star",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512209",
+      "ItemName": "Azteca Dungeon Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512210",
+      "ItemName": "Azteca Mountain Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512222",
+      "ItemName": "Azteca Post Apocalypse Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512212",
+      "ItemName": "Azteca Swamp Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730211",
+      "ItemName": "Blazing Jade Wing Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730427",
+      "ItemName": "Case of the Worldtree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346017",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346018",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346019",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346020",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346021",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346022",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346023",
+      "ItemName": "Deadly Ninja Fig",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730401",
+      "ItemName": "Great Coatl's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730363",
+      "ItemName": "Great Coatl's Scales",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730455",
+      "ItemName": "Green Maize Quintessence Wand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730429",
+      "ItemName": "Jaguar Paw Pyramid",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346128",
+      "ItemName": "Krokopatra Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346126",
+      "ItemName": "Krokopatra Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346131",
+      "ItemName": "Meowiarty Archmage Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346132",
+      "ItemName": "Meowiarty Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739171",
+      "ItemName": "Ornate Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730283",
+      "ItemName": "Philosoraptor's Abstract Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346123",
+      "ItemName": "Rattlebones Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346124",
+      "ItemName": "Rattlebones Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730319",
+      "ItemName": "Ring of Aztlan",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730857",
+      "ItemName": "Storm Caiman's Brave Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217360",
+      "ItemName": "The Legend",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739213",
+      "ItemName": "Toucan Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730249",
+      "ItemName": "Vicious Sky's Sacred Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

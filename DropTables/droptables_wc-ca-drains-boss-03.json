@@ -1,0 +1,58 @@
+{
+  "Name": "WC-CA-Drains-Boss-03",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1489351",
+      "ItemName": "Dragonspyre Vanguard's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489350",
+      "ItemName": "Vanguard's Balanced Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489349",
+      "ItemName": "Vanguard's Deadly Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489344",
+      "ItemName": "Vanguard's Fiery Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489345",
+      "ItemName": "Vanguard's Icy Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489347",
+      "ItemName": "Vanguard's Mythic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489346",
+      "ItemName": "Vanguard's Shocking Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1489348",
+      "ItemName": "Vanguard's Vibrant Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

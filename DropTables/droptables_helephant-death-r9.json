@@ -1,0 +1,88 @@
+{
+  "Name": "Helephant-Death-R9",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1592345",
+      "ItemName": "Gurtok Chill Spell Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548914",
+      "ItemName": "Gurtok Chillblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548912",
+      "ItemName": "Gurtok Ender's Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592343",
+      "ItemName": "Gurtok Ender's Spell Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548915",
+      "ItemName": "Gurtok Everthorn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592346",
+      "ItemName": "Gurtok Everthorn Spell Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548913",
+      "ItemName": "Gurtok Firetusk",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592344",
+      "ItemName": "Gurtok Firetusk Spell Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548916",
+      "ItemName": "Gurtok Mythslayer",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592347",
+      "ItemName": "Gurtok Mythslayer Spell Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548911",
+      "ItemName": "Gurtok Scaleblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592342",
+      "ItemName": "Gurtok Spell Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1592348",
+      "ItemName": "Gurtok Telluric Spell Knife",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1548917",
+      "ItemName": "Gurtok Telluric Steel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

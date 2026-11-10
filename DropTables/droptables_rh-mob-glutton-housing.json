@@ -1,0 +1,83 @@
+{
+  "Name": "RH-Mob-Glutton-Housing",
+  "Description": "Mob loot table (10 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "181060",
+      "ItemName": "Drinking Horn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181036",
+      "ItemName": "Drinking Jug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181068",
+      "ItemName": "Fire Pit and Kettle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181040",
+      "ItemName": "Fish Skeleton",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181081",
+      "ItemName": "Hanging Onions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181087",
+      "ItemName": "Herb Shelf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181035",
+      "ItemName": "Honey Pot",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181092",
+      "ItemName": "Peat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181083",
+      "ItemName": "String of Sausages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181082",
+      "ItemName": "Strings of Sausages",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181071",
+      "ItemName": "Trio of Sacks",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181076",
+      "ItemName": "Wild Mushrooms",
+      "Notes": ""
+    },
+    {
+      "ItemId": "181046",
+      "ItemName": "Wooden Bucket",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

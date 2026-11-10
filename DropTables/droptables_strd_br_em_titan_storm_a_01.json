@@ -1,0 +1,228 @@
+{
+  "Name": "STRD_BR_EM_Titan_Storm_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1689372",
+      "ItemName": "Animated Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689967",
+      "ItemName": "Animated Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689386",
+      "ItemName": "Animated Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693009",
+      "ItemName": "Animated Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689379",
+      "ItemName": "Animated Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689974",
+      "ItemName": "Animated Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689368",
+      "ItemName": "Classical Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689963",
+      "ItemName": "Classical Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689382",
+      "ItemName": "Classical Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693005",
+      "ItemName": "Classical Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689375",
+      "ItemName": "Classical Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689970",
+      "ItemName": "Classical Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689371",
+      "ItemName": "Cool Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689966",
+      "ItemName": "Cool Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689385",
+      "ItemName": "Cool Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693008",
+      "ItemName": "Cool Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689378",
+      "ItemName": "Cool Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689973",
+      "ItemName": "Cool Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689369",
+      "ItemName": "Grimdark Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689964",
+      "ItemName": "Grimdark Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689383",
+      "ItemName": "Grimdark Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693006",
+      "ItemName": "Grimdark Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689376",
+      "ItemName": "Grimdark Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689971",
+      "ItemName": "Grimdark Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689373",
+      "ItemName": "Infamous Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689968",
+      "ItemName": "Infamous Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689387",
+      "ItemName": "Infamous Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693010",
+      "ItemName": "Infamous Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689380",
+      "ItemName": "Infamous Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689975",
+      "ItemName": "Infamous Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689370",
+      "ItemName": "Inflammatory Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689965",
+      "ItemName": "Inflammatory Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689384",
+      "ItemName": "Inflammatory Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693007",
+      "ItemName": "Inflammatory Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689377",
+      "ItemName": "Inflammatory Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689972",
+      "ItemName": "Inflammatory Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689374",
+      "ItemName": "Snappy Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689969",
+      "ItemName": "Snappy Deity Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689388",
+      "ItemName": "Snappy Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1693011",
+      "ItemName": "Snappy Deity Staff",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689381",
+      "ItemName": "Snappy Deity Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1689976",
+      "ItemName": "Snappy Deity Totem",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,63 @@
+{
+  "Name": "SC-Spirit-20",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "225447",
+      "ItemName": "Diseased Wildclaw",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473340",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473341",
+      "ItemName": "Greenwarden's Brilliant Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473326",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473327",
+      "ItemName": "Greenwarden's Brilliant Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302140",
+      "ItemName": "Spiral Cup Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302138",
+      "ItemName": "Spiral Cup Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1302145",
+      "ItemName": "Vestment of Spirit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512152",
+      "ItemName": "Wysteria Theme 2",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

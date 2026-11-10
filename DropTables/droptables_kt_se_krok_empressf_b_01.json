@@ -1,0 +1,53 @@
+{
+  "Name": "KT_SE_Krok_EmpressF_B_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1673642",
+      "ItemName": "Manifest Crown of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673638",
+      "ItemName": "Manifest Crown of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673637",
+      "ItemName": "Manifest Crown of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673641",
+      "ItemName": "Manifest Crown of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673640",
+      "ItemName": "Manifest Crown of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673643",
+      "ItemName": "Manifest Crown of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673639",
+      "ItemName": "Manifest Crown of Wrath",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

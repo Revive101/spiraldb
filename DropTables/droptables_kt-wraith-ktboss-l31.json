@@ -1,0 +1,168 @@
+{
+  "Name": "KT-Wraith-KTBoss-L31",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "5029",
+      "ItemName": "Band of Energy",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4959",
+      "ItemName": "Blade of Proportions",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87334",
+      "ItemName": "Ceremonial Vest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77725",
+      "ItemName": "Cowl of Prediction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5041",
+      "ItemName": "Crypt Scavenger's Circle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77721",
+      "ItemName": "Crypt Scavenger's Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4948",
+      "ItemName": "Cryptkeeper's Shortsword",
+      "Notes": ""
+    },
+    {
+      "ItemId": "39421",
+      "ItemName": "Diviner's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87801",
+      "ItemName": "Fang Bat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4950",
+      "ItemName": "Flamedancer's Athame",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87310",
+      "ItemName": "Garments of Repose",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87296",
+      "ItemName": "Garments of the Augur",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77704",
+      "ItemName": "Headwrap of Originality",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82837",
+      "ItemName": "Krok Skull Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512122",
+      "ItemName": "Krokotopia Theme 3",
+      "Notes": ""
+    },
+    {
+      "ItemId": "5011",
+      "ItemName": "Loop of Talent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4972",
+      "ItemName": "Mummified Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77735",
+      "ItemName": "Necromancer's Ivory Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82783",
+      "ItemName": "Open Ice Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87328",
+      "ItemName": "Robe of Reason",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77760",
+      "ItemName": "Rough-hewn Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87268",
+      "ItemName": "Rugged Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82780",
+      "ItemName": "Sand Celebration Rug",
+      "Notes": ""
+    },
+    {
+      "ItemId": "38758",
+      "ItemName": "Scavenger's Radiant Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "4946",
+      "ItemName": "Scavenger's Shortblade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77762",
+      "ItemName": "Shoes of Figments",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77793",
+      "ItemName": "Slippers of Sensibility",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87323",
+      "ItemName": "Sorcerer's Maroon Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346485",
+      "ItemName": "Swindler Coat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "77790",
+      "ItemName": "Threadbare Boots",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

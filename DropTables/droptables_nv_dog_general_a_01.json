@@ -1,0 +1,158 @@
+{
+  "Name": "NV_Dog_General_A_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577695",
+      "ItemName": "Artillery Officer Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577688",
+      "ItemName": "Artillery Officer Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577691",
+      "ItemName": "Cavalry Officer Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577684",
+      "ItemName": "Cavalry Officer Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577690",
+      "ItemName": "Infantry Officer Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577683",
+      "ItemName": "Infantry Officer Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577693",
+      "ItemName": "Medic Officer Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577686",
+      "ItemName": "Medic Officer Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577694",
+      "ItemName": "Messenger Officer Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577687",
+      "ItemName": "Messenger Officer Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577632",
+      "ItemName": "Regulation Artillery Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577625",
+      "ItemName": "Regulation Artillery Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577628",
+      "ItemName": "Regulation Cavalry Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577621",
+      "ItemName": "Regulation Cavalry Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577627",
+      "ItemName": "Regulation Infantry Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577620",
+      "ItemName": "Regulation Infantry Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577630",
+      "ItemName": "Regulation Medic Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577623",
+      "ItemName": "Regulation Medic Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577631",
+      "ItemName": "Regulation Messenger Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577624",
+      "ItemName": "Regulation Messenger Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577626",
+      "ItemName": "Regulation Scout Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577619",
+      "ItemName": "Regulation Scout Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577629",
+      "ItemName": "Regulation Trooper Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577622",
+      "ItemName": "Regulation Trooper Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577689",
+      "ItemName": "Scout Officer Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577682",
+      "ItemName": "Scout Officer Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577692",
+      "ItemName": "Trooper Officer Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577685",
+      "ItemName": "Trooper Officer Uniform",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

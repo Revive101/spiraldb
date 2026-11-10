@@ -1,0 +1,88 @@
+{
+  "Name": "NV_Irks_Super_A_03",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1577850",
+      "ItemName": "Glistening Balance Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577851",
+      "ItemName": "Glistening Death Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577852",
+      "ItemName": "Glistening Fire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577853",
+      "ItemName": "Glistening Ice Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577854",
+      "ItemName": "Glistening Life Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577855",
+      "ItemName": "Glistening Myth Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577856",
+      "ItemName": "Glistening Storm Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577794",
+      "ItemName": "Golden Balance Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577795",
+      "ItemName": "Golden Death Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577796",
+      "ItemName": "Golden Fire Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577797",
+      "ItemName": "Golden Ice Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577798",
+      "ItemName": "Golden Life Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577799",
+      "ItemName": "Golden Myth Amulet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1577800",
+      "ItemName": "Golden Storm Amulet",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

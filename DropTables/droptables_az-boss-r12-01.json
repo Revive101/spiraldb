@@ -1,0 +1,353 @@
+{
+  "Name": "AZ-Boss-R12-01",
+  "Description": "Mob loot table (14 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653139",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653140",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653141",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653142",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653143",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653144",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653145",
+      "ItemName": "Angel Oak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512207",
+      "ItemName": "Azteca Apocalypse Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512206",
+      "ItemName": "Azteca Main Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739112",
+      "ItemName": "Bird Head Mount",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730388",
+      "ItemName": "Black Tears of Night Wraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730422",
+      "ItemName": "Calendar of the Spiral King",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739121",
+      "ItemName": "Clothesline",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730221",
+      "ItemName": "Cut Rock Dagger",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730275",
+      "ItemName": "Dawn Hour Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730419",
+      "ItemName": "Deck of the Jaguar Spirit",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730269",
+      "ItemName": "Elite Jura Guard Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730383",
+      "ItemName": "Elite Jura Guard Stalkers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346003",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346004",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346005",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346006",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346007",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346008",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346009",
+      "ItemName": "Fiery Boom Shroom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653146",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653147",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653148",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653149",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653150",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653151",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653152",
+      "ItemName": "Fish on a Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730387",
+      "ItemName": "Five Fangs of Fury Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730273",
+      "ItemName": "Five Fangs of Fury Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346059",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346060",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346061",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346062",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346063",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346064",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346065",
+      "ItemName": "Frozen Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730389",
+      "ItemName": "Heart of Sky Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "739160",
+      "ItemName": "Hollow Log",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730271",
+      "ItemName": "Indigo Wing Crown",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730385",
+      "ItemName": "Indigo Wing Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473078",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473079",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473080",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473081",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473082",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473083",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473084",
+      "ItemName": "Key Limes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730420",
+      "ItemName": "King's Royal Portraits",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730184",
+      "ItemName": "Laughing Chac's Talisman",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730421",
+      "ItemName": "Lords of Night Pyramid Deck",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730430",
+      "ItemName": "Red Sky Snake Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730222",
+      "ItemName": "Sky Flower Sliver",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730220",
+      "ItemName": "Smoking Frog Cutter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730223",
+      "ItemName": "Snake Ink Fang",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730431",
+      "ItemName": "Snake Staff of Frost and Hail",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730432",
+      "ItemName": "Staff of the Storm Quetzals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730185",
+      "ItemName": "Sun's Death Smiling Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730274",
+      "ItemName": "Thirteen Death Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730272",
+      "ItemName": "Tree of Secrets Chac Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730386",
+      "ItemName": "Tree of Secrets Chac Runners",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730384",
+      "ItemName": "Twisted Fang Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "730270",
+      "ItemName": "Twisted Fang Mask",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "1-270-PACommon-60",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "82782",
+      "ItemName": "Open Fire Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82783",
+      "ItemName": "Open Ice Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160616",
+      "ItemName": "Short Cement Post",
+      "Notes": ""
+    },
+    {
+      "ItemId": "82707",
+      "ItemName": "Stack of Scrolls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160707",
+      "ItemName": "Steamer Trunk",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,328 @@
+{
+  "Name": "MB-MS-Level-27-35",
+  "Description": "Mob loot table (3 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "97963",
+      "ItemName": "Abstract Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97583",
+      "ItemName": "Abstract Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97802",
+      "ItemName": "Abstract Vestment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97785",
+      "ItemName": "Benign Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97946",
+      "ItemName": "Benign Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97633",
+      "ItemName": "Blended Wool Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98010",
+      "ItemName": "Boots of Awareness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97993",
+      "ItemName": "Boots of Captivation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98044",
+      "ItemName": "Boots of Disillusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97977",
+      "ItemName": "Boots of the Astute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98047",
+      "ItemName": "Boots of the Lithe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160694",
+      "ItemName": "Brick Fireplace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97606",
+      "ItemName": "Cap of Dilemma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97644",
+      "ItemName": "Cap of Hinderance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97585",
+      "ItemName": "Cap of Preoccupation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160682",
+      "ItemName": "Carved Pew",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97615",
+      "ItemName": "Cowl of Arias",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97631",
+      "ItemName": "Cowl of Fiction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97601",
+      "ItemName": "Cowl of Watchfulness",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97628",
+      "ItemName": "Druidic Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97848",
+      "ItemName": "Druidic Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97799",
+      "ItemName": "Engrossed Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160727",
+      "ItemName": "Fire Hydrant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97569",
+      "ItemName": "Friendly Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97867",
+      "ItemName": "Garments of Predicament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97959",
+      "ItemName": "Gripping Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97612",
+      "ItemName": "Haskarr's Barbarish Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97833",
+      "ItemName": "Haskarr's Barbarish Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97567",
+      "ItemName": "Hat of Charity",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97670",
+      "ItemName": "Hat of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97574",
+      "ItemName": "Hat of the Observant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97638",
+      "ItemName": "Headwraps of Anthems",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97590",
+      "ItemName": "Headwraps of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97649",
+      "ItemName": "Helm of Struggling",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97617",
+      "ItemName": "Hood of Chimes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97622",
+      "ItemName": "Hood of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97581",
+      "ItemName": "Immersive Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97835",
+      "ItemName": "Light-as-Air Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97996",
+      "ItemName": "Light-as-Air Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97819",
+      "ItemName": "Meticulous Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97599",
+      "ItemName": "Meticulous Headwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97979",
+      "ItemName": "Nunu's Twisted Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98030",
+      "ItemName": "Painful Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97883",
+      "ItemName": "Proficient Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97663",
+      "ItemName": "Proficient Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97943",
+      "ItemName": "Prospective Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97564",
+      "ItemName": "Pupil's Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97783",
+      "ItemName": "Pupil's Uniform",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97864",
+      "ItemName": "Robe of Hinderance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97880",
+      "ItemName": "Robe of the Universe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97677",
+      "ItemName": "Shroud of Deliberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97647",
+      "ItemName": "Shroud of Predicament",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97596",
+      "ItemName": "Shroud of Scruples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97654",
+      "ItemName": "Shroud of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97660",
+      "ItemName": "Shroud of the Universe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97665",
+      "ItemName": "Sprightly Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98027",
+      "ItemName": "Systematic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97816",
+      "ItemName": "Tunic of Scruples",
+      "Notes": ""
+    },
+    {
+      "ItemId": "161059",
+      "ItemName": "Verdurous Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97851",
+      "ItemName": "Vestment of Fiction",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98013",
+      "ItemName": "Warbled Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160698",
+      "ItemName": "Yellow Foodcart",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

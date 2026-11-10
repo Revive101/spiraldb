@@ -1,0 +1,553 @@
+{
+  "Name": "G14-HS-Boss-KusBhid",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1338278",
+      "ItemName": "Ampul of Desert Squalls",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338118",
+      "ItemName": "Ancient Sage Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338121",
+      "ItemName": "Anubis' Boots of Guidance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338119",
+      "ItemName": "Anubis' Boots of Rebirth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338369",
+      "ItemName": "Band of Upper Zigazag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338361",
+      "ItemName": "Band of the Sistrum",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338115",
+      "ItemName": "Boots of the Fire Sands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338116",
+      "ItemName": "Cold Bones Footwraps",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1317657",
+      "ItemName": "Fabled Grimoire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355101",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355102",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355103",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355104",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355105",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355106",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355107",
+      "ItemName": "Fickle Pickle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338120",
+      "ItemName": "Footwraps of the Devoured",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338373",
+      "ItemName": "Hall of Justice Signet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338280",
+      "ItemName": "Hands of Anubis Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338364",
+      "ItemName": "Hands of Anubis Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355143",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355144",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355145",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355146",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355147",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355148",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355149",
+      "ItemName": "Helephant Ears",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338370",
+      "ItemName": "Hieroglyph Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338282",
+      "ItemName": "Jewel of Anubis' Judgment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338368",
+      "ItemName": "Kus'Bhid's Ring of Biting",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338367",
+      "ItemName": "Loop of Lower Zigazag",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338371",
+      "ItemName": "Mander Ring of Liberation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338281",
+      "ItemName": "Medallion of the Condemned",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473138",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473139",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473140",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473141",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473142",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473143",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473144",
+      "ItemName": "Orange Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355115",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355116",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355117",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355118",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355119",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355120",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355121",
+      "ItemName": "Orange Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338279",
+      "ItemName": "Rebus Medallion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338363",
+      "ItemName": "Rebus Seal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473131",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473132",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473133",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473134",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473135",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473136",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473137",
+      "ItemName": "Red Bell Pepper",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338277",
+      "ItemName": "Relic of the Brisk Breeze",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338362",
+      "ItemName": "Ring of the Ravenous Teeth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338360",
+      "ItemName": "Ring of the Simmering Evil ",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338117",
+      "ItemName": "Sandsquall Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338366",
+      "ItemName": "Scales of Justice Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338372",
+      "ItemName": "Seal of the Condemned",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1217522",
+      "ItemName": "Stone Skeleton Key",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338365",
+      "ItemName": "Stone of the Longest Hall",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346045",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346046",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346047",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346048",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346049",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346050",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346051",
+      "ItemName": "Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346052",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346053",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346054",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346055",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346056",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346057",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346058",
+      "ItemName": "White Desparagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356092",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356093",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356094",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356095",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356096",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356097",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "356098",
+      "ItemName": "White Laugh-o-dil",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473187",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473188",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473189",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473190",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473191",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473192",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "473193",
+      "ItemName": "White Tiger Lily",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1338276",
+      "ItemName": "Zigazag Desert Relic",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

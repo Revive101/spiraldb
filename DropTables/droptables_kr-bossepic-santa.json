@@ -1,0 +1,283 @@
+{
+  "Name": "KR-BossEpic-Santa",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "653111",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653112",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653113",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653114",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653115",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653116",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "653117",
+      "ItemName": "Alligator Pear Tree",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203352",
+      "ItemName": "Brood Mother's Lavalliere",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355080",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355081",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355082",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355083",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355084",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355085",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "355086",
+      "ItemName": "Burning Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203227",
+      "ItemName": "Burrower Scout's Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203653",
+      "ItemName": "Deck of Shadow Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358864",
+      "ItemName": "Deck of Shadow Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358878",
+      "ItemName": "Deck of Shadow Lightning",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203655",
+      "ItemName": "Deck of the Shadow Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358866",
+      "ItemName": "Deck of the Shadow Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358880",
+      "ItemName": "Deck of the Shadow Heart",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203654",
+      "ItemName": "Deck of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358865",
+      "ItemName": "Deck of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1358879",
+      "ItemName": "Deck of the Shadow Web",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248255",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248256",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248257",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248258",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248259",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248260",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248261",
+      "ItemName": "Face Palm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203179",
+      "ItemName": "Gloom Dancer's Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212040",
+      "ItemName": "Khrysalis Dreamworld Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212030",
+      "ItemName": "Khrysalis Hive Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1212027",
+      "ItemName": "Khrysalis Sardonyx Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346128",
+      "ItemName": "Krokopatra Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346126",
+      "ItemName": "Krokopatra Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203184",
+      "ItemName": "Leaf Shield Ring of Ardor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346131",
+      "ItemName": "Meowiarty Archmage Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346132",
+      "ItemName": "Meowiarty Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346123",
+      "ItemName": "Rattlebones Exalted Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346124",
+      "ItemName": "Rattlebones Master Duel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203350",
+      "ItemName": "Relic of the Ruined Forest",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1203228",
+      "ItemName": "Scorched Armor of the Burn",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248008",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248009",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248010",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248011",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248012",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248013",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1248014",
+      "ItemName": "Sword Fern",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1346134",
+      "ItemName": "Zeus Exalted Duel",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

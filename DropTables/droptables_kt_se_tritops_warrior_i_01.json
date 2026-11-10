@@ -1,0 +1,88 @@
+{
+  "Name": "KT_SE_Tritops_Warrior_I_01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1673621",
+      "ItemName": "Manifest Amulet of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673617",
+      "ItemName": "Manifest Amulet of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673616",
+      "ItemName": "Manifest Amulet of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673620",
+      "ItemName": "Manifest Amulet of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673619",
+      "ItemName": "Manifest Amulet of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673622",
+      "ItemName": "Manifest Amulet of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673618",
+      "ItemName": "Manifest Amulet of Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673635",
+      "ItemName": "Manifest Cards of Bad Blood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673631",
+      "ItemName": "Manifest Cards of Payback",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673630",
+      "ItemName": "Manifest Cards of Reprisal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673634",
+      "ItemName": "Manifest Cards of Retribution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673633",
+      "ItemName": "Manifest Cards of Revenge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673636",
+      "ItemName": "Manifest Cards of Vengeance",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1673632",
+      "ItemName": "Manifest Cards of Wrath",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,98 @@
+{
+  "Name": "Minion75_11Elite",
+  "Description": "Mob loot table (7 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "635285",
+      "ItemName": "Bad Storm Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540158",
+      "ItemName": "Blackback Safari Brim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635289",
+      "ItemName": "Brave One's Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635284",
+      "ItemName": "Brisk Helmet of Nodor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540153",
+      "ItemName": "Crocogator's Ambush Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635283",
+      "ItemName": "Fire Spirits' Toasty Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540156",
+      "ItemName": "Fire Valley Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635287",
+      "ItemName": "Helm of Nature's Wrath",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540154",
+      "ItemName": "Hippogriff's Hat of Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635288",
+      "ItemName": "Honor Bound Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540159",
+      "ItemName": "Hood of the Grasslands",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540157",
+      "ItemName": "Hood of the Hepheloomp",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635286",
+      "ItemName": "Mask of the Silent Hunter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635290",
+      "ItemName": "Wrath of the Wild",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540155",
+      "ItemName": "Wrathful Wraith's Headdress",
+      "Notes": ""
+    },
+    {
+      "ItemId": "540152",
+      "ItemName": "Zebra's Zephyr Headdress",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

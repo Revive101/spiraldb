@@ -1,0 +1,98 @@
+{
+  "Name": "AV-DogKnight-DarkKnight-R11-01",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "512164",
+      "ItemName": "Avalon Glorious Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512165",
+      "ItemName": "Avalon Haunting Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635249",
+      "ItemName": "Brave Steel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635298",
+      "ItemName": "Chaos Knight's Blazing Helm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635412",
+      "ItemName": "Courageous Knight's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635621",
+      "ItemName": "Dragonbreath Bow",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635379",
+      "ItemName": "Hanging Stones Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635248",
+      "ItemName": "Horned One's Iron",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635380",
+      "ItemName": "Knight of the Wyrd Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635304",
+      "ItemName": "Mask of the Crystal Caves",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1603031",
+      "ItemName": "Rose Shield Banner",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635620",
+      "ItemName": "Shillelagh of the Squire",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635337",
+      "ItemName": "Sir Corwin's Ring",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635418",
+      "ItemName": "Sworn Champion's Footguards",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635218",
+      "ItemName": "Torc of Hidden Wisdom",
+      "Notes": ""
+    },
+    {
+      "ItemId": "635219",
+      "ItemName": "Torc of the Faithful Squire",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

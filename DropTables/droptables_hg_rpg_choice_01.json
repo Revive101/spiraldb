@@ -1,0 +1,78 @@
+{
+  "Name": "HG_RPG_Choice_01",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1479632",
+      "ItemName": "Druid Symbol Floor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "470680",
+      "ItemName": "Eagle War Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643122",
+      "ItemName": "Elephant Sword Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537543",
+      "ItemName": "Frozen Attacking Wolf",
+      "Notes": ""
+    },
+    {
+      "ItemId": "641577",
+      "ItemName": "Gold Swords and Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643187",
+      "ItemName": "Gorilla Tree Throne",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643196",
+      "ItemName": "Large Wooden Elephant Head",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350275",
+      "ItemName": "Playable Electric Violin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1350278",
+      "ItemName": "Playable Keytar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "537559",
+      "ItemName": "Raven Claw Totem",
+      "Notes": ""
+    },
+    {
+      "ItemId": "643126",
+      "ItemName": "Tall Gorilla Mask",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1520343",
+      "ItemName": "Wolf Standee",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

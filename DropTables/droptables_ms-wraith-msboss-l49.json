@@ -1,0 +1,123 @@
+{
+  "Name": "MS-Wraith-MSBoss-L49",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "470224",
+      "ItemName": "Cloud Stage Set",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97486",
+      "ItemName": "Deck of the Lotus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126139",
+      "ItemName": "Enfused Tanto of the Sea",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97782",
+      "ItemName": "Evil Vestment of Disillusion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97826",
+      "ItemName": "Garment of Dilemma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97747",
+      "ItemName": "Garments of Explanation",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97680",
+      "ItemName": "Helm of Sandcastles",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512099",
+      "ItemName": "MooShu Combat Theme",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160470",
+      "ItemName": "Paper Lantern Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160496",
+      "ItemName": "Prayer Tablet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97805",
+      "ItemName": "Profound Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97854",
+      "ItemName": "Robes of the Triad",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97970",
+      "ItemName": "Shoes of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98020",
+      "ItemName": "Slippers of Yodels",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97942",
+      "ItemName": "Tomugawa's Kind Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "87774",
+      "ItemName": "Tomugawa's Onyx Blade",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97939",
+      "ItemName": "Tomugawa's Slippers",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97781",
+      "ItemName": "Tomugawa's Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97898",
+      "ItemName": "Tunic of Soul-Searching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97873",
+      "ItemName": "Vexing Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97563",
+      "ItemName": "War Oni's Disillusioned Hat",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

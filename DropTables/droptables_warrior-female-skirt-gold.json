@@ -1,0 +1,138 @@
+{
+  "Name": "Warrior-Female-Skirt-Gold",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "146168",
+      "ItemName": "Athame of the Volcano",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104847",
+      "ItemName": "Boots of the Coming Storm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104850",
+      "ItemName": "Boots of the Forgotten",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146206",
+      "ItemName": "Cap of Fables",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146218",
+      "ItemName": "Cap of the Unflinching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146284",
+      "ItemName": "Cowl of the Glacier",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126682",
+      "ItemName": "Deck of Perfect Harmony",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160799",
+      "ItemName": "Dragon Pedestal",
+      "Notes": ""
+    },
+    {
+      "ItemId": "160909",
+      "ItemName": "Dragonwing Bust",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104877",
+      "ItemName": "Flamewing's Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104619",
+      "ItemName": "Flamewing's Phoenix Cloak",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146266",
+      "ItemName": "Flamewing's Rejuvenative Cowl",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146293",
+      "ItemName": "Frostwrapped Hood",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146335",
+      "ItemName": "Helm of Oblivion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146291",
+      "ItemName": "Hood of Permafrost",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104871",
+      "ItemName": "Monsoon Mocassins",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146208",
+      "ItemName": "Ozone Shroud",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104707",
+      "ItemName": "Robe of the Gale",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104617",
+      "ItemName": "Salamander's Wrap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104768",
+      "ItemName": "Sandals of Scorching",
+      "Notes": ""
+    },
+    {
+      "ItemId": "104826",
+      "ItemName": "Sandals of the Prophet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "126592",
+      "ItemName": "Sapphire Studded Band",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146339",
+      "ItemName": "Shroud of the Grave",
+      "Notes": ""
+    },
+    {
+      "ItemId": "146171",
+      "ItemName": "Stonecutter",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,298 @@
+{
+  "Name": "AQ-Mob-30",
+  "Description": "Mob loot table (6 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "819729",
+      "ItemName": "Ares' Charred Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819730",
+      "ItemName": "Ares' Spear of Bitter Cold",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819735",
+      "ItemName": "Ares' Spear of Destiny",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819733",
+      "ItemName": "Ares' Spear of Fortitude",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819734",
+      "ItemName": "Ares' Spear of Havoc",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819732",
+      "ItemName": "Ares' Spear of Valor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819731",
+      "ItemName": "Ares' Windstorm Spear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97471",
+      "ItemName": "Athame of Attention",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97704",
+      "ItemName": "Band of Hope",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97987",
+      "ItemName": "Boots of Commotion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97916",
+      "ItemName": "Boots of Intent",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97606",
+      "ItemName": "Cap of Dilemma",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97811",
+      "ItemName": "Cloak of Enthusiasm",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97468",
+      "ItemName": "Dirk of Brainwork",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98001",
+      "ItemName": "Euphonic Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98021",
+      "ItemName": "Footwraps of Anthems",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97859",
+      "ItemName": "Gogi Berry Stained Robe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97670",
+      "ItemName": "Hat of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97574",
+      "ItemName": "Hat of the Observant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97638",
+      "ItemName": "Headwraps of Anthems",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97590",
+      "ItemName": "Headwraps of the Whim",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97622",
+      "ItemName": "Hood of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "171155",
+      "ItemName": "Mistborn Footwear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97828",
+      "ItemName": "Robe of Discord",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136388",
+      "ItemName": "Runeluck Hat",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97971",
+      "ItemName": "Sandals of Exertion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819570",
+      "ItemName": "Senator's Devious Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819612",
+      "ItemName": "Senator's Devious Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819591",
+      "ItemName": "Senator's Devious Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819611",
+      "ItemName": "Senator's Guiding Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819571",
+      "ItemName": "Senator's Judicial Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819613",
+      "ItemName": "Senator's Judicial Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819592",
+      "ItemName": "Senator's Judicial Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819569",
+      "ItemName": "Senator's Laurel of Truth",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819566",
+      "ItemName": "Senator's Mantle of Winter",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819610",
+      "ItemName": "Senator's Poetic Boots",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819568",
+      "ItemName": "Senator's Poetic Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819589",
+      "ItemName": "Senator's Poetic Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819565",
+      "ItemName": "Senator's Radiant Laurel",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819607",
+      "ItemName": "Senator's Radiant Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819586",
+      "ItemName": "Senator's Radiant Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819567",
+      "ItemName": "Senator's Raincloud Mantle",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819609",
+      "ItemName": "Senator's Raincloud Shoes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819588",
+      "ItemName": "Senator's Raincloud Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819590",
+      "ItemName": "Senator's Stirring Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819608",
+      "ItemName": "Senator's Wintry Sandals",
+      "Notes": ""
+    },
+    {
+      "ItemId": "819587",
+      "ItemName": "Senator's Wintry Toga",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98038",
+      "ItemName": "Shoes of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97654",
+      "ItemName": "Shroud of Woe",
+      "Notes": ""
+    },
+    {
+      "ItemId": "98055",
+      "ItemName": "Slippers of the Eager",
+      "Notes": ""
+    },
+    {
+      "ItemId": "136599",
+      "ItemName": "Snowfall Wear",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97875",
+      "ItemName": "Stressed Robes",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97843",
+      "ItemName": "Tunic of Melodies",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97794",
+      "ItemName": "Tunic of Tact",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97891",
+      "ItemName": "Tunic of the Resolute",
+      "Notes": ""
+    },
+    {
+      "ItemId": "97442",
+      "ItemName": "Usegi's Speculative Dirk",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,143 @@
+{
+  "Name": "KM-Boss-Copy-Qhat",
+  "Description": "Mob loot table (1 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1504156",
+      "ItemName": "Cupcake",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514832",
+      "ItemName": "Guten Artisan Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514836",
+      "ItemName": "Guten Candymancer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514835",
+      "ItemName": "Guten Dreamsearcher Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514829",
+      "ItemName": "Guten Freshbaker Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514831",
+      "ItemName": "Guten Sciencer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514834",
+      "ItemName": "Guten Sentamentalist Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514833",
+      "ItemName": "Guten Sweetsmith Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514830",
+      "ItemName": "Guten Wonderneer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514880",
+      "ItemName": "Uber Artisan Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514884",
+      "ItemName": "Uber Candymancer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514883",
+      "ItemName": "Uber Dreamsearcher Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514877",
+      "ItemName": "Uber Freshbaker Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514879",
+      "ItemName": "Uber Sciencer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514882",
+      "ItemName": "Uber Sentamentalist Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514881",
+      "ItemName": "Uber Sweetsmith Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514878",
+      "ItemName": "Uber Wonderneer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514856",
+      "ItemName": "Wunderbar Artisan Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514860",
+      "ItemName": "Wunderbar Candymancer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514859",
+      "ItemName": "Wunderbar Dreamsearcher Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514853",
+      "ItemName": "Wunderbar Freshbaker Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514855",
+      "ItemName": "Wunderbar Sciencer Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514858",
+      "ItemName": "Wunderbar Sentamentalist Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514857",
+      "ItemName": "Wunderbar Sweetsmith Cap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1514854",
+      "ItemName": "Wunderbar Wonderneer Cap",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Sinbad_Gauntlet_Common_05",
+  "Description": "Mob loot table (4 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1479428",
+      "ItemName": "Archer Rack",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479443",
+      "ItemName": "Blue Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479432",
+      "ItemName": "Fence Post",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479431",
+      "ItemName": "Fence Segment",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479437",
+      "ItemName": "Gilded Sarcophagus",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479440",
+      "ItemName": "Istanboa Pillar",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479445",
+      "ItemName": "Map of Aggrobah",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479434",
+      "ItemName": "Monkey Tail Goblet",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479430",
+      "ItemName": "Qhat Book Stand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479446",
+      "ItemName": "Qhat Shield",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479442",
+      "ItemName": "Red Vase",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1479438",
+      "ItemName": "Scroll Case",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

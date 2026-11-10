@@ -1,0 +1,58 @@
+{
+  "Name": "EM2-Mob-Wand-127",
+  "Description": "Mob loot table (5 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "1462370",
+      "ItemName": "Bodacious Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462365",
+      "ItemName": "Chill Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462371",
+      "ItemName": "Choice Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462366",
+      "ItemName": "Gnarly Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462369",
+      "ItemName": "Heavy Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462367",
+      "ItemName": "Mondo Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462364",
+      "ItemName": "Rad Kalakrys",
+      "Notes": ""
+    },
+    {
+      "ItemId": "1462368",
+      "ItemName": "Righteous Kalakrys",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}

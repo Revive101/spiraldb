@@ -1,0 +1,248 @@
+{
+  "Name": "CL-Protector-Black-Boss-R10",
+  "Description": "Mob loot table (2 mobs)",
+  "RollChance": 1,
+  "Weight": 100,
+  "NoneChance": 0,
+  "PityCounter": 0,
+  "MinGold": 0,
+  "MaxGold": 0,
+  "ExperienceAmount": 0,
+  "TrainingPoints": 0,
+  "Items": [
+    {
+      "ItemId": "243280",
+      "ItemName": "Abyss Bodkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "512139",
+      "ItemName": "Celestia Mysterious Theme 2",
+      "Notes": ""
+    },
+    {
+      "ItemId": "342089",
+      "ItemName": "Crane",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345982",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345983",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345984",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345985",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345986",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345987",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345988",
+      "ItemName": "Deadly Fly Trap",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243399",
+      "ItemName": "Euphoric Cover",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243665",
+      "ItemName": "Everlasting Armor",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243932",
+      "ItemName": "Insightful Spyglass",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243951",
+      "ItemName": "Jolting Jellywand",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243516",
+      "ItemName": "Loop of the Lawful",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346010",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346011",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346012",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346013",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346014",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346015",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346016",
+      "ItemName": "Maelstrom Snap Dragon",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243261",
+      "ItemName": "Marcio's Icy Edge",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243629",
+      "ItemName": "Molten Jerkin",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243201",
+      "ItemName": "Nova Necklace",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346038",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346039",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346040",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346041",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346042",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346043",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "346044",
+      "ItemName": "Pink Dandelion",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243730",
+      "ItemName": "Principle Striders",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243576",
+      "ItemName": "Ring of Rapture",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243945",
+      "ItemName": "Rod of Rapture",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243302",
+      "ItemName": "Shroud of Resolution",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345989",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345990",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345991",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345992",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345993",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345994",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "345995",
+      "ItemName": "Silver Trumpet Vine",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243897",
+      "ItemName": "Storm Lord's Pendant",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243707",
+      "ItemName": "Thunderstruck Tunic",
+      "Notes": ""
+    },
+    {
+      "ItemId": "243819",
+      "ItemName": "Willow Walkers",
+      "Notes": ""
+    }
+  ],
+  "CreatedAt": "2026-11-06T19:30:14.420377Z",
+  "ModifiedAt": "2026-11-06T19:30:14.420377Z",
+  "CreatedBy": "cedws-automation",
+  "ModifiedBy": "cedws-automation"
+}
