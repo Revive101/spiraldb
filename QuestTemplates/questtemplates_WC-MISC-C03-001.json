@@ -2003,17 +2003,8 @@
       {
         "$type": "Imcodec.ObjectProperty.TypeCache.ReqMagicLevel, Imcodec.ObjectProperty",
         "m_magicSchool": "",
-        "m_numericValue": 10,
+        "m_numericValue": 4,
         "m_operatorType": "OPERATOR_GREATER_THAN_EQ",
-        "m_applyNOT": false,
-        "m_operator": "ROP_AND"
-      },
-      {
-        "$type": "Imcodec.ObjectProperty.TypeCache.ReqHasEntry, Imcodec.ObjectProperty",
-        "m_entryName": "Complete",
-        "m_displayName": null,
-        "m_isQuestRegistry": true,
-        "m_questName": "WC-UNICORN-SIDE-001",
         "m_applyNOT": false,
         "m_operator": "ROP_AND"
       }
