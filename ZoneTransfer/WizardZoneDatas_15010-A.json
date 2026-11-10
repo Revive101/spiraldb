@@ -1,0 +1,17 @@
+{
+  "ZoneName": "WizardCity/WC_Streets/Interiors/WC_Unicorn_H1",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "Street 1 House 1 Exit",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12463.13,8646.186,-71.06237,-0.5303715",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Unicorn"
+      }
+    }
+  ]
+}
