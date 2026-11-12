@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Azteca/AZ_Z11_TwinGiants",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "AZ-TeleporterFromTwinGiants",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1140.365,7367.65,804.0648,-0.01965179",
+        "m_destinationZone": "Azteca/AZ_Z01_ThreePoints"
+      }
+    }
+  ]
+}

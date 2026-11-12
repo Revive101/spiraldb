@@ -45,6 +45,17 @@
         "m_destinationLoc": "65.38021,-631.0704,6720.381,-3.139795",
         "m_destinationZone": "Mirage/Interiors/MR_Z02_TheRoost02"
       }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5553.883,-935.0715,0.05219812,0.03311255",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
     }
   ]
 }

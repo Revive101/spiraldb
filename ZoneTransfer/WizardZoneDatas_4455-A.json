@@ -34,6 +34,17 @@
         "m_destinationLoc": "-147.7123,-983.0033,0.9500809,-3.141593",
         "m_destinationZone": "Avalon/Interiors/AV_Z04_HrefnaCave"
       }
+    },
+    {
+      "TriggerName": "AV-TeleporterToCaliburnFromWild",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "798.6946,-468.9576,-9.999756,-2.329055",
+        "m_destinationZone": "Avalon/AV_Z00_Hub"
+      }
     }
   ]
 }

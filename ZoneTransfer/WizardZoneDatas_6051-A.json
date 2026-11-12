@@ -12,6 +12,17 @@
         "m_destinationLoc": "13422.2,2888.887,0.0001103874,2.808859",
         "m_destinationZone": "Azteca/AZ_Z03_MangroveMarsh"
       }
+    },
+    {
+      "TriggerName": "AZ-TeleporterFromSaltmeadowSwamp",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3291.891,3005.392,276.1783,-1.584623",
+        "m_destinationZone": "Azteca/AZ_Z00_Zocalo"
+      }
     }
   ]
 }

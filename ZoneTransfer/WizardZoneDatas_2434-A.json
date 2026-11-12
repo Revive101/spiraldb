@@ -89,6 +89,94 @@
         "m_destinationLoc": "ClocktowertoTower3",
         "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_ChelseaCourt_T3"
       }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneAMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "38656.7,14130.84,-239.9055,1.451917",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneASecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-44.91545,19256.79,-479.8732,-0.4339672",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneBMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26246.48,36723.36,0.009949678,3.137379",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneBSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-44.91545,19256.79,-479.8732,0.6714243",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneCMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17840.54,5050.002,-484.2371,-2.414643",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneCSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-44.91545,19256.79,-479.8732,-1.905582",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneDMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-14403.55,4391.863,0.004272461,-2.514204",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneDSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-44.91545,19256.79,-479.8732,1.107818",
+        "m_destinationZone": "Marleybone/MB_Station/MB_ChelseaCourt"
+      }
     }
   ]
 }

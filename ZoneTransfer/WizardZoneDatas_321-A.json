@@ -67,6 +67,72 @@
         "m_destinationLoc": "Target location (Street3 Tower2 Entrance)",
         "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Cyclops_T2"
       }
+    },
+    {
+      "TriggerName": "WC_Cyclops_TeleporterA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12601.71,28062.53,30.87878,-2.260815",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
+    },
+    {
+      "TriggerName": "WC_Cyclops_TeleporterA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8222.201,11152.71,22.50839,-2.78711",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
+    },
+    {
+      "TriggerName": "WC_Cyclops_TeleporterB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-21355.97,36242.39,30.92972,-1.544079",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
+    },
+    {
+      "TriggerName": "WC_Cyclops_TeleporterB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8222.201,11152.71,22.50839,-2.78711",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
+    },
+    {
+      "TriggerName": "WC_Cyclops_TeleporterC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2722.277,2193.345,0.9392853,-0.07948165",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
+    },
+    {
+      "TriggerName": "WC_Cyclops_TeleporterC_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8222.201,11152.71,22.50839,-2.78711",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Cyclops"
+      }
     }
   ]
 }

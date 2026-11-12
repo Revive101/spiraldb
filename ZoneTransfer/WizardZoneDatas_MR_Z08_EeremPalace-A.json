@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Mirage/MR_Z08_EeremPalace",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "MR_CarpetTeleporter_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5553.883,-935.0715,0.05219812,-2.590719",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
+    }
+  ]
+}

@@ -56,6 +56,72 @@
         "m_destinationLoc": "0,-1500,-6.103516E-05,-3.095471",
         "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death3_T2"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_TreeOfLife_TeleportA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5206.053,36206.09,10.00003,-1.23099",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_TreeOfLife_TeleportA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-361.1733,14556.49,1.865143,1.468064",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_TreeOfLife_TeleportB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8075.846,33137.26,10.00024,-0.2168833",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_TreeOfLife_TeleportB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-361.1733,14556.49,1.865143,0.7015241",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_TreeOfLife_TeleportC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8431.93,50296.96,18.98257,-1.454938",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_TreeOfLife_TeleportC_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-361.1733,14556.49,1.865143,2.072286",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone3_AncientTree"
+      }
     }
   ]
 }

@@ -67,6 +67,50 @@
         "m_destinationLoc": "-179.0814,-1264.753,3.150009,-3.056168",
         "m_destinationZone": "Zafaria/Interiors/ZF_Z04_I06_Cave_01"
       }
+    },
+    {
+      "TriggerName": "ZF_TeleportStoneAMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23701.04,-5521.696,7.742981,-0.8591236",
+        "m_destinationZone": "Zafaria/ZF_Z03_Savannah"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportStoneASecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19633.93,1370.795,7.74246,1.677294",
+        "m_destinationZone": "Zafaria/ZF_Z03_Savannah"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportStoneBMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2586.291,580.9196,2.40561,1.918226",
+        "m_destinationZone": "Zafaria/ZF_Z03_Savannah"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportStoneBSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19705.1,2240.344,7.742591,1.446036",
+        "m_destinationZone": "Zafaria/ZF_Z03_Savannah"
+      }
     }
   ]
 }

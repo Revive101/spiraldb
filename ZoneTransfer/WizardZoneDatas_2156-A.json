@@ -78,6 +78,72 @@
         "m_destinationLoc": "Start",
         "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague1_T8"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_CaveSol_TeleportA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8428.581,10837.69,9.999878,-2.219015",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_CaveSol_TeleportA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "24023.03,29903.09,-1854.549,-2.472182",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_CaveSol_TeleportB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "47344.98,26167.94,-145.7562,0.4280035",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_CaveSol_TeleportB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "24023.03,29903.09,-1854.549,2.635013",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_CaveSol_TeleportC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "54522.92,46785.53,-110.1589,2.824072",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_CaveSol_TeleportC_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "24023.03,29903.09,-1854.549,2.817095",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone1_WaterfallCave"
+      }
     }
   ]
 }

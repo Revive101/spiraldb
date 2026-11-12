@@ -12,6 +12,28 @@
         "m_destinationLoc": "-9094.863,-3113.325,586.4683,-1.598883",
         "m_destinationZone": "Novus/NV_Z01_Conatus"
       }
+    },
+    {
+      "TriggerName": "NV_Gallery_FrameTeleport_LVR",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26778.17,78785.99,-3199.006,1.59474",
+        "m_destinationZone": "Novus/NV_Z05_LaVilleRose"
+      }
+    },
+    {
+      "TriggerName": "NV_Gallery_FrameTeleport_SoH",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7631.477,-12892.79,8747.259,-0.9927707",
+        "m_destinationZone": "Novus/NV_Z02_StoneOfHeaven"
+      }
     }
   ]
 }

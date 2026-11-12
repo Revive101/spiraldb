@@ -12,6 +12,94 @@
         "m_destinationLoc": "-6534.581,8200.383,-872.1653,-1.584665",
         "m_destinationZone": "Celestia/CL_Hub"
       }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneAMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5613.666,26484.72,-135.2464,-2.905631",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneASecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3596.506,-1494.294,0,-1.420593",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneZ09Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-15003.54,25894.75,-429.1993,0.1372556",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneZ09Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2995.323,-1841.987,0,-2.688087",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneCMain-Z05",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8544.109,11037.45,115.7994,0.1891637",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneCSecondary-Z05",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2995.323,-1841.987,0,1.553428",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneDMain-Z05",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-23600.68,13701.65,-198.0231,0.9415894",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneDSecondary-Z05",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3596.506,-1494.294,0,-2.22191",
+        "m_destinationZone": "Celestia/CL_Z05_The_Floating_Land"
+      }
     }
   ]
 }

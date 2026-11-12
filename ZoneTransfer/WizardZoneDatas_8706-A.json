@@ -111,6 +111,17 @@
         "m_destinationLoc": "-6003.755,-4088.099,-4768.519,0.8021935",
         "m_destinationZone": "Mirage/MR_Z06_YakhalMountain"
       }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5553.883,-935.0715,0.05219812,-1.735608",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
     }
   ]
 }

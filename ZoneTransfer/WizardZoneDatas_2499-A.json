@@ -23,6 +23,28 @@
         "m_destinationLoc": "-13375.26,6595.829,130.8478,3.072034",
         "m_destinationZone": "Celestia/CL_Z02_Crab_Realm"
       }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneAMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "28057.31,-13483.47,-841.4429,-0.3393461",
+        "m_destinationZone": "Celestia/CL_Z01_Survey_Camp"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneASecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3089.516,-52.1743,0,0.5391507",
+        "m_destinationZone": "Celestia/CL_Z01_Survey_Camp"
+      }
     }
   ]
 }

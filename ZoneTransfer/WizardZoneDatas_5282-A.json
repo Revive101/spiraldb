@@ -12,6 +12,17 @@
         "m_destinationLoc": "12701.45,10725.26,-31.59179,1.554539",
         "m_destinationZone": "Zafaria/ZF_Z09_Drum_Jungle"
       }
+    },
+    {
+      "TriggerName": "ZF_TeleportStone_BackToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-219.7791,1585.482,-971.6633,-0.3222228",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
     }
   ]
 }

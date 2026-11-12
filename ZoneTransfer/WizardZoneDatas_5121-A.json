@@ -34,6 +34,17 @@
         "m_destinationLoc": "225.5781,461.2715,1.999847,-2.697404",
         "m_destinationZone": "Avalon/AV_Z11_CrystalCaves"
       }
+    },
+    {
+      "TriggerName": "AV-TeleporterToCaliburn",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-794.5726,-1808.507,-9.999868,0.9638021",
+        "m_destinationZone": "Avalon/AV_Z00_Hub"
+      }
     }
   ]
 }

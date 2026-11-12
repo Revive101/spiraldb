@@ -34,6 +34,17 @@
         "m_destinationLoc": "6160.668,-9099.97,1037.888,-2.876921",
         "m_destinationZone": "Wallaru/WL_Z07_EucalyptusForest"
       }
+    },
+    {
+      "TriggerName": "WL-WOBB-WombatTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1361.601,-35150.59,60.40143,1.874853",
+        "m_destinationZone": "Wallaru/WL_Z02_Outback"
+      }
     }
   ]
 }

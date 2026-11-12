@@ -23,6 +23,72 @@
         "m_destinationLoc": "464.7949,33.36941,1.103638,1.601829",
         "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Colossus_H1"
       }
+    },
+    {
+      "TriggerName": "WC_Colossus_TeleporterA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5047.344,-2035.775,28.05545,0.8354457",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    },
+    {
+      "TriggerName": "WC_Colossus_TeleporterA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6707.631,-12697.77,-397.1128,-0.6758307",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    },
+    {
+      "TriggerName": "WC_Colossus_TeleporterB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "30862.33,-4875.213,-397.6556,1.332887",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    },
+    {
+      "TriggerName": "WC_Colossus_TeleporterB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6707.631,-12697.77,-397.1128,-0.6758307",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    },
+    {
+      "TriggerName": "WC_Colossus_TeleporterC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "42221.98,11217.2,-618.1534,1.195085",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
+    },
+    {
+      "TriggerName": "WC_Colossus_TeleporterC_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6707.631,-12697.77,-397.1128,-0.6758307",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Colossus"
+      }
     }
   ]
 }

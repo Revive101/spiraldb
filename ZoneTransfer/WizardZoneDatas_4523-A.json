@@ -34,6 +34,17 @@
         "m_destinationLoc": "-1497.637,-8292.254,-1942.838,3.097436",
         "m_destinationZone": "Polaris/PL_Z05_FrigidMine"
       }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1641.935,2133.973,-129.3435,2.431156",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
     }
   ]
 }

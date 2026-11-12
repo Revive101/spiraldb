@@ -122,6 +122,50 @@
         "m_destinationLoc": "-11090.53,339.5967,-674.5453,0",
         "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
       }
+    },
+    {
+      "TriggerName": "WC_Triton_TeleporterA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "776.5693,964.5901,0.1176999,-1.198734",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "WC_Triton_TeleporterA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18630.39,-3964.231,28.89585,2.504952",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "WC_Triton_TeleporterB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-35919.99,-7451.771,61.48215,2.572293",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
+    },
+    {
+      "TriggerName": "WC_Triton_TeleporterB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18630.39,-3964.231,28.89585,2.504952",
+        "m_destinationZone": "WizardCity/WC_Streets/WC_Triton"
+      }
     }
   ]
 }

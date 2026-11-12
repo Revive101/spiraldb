@@ -1,0 +1,50 @@
+{
+  "ZoneName": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I02_Gutter",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "KT_TeleporterB_Gutter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7345.599,-18145.6,0,0.5789426",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I02_Gutter"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_ToHub_Gutter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-708.571,412.3677,0,2.348651",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I02_Gutter"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_Gutter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18691.82,-5719.169,0,2.853421",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I02_Gutter"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_ToHub_Gutter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-708.571,412.3677,0,3.113148",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I02_Gutter"
+      }
+    }
+  ]
+}

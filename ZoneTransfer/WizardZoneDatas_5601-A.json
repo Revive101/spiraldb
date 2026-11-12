@@ -56,6 +56,50 @@
         "m_destinationLoc": "-77.52096,-1784.951,-0.005636215,-3.141593",
         "m_destinationZone": "MooShu/MS_War/Interiors/MS_War2_T1"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_Crimson_TeleportA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-25065.29,25691.41,-145.7559,2.599051",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldA"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Crimson_TeleportA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6454.039,20181.32,216.4731,-0.481551",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldA"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Crimson_TeleportB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-27366.78,2148.278,10,0.07733875",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldA"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Crimson_TeleportB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6454.039,20181.32,216.4731,-0.6517876",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldA"
+      }
     }
   ]
 }

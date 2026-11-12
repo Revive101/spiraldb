@@ -56,6 +56,17 @@
         "m_destinationLoc": "23.1665,17927.08,1.999939,0",
         "m_destinationZone": "Wallaru/WL_Z01_Hub"
       }
+    },
+    {
+      "TriggerName": "WL-OUT-WombatTeleport",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-96.98371,-9357.53,212.4718,-0.01173066",
+        "m_destinationZone": "Wallaru/WL_Z05_Wobbegong_JT"
+      }
     }
   ]
 }

@@ -34,6 +34,50 @@
         "m_destinationLoc": "2.571533,-1043.103,0.1008606,3.032209",
         "m_destinationZone": "Azteca/Interiors/AZ_Z00_TezcatlipocaCave"
       }
+    },
+    {
+      "TriggerName": "AZ-TeleporterToTierraDeBrea",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7030.346,5349.294,2906.698,-2.538623",
+        "m_destinationZone": "Azteca/AZ_Z07_TierraDeBrea"
+      }
+    },
+    {
+      "TriggerName": "AZ-TeleporterToSaltmeadowSwamp",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7889.821,1891.267,94.64869,1.030581",
+        "m_destinationZone": "Azteca/AZ_Z04_SaltmeadowSwamp"
+      }
+    },
+    {
+      "TriggerName": "AZ-TeleporterToCloudburstForest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1697.258,-1858.881,-35.354,1.592714",
+        "m_destinationZone": "Azteca/AZ_Z06_CloudburstIsland"
+      }
+    },
+    {
+      "TriggerName": "AZ-TELEPORT-ZOCOLO",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4854.817,408.4481,-996.428,-1.634804",
+        "m_destinationZone": "Azteca/AZ_Z05_ZultunDock"
+      }
     }
   ]
 }

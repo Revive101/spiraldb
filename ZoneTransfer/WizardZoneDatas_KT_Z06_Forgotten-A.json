@@ -1,0 +1,72 @@
+{
+  "ZoneName": "Krokotopia/KT_Selenopolis/KT_Z06_Forgotten",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "KT-Teleporter_ForgottenTombs_01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-29226.42,8670.222,0.9999074,-0.05247436",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/KT_Z06_Forgotten"
+      }
+    },
+    {
+      "TriggerName": "KT-Teleporter_ForgottenTombs_01_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "829.8551,-1000.64,1.00293,0",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/KT_Z06_Forgotten"
+      }
+    },
+    {
+      "TriggerName": "KT-Teleporter_ForgottenTombs_02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-23599.14,38614.94,0.9994758,-0.9082656",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/KT_Z06_Forgotten"
+      }
+    },
+    {
+      "TriggerName": "KT-Teleporter_ForgottenTombs_02_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "829.8551,-1000.64,1.00293,1.108886",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/KT_Z06_Forgotten"
+      }
+    },
+    {
+      "TriggerName": "KT-Teleporter_ForgottenTombs_03",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-23386.12,32877.66,0.9998715,-2.964537",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/KT_Z06_Forgotten"
+      }
+    },
+    {
+      "TriggerName": "KT-Teleporter_ForgottenTombs_03_B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "829.8551,-1000.64,1.00293,1.56995",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/KT_Z06_Forgotten"
+      }
+    }
+  ]
+}

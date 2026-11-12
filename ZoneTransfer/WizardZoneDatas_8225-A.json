@@ -56,6 +56,61 @@
         "m_destinationLoc": "-0.6509642,1605.229,-0.02089977,0",
         "m_destinationZone": "Khrysalis/Interiors/KR_Z00_I07_Mausoleum"
       }
+    },
+    {
+      "TriggerName": "KR-WarpPortal_LastWood",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12629.8,-16825.63,359.7727,0.3725182",
+        "m_destinationZone": "Khrysalis/KR_Z03_LastWood"
+      }
+    },
+    {
+      "TriggerName": "KR-WarpPortal_MoonCliffs",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6114.579,8151.591,1002.832,2.959848",
+        "m_destinationZone": "Khrysalis/KR_Z02_MoonCliffs"
+      }
+    },
+    {
+      "TriggerName": "KR-WarpPortal_TyrianGorge",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1442.573,-2488.282,-1484.881,2.654528",
+        "m_destinationZone": "Khrysalis/KR_Z04_TyrianGorge"
+      }
+    },
+    {
+      "TriggerName": "KR-WarpPortal_FortArachias01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8189.461,3024.071,0,1.832979",
+        "m_destinationZone": "Khrysalis/KR_Z05_FortRachias"
+      }
+    },
+    {
+      "TriggerName": "KR-WarpPortal_FortArachias02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13512.79,-16625.57,-857.3794,-0.4384776",
+        "m_destinationZone": "Khrysalis/KR_Z05_FortRachias"
+      }
     }
   ]
 }

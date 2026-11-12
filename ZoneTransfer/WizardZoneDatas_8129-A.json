@@ -12,6 +12,17 @@
         "m_destinationLoc": "-8550.257,8480.535,814.1915,0",
         "m_destinationZone": "Azteca/AZ_Z11_TwinGiants"
       }
+    },
+    {
+      "TriggerName": "AZ-TeleporterFromFloatingMountains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1.790827,290.94,273.1759,-3.107283",
+        "m_destinationZone": "Azteca/AZ_Z01_ThreePoints"
+      }
     }
   ]
 }

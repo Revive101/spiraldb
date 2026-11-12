@@ -67,6 +67,28 @@
         "m_destinationLoc": "-102.1648,-281.9304,0.001647988,0",
         "m_destinationZone": "Aquila/Interiors/AQ_Z03_HallOfHades"
       }
+    },
+    {
+      "TriggerName": "AQ-TART-Dock1Teleporter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-21589.23,-20428,-947.4137,-3.128342",
+        "m_destinationZone": "Aquila/AQ_Z03_Tartarus"
+      }
+    },
+    {
+      "TriggerName": "AQ-TART-Dock2Teleporter",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5307.371,-5544.013,-1283.761,0.04918101",
+        "m_destinationZone": "Aquila/AQ_Z03_Tartarus"
+      }
     }
   ]
 }

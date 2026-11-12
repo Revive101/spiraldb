@@ -78,6 +78,72 @@
         "m_destinationLoc": "FromDeath1",
         "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death1_T6"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_AncntBrlGrnds_TeleportA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-12627.5,-16313,9.964905,-1.45461",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_AncntBrlGrnds_TeleportA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "719.1654,-2084.655,0.005805999,1.293076",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_AncntBrlGrnds_TeleportB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19153.29,-1078.957,-0.003950567,1.552805",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_AncntBrlGrnds_TeleportB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "719.1654,-2084.655,0.005805999,1.848362",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_AncntBrlGrnds_TeleportC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9569.974,19470.59,9.999756,3.07136",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_AncntBrlGrnds_TeleportC_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "719.1654,-2084.655,0.005805999,2.874117",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone1_BurialGround"
+      }
     }
   ]
 }

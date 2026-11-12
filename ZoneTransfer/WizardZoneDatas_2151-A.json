@@ -56,6 +56,72 @@
         "m_destinationLoc": "FromWarHub",
         "m_destinationZone": "MooShu/MS_War/Interiors/MS_WarHub_T1"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_Ham_TeleporterA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-40027.21,-20940.77,-145.756,-0.2912634",
+        "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Ham_TeleporterA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8334.104,-23336.01,-320.4063,2.037106",
+        "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Ham_TeleporterB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-46348.56,-42847.8,10.00015,1.264872",
+        "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Ham_TeleporterB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8334.104,-23336.01,-320.4063,1.473318",
+        "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Ham_TeleporterC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-44479.13,-29540.78,2.947928,-1.731244",
+        "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Ham_TeleporterC_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8334.104,-23336.01,-320.4063,0.8949031",
+        "m_destinationZone": "MooShu/MS_War/MS_War_RuinedVillage_Hub"
+      }
     }
   ]
 }

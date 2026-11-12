@@ -78,6 +78,50 @@
         "m_destinationLoc": "FromPlague2",
         "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague2_T2_Part2"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_Kishibi_TeleportA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "30913.21,-10310.11,58.71701,3.081999",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone2_RiverVillage"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Kishibi_TeleportA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "16062.67,-5250.845,-272.7714,-2.466795",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone2_RiverVillage"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Kishibi_TeleportB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "30976.59,4446.606,17.3031,0.1783126",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone2_RiverVillage"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Kishibi_TeleportB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "16062.67,-5250.845,-272.7714,2.913241",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone2_RiverVillage"
+      }
     }
   ]
 }

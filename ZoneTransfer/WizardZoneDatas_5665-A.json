@@ -89,6 +89,50 @@
         "m_destinationLoc": "37.05693,-1994.34,-6.103516E-05,-3.122406",
         "m_destinationZone": "MooShu/MS_Plague/Interiors/MS_Plague2_PalaceInterior"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_Plague3_TeleportA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19634.61,7127.635,-144.619,-0.3614061",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone3_CliffsidePalace"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Plague3_TeleportA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "40803.65,3131.005,393.8662,-2.686536",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone3_CliffsidePalace"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Plague3_TeleportB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "25013.03,34768.09,79.60054,3.081191",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone3_CliffsidePalace"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Plague3_TeleportB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "40803.65,3131.005,393.8662,-0.6695064",
+        "m_destinationZone": "MooShu/MS_Plague/MS_Plague_Zone3_CliffsidePalace"
+      }
     }
   ]
 }

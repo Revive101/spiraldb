@@ -12,6 +12,116 @@
         "m_destinationLoc": "4705.139,12640.98,4942.549,1.648056",
         "m_destinationZone": "Empyrea/Interiors/EM_Z16_I05_BrokenBough_A"
       }
+    },
+    {
+      "TriggerName": "EM-StreamportalStormTitan01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9850.104,16576.23,3093.55,-0.1582905",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalStormTitan02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-596.5402,1608.437,-911.6655,2.845666",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalAstral01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11138.14,10257.51,470.6698,-0.5919563",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalAstral02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6135.188,7872.015,472.1185,2.513462",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalElemental01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9316.822,22026.16,1083.384,0.5802594",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalElemental02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8759.904,16397.58,1093.645,-2.581819",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalSpiritual01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3926.134,22554.38,1961.2,2.127714",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalSpiritual02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1901.648,21716.81,1961.285,-0.9447794",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalBoughA01",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7461.674,12706.91,4248.11,0.672616",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
+    },
+    {
+      "TriggerName": "EM-StreamportalBoughA02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-881.2555,930.6084,-911.6655,2.093959",
+        "m_destinationZone": "Empyrea/EM_Z16_Husk"
+      }
     }
   ]
 }

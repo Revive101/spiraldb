@@ -23,6 +23,50 @@
         "m_destinationLoc": "Target (KT_Crypt_Level03 KT_Crypt_Hub Exit)",
         "m_destinationZone": "Krokotopia/KT_Tomb/KT_WellOfSpirits"
       }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_Barracks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-34303.99,23113.32,0,1.62367",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_Barracks"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_BackToHub_Barracks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-636.3106,393.528,0.0001220703,0.7622944",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_Barracks"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_Barracks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-16400.75,16354.16,-0.0004882813,-3.120419",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_Barracks"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_BackToHub_Barracks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-636.3106,393.528,0.0001220703,1.575565",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_Barracks"
+      }
     }
   ]
 }

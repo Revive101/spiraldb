@@ -56,6 +56,39 @@
         "m_destinationLoc": "2.729847,-1055.009,2.999921,3.138775",
         "m_destinationZone": "Zafaria/Interiors/ZF_Z07_I08_MinionQuest"
       }
+    },
+    {
+      "TriggerName": "ZF_TeleportStone_BackToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-219.7791,1585.482,-971.6633,-1.134076",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportToMarkplace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9129.257,-3728.77,-120.1292,-2.569449",
+        "m_destinationZone": "Zafaria/ZF_Z02_Baobab_Market"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportToWaterfront",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4109.652,690.3364,3.691462,-0.4120026",
+        "m_destinationZone": "Zafaria/ZF_Z08_Waterfront"
+      }
     }
   ]
 }

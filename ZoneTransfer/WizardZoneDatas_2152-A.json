@@ -67,6 +67,72 @@
         "m_destinationLoc": "From War 1",
         "m_destinationZone": "MooShu/MS_War/Interiors/MS_War1_T5"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_Tatakai_TeleportC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17643.21,523.629,2.75296,-1.913029",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Tatakai_TeleportC_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3704.579,-6232.1,0.3813614,-1.789996",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Tatakai_TeleportA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-11096.92,-36577.98,10.00099,0.3992836",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Tatakai_TeleportA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3704.579,-6232.1,0.3813614,-1.10621",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Tatakai_TeleportB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4974.999,-47111.39,40.33167,-2.55796",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_Tatakai_TeleportB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "3704.579,-6232.1,0.3813614,-1.336275",
+        "m_destinationZone": "MooShu/MS_War/MS_War_BattlefieldB"
+      }
     }
   ]
 }

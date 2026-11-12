@@ -45,6 +45,50 @@
         "m_destinationLoc": "1.635101,-415.1774,-18.96699,-3.115933",
         "m_destinationZone": "Azteca/Interiors/AZ_Z00_TeocalliSacredWar"
       }
+    },
+    {
+      "TriggerName": "AZ-TeleporterToAltoAlto",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-437.9948,3489.653,475.7069,-1.666488",
+        "m_destinationZone": "Azteca/AZ_Z09_AltoAlto"
+      }
+    },
+    {
+      "TriggerName": "AZ-TeleporterToTwinGiants",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8866.951,6319.197,599.9995,1.609777",
+        "m_destinationZone": "Azteca/AZ_Z11_TwinGiants"
+      }
+    },
+    {
+      "TriggerName": "AZ-TeleporterToFloatingMountains",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8790.05,9003.987,1829.71,-0.9665929",
+        "m_destinationZone": "Azteca/AZ_Z10_FloatingMountains"
+      }
+    },
+    {
+      "TriggerName": "AZ-TeleporterToPitchBlackLake",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-3384.729,-370.1255,-100,-0.2032431",
+        "m_destinationZone": "Azteca/AZ_Z08_PitchBlackLake"
+      }
     }
   ]
 }
