@@ -89,6 +89,28 @@
         "m_destinationLoc": "6.609941,-9556.829,408.5199,-3.117046",
         "m_destinationZone": "WizardCity/WC_Duel_Arena"
       }
+    },
+    {
+      "TriggerName": "House 1 TeleTrigger",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "484.1623,31.0982,1.989745,1.167386",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Unicorn_H1"
+      }
+    },
+    {
+      "TriggerName": "Teleport To Lady Blackhope's Tower",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.520257,-886.0833,39.43598,-3.139825",
+        "m_destinationZone": "WizardCity/WC_Streets/Interiors/WC_Unicorn_T1"
+      }
     }
   ]
 }
