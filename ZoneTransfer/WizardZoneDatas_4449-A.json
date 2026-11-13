@@ -34,6 +34,50 @@
         "m_destinationLoc": "7.338181,-2612.302,-9.60013,-2.305089",
         "m_destinationZone": "Avalon/AV_Z00_Hub"
       }
+    },
+    {
+      "TriggerName": "AV-TeleporterToCaerLyon",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1213.792,-2164.033,40.76423,0.1523294",
+        "m_destinationZone": "Avalon/AV_Z03_CaerLyon"
+      }
+    },
+    {
+      "TriggerName": "AV-TeleporterToDunDara",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-63.07056,5592.185,-35.271,1.93436",
+        "m_destinationZone": "Avalon/AV_Z06_DunDara"
+      }
+    },
+    {
+      "TriggerName": "AV-TeleporterToTheCatacombs",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1447.723,-2315.295,0,0.08724104",
+        "m_destinationZone": "Avalon/AV_Z10_Catacombs"
+      }
+    },
+    {
+      "TriggerName": "AV-TeleporterToTheWild",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1008.85,-3314.918,234.7247,-2.157295",
+        "m_destinationZone": "Avalon/AV_Z04_TheWild"
+      }
     }
   ]
 }

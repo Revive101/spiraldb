@@ -45,6 +45,50 @@
         "m_destinationLoc": "Target location (Pyramid3 Tower3 Entrance)",
         "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Chamber_T3"
       }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_ChamberOfFire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-20996.2,-23593.07,2500,0.05585031",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Chamber"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_ToHub_ChamberOfFire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-641.8313,-28.53599,0,1.175406",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Chamber"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_ChamberOfFire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-9146.835,-14352.88,-611,1.651193",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Chamber"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_ToHub_ChamberOfFire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-641.8313,-28.53599,0,1.957037",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Chamber"
+      }
     }
   ]
 }

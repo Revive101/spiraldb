@@ -23,6 +23,17 @@
         "m_destinationLoc": "58.87714,-100.9095,64.82593,-0.05017907",
         "m_destinationZone": "Polaris/PL_Z03_IcefallPassage"
       }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1641.935,2133.973,-129.3435,1.034577",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
     }
   ]
 }

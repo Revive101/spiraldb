@@ -56,6 +56,50 @@
         "m_destinationLoc": "-4462.261,-8790.264,60.64311,-2.963394",
         "m_destinationZone": "Zafaria/ZF_Z05_Zamunda_Outskirts"
       }
+    },
+    {
+      "TriggerName": "ZF_TeleportStone_ToStoneTown",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1100.787,8504.723,-42.86853,1.760344",
+        "m_destinationZone": "Zafaria/ZF_Z07_Stone_Town"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportStone_ToWaterFront",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "215.3372,2684.622,27.67932,-3.040429",
+        "m_destinationZone": "Zafaria/ZF_Z08_Waterfront"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportStone_ToDrumJungle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7581.084,2312.787,1211.304,-0.6111248",
+        "m_destinationZone": "Zafaria/ZF_Z09_Drum_Jungle"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportStone_ToGraveyard",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1053.279,-7565.487,14.77442,-0.7688874",
+        "m_destinationZone": "Zafaria/ZF_Z10_Elephant_Graveyard"
+      }
     }
   ]
 }

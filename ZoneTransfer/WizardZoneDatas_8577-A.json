@@ -89,6 +89,94 @@
         "m_destinationLoc": "-2200.971,-18331.62,-474.9224,-2.928443",
         "m_destinationZone": "Mirage/MR_Z04_RubalWastes"
       }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Aggrobah",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7038.322,-696.077,-1465.932,0.03476534",
+        "m_destinationZone": "Mirage/MR_Z02_Aggrobah"
+      }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Alkali",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-17213.47,-3579.987,-1089.74,-1.914014",
+        "m_destinationZone": "Mirage/MR_Z01_AlkaliBarrows"
+      }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Caterwaul",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8106.008,-8515.521,-4355.563,2.218372",
+        "m_destinationZone": "Mirage/MR_Z03_CaterwaulCanyon"
+      }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Rubal",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1690.314,-5988.256,544.5914,2.444119",
+        "m_destinationZone": "Mirage/MR_Z04_RubalWastes"
+      }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Istamboa",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4198.477,-2200.72,-3524.636,2.141947",
+        "m_destinationZone": "Mirage/MR_Z05_Istanboa"
+      }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Yakhal",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-2411.34,-4460.026,-2888.675,-2.564045",
+        "m_destinationZone": "Mirage/MR_Z06_YakhalMountain"
+      }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_EeremPalace",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4043.783,-13.54657,74.63995,0.3638812",
+        "m_destinationZone": "Mirage/MR_Z08_EeremPalace"
+      }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_UnderDen",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5838.679,5311.419,33.00507,0",
+        "m_destinationZone": "Mirage/MR_Z07_ThievesDen"
+      }
     }
   ]
 }

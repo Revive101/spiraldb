@@ -1,0 +1,50 @@
+{
+  "ZoneName": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I01_Vivarium",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "KT_TeleporterB_Vivarium",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "26150.84,-2120.586,0,-0.8209081",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I01_Vivarium"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_ToHub_Vivarium",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2122.878,454.3738,0,-2.547609",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I01_Vivarium"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_Vivarium",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "14682.5,-9952.77,0,2.853404",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I01_Vivarium"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_ToHub_Vivarium",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2122.878,454.3738,0,-2.047113",
+        "m_destinationZone": "Krokotopia/KT_Selenopolis/Interiors/KT_Z07I01_Vivarium"
+      }
+    }
+  ]
+}

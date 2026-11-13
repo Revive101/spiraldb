@@ -23,6 +23,39 @@
         "m_destinationLoc": "-246.7015,12.52358,-2.895256,1.623242",
         "m_destinationZone": "Zafaria/Interiors/ZF_Z08_I08_Librarians_Hideout"
       }
+    },
+    {
+      "TriggerName": "ZF_TeleportStone_BackToHub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-219.7791,1585.482,-971.6633,2.555662",
+        "m_destinationZone": "Zafaria/ZF_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportToStoneTown2",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "608.3292,206.0804,-306.1459,0.3297845",
+        "m_destinationZone": "Zafaria/ZF_Z07_Stone_Town"
+      }
+    },
+    {
+      "TriggerName": "ZF_TeleportToDrumJungle",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "198.254,283.7046,-18.14831,0.7440332",
+        "m_destinationZone": "Zafaria/ZF_Z09_Drum_Jungle"
+      }
     }
   ]
 }

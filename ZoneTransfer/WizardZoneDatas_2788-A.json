@@ -12,6 +12,17 @@
         "m_destinationLoc": "8354.41,1965.563,-839.1544,1.833231",
         "m_destinationZone": "Zafaria/ZF_Z00_Hub"
       }
+    },
+    {
+      "TriggerName": "ZF_TeleportToStoneTown",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7234.24,6549.859,-378.6983,-1.278",
+        "m_destinationZone": "Zafaria/ZF_Z07_Stone_Town"
+      }
     }
   ]
 }

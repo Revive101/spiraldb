@@ -23,6 +23,28 @@
         "m_destinationLoc": "-327.0438,2937.603,46.88971,0",
         "m_destinationZone": "Krokotopia/KT_Tomb/Interiors/KT_Djeserit_CL_Preview"
       }
+    },
+    {
+      "TriggerName": "KT_TeleporterA_DjeseritTomb",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "21986.71,3111.151,-75.00006,1.598265",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_DjeseritTomb"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterA_ToMain_DkeserotTomb",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1511,1060.421,0,1.446678",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_DjeseritTomb"
+      }
     }
   ]
 }

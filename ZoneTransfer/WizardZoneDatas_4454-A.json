@@ -67,6 +67,17 @@
         "m_destinationLoc": "958.3559,48.61609,-0.0001220703,1.72768",
         "m_destinationZone": "Avalon/Interiors/AV_Z03_EstateAmber"
       }
+    },
+    {
+      "TriggerName": "AV-TeleporterToCaliburn",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "720.5184,-1834.387,-9.999982,-0.5946141",
+        "m_destinationZone": "Avalon/AV_Z00_Hub"
+      }
     }
   ]
 }

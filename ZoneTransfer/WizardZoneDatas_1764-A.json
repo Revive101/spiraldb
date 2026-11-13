@@ -89,6 +89,94 @@
         "m_destinationLoc": "From Zone 3",
         "m_destinationZone": "Marleybone/MB_ScotlandYard/Interiors/MB_KnightsCourt_T8"
       }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneCMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-19505.37,-11787.89,-230,-2.829672",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneCSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-110.3946,11613.34,-479.9993,0.6203464",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneBMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "17902.85,-12616.98,-239.996,3.137157",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneBSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-110.3946,11613.34,-479.9993,-0.5088427",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneAMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "23168.2,14046.58,-239.9955,1.606382",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneASecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-110.3946,11613.34,-479.9993,-1.918666",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneDMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "547.1729,-6922.697,-239.9956,-2.040692",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneDSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-110.3946,11613.34,-479.9993,1.112132",
+        "m_destinationZone": "Marleybone/MB_ScotlandYard/MB_KnightsCourt"
+      }
     }
   ]
 }

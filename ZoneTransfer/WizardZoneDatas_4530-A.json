@@ -23,6 +23,39 @@
         "m_destinationLoc": "-2.976196,-289.6753,0.4998779,0",
         "m_destinationZone": "Polaris/Interiors/Z03_ZootsCave"
       }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1641.935,2133.973,-129.3435,1.500432",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
+    },
+    {
+      "TriggerName": "PL_FrozenTearsTeleportUP",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5220.875,-16259.04,3317.376,-2.992006",
+        "m_destinationZone": "Polaris/PL_Z03_IcefallPassage"
+      }
+    },
+    {
+      "TriggerName": "PL_FrozenTearsTeleportDOWN",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4979.668,-14678.8,812.7473,-0.1002127",
+        "m_destinationZone": "Polaris/PL_Z03_IcefallPassage"
+      }
     }
   ]
 }

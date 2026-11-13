@@ -45,6 +45,17 @@
         "m_destinationLoc": "-28.49374,71.76929,-0.0001100498,0.08098277",
         "m_destinationZone": "Mirage/Interiors/MR_Z03_TabbiManor"
       }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5553.883,-935.0715,0.05219812,1.458022",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
     }
   ]
 }

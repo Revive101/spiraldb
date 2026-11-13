@@ -56,6 +56,28 @@
         "m_destinationLoc": "28.16266,-2560.912,-0.0004882813,-3.141593",
         "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_ChampHall_T3"
       }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_ChampHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-23383.56,324.5933,-78.8595,-2.468369",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_ChampHall"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_ToHub_ChampHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8.352715,-545.4602,0,0.812992",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_ChampHall"
+      }
     }
   ]
 }

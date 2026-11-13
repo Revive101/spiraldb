@@ -45,6 +45,17 @@
         "m_destinationLoc": "-11655.39,10980.73,2155.639,-1.230324",
         "m_destinationZone": "Azteca/AZ_Z10_FloatingMountains"
       }
+    },
+    {
+      "TriggerName": "AZ-TeleporterFromAltoAlto",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4236.288,4002.916,273.1761,1.579813",
+        "m_destinationZone": "Azteca/AZ_Z01_ThreePoints"
+      }
     }
   ]
 }

@@ -12,6 +12,50 @@
         "m_destinationLoc": "-32.62984,10003.27,-899.9998,-3.120524",
         "m_destinationZone": "Celestia/CL_Hub"
       }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneZ03AMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-13594.02,4476.273,-222.8693,0.7590208",
+        "m_destinationZone": "Celestia/CL_Z03_District_Of_The_Stars"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneZ03ASecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-604.4021,-208.5046,149.4,1.320499",
+        "m_destinationZone": "Celestia/CL_Z03_District_Of_The_Stars"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneZ03BMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20419.74,671.4061,254.526,-1.576454",
+        "m_destinationZone": "Celestia/CL_Z03_District_Of_The_Stars"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneZ03BSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-604.4021,-208.5046,149.4,-2.99054",
+        "m_destinationZone": "Celestia/CL_Z03_District_Of_The_Stars"
+      }
     }
   ]
 }

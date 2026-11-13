@@ -12,6 +12,28 @@
         "m_destinationLoc": "-1548.084,4194.979,-499.9999,-1.570796",
         "m_destinationZone": "Krokotopia/KT_Tomb/KT_WellOfSpirits"
       }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_AhnicTomb",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-21946.65,-5359.789,-75.00018,-0.6059342",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_AhnicTomb"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_BackToHub_AhnicTomb",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-624.7595,806.7495,0,1.528719",
+        "m_destinationZone": "Krokotopia/KT_Tomb/KT_AhnicTomb"
+      }
     }
   ]
 }

@@ -78,6 +78,72 @@
         "m_destinationLoc": "Target location (DS_T2 from Hatchery)",
         "m_destinationZone": "DragonSpire/DS_A2_Battle/Interiors/DS_Hatchery_T2"
       }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneA_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-27809.7,-8332.203,40.00001,-3.065212",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneA_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5177.497,1661.802,202.8304,-2.833506",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneB_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "771.2355,-20599.66,39.99459,0.1459856",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneB_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5177.497,1661.802,202.8304,2.410578",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneC_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "15898.79,-11917.74,0,-0.2359434",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneC_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5177.497,1661.802,202.8304,-1.392264",
+        "m_destinationZone": "DragonSpire/DS_A2_Battle/DS_A2Z1_Hatchery"
+      }
     }
   ]
 }

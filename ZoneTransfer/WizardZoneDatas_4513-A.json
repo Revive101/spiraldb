@@ -111,6 +111,83 @@
         "m_destinationLoc": "0.8890533,120.8594,5.767784,0",
         "m_destinationZone": "Polaris/Interiors/PL_Z00_LeonsHouse"
       }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_Tears",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "5799.092,-28200.37,3979.107,1.404184",
+        "m_destinationZone": "Polaris/PL_Z03_IcefallPassage"
+      }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_Urville",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "2551.956,-12052.75,-1171.447,-2.132067",
+        "m_destinationZone": "Polaris/PL_Z04_UrvilleStation"
+      }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_Forlorn",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-959.1529,-266.5479,6.979555,1.388142",
+        "m_destinationZone": "Polaris/Interiors/PL_Z02_BabaYagaHut_Int"
+      }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_Kataba",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6281.429,2109.503,-154.071,2.72106",
+        "m_destinationZone": "Polaris/PL_Z06_KatabaIceblock"
+      }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_GollumGarden",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-74.85614,479.4611,-4.805429,-2.661724",
+        "m_destinationZone": "Polaris/Interiors/PL_Z06_GolemGarden"
+      }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_BorealisPeaks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1783.268,-1688.659,342.2167,-2.712222",
+        "m_destinationZone": "Polaris/PL_Z07_BorealisPeaks"
+      }
+    },
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_SkyAnchor",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-296.6819,-641.8201,-3.253994,0.9834157",
+        "m_destinationZone": "Polaris/Interiors/PL_Z07_SkyAnchorPeak"
+      }
     }
   ]
 }

@@ -78,6 +78,72 @@
         "m_destinationLoc": "Target location (DS_T13 from Chasm)",
         "m_destinationZone": "DragonSpire/DS_A1_Knowledge/Interiors/DS_Chasm_HallOfTime"
       }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneA_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-36499.18,4006.48,118.5541,-1.532187",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneA_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.559696,2936.156,-238.9263,0.9780215",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneB_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13249.14,9635.335,0.00507164,-0.02266004",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneB_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.559696,2936.156,-238.9263,0.01920085",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneC_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "28583.35,-4803.109,29.99477,1.761098",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneC_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8.559696,2936.156,-238.9263,-0.9372316",
+        "m_destinationZone": "DragonSpire/DS_A1_Knowledge/DS_A1Z3_GrandChasm"
+      }
     }
   ]
 }

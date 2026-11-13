@@ -23,6 +23,17 @@
         "m_destinationLoc": "7864.354,5253.314,2895.524,1.818914",
         "m_destinationZone": "Azteca/AZ_Z07_TierraDeBrea"
       }
+    },
+    {
+      "TriggerName": "AZ-TeleporterFromCloudburstForest",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-6437.649,3368.707,25.13722,1.653679",
+        "m_destinationZone": "Azteca/AZ_Z00_Zocalo"
+      }
     }
   ]
 }

@@ -89,6 +89,94 @@
         "m_destinationLoc": "GardentoTower4",
         "m_destinationZone": "Marleybone/MB_Station/Interiors/MB_HydePark_T4"
       }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneBMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-31031.12,15460.95,-236.2182,-1.655393",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneBSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7654.898,17048.79,-540.5289,2.883486",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneCMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "4640.193,10578.64,-239.9947,1.888196",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneCSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7654.898,17048.79,-540.5289,-2.07249",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneAMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "7996.798,29191.81,-239.9937,1.773602",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneASecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7654.898,17048.79,-540.5289,-2.722969",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneDMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-712.1998,-2647.791,0.003535314,2.111642",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
+    },
+    {
+      "TriggerName": "MB_TeleportStoneDSecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-7654.898,17048.79,-540.5289,2.316618",
+        "m_destinationZone": "Marleybone/MB_Station/MB_HydePark"
+      }
     }
   ]
 }

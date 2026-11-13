@@ -34,6 +34,17 @@
         "m_destinationLoc": "1815.015,-1431.599,528.3292,1.165627",
         "m_destinationZone": "Mirage/Interiors/MR_Z01_DrujCave"
       }
+    },
+    {
+      "TriggerName": "MR_CarpetTeleporter_Hub",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5553.883,-935.0715,0.05219812,0.8338025",
+        "m_destinationZone": "Mirage/MR_Z00_Hub"
+      }
     }
   ]
 }

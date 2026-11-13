@@ -12,6 +12,50 @@
         "m_destinationLoc": "5681.921,7694.496,-855.4439,1.520456",
         "m_destinationZone": "Celestia/CL_Hub"
       }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneAMain_Z06",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-523.4609,1145.081,-1535.548,1.087268",
+        "m_destinationZone": "Celestia/CL_Z06_StormHaven"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneMain_Z06",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19013.31,5040.326,-200.2787,1.054687",
+        "m_destinationZone": "Celestia/CL_Z06_StormHaven"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneBMain_Z06",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13255.78,6267.377,-1245.145,-2.004783",
+        "m_destinationZone": "Celestia/CL_Z06_StormHaven"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneMain_Z06-B",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "19013.31,5040.326,-200.2787,0.5496488",
+        "m_destinationZone": "Celestia/CL_Z06_StormHaven"
+      }
     }
   ]
 }

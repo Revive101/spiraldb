@@ -34,6 +34,28 @@
         "m_destinationLoc": "-6458.192,-6806.813,1383.027,-2.486615",
         "m_destinationZone": "Khrysalis/KR_Z06_CrescentBeach"
       }
+    },
+    {
+      "TriggerName": "KR-WarpPortal_Bastion",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6188.506,-745.5093,480.3068,-2.043005",
+        "m_destinationZone": "Khrysalis/KR_Z00_Hub"
+      }
+    },
+    {
+      "TriggerName": "KR-WarpPortal_BastionQH",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6188.506,-745.5093,480.3068,-2.355804",
+        "m_destinationZone": "Khrysalis/KR_Z00_Hub"
+      }
     }
   ]
 }

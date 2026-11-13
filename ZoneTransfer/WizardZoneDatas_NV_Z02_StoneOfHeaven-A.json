@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Novus/NV_Z02_StoneOfHeaven",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "NV_FrameTeleport_SoH_To_NucGallery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-319.2994,-701.1858,-53.72263,1.570615",
+        "m_destinationZone": "Novus/NV_Z06_NucleusGallery"
+      }
+    }
+  ]
+}

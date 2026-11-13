@@ -23,6 +23,17 @@
         "m_destinationLoc": "-1697.304,-8428.59,-104.359,-2.368684",
         "m_destinationZone": "Azteca/AZ_Z08_PitchBlackLake"
       }
+    },
+    {
+      "TriggerName": "AZ-TeleporterFromPitchBlackLake",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-4123.132,2355.834,273.1793,-2.36005",
+        "m_destinationZone": "Azteca/AZ_Z01_ThreePoints"
+      }
     }
   ]
 }

@@ -23,6 +23,17 @@
         "m_destinationLoc": "3312.939,-8089.994,259.1588,2.853952",
         "m_destinationZone": "Khrysalis/KR_Z05_FortRachias"
       }
+    },
+    {
+      "TriggerName": "KR-WarpPortal_Bastion",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "6188.506,-745.5093,480.3068,-1.562235",
+        "m_destinationZone": "Khrysalis/KR_Z00_Hub"
+      }
     }
   ]
 }

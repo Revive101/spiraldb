@@ -45,6 +45,72 @@
         "m_destinationLoc": "FromDeath2",
         "m_destinationZone": "MooShu/MS_Death/Interiors/MS_Death2_T5"
       }
+    },
+    {
+      "TriggerName": "MS_NEW_VllgofSorrow_TeleportA",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "9435.861,-934.9922,10.00024,-1.656208",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_VllgofSorrow_TeleportA_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "27785.04,27911.23,-320.3996,-0.6616471",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_VllgofSorrow_TeleportB",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "53083.16,19542.77,-140.2999,1.055593",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_VllgofSorrow_TeleportB_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "27785.04,27911.23,-320.3996,-2.032564",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_VllgofSorrow_TeleportC",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "59037.37,47986.27,80.79285,0.2811691",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage"
+      }
+    },
+    {
+      "TriggerName": "MS_NEW_VllgofSorrow_TeleportC_ToMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "27785.04,27911.23,-320.3996,-1.304757",
+        "m_destinationZone": "MooShu/MS_Death/MS_Death_Zone2_HauntedVillage"
+      }
     }
   ]
 }

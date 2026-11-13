@@ -100,6 +100,72 @@
         "m_destinationLoc": "Target location (DS_T4 from Amphitheatre)",
         "m_destinationZone": "DragonSpire/DS_A3_Kings/Interiors/DS_Amphitheatre_T4"
       }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneA_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "8006.89,-17575.39,0.005073547,3.130141",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneA_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "52.65625,318.623,0.002831459,-0.227765",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneB_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-8659.924,-11172.7,41.01146,1.309386",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneB_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "52.65625,318.623,0.002831459,-0.6363082",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneC_Main",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "20821.75,21106.11,40,2.640405",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre"
+      }
+    },
+    {
+      "TriggerName": "DS_TeleportStoneC_Secondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "52.65625,318.623,0.002831459,0.5576222",
+        "m_destinationZone": "DragonSpire/DS_A3_Kings/DS_A3Z2_Amphitheatre"
+      }
     }
   ]
 }

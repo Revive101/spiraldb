@@ -56,6 +56,50 @@
         "m_destinationLoc": "FromPyramid1",
         "m_destinationZone": "Krokotopia/KT_Pyramid/Interiors/KT_Hall_T4"
       }
+    },
+    {
+      "TriggerName": "KTl_TeleporterA_RoyalHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "15822.07,-23344.71,70.7505,1.837663",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Hall"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterA_ToMain_RoyalHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1378.06,-2972.057,-0.0001220703,2.501594",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Hall"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_RoyalHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "36400.75,-28183.78,0,0.1423403",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Hall"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_ToMain_RoyalHall",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1378.06,-2972.057,-0.0001220703,0.8445849",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_Hall"
+      }
     }
   ]
 }

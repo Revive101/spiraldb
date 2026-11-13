@@ -78,6 +78,28 @@
         "m_destinationLoc": "Target location (Sphinx03 Tower01 Entrance)",
         "m_destinationZone": "Krokotopia/KT_Krokosphinx/Interiors/KT_Arena_T1"
       }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_Arena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5209.112,22207.19,0.5001221,0.5512618",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Arena"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterB_ToHub_Arena",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1317.83,2934.971,0,2.347497",
+        "m_destinationZone": "Krokotopia/KT_Krokosphinx/KT_Arena"
+      }
     }
   ]
 }

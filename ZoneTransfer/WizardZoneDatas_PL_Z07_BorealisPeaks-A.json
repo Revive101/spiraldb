@@ -1,0 +1,17 @@
+{
+  "ZoneName": "Polaris/PL_Z07_BorealisPeaks",
+  "Events": [],
+  "Teleports": [
+    {
+      "TriggerName": "PL_SnowGlobe_Teleporter_Hub_FromBorealisPeaks",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-1641.935,2133.973,-129.3435,-1.539463",
+        "m_destinationZone": "Polaris/PL_Z00_Walruskberg"
+      }
+    }
+  ]
+}

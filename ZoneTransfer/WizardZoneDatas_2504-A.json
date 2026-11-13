@@ -12,6 +12,72 @@
         "m_destinationLoc": "29992.96,-8882.807,-1053.059,1.461486",
         "m_destinationZone": "Celestia/CL_Z01_Survey_Camp"
       }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneAMain",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "13304.61,12235.43,-899.9999,-1.176255",
+        "m_destinationZone": "Celestia/CL_Z02_Crab_Realm"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneASecondary",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18179.28,6079.81,931.4951,1.361213",
+        "m_destinationZone": "Celestia/CL_Z02_Crab_Realm"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneBMain-Z02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-5058.647,15682.08,615.2805,-2.799346",
+        "m_destinationZone": "Celestia/CL_Z02_Crab_Realm"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneBSecondary-Z02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18179.28,6079.81,931.4951,2.70506",
+        "m_destinationZone": "Celestia/CL_Z02_Crab_Realm"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneCMain-Z02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "1847.134,4214.236,-399.9999,-1.618464",
+        "m_destinationZone": "Celestia/CL_Z02_Crab_Realm"
+      }
+    },
+    {
+      "TriggerName": "CL_TeleportStoneCSecondary-Z02",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-18179.28,6079.81,931.4951,3.131106",
+        "m_destinationZone": "Celestia/CL_Z02_Crab_Realm"
+      }
     }
   ]
 }

@@ -78,6 +78,50 @@
         "m_destinationLoc": "Target location (Krok_Pyramid03 Krok_Pyramid_Level04 Entrance) (LEFT)",
         "m_destinationZone": "Krokotopia/KT_Pyramid/KT_ThroneRoom"
       }
+    },
+    {
+      "TriggerName": "KT_TeleporterA_PalaceOfFire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "-10745.82,-20991.34,0,-2.210804",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterA_ToMain_PalaceOfFire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "407.773,-702.5092,-0.0001274549,-2.122575",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_PalaceOfFire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "10805.52,-21836.96,0,0.9669659",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
+    },
+    {
+      "TriggerName": "KT_TeleporterC_ToMain_PalaceOfFire",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "407.773,-702.5092,-0.0001274549,-0.7850719",
+        "m_destinationZone": "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      }
     }
   ]
 }

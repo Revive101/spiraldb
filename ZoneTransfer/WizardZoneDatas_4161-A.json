@@ -12,6 +12,17 @@
         "m_destinationLoc": "284.7092,284.6836,1.795323,1.650791",
         "m_destinationZone": "Novus/Interiors/NV_Z05_BasseSteele"
       }
+    },
+    {
+      "TriggerName": "NV_FrameTeleport_LVR_To_NucGallery",
+      "Teleport": {
+        "m_exitTeleporter": 0,
+        "m_teleporterTag": 0,
+        "m_teleportType": "TELEPORT_STATIC",
+        "m_transitionID": 0,
+        "m_destinationLoc": "163.6477,-1827.287,-59.0026,-1.512815",
+        "m_destinationZone": "Novus/NV_Z06_NucleusGallery"
+      }
     }
   ]
 }
