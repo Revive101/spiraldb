@@ -1347,7 +1347,14 @@
       "m_hyperlink": null,
       "m_completeText": null,
       "m_completeResults": {
-        "m_results": []
+        "m_results": [
+          {
+            "$type": "Imcodec.ObjectProperty.TypeCache.ResAddTrainingPoints, Imcodec.ObjectProperty",
+            "m_sourceType": "",
+            "m_trainingPoints": 1,
+            "m_requirements": null
+          }
+        ]
       },
       "m_goalRequirements": null,
       "m_tallyCounter": null,
